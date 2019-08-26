@@ -1,5 +1,5 @@
 ---
-title: Home 2
+title: Stilte retraite
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
