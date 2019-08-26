@@ -20,11 +20,11 @@ fields:
 - name: hero_slider
   type: field_group_list
   fields:
-  - name: background_image
+  - name: image
     type: file
     config:
       maxSize: 250
-    label: Background Image
+    label: Image
   - name: title
     type: text
     config:
