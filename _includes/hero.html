@@ -1,24 +1,31 @@
+{% if page.hero_slider %}
 <!-- Hero Area -->
 <div class="hero-area">
 	<!-- Start Hero Slider -->
 	<div class="flexslider heroflex hero-slider" data-autoplay="yes" data-pagination="no" data-arrows="yes" data-style="fade" data-pause="yes">
 		<ul class="slides">
-			<li class="parallax" style="background-image:url('{{ "/images/slide3.jpg" | absolute_url }}')">
+			{% for hero_slider_item in page.hero_slider_items %}
+			<li class="parallax" style="background:url('{{ hero_slider_item.image }}')">
 				<div class="flex-caption">
 					<div class="container">
 						<div class="flex-caption-table">
 							<div class="flex-caption-cell">
 								<div class="flex-caption-text">
-									<h2>Let your life be<br>an Inspiration</h2>
-									<p>Lorem ipsum dolor sit amet, consectet<br>adipiscinge lit. Nam malesuada dapi<br>bus diam, ut fringilla purus..</p>
-									<a href="causes.html" class="btn btn-primary">Start with a little</a>
+									<h2>{{ hero_slider_item.title }}</h2>
+									<p>{{ hero_slider_item.sub_heading }}</p>
+									{% for button in hero_slider_item.buttons %}
+									{% assign document = site.documents | where:"path", button.link | first %}
+									<a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
+									{% endfor %}
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</li>
+			{% endfor %}
 		</ul>
 	</div>
 	<!-- End Hero Slider -->
 </div>
+{% endif %}
