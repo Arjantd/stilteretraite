@@ -1,14 +1,10 @@
+{% if page.featured_links %}
 <div class="featured-links row">
-    <a href="#" class="featured-link col-md-4 col-sm-4">
-        <span>View our causes</span>
-        <strong>Donate now</strong>
+    {% for featured_link in page.featured_links %}
+    <a href="{{ featured_link.link | absolute_url }}" class="featured-link col-md-4 col-sm-4">
+        <span>{{ featured_link.small_text }}</span>
+        <strong>{{ featured_link.text }}</strong>
     </a>
-    <a href="#" class="featured-link col-md-4 col-sm-4">
-        <span>Become a volunteer</span>
-        <strong>Join us now</strong>
-    </a>
-    <a href="#" class="featured-link col-md-4 col-sm-4">
-        <span>View our events</span>
-        <strong>Get involved</strong>
-    </a>
+    {% endfor %}
 </div>
+{% endif %}
