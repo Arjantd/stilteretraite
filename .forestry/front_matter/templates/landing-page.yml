@@ -55,9 +55,6 @@ fields:
           file: 
           path: 
       label: Link
-    - name: is_primary
-      type: boolean
-      label: Is primary
     config:
       min: 
       max: 
