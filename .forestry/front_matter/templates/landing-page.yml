@@ -17,11 +17,6 @@ fields:
     required: false
     schema:
       format: markdown
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: home
 - name: hero_slider
   type: field_group_list
   fields:
@@ -40,5 +35,10 @@ fields:
     max: 
     labelField: 
   label: Hero slider
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: home
 pages:
 - index.md
