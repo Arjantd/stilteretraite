@@ -70,5 +70,40 @@ fields:
   type: text
   hidden: true
   default: home
+- name: featured_links
+  type: field_group_list
+  fields:
+  - name: featured_link
+    type: field_group
+    config: {}
+    fields:
+    - name: link
+      type: select
+      default: []
+      config:
+        required: true
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Link
+    - name: small_text
+      type: text
+      config:
+        required: true
+      label: Small text
+    - name: text
+      type: text
+      config:
+        required: true
+      label: Text
+    label: Featured link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Featured links
 pages:
 - index.md
