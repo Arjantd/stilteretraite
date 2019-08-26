@@ -24,7 +24,7 @@ fields:
     type: file
     config:
       maxSize: 250
-    label: Background image
+    label: Background Image
   - name: title
     type: text
     config:
@@ -34,7 +34,7 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Hero slider
+  label: Hero Slider
 - name: layout
   label: Layout
   type: text
