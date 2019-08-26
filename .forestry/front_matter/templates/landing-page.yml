@@ -22,5 +22,23 @@ fields:
   type: text
   hidden: true
   default: home
+- name: hero_slider
+  type: field_group_list
+  fields:
+  - name: background_image
+    type: file
+    config:
+      maxSize: 250
+    label: Background image
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Hero slider
 pages:
 - index.md
