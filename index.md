@@ -27,13 +27,24 @@ hero_button:
 show_news: true
 show_staff: false
 hero_slider:
-- image: "https://s3.eu-central-1.amazonaws.com/static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg"
+- image: https://s3.eu-central-1.amazonaws.com/static.stilteretraite.nl/uploads/Avant
+    Spirit - Velp 1.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we het gevoel hebben ‘geleefd te worden’ door onze
     agenda’s is retraite is het grootste geschenk dat we onszelf kunnen geven.
   buttons:
   - text: Test button
     link: index.md
+featured_links:
+- link: _projects/electric-vehicle-design.md
+  small_text: View our causes
+  text: Donate now
+- link: _people/kellie-brewer.md
+  small_text: Become a volunteer
+  text: Join us now
+- link: _people/martin-marino.md
+  small_text: View our events
+  text: Get involved
 menu:
   navigation:
     identifier: _index
