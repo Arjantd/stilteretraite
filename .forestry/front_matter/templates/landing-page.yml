@@ -28,8 +28,41 @@ fields:
   - name: title
     type: text
     config:
-      required: false
+      required: true
     label: Title
+  - name: sub_heading
+    type: text
+    config:
+      required: false
+    label: Sub Heading
+  - name: buttons
+    type: field_group_list
+    fields:
+    - name: text
+      type: text
+      config:
+        required: true
+      label: Text
+    - name: link
+      type: select
+      default: []
+      config:
+        required: true
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Link
+    - name: is_primary
+      type: boolean
+      label: Is primary
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Buttons
   config:
     min: 
     max: 
