@@ -26,6 +26,12 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+hero_slider:
+- background_image: "/uploads/media/Avant Spirit - Velp 1.jpg"
+  title: Verlangen naar stilte
+  sub_heading: In een tijd waarin we het gevoel hebben ‘geleefd te worden’ door onze
+    agenda’s is retraite is het grootste geschenk dat we onszelf kunnen geven.
+  buttons: []
 menu:
   navigation:
     identifier: _index
