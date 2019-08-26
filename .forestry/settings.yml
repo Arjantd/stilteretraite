@@ -34,6 +34,10 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
+- type: document
+  path: _data/footer.yml
+  label: Footer
+  match: "**/*"
 upload_dir: uploads
 public_path: https://static.stilteretraite.nl/uploads/media
 front_matter_path: ''
