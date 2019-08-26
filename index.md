@@ -31,7 +31,9 @@ hero_slider:
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we het gevoel hebben ‘geleefd te worden’ door onze
     agenda’s is retraite is het grootste geschenk dat we onszelf kunnen geven.
-  buttons: []
+  buttons:
+  - text: Test button
+    link: index.md
 menu:
   navigation:
     identifier: _index
