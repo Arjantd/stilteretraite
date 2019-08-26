@@ -7,23 +7,17 @@ layout: default
 	e.g index.md and about.md
 {% endcomment %}
 
+{% include featured-links.html %}
+
 {% assign stripped_content = content | strip_newlines %}
 {% if content and stripped_content != "" %}
-<section class="about">
-	<div class="container pure-g">
-		<div class="pure-u-1">
-			<div class="content content-narrow">
-				{{ content }}
-			</div>
+<!-- Main Content -->
+<div id="main-container">
+	<div class="content">
+		<div class="lgray-bg padding-tb75">
+			<div class="container">
+			{{ content }}
 		</div>
 	</div>
-</section>
+</div>
 {% endif %}
-
-{% include services.html %}
-
-{% include news.html %}
-
-{% include partners.html %}
-
-{% include staff.html %}

@@ -1,40 +1,60 @@
-<footer class="site-footer">
-	<div class="container pure-g">
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <img src="{{ "/img/logo-white.png" | absolute_url }}" alt="" class="footer-logo">
+<!-- Site Footer -->
+<div class="site-footer parallax parallax3" style="background-image:url('{{ "/images/parallax3.jpg" | absolute_url }}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-4">
+                <div class="widget footer_widget">
+                    <h4 class="widgettitle">About Born to Give</h4>
+                    <p><img src="images/logo.png" alt=""></p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.</p>
+                    <ul class="social-icons-rounded social-icons-colored">
+                        <li class="facebook"><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                        <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li class="googleplus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li class="youtube"><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                        <li class="vimeo"><a href="#"><i class="fa fa-vimeo"></i></a></li>
+                        <li class="instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="widget footer_widget widget_links">
+                    <h4 class="widgettitle">Blogroll</h4>
+                    <ul>
+                        <li><a href="#">Become a volunteer</a></li>
+                        <li><a href="#">Our mission</a></li>
+                        <li><a href="#">Success stories</a></li>
+                        <li><a href="#">Meet our team</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4">
+                <div class="widget footer_widget">
+                    <h4 class="widgettitle">We are on Twitter</h4>
+                    <div class="twitter-widget" data-tweets-count="2"></div>
+                </div>
+            </div>
         </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>About {{ site.short_title }}</h3>
-            <ul>
-            {% for item in site.menus.footer %}
-                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
-            {% endfor %}
-            </ul>
+    </div>
+</div>
+<!-- Site Footer -->
+<div class="site-footer-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="copyrights-col-left">
+                    <p>&copy; {{ 'now' | date: "%Y" }} Born to Give. All Rights Reserved</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6"></div>
+                <div class="copyrights-col-right">
+                    <ul class="footer-menu">
+                        <li><a href="privacy-policy.html">Privacy policy</a></li>
+                        <li><a href="payment-terms.html">Payment terms</a></li>
+                        <li><a href="refund-policy.html">Refund policy</a></li>
+                    </ul>
+                </div>
         </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>Projects</h3>
-            <ul>
-            {% for project in site.projects limit:5 %}
-                <li><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></li>
-            {% endfor %}
-            {% if site.projects | size > 5 %}
-                <li><a href="{{ "/projects/" | absolute_url }}">See all projects</a></li>
-            {% endif %}
-            </ul>
-        </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>Contact</h3>
-            {% include address.html %}
-        </div>
-	</div>
-	<div class="copyright">
-        <p>
-            &copy;{{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved<br>
-			<a href="{{ "/admin" | absolute_url }}">Site Admin</a>
-		</p>
-	</div>
-</footer>
-<!-- Javascript -->
-<script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script>
-</body>
-</html>
+    </div>
+</div>
+<a id="back-to-top"><i class="fa fa-angle-double-up"></i></a>
