@@ -4,7 +4,7 @@ layout: default
 menu:
   navigation:
     identifier: _events
-    weight: 1
+    weight: 3
 
 ---
 # Events

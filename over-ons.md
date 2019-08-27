@@ -1,14 +1,15 @@
 ---
 title: Over ons
-description: A multidisciplinary centre of experts who are essential to patient-oriented research.
+description: A multidisciplinary centre of experts who are essential to patient-oriented
+  research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: default
 show_staff: true
 menu:
-  footer:
-    identifier: _over_ons
-    weight: 3
   navigation:
+    identifier: _over_ons
+    weight: 6
+  footer:
     identifier: _over_ons
     weight: 2
 

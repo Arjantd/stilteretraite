@@ -4,7 +4,7 @@ layout: default
 menu:
   navigation:
     identifier: _over_stilte_retraite
-    weight: 1
+    weight: 2
 
 ---
 # Verlangen naar stilte
