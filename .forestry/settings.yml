@@ -12,8 +12,10 @@ sections:
   templates:
   - post
 - type: jekyll-pages
+  path: _pages
   label: Pages
   create: all
+  match: "*"
   templates:
   - landing-page
   - page
