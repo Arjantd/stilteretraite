@@ -1,3 +1,6 @@
 ---
-title: Over stilte retraite
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.
+about:
+  title: Over stilte retraite
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam.
+sitemap:
+  title: Sitemap
