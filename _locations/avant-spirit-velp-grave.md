@@ -1,5 +1,5 @@
 ---
 name: Avant Spirit, Velp/Grave
-published: false
+title: Avant Spirit, Velp/Grave
 
 ---
