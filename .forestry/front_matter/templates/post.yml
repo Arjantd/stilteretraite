@@ -25,6 +25,18 @@ fields:
   name: banner_image
   label: Banner Image
   description: Ideal dimensions 2500px by 1200px
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
+  label: Author
 - type: list
   name: related_posts
   label: Related Posts
