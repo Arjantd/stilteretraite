@@ -24,6 +24,20 @@ sections:
   match: "*"
   templates:
   - person
+- type: directory
+  path: _events
+  label: Events
+  create: documents
+  match: "*"
+  templates:
+  - event
+- type: directory
+  path: _locations
+  label: Location
+  create: documents
+  match: "*"
+  templates:
+  - location
 - type: document
   path: _data/information.yml
   label: Contact Information
