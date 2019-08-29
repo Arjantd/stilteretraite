@@ -1,11 +1,9 @@
 ---
 title: Events
-layout: default
+layout: events
 menu:
   navigation:
     identifier: _events
     weight: 3
 
 ---
-# Events
-Hier komen de events

@@ -65,10 +65,10 @@ layout: default
           {% endfor %}
           <ul class="pager">
             {% if prev_post %}
-            <li class="pull-left"><a href="{{ prev_post.url || absolute_url }}">&larr; Vorig artikel</a></li>
+            <li class="pull-left"><a href="{{ prev_post.url | absolute_url }}">&larr; Vorig artikel</a></li>
             {% endif %}
             {% if next_post %}
-            <li class="pull-right"><a href="{{ next_post.url || absolute_url }}">Volgend artikel &rarr;</a></li>
+            <li class="pull-right"><a href="{{ next_post.url | absolute_url }}">Volgend artikel &rarr;</a></li>
             {% endif %}
           </ul>
         </div>

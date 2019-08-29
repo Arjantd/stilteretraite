@@ -19,6 +19,10 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+  events:
+    output: true
+  locations:
+    output: true
   projects:
     output: true
     permalink: "/projects/:path/"
