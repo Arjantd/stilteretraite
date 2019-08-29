@@ -36,12 +36,14 @@ layout: default
             {% endfor %}
           </div>
           {% endif %}
+          Author: {{ page.author }}
           {% if page.author %}
+          {% assign author = site.people | where:"path", page.author | first %}
           <!-- About Author -->
           <section class="about-author">
             <img src="images/user1.jpg" alt="avatar" class="img-thumbnail">
             <div class="post-author-content">
-                <h3>Emma Paquette <span class="label label-primary">Author</span></h3>
+                <h3>{{ author.name }} <span class="label label-primary">Author</span></h3>
                 <p><strong>Beverly Barnett</strong>, is a regular writer for the Vestige Museum blog. She loves to write more about the animal species and have so much faith in the nature's doing.</p>
             </div>
           </section>

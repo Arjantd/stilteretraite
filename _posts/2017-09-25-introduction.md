@@ -10,7 +10,7 @@ tags:
 - Forestry
 layout: post
 banner_image: ''
-author: _people/charlize-babatunde.md
+author: _people/arjan-ten-dam.md
 
 ---
 Welcome to the Belkirk College of Engineering Demo Site!
