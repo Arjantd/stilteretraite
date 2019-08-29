@@ -8,4 +8,5 @@ fields:
     required: true
   label: Name
 pages:
+- _locations/avant-spirit-velp-grave.md
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
