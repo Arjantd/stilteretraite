@@ -36,15 +36,14 @@ layout: default
             {% endfor %}
           </div>
           {% endif %}
-          Author: {{ page.author }}
           {% if page.author %}
           {% assign author = site.people | where:"path", page.author | first %}
           <!-- About Author -->
           <section class="about-author">
-            <img src="images/user1.jpg" alt="avatar" class="img-thumbnail">
+            <img src="{{ author.thumbnail }}" alt="avatar" class="img-thumbnail">
             <div class="post-author-content">
-                <h3>{{ author.name }} <span class="label label-primary">Author</span></h3>
-                <p><strong>Beverly Barnett</strong>, is a regular writer for the Vestige Museum blog. She loves to write more about the animal species and have so much faith in the nature's doing.</p>
+                <h3>{{ author.title }} <span class="label label-primary">Author</span></h3>
+                <p>{{ author.content }}</p>
             </div>
           </section>
           {% endif %}
@@ -52,7 +51,8 @@ layout: default
           {% assign prev_post = nil %}
           {% assign next_post = nil %}
           {% assign post_found = false %}
-          {% for post in site.posts | sort: 'date' | reverse %}
+          {% assign posts = site.posts | sort: 'date' | reverse %}
+          {% for post in posts %}
             {% if post_found %}
               {% assign next_post = post %}
               {% break %}
