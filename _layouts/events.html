@@ -50,10 +50,10 @@ layout: default
                                     <span class="year">{{ event.from_date | date: '%Y' }}</span>
                                 </span>
                                 <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }} </span>
-                                <h3 class="post-title"><a href="single-event.html">{{ event.title }}</a></h3>
+                                <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
                                 <ul class="list-group">
-                                    <li class="list-group-item">200<span class="badge">Attendees</span></li>
-                                    <li class="list-group-item">{{ location.title }}<span class="badge">Location</span></li>
+                                    <li class="list-group-item">{{ event.attendees }}<span class="badge">Deelnemers</span></li>
+                                    <li class="list-group-item">{{ location.title }}<span class="badge">Locatie</span></li>
                                 </ul>
                             </div>
                         </div>
