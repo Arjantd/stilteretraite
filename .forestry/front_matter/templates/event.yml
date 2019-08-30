@@ -24,6 +24,17 @@ fields:
       file: 
       path: 
   label: Location
+- name: attendees
+  type: number
+  label: Attendees
+  description: ''
+  default: '1'
+  required: true
+  config:
+    min: '1'
+    max: 
+    step: '1'
+    required: true
 - name: from_date
   type: datetime
   label: From date
