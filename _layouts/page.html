@@ -5,11 +5,20 @@ layout: default
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
 
-{% include breadcrumbs.html class="content-narrow" %}
-
-<div class="container pure-g">
-    <div class="pure-u-1">
-        <div class="content content-narrow">
+<!-- Hero Area -->
+<div class="hero-area">
+    <div class="page-banner parallax" style="background-image:url(images/inside9.jpg);">
+        <div class="container">
+            <div class="page-banner-text">
+                <h1 class="block-title">{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Main Content -->
+<div id="main-container">
+    <div class="content">
+        <div class="container">
             {{ content }}
         </div>
     </div>

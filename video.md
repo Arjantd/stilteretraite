@@ -6,7 +6,7 @@ menu:
   navigation:
     identifier: _video
     weight: 5
-
+layout: page
 ---
 # Video
 Hier komen de video's

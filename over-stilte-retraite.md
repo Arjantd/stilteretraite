@@ -1,6 +1,6 @@
 ---
 title: Over stilte retraite
-layout: default
+layout: page
 menu:
   footer:
     weight: 2

@@ -3,7 +3,7 @@ title: Over ons
 description: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
-layout: default
+layout: page
 show_staff: true
 menu:
   navigation:
