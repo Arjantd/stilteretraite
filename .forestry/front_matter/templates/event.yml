@@ -53,6 +53,13 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  hidden: true
+  default: event
 pages:
 - _events/retreat-your-senses.md
 - _events/retreat-je-hart.md
