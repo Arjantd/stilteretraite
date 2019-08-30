@@ -49,7 +49,7 @@ layout: default
                                             {% endcase %}</span>
                                     <span class="year">{{ event.from_date | date: '%Y' }}</span>
                                 </span>
-                                <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }} </span>
+                                <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
                                 <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
                                 <ul class="list-group">
                                     <li class="list-group-item">{{ event.attendees }}<span class="badge">Deelnemers</span></li>
