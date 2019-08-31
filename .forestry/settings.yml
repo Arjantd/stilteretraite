@@ -38,6 +38,13 @@ sections:
   match: "*"
   templates:
   - location
+- type: directory
+  path: _videos
+  label: Videos
+  create: all
+  match: "*"
+  templates:
+  - video
 - type: document
   path: _data/information.yml
   label: Contact Information
