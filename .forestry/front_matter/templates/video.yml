@@ -17,3 +17,10 @@ fields:
   config:
     required: false
   label: Caption
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  hidden: true
+  default: video
