@@ -23,6 +23,8 @@ collections:
     output: true
   locations:
     output: true
+  videos:
+    output: true
   projects:
     output: true
     permalink: "/projects/:path/"
