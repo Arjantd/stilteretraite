@@ -24,3 +24,5 @@ fields:
   label: Template
   hidden: true
   default: video
+pages:
+- _videos/maybe-one-day-i-ll-be-able-to-fly.md
