@@ -2,11 +2,11 @@
 label: video
 hide_body: true
 fields:
-- name: video-url
+- name: link
   type: text
   config:
     required: true
-  label: Video URL
+  label: Link
 - name: thumbnail
   type: file
   config:
