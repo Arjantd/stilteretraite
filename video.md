@@ -6,7 +6,7 @@ layout: page
 textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte filmpjes
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/media/Page banner smal 1.jpg
+- image: https://static.stilteretraite.nl/uploads/media/Page banner smal 3.jpg
   title: page header video
   sub_heading: "123"
 menu:
