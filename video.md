@@ -13,7 +13,6 @@ menu:
   navigation:
     identifier: _video
     weight: 5
-published: false
 
 ---
 # Video
