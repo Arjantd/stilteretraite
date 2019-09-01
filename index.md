@@ -1,6 +1,6 @@
 ---
 title: Stilte retraite
-layout: landing-page
+layout: page
 hero_slider:
 - image: https://s3.eu-central-1.amazonaws.com/static.stilteretraite.nl/uploads/Avant
     Spirit - Velp 1.jpg
@@ -20,6 +20,8 @@ featured_links:
 - link: _people/martin-marino.md
   small_text: View our events
   text: Get involved
+textline: ''
+image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 menu:
   navigation:
     identifier: _index
