@@ -2,11 +2,12 @@
 title: Retreat je hart!
 sub_heading: Vijfdaagse stilte retraite
 from_date: 2019-10-23T14:00:00.000+00:00
-to_date: 2019-10-27 15:00:00 +0100
+to_date: 2019-10-27T14:00:00.000+00:00
 attendees: 12
 location: _locations/avant-spirit-velp-grave.md
 layout: event
 template: ''
+price: 250
 
 ---
 Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean enim magna, volutpat in convallis a, vehicula quis libero. Vestibulum sodales, ipsum sed porta rhoncus, est odio fermentum enim, et ultrices lorem tortor a tellus. Donec convallis sit amet ante quis posuere. Etiam quis tortor sed urna faucibus tempor a sed lectus. Maecenas eleifend tempus ultricies. Donec suscipit urna vitae metus pulvinar aliquet. Pellentesque non ultrices lacus, eu efficitur enim. Mauris pharetra gravida finibus. Etiam felis tortor, accumsan at erat in, molestie ultrices libero. Quisque gravida hendrerit vestibulum. Mauris faucibus elementum facilisis.
