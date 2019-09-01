@@ -65,11 +65,6 @@ fields:
     max: 
     labelField: 
   label: Hero Slider
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: home
 - name: featured_links
   type: field_group_list
   fields:
@@ -100,5 +95,10 @@ fields:
     max: 
     labelField: 
   label: Featured links
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: home
 pages:
 - index.md

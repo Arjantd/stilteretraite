@@ -69,5 +69,5 @@ fields:
   hidden: true
   default: event
 pages:
-- _events/retreat-je-hart.md
 - _events/retreat-your-senses.md
+- _events/retreat-je-hart.md
