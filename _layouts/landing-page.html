@@ -9,18 +9,17 @@ layout: default
 
 {% include featured-links.html %}
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
 <!-- Main Content -->
 <div id="main-container">
 	<div class="content">
-		{% for block in page.sections %}
-			{% assign template = block.template %}
-			{% case template %}
-			{% when 'title-left-text-right' %}
-				{% include blocks/title-left-text-right.html %}
-			{% endcase %}
-		{% endfor %}
+		<div class="container">
+			{% for block in page.sections %}
+				{% assign template = block.template %}
+				{% case template %}
+				{% when 'title-left-text-right' %}
+					{% include blocks/title-left-text-right.html title=block.title text=block.text %}
+				{% endcase %}
+			{% endfor %}
+		</div>
 	</div>
 </div>
-{% endif %}
