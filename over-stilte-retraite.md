@@ -1,6 +1,7 @@
 ---
 title: Over stilte retraite
 layout: page
+image: ''
 menu:
   footer:
     weight: 2
