@@ -1,7 +1,8 @@
 ---
 title: Events
-layout: events
+layout: page
 textline: Events
+image: ''
 menu:
   navigation:
     identifier: _events

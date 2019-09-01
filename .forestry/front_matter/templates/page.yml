@@ -20,5 +20,6 @@ fields:
   default: page
   hidden: true
 pages:
+- events.md
 - contact.md
 - video.md
