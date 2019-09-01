@@ -9,3 +9,13 @@ fields:
   label: Layout
   default: page
   hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
