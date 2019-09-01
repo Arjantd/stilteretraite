@@ -20,4 +20,5 @@ fields:
   default: page
   hidden: true
 pages:
+- contact.md
 - video.md
