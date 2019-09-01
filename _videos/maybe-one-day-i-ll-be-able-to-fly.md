@@ -1,6 +1,7 @@
 ---
 template: video
-link: https://vimeo.com/47532705
+link: https://www.youtube.com/watch?v=1aq8JSiKmLs&t=89s
 thumbnail: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
-caption: Maybe one day I'll be able to fly
+caption: Wat is een retraite?
+
 ---
