@@ -17,6 +17,7 @@ sections:
   templates:
   - landing-page
   - page
+  - videos
 - type: directory
   path: _people
   label: People
