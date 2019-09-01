@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- magazine.md
 - events.md
 - contact.md
 - video.md
