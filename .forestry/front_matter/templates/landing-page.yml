@@ -95,6 +95,14 @@ fields:
     max: 
     labelField: 
   label: Featured links
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - title-left-text-right
+  config:
+    min: 
+    max: 
 - name: layout
   label: Layout
   type: text
