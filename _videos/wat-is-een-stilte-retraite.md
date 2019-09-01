@@ -1,7 +1,7 @@
 ---
 template: video
-link: https://www.youtube.com/watch?v=1aq8JSiKmLs
+link: https://www.youtube.com/watch?v=OMllvaMmiAo&t=66s
 thumbnail: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
-caption: Wat is een stilte retraite?
+caption: Hoe ziet een stilte retraite er uit?
 
 ---
