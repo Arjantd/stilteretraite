@@ -25,6 +25,7 @@ fields:
   hidden: true
   default: video
 pages:
+- _videos/file.md
 - _videos/robbert.md
 - _videos/wat-is-een-stilte-retraite.md
 - _videos/maybe-one-day-i-ll-be-able-to-fly.md
