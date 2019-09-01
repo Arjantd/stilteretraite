@@ -12,14 +12,16 @@ layout: default
 <!-- Main Content -->
 <div id="main-container">
 	<div class="content">
-		<div class="container">
-			{% for block in page.sections %}
-				{% assign template = block.template %}
-				{% case template %}
-				{% when 'title-left-text-right' %}
-					{% include blocks/title-left-text-right.html title=block.title text=block.text %}
-				{% endcase %}
-			{% endfor %}
+		<div class="lgray-bg padding-tb75">
+			<div class="container">
+				{% for block in page.lightgray-background-blocks %}
+					{% assign template = block.template %}
+					{% case template %}
+					{% when 'title-left-text-right' %}
+						{% include blocks/title-left-text-right.html title=block.title text=block.text %}
+					{% endcase %}
+				{% endfor %}
+			</div>
 		</div>
 	</div>
 </div>

@@ -22,7 +22,7 @@ featured_links:
   text: Get involved
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
-sections:
+lightgray-background-blocks:
 - template: title-left-text-right
   title: Verlangen naar stilte
   text: |-
