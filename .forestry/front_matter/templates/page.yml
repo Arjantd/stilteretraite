@@ -2,13 +2,6 @@
 label: Page
 hide_body: true
 fields:
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  default: page
-  hidden: true
 - name: title
   type: text
   config:
@@ -19,3 +12,10 @@ fields:
   config:
     maxSize: 250
   label: Image
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: page
+  hidden: true
