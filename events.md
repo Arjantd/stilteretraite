@@ -7,6 +7,5 @@ menu:
   navigation:
     identifier: _events
     weight: 3
-published: false
 
 ---
