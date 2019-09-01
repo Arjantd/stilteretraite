@@ -7,6 +7,7 @@ attendees: 15
 location: _locations/avant-spirit-velp-grave.md
 layout: event
 template: ''
+price: 100
 
 ---
 lass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vitae viverra metus, non aliquet leo. Proin finibus condimentum accumsan. Maecenas sed aliquet ligula, maximus tempus ante. Morbi commodo ligula eu est iaculis sollicitudin. Ut ultrices, massa eu sollicitudin rutrum, dui mauris euismod eros, vitae pharetra magna dolor vel ex. Vivamus elementum sagittis faucibus. Aliquam posuere ornare justo ut faucibus. Proin ipsum nulla, tincidunt in placerat eu, hendrerit quis lectus. Nam quis urna vulputate, feugiat quam eget, mollis risus. In a vehicula dolor. Curabitur non dictum nunc, non bibendum ante. Ut eleifend sodales lacus id ornare.
