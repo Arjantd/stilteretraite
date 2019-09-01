@@ -52,6 +52,16 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: price
+  type: number
+  label: Price
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: template
   type: text
   config:
