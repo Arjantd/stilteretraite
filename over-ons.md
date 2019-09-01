@@ -5,6 +5,7 @@ description: A multidisciplinary centre of experts who are essential to patient-
 publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: page
 show_staff: true
+image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
 menu:
   navigation:
     identifier: _over_ons
