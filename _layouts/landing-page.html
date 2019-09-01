@@ -14,10 +14,13 @@ layout: default
 <!-- Main Content -->
 <div id="main-container">
 	<div class="content">
-		<div class="lgray-bg padding-tb75">
-			<div class="container">
-			{{ content }}
-		</div>
+		{% for block in page.sections %}
+			{% assign template = block.template %}
+			{% case template %}
+			{% when 'title-left-text-right' %}
+				{% include blocks/title-left-text-right.html %}
+			{% endcase %}
+		{% endfor %}
 	</div>
 </div>
 {% endif %}
