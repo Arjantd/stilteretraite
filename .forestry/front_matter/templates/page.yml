@@ -20,7 +20,6 @@ fields:
   default: page
   hidden: true
 pages:
-- index.md
 - over-stilte-retraite.md
 - over-ons.md
 - magazine.md

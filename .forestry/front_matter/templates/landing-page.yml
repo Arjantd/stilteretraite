@@ -100,3 +100,5 @@ fields:
     max: 
     labelField: 
   label: Featured links
+pages:
+- index.md
