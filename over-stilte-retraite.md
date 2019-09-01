@@ -1,7 +1,7 @@
 ---
 title: Over stilte retraite
 layout: page
-image: ''
+image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
 menu:
   footer:
     weight: 2
