@@ -6,61 +6,54 @@ layout: page
 	the _events/ collection
 {% endcomment %}
 
-<!-- Main Content -->
-<div id="main-container">
-    <div class="content">
-        <div class="container">
-            <div class="grid-filter">
-                <ul class="nav nav-pills sort-source" data-sort-id="gallery" data-option-key="filter">
-                    <li data-option-value="*" class="active"><a href="#"><i class="fa fa-th"></i> <span>Show All</span></a></li>
-                    <li data-option-value=".education"><a href="#"><span>Education</span></a></li>
-                    <li data-option-value=".wild-life"><a href="#"><span>Wild Life</span></a></li>
-                    <li data-option-value=".environment"><a href="#"><span>Environment</span></a></li>
-                    <li data-option-value=".water"><a href="#"><span>Water</span></a></li>
-                    <li data-option-value=".human-rights"><a href="#"><span>Human Rights</span></a></li>
-                </ul>
+<div class="grid-filter">
+    <ul class="nav nav-pills sort-source" data-sort-id="gallery" data-option-key="filter">
+        <li data-option-value="*" class="active"><a href="#"><i class="fa fa-th"></i> <span>Show All</span></a></li>
+        <li data-option-value=".education"><a href="#"><span>Education</span></a></li>
+        <li data-option-value=".wild-life"><a href="#"><span>Wild Life</span></a></li>
+        <li data-option-value=".environment"><a href="#"><span>Environment</span></a></li>
+        <li data-option-value=".water"><a href="#"><span>Water</span></a></li>
+        <li data-option-value=".human-rights"><a href="#"><span>Human Rights</span></a></li>
+    </ul>
+</div>
+<div class="row">
+    <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
+        {% for event in site.events %}
+        {% assign location = site.locations | where:"path", event.location | first %}
+        <li class="col-md-4 col-sm-6 grid-item event-grid-item education format-standard">
+            <div class="grid-item-inner">
+                <a href="{{ event.url | absolute_url }}" class="media-box">
+                    <img src="images/event1.jpg" alt="">
+                </a>
+                <div class="grid-item-content">
+                    <span class="event-date">
+                        <span class="date">{{ event.from_date | date: '%d' }}</span>
+                        <span class="month">{% assign m = event.from_date | date: "%-m" %}
+                                {% case m %}
+                                    {% when '1' %}jan
+                                    {% when '2' %}feb
+                                    {% when '3' %}mrt
+                                    {% when '4' %}april
+                                    {% when '5' %}mei
+                                    {% when '6' %}jun
+                                    {% when '7' %}jul
+                                    {% when '8' %}aug
+                                    {% when '9' %}sep
+                                    {% when '10' %}okt
+                                    {% when '11' %}nov
+                                    {% when '12' %}dec
+                                {% endcase %}</span>
+                        <span class="year">{{ event.from_date | date: '%Y' }}</span>
+                    </span>
+                    <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
+                    <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
+                    <ul class="list-group">
+                        <li class="list-group-item">{{ event.attendees }}<span class="badge">Deelnemers</span></li>
+                        <li class="list-group-item">{{ location.title }}<span class="badge">Locatie</span></li>
+                    </ul>
+                </div>
             </div>
-            <div class="row">
-                <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-                    {% for event in site.events %}
-                    {% assign location = site.locations | where:"path", event.location | first %}
-                    <li class="col-md-4 col-sm-6 grid-item event-grid-item education format-standard">
-                        <div class="grid-item-inner">
-                            <a href="{{ event.url | absolute_url }}" class="media-box">
-                                <img src="images/event1.jpg" alt="">
-                            </a>
-                            <div class="grid-item-content">
-                                <span class="event-date">
-                                    <span class="date">{{ event.from_date | date: '%d' }}</span>
-                                    <span class="month">{% assign m = event.from_date | date: "%-m" %}
-                                            {% case m %}
-                                              {% when '1' %}jan
-                                              {% when '2' %}feb
-                                              {% when '3' %}mrt
-                                              {% when '4' %}april
-                                              {% when '5' %}mei
-                                              {% when '6' %}jun
-                                              {% when '7' %}jul
-                                              {% when '8' %}aug
-                                              {% when '9' %}sep
-                                              {% when '10' %}okt
-                                              {% when '11' %}nov
-                                              {% when '12' %}dec
-                                            {% endcase %}</span>
-                                    <span class="year">{{ event.from_date | date: '%Y' }}</span>
-                                </span>
-                                <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
-                                <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
-                                <ul class="list-group">
-                                    <li class="list-group-item">{{ event.attendees }}<span class="badge">Deelnemers</span></li>
-                                    <li class="list-group-item">{{ location.title }}<span class="badge">Locatie</span></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-    </div>
+        </li>
+        {% endfor %}
+    </ul>
 </div>

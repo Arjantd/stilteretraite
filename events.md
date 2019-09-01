@@ -1,6 +1,6 @@
 ---
 title: Events
-layout: page
+layout: events
 textline: Events
 image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
 menu:
