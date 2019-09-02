@@ -1,8 +1,8 @@
 {% if page.featured_links %}
 <div class="featured-links row">
     {% for featured_link in page.featured_links %}
-        {% assign page = site.pages | where:"path", featured_link.link | first %}
-        <a href="{{ page.url | absolute_url }}" class="featured-link col-md-4 col-sm-4">
+        {% assign document = site.pages | where:"path", featured_link.link | first %}
+        <a href="{{ document.url | absolute_url }}" class="featured-link col-md-4 col-sm-4">
             <span>{{ featured_link.small_text }}</span>
             <strong>{{ featured_link.text }}</strong>
         </a>
