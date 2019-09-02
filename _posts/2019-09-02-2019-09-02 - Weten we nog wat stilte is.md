@@ -1,9 +1,7 @@
 ---
 title: Weten we nog wel wat stilte is?
 date: 2019-09-02 22:00:00 +0200
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
+related_posts: []
 sub_heading: Waar staat dit?
 tags: []
 layout: post
