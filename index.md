@@ -4,8 +4,9 @@ layout: landing-page
 hero_slider:
 - image: https://static.stilteretraite.nl/uploads/Home page banner test 2.jpg
   title: Verlangen naar stilte
-  sub_heading: In een tijd waarin we het gevoel hebben ‘geleefd te worden’ door onze
-    agenda’s is retraite is het grootste geschenk dat we onszelf kunnen geven.
+  sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
+    onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
+    geven.
   buttons:
   - text: Test button
     link: index.md
