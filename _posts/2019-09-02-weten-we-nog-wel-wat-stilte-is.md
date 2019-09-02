@@ -9,7 +9,7 @@ banner_image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
 author: _people/arjan-ten-dam.md
 
 ---
-In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis...
+> In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis...
 
 We staan onszelf nauwelijks toe stil te staan bij waar we eigenlijk mee bezig zijn; of wat we aan het doen zijn nog wel klopt met waar we van binnen eigenlijk naar verlangen te be-leven....die innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons. Want: ‘nu even niet’. Nergens is het stil; niet om ons, niet in ons. Verslaafd als we zijn aan de voorwaartse beweging waarbij ‘to-do’ ook gedáán moet worden; en het liefst vandaag.
 
@@ -24,6 +24,6 @@ Waar zijn we?
 Om het allemaal te vol te kunnen houden hebben we symbolische vormen van 'tijdelijk doorbreken' bedacht; die we als vormen van 'mini-retraite' kunnen beschouwen. We willen er dan ‘even echt helemaal uit’ en maken dankbaar gebruik van een willekeurige effe-snel-weekendje-weg-aanbieder, leven ons uit in sport, grijpen naar een boek, of naar de drank, storten ons in het nachtleven of turen trots naar ons flinterdunne 3-D led-scherm.  
 We doen dit vanuit de behoefte 'los' te zijn van de dagelijkse sleur en ruimte te ervaren, in de hoop onze vermoeidheid kwijt te raken en met frisse energie en nieuwe inspiratie op de oude voet verder te gaan.
 
-Plotseling klinkt de verzuchting van het tot aan de rand toe gevulde en klotsende hart, dat verlangt naar stilte, ruimte en leegte: ‘zat ik maar even in een hutje op de hei’. ‘ De metafoor van die uitgestrekte bloeiende hei met daar in het midden dat hutje waarin een houtvuurtje brandt. Het toont het verlangen naar geborgenheid, rust, natuur, het samenvallen met het vredige ritme van de natuur. Als dat geen verlangen naar retraite is....!  
-  
+Plotseling klinkt de verzuchting van het tot aan de rand toe gevulde en klotsende hart, dat verlangt naar stilte, ruimte en leegte: ‘zat ik maar even in een hutje op de hei’. ‘ De metafoor van die uitgestrekte bloeiende hei met daar in het midden dat hutje waarin een houtvuurtje brandt. Het toont het verlangen naar geborgenheid, rust, natuur, het samenvallen met het vredige ritme van de natuur. Als dat geen verlangen naar retraite is....!
+
 ![](https://static.stilteretraite.nl/uploads/robbert1.jpg)![](https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg)
