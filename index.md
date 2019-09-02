@@ -18,8 +18,8 @@ featured_links:
   small_text: Overzicht komende retraites
   text: agenda
 - link: over-ons.md
-  small_text: Wat wij doen
-  text: Over ons
+  small_text: Wat wij beogen
+  text: over ons
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 lightgray-background-blocks:
