@@ -1,5 +1,5 @@
 ---
-title: Over stilte retraite
+title: Stilte retraite
 layout: page
 image: https://static.stilteretraite.nl/uploads/shutterstock_793178977.jpg
 menu:
