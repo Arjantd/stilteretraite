@@ -8,7 +8,7 @@ related_posts: []
 banner_image: https://static.stilteretraite.nl/uploads/headphones b.jpg
 
 ---
-Muziek is een shortcut naar je hart. Muziek doet iets. Het laat je afstemmen op een universele energie die je verbindt met de kosmos.  laat muziek je ontspannen. Het laat je ook genieten van de schoonheid en harmonie van klank. Meer praktisch gezien geeft muziek je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren.   
+Muziek doet iets, het is een shortcut naar je hart. Het laat je afstemmen op een universele energie die je hart doet openen. Muziek is schoonheid, is passie en is ontspanning. Meer praktisch gezien geeft klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren.   
   
 “Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Soms kan het helpen om je onrust bij aanvang van een meditatie te beteugelen door je sessie met een muziekstuk te beginnen. In deze eerste blog over muziek delen we 5 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
 
