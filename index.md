@@ -9,7 +9,7 @@ hero_slider:
     geven.
   buttons:
   - text: Lees meer
-    link: index.md
+    link: over-stilte-retraite.md
 featured_links:
 - link: _projects/electric-vehicle-design.md
   small_text: View our causes
