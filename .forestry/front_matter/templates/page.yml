@@ -20,8 +20,8 @@ fields:
   default: page
   hidden: true
 pages:
-- over-stilte-retraite.md
 - video.md
+- over-stilte-retraite.md
 - events.md
 - magazine.md
 - over-ons.md
