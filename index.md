@@ -18,8 +18,9 @@ featured_links:
   small_text: Become a volunteer
   text: Join us now
 - link: events.md
-  small_text: View our events
-  text: Get involved
+  small_text: Upcoming events
+  text: Bekijk hier de agenda voor het komende half jaar. Binnenkort worden meer events
+    toegevoegd!!
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 lightgray-background-blocks:
