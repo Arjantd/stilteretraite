@@ -2,7 +2,7 @@
 title: HOME  |  Stilte retraite
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/dark banner 1.jpg
+- image: https://static.stilteretraite.nl/uploads/slotjes banner 1.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
@@ -12,8 +12,8 @@ hero_slider:
     link: over-stilte-retraite.md
 featured_links:
 - link: _projects/electric-vehicle-design.md
-  small_text: Over stilte retraite
-  text: Wat is een stilte retraite?
+  small_text: Wat? Waar? Voor wie?
+  text: Over stilte retraite
 - link: events.md
   small_text: Ga naar agenda
   text: Upcoming events
