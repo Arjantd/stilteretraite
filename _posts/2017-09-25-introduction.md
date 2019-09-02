@@ -1,15 +1,13 @@
 ---
-title: Welcome to the Forestry Demo Site!
-date: 2017-09-25T09:09:13.000+00:00
+title: Weten we nog wel wat stilte is?
+date: 2019-09-02 22:00:00 +0200
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
+sub_heading: Waar staat dit?
+tags: []
 layout: post
-banner_image: ''
+banner_image: https://static.stilteretraite.nl/uploads/stockphoto 4.jpg
 author: _people/arjan-ten-dam.md
 
 ---
