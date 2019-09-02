@@ -1,7 +1,7 @@
 ---
 title: Stilte retraite
 layout: page
-image: https://static.stilteretraite.nl/uploads/shutterstock_793178977.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner smal 1.jpg
 menu:
   footer:
     weight: 2
