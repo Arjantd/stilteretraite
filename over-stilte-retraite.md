@@ -8,6 +8,7 @@ menu:
   navigation:
     identifier: _over_stilte_retraite
     weight: 2
+published: false
 
 ---
 # Verlangen naar stilte
