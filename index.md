@@ -16,7 +16,7 @@ featured_links:
 - link: _people/kellie-brewer.md
   small_text: Become a volunteer
   text: Join us now
-- link: _people/martin-marino.md
+- link: events.md
   small_text: View our events
   text: Get involved
 textline: ''
