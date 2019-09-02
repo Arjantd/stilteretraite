@@ -17,9 +17,9 @@ featured_links:
 - link: events.md
   small_text: Ga naar agenda
   text: Upcoming events
-- link: events.md
-  small_text: Ga naar agenda
-  text: Upcoming events
+- link: over-ons.md
+  small_text: Wat wij doen
+  text: Over ons
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 lightgray-background-blocks:
