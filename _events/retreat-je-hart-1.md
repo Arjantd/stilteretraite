@@ -21,18 +21,12 @@ Te midden van de schoonheid van de prachtige natuur in de directe omgeving van C
 
 ‘Re-treat your Senses’ is een stilte-retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur ook langs de Cinque Terre.
 
-Aankomst : zaterdag 21 september
-
-Aanvang retraite: zondag 22 september 17.00
-
-Einde retraite: vrijdag 27 september 20.00
-
-Vertrek: zaterdag 28 september
-
-Informatie: Robbert van Bruggen
-
-Per email: wilnu@ineenhutjeopdehei.nl
-
+**Aankomst :** zaterdag 21 september  
+Aanvang retraite: zondag 22 september 17.00  
+Einde retraite: vrijdag 27 september 20.00  
+Vertrek: zaterdag 28 september  
+Informatie: Robbert van Bruggen  
+Per email: wilnu@ineenhutjeopdehei.nl  
 Voor vragen: 06-24678735 tussen 20.00-20.30
 
 **Kosten & meer**
