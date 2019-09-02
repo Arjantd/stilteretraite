@@ -2,7 +2,7 @@
 title: HOME  |  Stilte retraite
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/slotjes banner 1.jpg
+- image: https://static.stilteretraite.nl/uploads/slotjes banner 2.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
