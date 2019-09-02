@@ -1,8 +1,8 @@
 ---
 title: Retreat your senses!
 sub_heading: In de stilte opent zich puur ervaren
-from_date: 2019-09-20T22:00:00.000+00:00
-to_date: 2019-08-27T22:00:00.000+00:00
+from_date: 2019-09-21 00:00:00 +0200
+to_date: 2019-09-28 00:00:00 +0200
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
