@@ -1,8 +1,8 @@
 ---
-title: Stilte retraite
+title: HOME  |  Stilte retraite
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/shutterstock_416496646.jpg
+- image: https://static.stilteretraite.nl/uploads/dark banner 1.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
@@ -18,9 +18,8 @@ featured_links:
   small_text: Become a volunteer
   text: Join us now
 - link: events.md
-  small_text: Upcoming events
-  text: Bekijk hier de agenda voor het komende half jaar. Binnenkort worden meer events
-    toegevoegd!!
+  small_text: Ga naar agenda
+  text: Upcoming events
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 lightgray-background-blocks:
