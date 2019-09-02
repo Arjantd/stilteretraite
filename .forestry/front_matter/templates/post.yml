@@ -51,4 +51,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/blog-test.md
+- _posts/2019-09-02-blog-test.md
