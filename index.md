@@ -16,7 +16,7 @@ featured_links:
   text: stilte retraite
 - link: events.md
   small_text: Overzicht komende retraites
-  text: Ga naar agenda
+  text: Agenda
 - link: over-ons.md
   small_text: Wat wij doen
   text: Over ons
