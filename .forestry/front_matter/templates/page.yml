@@ -18,7 +18,7 @@ fields:
     required: false
   label: Layout
   default: page
-  hidden: true
+  hidden: false
 pages:
 - over-stilte-retraite.md
 - video.md
