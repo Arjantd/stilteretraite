@@ -8,7 +8,7 @@ hero_slider:
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
     geven.
   buttons:
-  - text: Test button
+  - text: Lees meer
     link: index.md
 featured_links:
 - link: _projects/electric-vehicle-design.md
