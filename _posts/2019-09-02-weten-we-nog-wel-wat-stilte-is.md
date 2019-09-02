@@ -26,4 +26,6 @@ We doen dit vanuit de behoefte 'los' te zijn van de dagelijkse sleur en ruimte t
 
 Plotseling klinkt de verzuchting van het tot aan de rand toe gevulde en klotsende hart, dat verlangt naar stilte, ruimte en leegte: ‘zat ik maar even in een hutje op de hei’. ‘ De metafoor van die uitgestrekte bloeiende hei met daar in het midden dat hutje waarin een houtvuurtje brandt. Het toont het verlangen naar geborgenheid, rust, natuur, het samenvallen met het vredige ritme van de natuur. Als dat geen verlangen naar retraite is....!
 
-![](https://static.stilteretraite.nl/uploads/robbert1.jpg)![](https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg)
+![](https://static.stilteretraite.nl/uploads/robbert1.jpg)
+
+![](https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg)
