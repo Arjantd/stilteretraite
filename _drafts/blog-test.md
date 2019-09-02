@@ -1,0 +1,11 @@
+---
+author: _people/robbert-van-bruggen.md
+layout: post
+title: blog test
+sub_heading: "123456"
+date: 2019-09-02 00:00:00 +0200
+tags: []
+banner_image: ''
+related_posts: []
+
+---

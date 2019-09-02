@@ -50,3 +50,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/blog-test.md
