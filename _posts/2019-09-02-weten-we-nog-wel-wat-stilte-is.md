@@ -5,7 +5,7 @@ related_posts: []
 sub_heading: Waar staat dit?
 tags: []
 layout: post
-banner_image: https://static.stilteretraite.nl/uploads/stockphoto 4b.jpg
+banner_image: https://static.stilteretraite.nl/uploads/stockphoto 4c.jpg
 author: _people/arjan-ten-dam.md
 
 ---
