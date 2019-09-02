@@ -15,8 +15,8 @@ featured_links:
   small_text: Wat? Waar? Voor wie?
   text: Over stilte retraite
 - link: events.md
-  small_text: Ga naar agenda
-  text: Upcoming events
+  small_text: Overzicht komende retraites
+  text: Ga naar agenda
 - link: over-ons.md
   small_text: Wat wij doen
   text: Over ons
