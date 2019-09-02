@@ -12,8 +12,8 @@ hero_slider:
     link: over-stilte-retraite.md
 featured_links:
 - link: _projects/electric-vehicle-design.md
-  small_text: View our causes
-  text: Donate now
+  small_text: Over stilte retraite
+  text: Wat is een stilte retraite?
 - link: _people/kellie-brewer.md
   small_text: Become a volunteer
   text: Join us now
