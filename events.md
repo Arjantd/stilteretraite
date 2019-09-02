@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Agenda
 layout: events
 textline: Events
 image: https://static.stilteretraite.nl/uploads/Page banner smal 3.jpg
