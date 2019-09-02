@@ -14,9 +14,9 @@ featured_links:
 - link: _projects/electric-vehicle-design.md
   small_text: Over stilte retraite
   text: Wat is een stilte retraite?
-- link: _people/kellie-brewer.md
-  small_text: Become a volunteer
-  text: Join us now
+- link: events.md
+  small_text: Ga naar agenda
+  text: Upcoming events
 - link: events.md
   small_text: Ga naar agenda
   text: Upcoming events
