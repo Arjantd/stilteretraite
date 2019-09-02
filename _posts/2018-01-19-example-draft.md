@@ -13,7 +13,7 @@ author: _people/arjan-ten-dam.md
 
 “Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Soms kan het helpen om je onrust bij aanvang van een meditatie te beteugelen door je sessie met een muziekstuk te beginnen. In deze eerste bijdrage over muziek delen we 5 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!  
   
-1\. Spiegel im Spiegel (1978) | Arvo Part | [Luister via Youtube](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "Spiegel im Spiegel")
+**1. Spiegel im Spiegel (1978) | Arvo Part |** [Luister via Youtube](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "Spiegel im Spiegel")
 
 [https://www.youtube.com/watch?v=TJ6Mzvh3XCc](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "https://www.youtube.com/watch?v=TJ6Mzvh3XCc")
 
