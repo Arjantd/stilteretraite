@@ -6,6 +6,7 @@ sub_heading: ''
 tags: []
 related_posts: []
 banner_image: https://static.stilteretraite.nl/uploads/headphones b.jpg
+author: _people/arjan-ten-dam.md
 
 ---
 > Muziek doet iets, het is een shortcut naar je hart. Het laat je afstemmen op een universele energie die je hart doet openen. Muziek is schoonheid, is passie en is ontspanning. Meer praktisch gezien geeft klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren. 
