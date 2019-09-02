@@ -2,8 +2,7 @@
 title: Stilte retraite
 layout: landing-page
 hero_slider:
-- image: https://s3.eu-central-1.amazonaws.com/static.stilteretraite.nl/uploads/Avant
-    Spirit - Velp 1.jpg
+- image: https://static.stilteretraite.nl/uploads/Home page banner test 2.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we het gevoel hebben ‘geleefd te worden’ door onze
     agenda’s is retraite is het grootste geschenk dat we onszelf kunnen geven.
@@ -31,6 +30,7 @@ lightgray-background-blocks:
     Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil; niet om ons, niet in ons. We hebben niet echt de ruimte voor contact met anderen en al helemaal niet met onszelf.
 
     Bij veel mensen dient zich op enig moment een verlangen aan naar stilte, ruimte en bezinning. Soms ook valt dit samen met een verlangen naar geborgenheid, rust en natuur. Misschien ben je daarom ook wel op deze website aanbelandt.
+sections: []
 menu:
   navigation:
     identifier: _index
