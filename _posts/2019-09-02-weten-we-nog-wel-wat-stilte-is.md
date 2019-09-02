@@ -15,17 +15,11 @@ We staan onszelf nauwelijks toe stil te staan bij waar we eigenlijk mee bezig zi
 
 Durven we nog wel in de spiegel te kijken om te voelen of we op deze manier wel met onszelf kunnen leven?
 
-In onze 24-uurs economie leven we onder een permanente tijdsdruk. Ons leven wordt voor een groot deel bepaald door schema's, verplichtingen, verantwoordelijkheden naar anderen en systemen waartoe we ons voortdurend te verhouden hebben. Tegelijkertijd proberen we vrije keuzes te maken en onze dromen te vervullen en het goed te hebben met elkaar. De dagelijkse opjutter, die we ooit 'agenda' noemden, heeft inmiddels de gedaante aangenomen van een ons toesprekende handzame robot die ons overal aan helpt herinneren met piepjes, trillertjes, en muziekjes....onze vurige verkering die ‘smartphone’ heet. Turend naar het mini-venster van dit vernuftig speeltje dat fungeert als bewaker van ons plichtmatig geweten, zoeken we onze bevrediging in de virtuele wereld van de social media. ‘Contact’ gaat via vlugge prikvingertekst en snelle snapshots.  
-Waar zijn we?
+In onze 24-uurs economie leven we onder een permanente tijdsdruk. Ons leven wordt voor een groot deel bepaald door schema's, verplichtingen, verantwoordelijkheden naar anderen en systemen waartoe we ons voortdurend te verhouden hebben. Tegelijkertijd proberen we vrije keuzes te maken en onze dromen te vervullen en het goed te hebben met elkaar. De dagelijkse opjutter, die we ooit 'agenda' noemden, heeft inmiddels de gedaante aangenomen van een ons toesprekende handzame robot die ons overal aan helpt herinneren met piepjes, trillertjes, en muziekjes....onze vurige verkering die ‘smartphone’ heet. Turend naar het mini-venster van dit vernuftig speeltje dat fungeert als bewaker van ons plichtmatig geweten, zoeken we onze bevrediging in de virtuele wereld van de social media. ‘Contact’ gaat via vlugge prikvingertekst en snelle snapshots.
 
-Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. We hebben niet echt de ruimte voor contact met anderen en al helemaal niet met onszelf. Maar ach, dat heeft iedereen toch?  
-Waar zijn we?
+Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. We hebben niet echt de ruimte voor contact met anderen en al helemaal niet met onszelf. Maar ach, dat heeft iedereen toch?
 
 Om het allemaal te vol te kunnen houden hebben we symbolische vormen van 'tijdelijk doorbreken' bedacht; die we als vormen van 'mini-retraite' kunnen beschouwen. We willen er dan ‘even echt helemaal uit’ en maken dankbaar gebruik van een willekeurige effe-snel-weekendje-weg-aanbieder, leven ons uit in sport, grijpen naar een boek, of naar de drank, storten ons in het nachtleven of turen trots naar ons flinterdunne 3-D led-scherm.  
 We doen dit vanuit de behoefte 'los' te zijn van de dagelijkse sleur en ruimte te ervaren, in de hoop onze vermoeidheid kwijt te raken en met frisse energie en nieuwe inspiratie op de oude voet verder te gaan.
 
 Plotseling klinkt de verzuchting van het tot aan de rand toe gevulde en klotsende hart, dat verlangt naar stilte, ruimte en leegte: ‘zat ik maar even in een hutje op de hei’. ‘ De metafoor van die uitgestrekte bloeiende hei met daar in het midden dat hutje waarin een houtvuurtje brandt. Het toont het verlangen naar geborgenheid, rust, natuur, het samenvallen met het vredige ritme van de natuur. Als dat geen verlangen naar retraite is....!
-
-![](https://static.stilteretraite.nl/uploads/robbert1.jpg)
-
-![](https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg)
