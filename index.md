@@ -11,9 +11,9 @@ hero_slider:
   - text: Lees meer
     link: over-stilte-retraite.md
 featured_links:
-- link: _projects/electric-vehicle-design.md
-  small_text: Wat? Waar? Voor wie?
-  text: Over stilte retraite
+- link: over-stilte-retraite.md
+  small_text: Alles wat je wil weten over
+  text: stilte retraite
 - link: events.md
   small_text: Overzicht komende retraites
   text: Ga naar agenda
