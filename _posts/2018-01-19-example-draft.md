@@ -25,8 +25,4 @@ author: _people/arjan-ten-dam.md
    ** Arvo Part  
     [Luister via Youtube](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "Spiegel im Spiegel")
 
-**4. Spiegel im Spiegel (1978) | Arvo Part |** [Luister via Youtube](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "Spiegel im Spiegel")
-
-**5. Spiegel im Spiegel (1978) | Arvo Part |** [Luister via Youtube](https://www.youtube.com/watch?v=TJ6Mzvh3XCc "Spiegel im Spiegel")
-
 Welke muziekstukken zou jij willen aandragen? Deel bij _comments_ je favoriete lied, eventueel met een YouTube link en vertel kort wat dit nummer zo speciaal maakt voor jou.
