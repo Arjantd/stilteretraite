@@ -2,6 +2,12 @@
 label: event
 hide_body: false
 fields:
+- name: event_image
+  type: file
+  config:
+    maxSize: 250
+  label: event image
+  hidden: true
 - name: title
   type: text
   config:
