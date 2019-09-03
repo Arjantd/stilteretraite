@@ -33,16 +33,6 @@ fields:
       file: 
       path: 
   label: Location
-- name: attendees
-  type: number
-  label: Attendees
-  description: ''
-  default: '1'
-  config:
-    min: '1'
-    max: 
-    step: '1'
-    required: true
 - name: from_date
   type: datetime
   label: From date
@@ -70,6 +60,16 @@ fields:
     min: 
     max: 
     step: 
+- name: attendees
+  type: number
+  label: Attendees
+  description: ''
+  default: '1'
+  config:
+    min: '1'
+    max: 
+    step: '1'
+    required: true
 - name: template
   type: text
   config:
