@@ -36,8 +36,7 @@ In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de di
 
 **Per email:** info@stilteretraite.nl
 
-**  
-Kosten & meer**
+**Kosten & meer**
 
 Deze 5-daagse retraite is residentieel; de prijs is inclusief alle teachings, meditaties, individuele begeleiding, vegetarische slow-food maaltijden + koﬃe, kruidenthee voor de gehele periode; 7 overnachtingen, alle vervoer/entreekosten die onderdeel zijn van de retraite en bedraagt € 895 inclusief BTW. Niet inbegrepen zijn: auto- of vliegreis naar Pisa (goedkoop via Ryanair Eindhoven), trein La Spezia (€12), evt. bus naar Carro en tenslotte consumpties die buiten het arrangement vallen.
 
