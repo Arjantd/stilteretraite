@@ -22,18 +22,25 @@ In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de di
 
 ‘Re-treat your Senses’ is een stilte-retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur, ook langs de Cinque Terre.
 
-**Aankomst :** zaterdag 21 september  
-**Aanvang retraite:** zondag 22 september 17.00  
-**Einde retraite:** vrijdag 27 september 20.00  
-**Vertrek:** zaterdag 28 september  
-**Informatie:** Robbert van Bruggen  
-**Tel. contact:** 06-24678735 tussen 20.00-20.30  
+**Aankomst :** zaterdag 21 september
+
+**Aanvang retraite:** zondag 22 september 17.00
+
+**Einde retraite:** vrijdag 27 september 20.00
+
+**Vertrek:** zaterdag 28 september
+
+**Informatie:** Robbert van Bruggen
+
+**Tel. contact:** 06-24678735 tussen 20.00-20.30
+
 **Per email:** info@stilteretraite.nl
 
-**Kosten & meer**
+**  
+Kosten & meer**
 
-Deze 5-daagse retraite is residentieel; de prijs is inclusief alle teachings, meditaties, individuele begeleiding, vegetarische slow-food maaltijden + koﬃe, kruidenthee voor de gehele periode; 7 overnachtingen, alle vervoer/entreekosten die onderdeel zijn van de retraite en bedraagt € 895 inclusief BTW. Niet inbegrepen zijn: auto- of vliegreis naar Pisa (goedkoop via Ryanair Eindhoven), trein La Spezia (€12), evt. bus naar Carro en tenslotte consumpties die buiten het arrangement vallen.   
-  
+Deze 5-daagse retraite is residentieel; de prijs is inclusief alle teachings, meditaties, individuele begeleiding, vegetarische slow-food maaltijden + koﬃe, kruidenthee voor de gehele periode; 7 overnachtingen, alle vervoer/entreekosten die onderdeel zijn van de retraite en bedraagt € 895 inclusief BTW. Niet inbegrepen zijn: auto- of vliegreis naar Pisa (goedkoop via Ryanair Eindhoven), trein La Spezia (€12), evt. bus naar Carro en tenslotte consumpties die buiten het arrangement vallen.
+
 Betaling naar banknummer NL97 INGB0004 7459 39 t.n.v. Spiegelzaal - Ineenhutjeopdehei, te Dordrecht; o.v.v. ‘Re-treat your Senses’, september 2019, met voor- en achternaam.
 
 Aanmelding is een feit na inschrijving per email plus overmaking van een deposito van 350 euro. Het resterende bedrag dient bijgeschreven te zijn voor 15 september. Na aanmelding ontvang je de factuur + bevestigingsbrief met alle praktische informatie.
