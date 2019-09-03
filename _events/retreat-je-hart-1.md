@@ -4,16 +4,17 @@ attendees: 12
 template: event
 title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2019-12-11 00:00:00 +0100
-to_date: 2019-12-15 00:00:00 +0100
+from_date: 2019-12-10T23:00:00.000+00:00
+to_date: 2019-12-14T23:00:00.000+00:00
 price: '645.00'
+event_image: ''
 
 ---
 **In de stilte opent zich puur ervaren**
 
 Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
 
-**Re-treat your Senses!**
+**Re-treat je hart!**
 
 Te midden van de schoonheid van de prachtige natuur in de directe omgeving van Ca du Chittu trekken we ons terug voor een bijzondere vijfdaagse stilte-retraite. Het proces van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen, om de Stilte van deze plek ten volste te beleven. Naast de bekende vijf zintuigen zien, horen, ruiken, proeven en aanraking, wordt ook aandacht besteed aan de onderbuik als zintuig voor het aanvoelen van gevaar en veiligheid en het Hart als het meest essentiele ‘aanvoelend’ zintuig van ons wezen.
 
