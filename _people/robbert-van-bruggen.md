@@ -6,7 +6,7 @@ role:
 - board
 thumbnail: https://static.stilteretraite.nl/uploads/robbert portrait.jpg
 sub_heading: Initiatiefnemer, retraite begeleider
-email: grady@belkirkcollege.com
+email: 'robbert@stilteretraite.nl '
 linkedin: ''
 layout: person
 
