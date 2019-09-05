@@ -10,4 +10,4 @@ linkedin: ''
 layout: person
 
 ---
-Arjan ten Dam is communicatie wetenschapper, levensworstelaar en gefascineerd door de heilzame werking van stilte inn  het algemeen - en stilte _retraites_ in het bijzonder. 
+Arjan ten Dam is communicatie wetenschapper, levensworstelaar en gefascineerd door de heilzame werking van stilte inn  het algemeen - en stilte _retraites_ in het bijzonder. Assisteert bij retraites en schrijft blogs.
