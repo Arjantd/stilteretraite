@@ -5,10 +5,10 @@ role:
 - partner
 - board
 thumbnail: https://static.stilteretraite.nl/uploads/robbert portrait.jpg
-sub_heading: Head of Board
+sub_heading: Initiatiefnemer, retraite begeleider
 email: grady@belkirkcollege.com
 linkedin: ''
 layout: person
 
 ---
-Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master begeleidingskunde en specialist in het in beweging brengen van identificatie met taaie patronen in organisaties. Hij doet promotie onderzoek naar de bevrijding van het subjectieve hart in een door rationaliteit gedomineerde maatschappij.
