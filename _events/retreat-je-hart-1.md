@@ -11,11 +11,11 @@ price: '645.00'
 event_image: ''
 
 ---
-**In de stilte opent zich puur ervaren**
+#### **In de stilte opent zich puur ervaren**
 
-Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.  
-  
-![](https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg)
+> Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.  
+>   
+> ![](https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg)
 
 **Re-treat je hart!**
 
