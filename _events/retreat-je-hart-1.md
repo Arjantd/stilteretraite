@@ -1,4 +1,5 @@
 ---
+'1': https://static.stilteretraite.nl/uploads/Home page banner  test 1.jpg
 location: _locations/avant-spirit-velp-grave.md
 attendees: 12
 template: event
