@@ -20,9 +20,10 @@ fields:
   default: page
   hidden: false
 pages:
+- wat-wij-beogen.md
+- over-stilte-retraite.md
 - magazine.md
 - over-ons.md
 - events.md
-- over-stilte-retraite.md
 - video.md
 - contact.md
