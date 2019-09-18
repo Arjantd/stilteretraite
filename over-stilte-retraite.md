@@ -1,5 +1,5 @@
 ---
-title: Stilte retraite
+title: Over
 layout: page
 image: https://static.stilteretraite.nl/uploads/Page banner smal 1.jpg
 menu:

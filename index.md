@@ -1,5 +1,5 @@
 ---
-title: HOME  |  Stilte retraite
+title: Home
 layout: landing-page
 hero_slider:
 - image: https://static.stilteretraite.nl/uploads/slotjes banner 2.jpg
