@@ -18,7 +18,7 @@ fields:
     required: false
   label: Layout
   default: page
-  hidden: false
+  hidden: true
 pages:
 - wat-wij-beogen.md
 - over-stilte-retraite.md
