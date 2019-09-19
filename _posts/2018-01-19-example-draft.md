@@ -11,6 +11,7 @@ author: _people/arjan-ten-dam.md
 ---
 _Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren._
 
+  
 Soms helpt het om je onrust bij aanvang van een meditatiesessie te beteugelen door met een muziekstuk te beginnen. In deze eerste bijdrage over muziek delen we 5 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
 
 **Spiegel im Spiegel (1978)**  
