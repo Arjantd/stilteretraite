@@ -1,6 +1,6 @@
 ---
-title: Weten we nog wat stilte is?
-date: 2019-08-30 22:00:00 +0200
+title: ''
+date: 2019-08-30T20:00:00.000+00:00
 related_posts: []
 sub_heading: Waar staat dit?
 tags: []
