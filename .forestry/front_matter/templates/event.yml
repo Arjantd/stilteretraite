@@ -65,6 +65,20 @@ fields:
     max: 
     step: '1'
     required: true
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - 1-day
+    - weekend
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
 - name: template
   type: text
   config:
