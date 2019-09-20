@@ -3,10 +3,10 @@ title: Over retraite
 layout: page
 image: https://static.stilteretraite.nl/uploads/Page banner smal 1.jpg
 menu:
+  footer:
+    weight: 2
   navigation:
     identifier: _over_stilte_retraite
-    weight: 2
-  footer:
     weight: 2
 
 ---
