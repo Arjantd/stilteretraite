@@ -11,6 +11,7 @@ price: '645.00'
 event_image: ''
 image: ''
 category: 1-day
+length_of_time: 1 dag
 
 ---
 #### **In de stilte opent zich puur ervaren**
