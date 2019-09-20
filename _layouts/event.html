@@ -14,7 +14,7 @@ layout: page
                 <div class="col-md-8 content-block">
                     <h3>{{ page.title }}</h3>
                     <div class="post-media">
-                        <img src="images/event1.jpg" alt="">
+                        <img src="{{ page.image }}" alt="">
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-sm-6">
@@ -50,7 +50,7 @@ layout: page
                         </div>
                     </div>
                     <div class="spacer-20"></div>
-                    <p class="lead">{{ page.sub_heading }}</p>
+                    <p class="lead">{{ page.lead_text }}</p>
                     {{ page.content }}
                 </div>
                 
