@@ -17,8 +17,8 @@ layout: default
 				{% for block in page.lightgray-background-blocks %}
 					{% assign template = block.template %}
 					{% case template %}
-					{% when 'title-left-text-right' %}
-						{% include blocks/title-left-text-right.html title=block.title text=block.text %}
+					{% when 'text-left-video-right' %}
+						{% include blocks/text-left-video-right.html title=block.title text=block.text video=block.video %}
 					{% endcase %}
 				{% endfor %}
 			</div>
