@@ -16,10 +16,6 @@ fields:
     schema:
       format: markdown
   label: Lead text
-- type: text
-  label: Sub Heading
-  name: sub_heading
-  default: ''
 - name: date
   label: Publish Date
   type: datetime
