@@ -9,6 +9,8 @@ from_date: 2019-12-10T23:00:00.000+00:00
 to_date: 2019-12-14T23:00:00.000+00:00
 price: '645.00'
 event_image: ''
+image: ''
+category: 1-day
 
 ---
 #### **In de stilte opent zich puur ervaren**
