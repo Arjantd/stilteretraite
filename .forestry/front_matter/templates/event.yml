@@ -2,25 +2,20 @@
 label: event
 hide_body: false
 fields:
-- name: '1'
+- name: image
   type: file
   config:
     maxSize: 250
   hidden: false
   showOnly:
     value: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
-  default: https://static.stilteretraite.nl/uploads/vernazza-italie-cinque-terre.jpg
-  label: Event image
+  default: ''
+  label: Image
 - name: title
   type: text
   config:
     required: true
   label: Title
-- name: sub_heading
-  type: text
-  config:
-    required: false
-  label: Sub heading
 - name: location
   type: select
   default: []
