@@ -46,6 +46,11 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: length_of_time
+  type: text
+  config:
+    required: false
+  label: Length of time
 - name: price
   type: number
   label: Price
