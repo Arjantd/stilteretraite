@@ -6,7 +6,6 @@ to_date: 2019-09-27T22:00:00.000+00:00
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
-template: ''
 price: '875.00'
 image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
 category: weekend

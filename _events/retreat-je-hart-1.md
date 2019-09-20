@@ -1,7 +1,7 @@
 ---
 location: _locations/avant-spirit-velp-grave.md
 attendees: 12
-template: event
+layout: event
 title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
 from_date: 2019-12-10T23:00:00.000+00:00
