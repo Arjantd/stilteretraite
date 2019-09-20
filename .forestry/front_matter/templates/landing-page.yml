@@ -99,7 +99,7 @@ fields:
   type: blocks
   label: Sections
   template_types:
-  - title-left-text-right
+  - text-left-video-right
   config:
     min: 
     max: 
