@@ -2,6 +2,11 @@
 label: event
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: image
   type: file
   config:
@@ -11,11 +16,15 @@ fields:
     value: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
   default: ''
   label: Image
-- name: title
-  type: text
+- name: lead_text
+  type: textarea
+  default: ''
   config:
-    required: true
-  label: Title
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Lead text
 - name: location
   type: select
   default: []
