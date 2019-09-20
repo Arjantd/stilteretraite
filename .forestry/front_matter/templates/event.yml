@@ -85,15 +85,15 @@ fields:
       file: 
       path: 
   label: Category
-- name: template
+- name: layout
   type: text
   config:
     required: false
-  label: Template
+  label: Layout
   hidden: true
   default: event
 pages:
-- _events/retreat-je-hart-1.md
 - _events/retreat-your-senses.md
 - _events/retreat-je-hart.md
+- _events/retreat-je-hart-1.md
 - _events/new-1.md
