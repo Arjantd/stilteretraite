@@ -2,7 +2,7 @@
 '1': https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
 title: Retreat your senses!
 sub_heading: ''
-from_date: 2019-09-21 00:00:00 +0200
+from_date: 2019-09-20T22:00:00.000+00:00
 to_date: 2019-09-27T22:00:00.000+00:00
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
@@ -10,6 +10,8 @@ layout: event
 template: ''
 price: '875.00'
 event_image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
+category: weekend
+image: ''
 
 ---
 > Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
