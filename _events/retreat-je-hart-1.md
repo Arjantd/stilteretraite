@@ -1,5 +1,4 @@
 ---
-'1': https://static.stilteretraite.nl/uploads/Home page banner  test 1.jpg
 location: _locations/avant-spirit-velp-grave.md
 attendees: 12
 template: event
@@ -8,7 +7,6 @@ sub_heading: 'vijf daagse stilte retraite '
 from_date: 2019-12-10T23:00:00.000+00:00
 to_date: 2019-12-14T23:00:00.000+00:00
 price: '645.00'
-event_image: ''
 image: ''
 category: 1-day
 length_of_time: 1 dag
