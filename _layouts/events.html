@@ -16,7 +16,8 @@ layout: page
 </div>
 <div class="row">
     <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-        {% for event in site.events %}
+        {% assign events_sorted_by_from_date = site.events | sort: 'from_date' %}
+        {% for event in events_sorted_by_from_date %}
         {% assign location = site.locations | where:"path", event.location | first %}
         <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
             <div class="grid-item-inner">
