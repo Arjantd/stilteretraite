@@ -20,8 +20,8 @@ fields:
   default: page
   hidden: true
 pages:
-- wat-wij-beogen.md
 - over-stilte-retraite.md
+- wat-wij-beogen.md
 - magazine.md
 - over-ons.md
 - events.md
