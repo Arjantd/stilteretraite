@@ -1,6 +1,6 @@
 ---
 title: Agenda
-layout: events
+layout: event
 textline: Events
 image: https://static.stilteretraite.nl/uploads/Page banner smal 3.jpg
 menu:

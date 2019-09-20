@@ -14,3 +14,5 @@ fields:
   label: Layout
   hidden: true
   default: event
+pages:
+- events.md
