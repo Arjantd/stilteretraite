@@ -2,6 +2,12 @@
 title: Home
 layout: landing-page
 hero_slider:
+- image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
+  title: Het mooiste cadeau aan jezelf
+  sub_heading: sssssssssssss ssssssssssssssssssssss sssssssssssssssssssss sssssssssssssssss
+  buttons:
+  - text: Lees meer
+    link: _videos/Voor wie is een stilte retraite?.md
 - image: https://static.stilteretraite.nl/uploads/slotjes banner 2.jpg
   title: Verlangen naar stilte
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
