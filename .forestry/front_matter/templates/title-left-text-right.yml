@@ -16,3 +16,23 @@ fields:
     schema:
       format: markdown
   label: Text
+- name: video
+  type: field_group
+  config: {}
+  fields:
+  - name: link
+    type: text
+    config:
+      required: true
+    label: Link
+  - name: thumbnail
+    type: file
+    config:
+      maxSize: 250
+    label: Thumbnail
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+  label: Video
