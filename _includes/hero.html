@@ -11,12 +11,16 @@
 						<div class="flex-caption-table">
 							<div class="flex-caption-cell">
 								<div class="flex-caption-text">
-									<h2>{{ hero_slider_item.title }}</h2>
-									<p>{{ hero_slider_item.sub_heading }}</p>
-									{% for button in hero_slider_item.buttons %}
-									{% assign document = site.documents | where:"path", button.link | first %}
-									<a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
-									{% endfor %}
+									<div class="row">
+										<div class="col-md-5">
+											<h2>{{ hero_slider_item.title }}</h2>
+											<p>{{ hero_slider_item.sub_heading }}</p>
+											{% for button in hero_slider_item.buttons %}
+											{% assign document = site.documents | where:"path", button.link | first %}
+											<a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
+											{% endfor %}
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
