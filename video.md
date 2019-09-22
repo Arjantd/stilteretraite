@@ -2,10 +2,11 @@
 title: Video
 description: Video's van de stilte retraite locaties
 publish_date: '2017-12-01T04:00:00.000+00:00'
-layout: videos
+layout: video
 textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte filmpjes
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
 image: https://static.stilteretraite.nl/uploads/Page banner smal 4.jpeg
+videos: []
 menu:
   navigation:
     identifier: _video

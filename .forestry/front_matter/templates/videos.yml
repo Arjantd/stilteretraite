@@ -19,3 +19,5 @@ fields:
       type: pages
       section: videos
   label: Videos
+pages:
+- video.md
