@@ -8,15 +8,15 @@ from_date: 2019-12-10T23:00:00.000+00:00
 to_date: 2019-12-14T23:00:00.000+00:00
 price: '645.00'
 image: https://static.stilteretraite.nl/uploads/Event -grave2.jpg
-category: 1-day
-length_of_time: 1 dag
+category: 5-days
+length_of_time: 5 dagen
 lead_text: ''
 
 ---
 #### **In de stilte opent zich puur ervaren**
 
-> Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.  
->   
+> Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
+>
 > ![](https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg)
 
 **Re-treat je hart!**
