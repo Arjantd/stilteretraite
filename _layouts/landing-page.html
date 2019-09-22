@@ -18,7 +18,7 @@ layout: default
 					{% assign template = block.template %}
 					{% case template %}
 					{% when 'text-left-video-right' %}
-						{% include blocks/text-left-video-right.html title=block.title text=block.text video=block.video %}
+						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
 					{% endcase %}
 				{% endfor %}
 			</div>
