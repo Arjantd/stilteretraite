@@ -6,23 +6,16 @@ layout: page
 	the _videos/ collection
 {% endcomment %}
 
-<!-- Main Content -->
-<div id="main-container">
-    <div class="content">
-        <div class="container">
-            <div class="row">
-                <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-                    {% for page_video in page.videos %}
-                    {% assign video = site.videos | where:"path", page_video | first %}
-                    <li class="col-md-6 col-sm-6 col-xs-6 grid-item gallery-grid-item videos format-video">
-                        <a href="{{ video.link }}" class="media-box magnific-video"> <img src="{{ video.thumbnail | absolute_url}}" alt=""> </a>
-                        <div class="grid-item-content">
-                            <p>{{ video.caption }}</p>
-                        </div>
-                    </li>
-                    {% endfor %}
-                </ul>
+<div class="row">
+    <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
+        {% for page_video in page.videos %}
+        {% assign video = site.videos | where:"path", page_video | first %}
+        <li class="col-md-6 col-sm-6 col-xs-6 grid-item gallery-grid-item videos format-video">
+            <a href="{{ video.link }}" class="media-box magnific-video"> <img src="{{ video.thumbnail | absolute_url}}" alt=""> </a>
+            <div class="grid-item-content">
+                <p>{{ video.caption }}</p>
             </div>
-        </div>
-    </div>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
