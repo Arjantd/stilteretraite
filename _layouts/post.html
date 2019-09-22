@@ -5,15 +5,16 @@ layout: default
 	This layout is used by the documents in the _posts/ collection
 {% endcomment %}
 
+{% assign events_document = site.pages | where:"path", "magazine.md" | first %}
 <!-- Hero Area -->
 <div class="hero-area">
-  <div class="page-banner parallax" style="background-image:url(images/inside8.jpg);">
-    <div class="container">
-      <div class="page-banner-text">
-        <h1 class="block-title">Magazine</h1>
-      </div>
+    <div class="page-banner parallax" style="background-image:url('{{ events_document.image }}');">
+        <div class="container">
+            <div class="page-banner-text">
+                <h1 class="block-title">{{ events_document.title }}</h1>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
 <!-- Main Content -->
 <div id="main-container">
@@ -42,7 +43,7 @@ layout: default
           <section class="about-author">
             <img src="{{ author.thumbnail }}" alt="avatar" class="img-thumbnail">
             <div class="post-author-content">
-                <h3>{{ author.title }} <span class="label label-primary">Author</span></h3>
+                <h3>{{ author.title }} <span class="label label-primary">Schrijver</span></h3>
                 <p>{{ author.content }}</p>
             </div>
           </section>
