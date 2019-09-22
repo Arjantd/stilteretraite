@@ -7,9 +7,10 @@ attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
 price: '875.00'
-image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
+image: https://static.stilteretraite.nl/uploads/event - italie.jpg
 category: weekend
-image: ''
+lead_text: ''
+length_of_time: ''
 
 ---
 > Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
