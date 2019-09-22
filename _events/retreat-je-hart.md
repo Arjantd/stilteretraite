@@ -9,10 +9,10 @@ layout: event
 price: 250
 image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
 category: 5-days
-length_of_time: ''
-lead_text: |-
-  fwefewfrgj reigjre grei
-  gjreigjiregjr iejgier
+length_of_time: 5 dagen
+lead_text: 'Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus
+  hendrerit finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc.
+  Aenean enim magna, volutpat in convallis a, vehicula quis libero. '
 
 ---
 Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean enim magna, volutpat in convallis a, vehicula quis libero. Vestibulum sodales, ipsum sed porta rhoncus, est odio fermentum enim, et ultrices lorem tortor a tellus. Donec convallis sit amet ante quis posuere. Etiam quis tortor sed urna faucibus tempor a sed lectus. Maecenas eleifend tempus ultricies. Donec suscipit urna vitae metus pulvinar aliquet. Pellentesque non ultrices lacus, eu efficitur enim. Mauris pharetra gravida finibus. Etiam felis tortor, accumsan at erat in, molestie ultrices libero. Quisque gravida hendrerit vestibulum. Mauris faucibus elementum facilisis.
