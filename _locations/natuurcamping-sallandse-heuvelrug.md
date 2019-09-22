@@ -1,4 +1,4 @@
 ---
-title: Natuurcamping Sallandse heuvelrug
+title: Natuurcamping Salland
 
 ---
