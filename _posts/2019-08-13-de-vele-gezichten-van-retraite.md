@@ -9,7 +9,7 @@ banner_image: https://static.stilteretraite.nl/uploads/blog 5.jpg
 related_posts: []
 lead_text: 'Retraites zijn big business. Een kritisch en reflexief geluid van een
   specialist op dit gebied: Robbert van Bruggen. Want wie is klaar voor de Ware Confrontatie
-  in de échte stilte-retraite? Robbert schreef er over in Koorddanser (kd.nl).'
+  in de échte stilte-retraite? '
 
 ---
 > Retraites zijn big business. Een kritisch en reflexief geluid van een specialist op dit gebied: Robbert van Bruggen. Want wie is klaar voor de Ware Confrontatie in de échte stilte-retraite? Robbert van Bruggen schreef er over in Koorddanser (kd.nl).
