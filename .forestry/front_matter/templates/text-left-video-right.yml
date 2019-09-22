@@ -37,6 +37,25 @@ fields:
     label: Caption
   - name: buttons
     type: field_group_list
+    fields:
+    - name: text
+      type: text
+      config:
+        required: true
+      label: Text
+      default: Text
+    - name: link
+      type: select
+      default: index.md
+      config:
+        required: true
+        options: []
+        source:
+          type: pages
+          section: 
+          file: 
+          path: 
+      label: Link
     config:
       min: ''
       max: 
