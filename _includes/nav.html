@@ -6,8 +6,8 @@
 
 <a href="#" class="visible-sm visible-xs" id="menu-toggle"><i class="fa fa-bars"></i></a>
 <ul class="sf-menu dd-menu pull-right" role="menu">
-    {% assign nav_level_1 = site.menus.navigation | where: 'parent', nil %}
-    {% for link in nav_level_1 %}
+  {% for link in site.menus.navigation %}
+    {% if link.parent == nil %}
     <li><a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>{{ link.title }}</a>
       {% assign nav_level_2 = site.menus.navigation | where: 'parent', link.identifier %}
       {% if nav_level_2.size > 0 %}
@@ -18,5 +18,6 @@
           </ul>
         {% endif %}
     </li>
-    {% endfor %}
+    {% endif %}
+  {% endfor %}
 </ul>
