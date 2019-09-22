@@ -16,7 +16,7 @@
 											<h2>{{ hero_slider_item.title }}</h2>
 											<p>{{ hero_slider_item.sub_heading }}</p>
 											{% for button in hero_slider_item.buttons %}
-											{% assign document = site.documents | where:"path", button.link | first %}
+											{% assign document = site.pages | where:"path", button.link | first %}
 											<a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
 											{% endfor %}
 										</div>
