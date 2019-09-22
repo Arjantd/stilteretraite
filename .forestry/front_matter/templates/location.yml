@@ -8,5 +8,6 @@ fields:
     required: true
   label: Title
 pages:
+- _locations/natuurcamping-sallandse-heuvelrug.md
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 - _locations/avant-spirit-velp-grave.md
