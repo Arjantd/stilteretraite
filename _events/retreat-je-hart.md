@@ -7,7 +7,7 @@ attendees: 12
 location: _locations/avant-spirit-velp-grave.md
 layout: event
 price: 250
-image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
+image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
 lead_text: 'Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus
