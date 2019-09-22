@@ -2,13 +2,16 @@
 label: videos
 hide_body: true
 fields:
-- name: layout
+- name: title
   type: text
   config:
-    required: false
-  label: Layout
-  hidden: true
-  default: video
+    required: true
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - name: videos
   type: list
   config:
@@ -19,5 +22,12 @@ fields:
       type: pages
       section: videos
   label: Videos
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: video
 pages:
 - video.md
