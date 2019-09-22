@@ -12,7 +12,7 @@ lead_text: In de huidige tijd waarin we leven laten we ons zo meesleuren door he
   We zijn voortdurend onderweg van het een naar het ander.
 
 ---
-_In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis..._
+> In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis...
 
 We staan onszelf nauwelijks toe stil te staan bij waar we eigenlijk mee bezig zijn; of wat we aan het doen zijn nog wel klopt met waar we van binnen eigenlijk naar verlangen te be-leven....die innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons. Want: ‘nu even niet’. Nergens is het stil; niet om ons, niet in ons. Verslaafd als we zijn aan de voorwaartse beweging waarbij ‘to-do’ ook gedáán moet worden; en het liefst vandaag.
 
