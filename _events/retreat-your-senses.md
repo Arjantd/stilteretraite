@@ -10,7 +10,7 @@ price: '875.00'
 image: https://static.stilteretraite.nl/uploads/event - italie.jpg
 category: weekend
 lead_text: ''
-length_of_time: ''
+length_of_time: 5 dagen
 
 ---
 > Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
