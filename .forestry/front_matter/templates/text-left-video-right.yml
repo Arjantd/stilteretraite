@@ -35,4 +35,11 @@ fields:
     config:
       required: false
     label: Caption
+  - name: buttons
+    type: field_group_list
+    config:
+      min: ''
+      max: 
+      labelField: 
+    label: Buttons
   label: Video
