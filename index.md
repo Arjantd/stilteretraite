@@ -42,6 +42,9 @@ sections:
     buttons:
     - link: video.md
       text: Meer video's
+  buttons:
+  - link: wat-is-retraite.md
+    text: Lees meer
 menu:
   navigation:
     identifier: _index
