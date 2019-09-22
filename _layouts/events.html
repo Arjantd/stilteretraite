@@ -1,59 +1,79 @@
 ---
-layout: page
+layout: default
 ---
 {% comment %}
 	This layout is used to by events.md to display all of documents in
 	the _events/ collection
 {% endcomment %}
 
-<div class="grid-filter">
-    <ul class="nav nav-pills sort-source" data-sort-id="gallery" data-option-key="filter">
-        <li data-option-value="*" class="active"><a href="#"><i class="fa fa-th"></i> <span>Toon alles</span></a></li>
-        <li data-option-value=".1-day"><a href="#"><span>1 dag</span></a></li>
-        <li data-option-value=".weekend"><a href="#"><span>Weekend</span></a></li>
-        <li data-option-value=".5-days"><a href="#"><span>5 dagen</span></a></li>
-    </ul>
-</div>
-<div class="row">
-    <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-        {% assign events_sorted_by_from_date = site.events | sort: 'from_date' %}
-        {% for event in events_sorted_by_from_date %}
-        {% assign location = site.locations | where:"path", event.location | first %}
-        <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
-            <div class="grid-item-inner">
-                <a href="{{ event.url | absolute_url }}" class="media-box">
-                    <img src="{{ event.image }}" alt="">
-                </a>
-                <div class="grid-item-content">
-                    <span class="event-date">
-                        <span class="date">{{ event.from_date | date: '%d' }}</span>
-                        <span class="month">{% assign m = event.from_date | date: "%-m" %}
-                                {% case m %}
-                                    {% when '1' %}jan
-                                    {% when '2' %}feb
-                                    {% when '3' %}mrt
-                                    {% when '4' %}apr
-                                    {% when '5' %}mei
-                                    {% when '6' %}jun
-                                    {% when '7' %}jul
-                                    {% when '8' %}aug
-                                    {% when '9' %}sep
-                                    {% when '10' %}okt
-                                    {% when '11' %}nov
-                                    {% when '12' %}dec
-                                {% endcase %}</span>
-                        <span class="year">{{ event.from_date | date: '%Y' }}</span>
-                    </span>
-                    <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
-                    <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
-                    <ul class="list-group">
-                        <li class="list-group-item"><span class="badge">Tijdsduur</span>{{ event.length_of_time }}</li>
-                        <li class="list-group-item"><span class="badge">Locatie</span><span>{{ location.title }}</span></li>
-                        <li class="list-group-item"><span class="badge">Kosten</span>&euro; {{ event.price }}</li>
-                    </ul>
-                </div>
+{% assign events_document = site.documents | where:"path", "events.md" | first %}
+<!-- Hero Area -->
+<div class="hero-area">
+    <div class="page-banner parallax" style="background-image:url('{{ events_document.image }}');">
+        <div class="container">
+            <div class="page-banner-text">
+                <h1 class="block-title">{{ events_document.title }}</h1>
             </div>
-        </li>
-        {% endfor %}
-    </ul>
+        </div>
+    </div>
 </div>
+<!-- Main Content -->
+<div id="main-container">
+    <div class="content">
+        <div class="container">
+            <div class="grid-filter">
+                <ul class="nav nav-pills sort-source" data-sort-id="gallery" data-option-key="filter">
+                    <li data-option-value="*" class="active"><a href="#"><i class="fa fa-th"></i> <span>Toon alles</span></a></li>
+                    <li data-option-value=".1-day"><a href="#"><span>1 dag</span></a></li>
+                    <li data-option-value=".weekend"><a href="#"><span>Weekend</span></a></li>
+                    <li data-option-value=".5-days"><a href="#"><span>5 dagen</span></a></li>
+                </ul>
+            </div>
+            <div class="row">
+                <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
+                    {% assign events_sorted_by_from_date = site.events | sort: 'from_date' %}
+                    {% for event in events_sorted_by_from_date %}
+                    {% assign location = site.locations | where:"path", event.location | first %}
+                    <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
+                        <div class="grid-item-inner">
+                            <a href="{{ event.url | absolute_url }}" class="media-box">
+                                <img src="{{ event.image }}" alt="">
+                            </a>
+                            <div class="grid-item-content">
+                                <span class="event-date">
+                                    <span class="date">{{ event.from_date | date: '%d' }}</span>
+                                    <span class="month">{% assign m = event.from_date | date: "%-m" %}
+                                            {% case m %}
+                                                {% when '1' %}jan
+                                                {% when '2' %}feb
+                                                {% when '3' %}mrt
+                                                {% when '4' %}apr
+                                                {% when '5' %}mei
+                                                {% when '6' %}jun
+                                                {% when '7' %}jul
+                                                {% when '8' %}aug
+                                                {% when '9' %}sep
+                                                {% when '10' %}okt
+                                                {% when '11' %}nov
+                                                {% when '12' %}dec
+                                            {% endcase %}</span>
+                                    <span class="year">{{ event.from_date | date: '%Y' }}</span>
+                                </span>
+                                <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
+                                <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
+                                <ul class="list-group">
+                                    <li class="list-group-item"><span class="badge">Tijdsduur</span>{{ event.length_of_time }}</li>
+                                    <li class="list-group-item"><span class="badge">Locatie</span><span>{{ location.title }}</span></li>
+                                    <li class="list-group-item"><span class="badge">Kosten</span>&euro; {{ event.price }}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
