@@ -14,7 +14,7 @@ layout: default
 	<div class="content">
 		<div class="lgray-bg padding-tb75">
 			<div class="container">
-				{% for block in page.lightgray-background-blocks %}
+				{% for block in page.sections %}
 					{% assign template = block.template %}
 					{% case template %}
 					{% when 'text-left-video-right' %}

@@ -28,7 +28,7 @@ featured_links:
   text: over ons
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
-lightgray-background-blocks:
+sections:
 - template: text-left-video-right
   title: Verlangen naar stilte
   text: |-
