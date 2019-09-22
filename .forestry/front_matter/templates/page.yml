@@ -20,10 +20,10 @@ fields:
   default: page
   hidden: true
 pages:
+- magazine.md
 - wat-is-retraite.md
 - over-stilte-retraite.md
 - wat-wij-beogen.md
-- magazine.md
 - over-ons.md
 - video.md
 - contact.md
