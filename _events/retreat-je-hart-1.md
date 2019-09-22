@@ -7,9 +7,10 @@ sub_heading: 'vijf daagse stilte retraite '
 from_date: 2019-12-10T23:00:00.000+00:00
 to_date: 2019-12-14T23:00:00.000+00:00
 price: '645.00'
-image: ''
+image: https://static.stilteretraite.nl/uploads/Event -grave2.jpg
 category: 1-day
 length_of_time: 1 dag
+lead_text: ''
 
 ---
 #### **In de stilte opent zich puur ervaren**
