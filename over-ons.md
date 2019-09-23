@@ -11,10 +11,12 @@ icon_boxes:
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
+  link: wat-wij-beogen.md
 - title: Titel 1
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
     beetje gevuld uitzien.
   icon: fas fa-american-sign-language-interpreting
+  link: ''
 menu:
   navigation:
     identifier: _over_ons
