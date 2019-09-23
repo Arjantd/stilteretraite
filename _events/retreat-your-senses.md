@@ -8,7 +8,7 @@ location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
 price: '875.00'
 image: https://static.stilteretraite.nl/uploads/event - italie.jpg
-category: weekend
+category: 5-days
 lead_text: ''
 length_of_time: 5 dagen
 
