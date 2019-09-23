@@ -16,6 +16,7 @@ sections:
   create: all
   templates:
   - landing-page
+  - overview
   - page
   - videos
   - events

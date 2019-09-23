@@ -100,7 +100,6 @@ fields:
   label: Sections
   template_types:
   - text-left-video-right
-  - icon-boxes
   config:
     min: 
     max: 
