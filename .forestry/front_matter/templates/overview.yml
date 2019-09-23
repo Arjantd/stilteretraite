@@ -21,16 +21,9 @@ fields:
         format: markdown
     label: Text
   - name: icon
-    type: select
-    default: []
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: documents
-        section: font-awesome-icons-bd3382b3-ea94-4048-ae30-99df2a998640
-        file: _data/fa-icons.yml
-        path: icons
     label: Icon
   config:
     min: 
