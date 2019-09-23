@@ -11,6 +11,18 @@ fields:
       required: true
     label: Title
     default: Title
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: 
+        file: 
+        path: 
+    label: Link
   - name: text
     type: textarea
     default: Text
