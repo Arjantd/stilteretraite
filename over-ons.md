@@ -3,16 +3,17 @@ title: Over ons
 description: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
 publish_date: '2017-12-01T04:00:00.000+00:00'
-layout: page
+layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 icon_boxes:
+- title: Wat wij beogen
+  text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
+    het goed op de overzichtspagina past.
 - title: Titel 1
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
     beetje gevuld uitzien.
-- text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
-    het goed op de overzichtspagina past.
-  title: Wat wij beogen
+  
 menu:
   navigation:
     identifier: _over_ons
