@@ -1,4 +1,24 @@
 ---
 label: icon-boxes
 hide_body: true
-fields: []
+fields:
+- name: icon_boxes
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
+    default: Title
+  - name: text
+    type: text
+    config:
+      required: true
+    label: Text
+    default: Text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Icon boxes
