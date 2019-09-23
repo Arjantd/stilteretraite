@@ -10,12 +10,10 @@ hero_slider:
   buttons:
   - text: Lees meer
     link: over-stilte-retraite.md
-- image: https://static.stilteretraite.nl/uploads/Original EVENTS.jpg
+- image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
   title: Het mooiste cadeau aan jezelf
-  sub_heading: sssssssssssss ssssssssssssssssssssss sssssssssssssssssssss sssssssssssssssss
-  buttons:
-  - text: Lees meer
-    link: _videos/Voor wie is een stilte retraite?.md
+  sub_heading: ''
+  buttons: []
 featured_links:
 - link: over-stilte-retraite.md
   small_text: Alles wat je wil weten over
