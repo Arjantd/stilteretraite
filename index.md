@@ -43,6 +43,16 @@ sections:
   buttons:
   - link: wat-is-retraite.md
     text: Lees meer
+- template: owl-carousel-image-left-story-right
+  items:
+  - image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
+    title: Dit is een test titel
+    text: Proin tempor arcu ut dignissim laoreet. Phasellus sit amet commodo est.
+      Vivamus nec lectus odio. In hac habitasse platea dictumst. Aliquam vehicula
+      sed dolor vitae efficitur. Maecenas eleifend ligula id nunc tempus scelerisque.
+      Proin efficitur fermentum urna eu dignissim. Duis maximus ex orci, nec sodales
+      justo tempor in.
+    link: _locations/natuurcamping-sallandse-heuvelrug.md
 menu:
   navigation:
     identifier: _index
