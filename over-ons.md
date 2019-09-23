@@ -7,6 +7,9 @@ layout: page
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 icon_boxes:
+- title: Titel 1
+  text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
+    beetje gevuld uitzien.
 - text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
   title: Wat wij beogen
