@@ -20,9 +20,8 @@ layout: default
 					{% when 'text-left-video-right' %}
 						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
 					{% when 'owl-carousel-image-left-story-right' %}
-						{% include blocks/owl-carousel-image-left-story.html title=block.title text=block.text buttons=block.buttons video=block.video %}
-						
-						{% endcase %}
+						{% include blocks/owl-carousel-image-left-story.html items=block.items %}
+					{% endcase %}
 				{% endfor %}
 			</div>
 		</div>
