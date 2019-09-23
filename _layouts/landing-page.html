@@ -19,7 +19,10 @@ layout: default
 					{% case template %}
 					{% when 'text-left-video-right' %}
 						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
-					{% endcase %}
+					{% when 'owl-carousel-image-left-story-right' %}
+						{% include blocks/owl-carousel-image-left-story.html title=block.title text=block.text buttons=block.buttons video=block.video %}
+						
+						{% endcase %}
 				{% endfor %}
 			</div>
 		</div>
