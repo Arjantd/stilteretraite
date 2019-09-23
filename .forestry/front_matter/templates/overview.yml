@@ -12,11 +12,14 @@ fields:
     label: Title
     default: Title
   - name: text
-    type: text
+    type: textarea
+    default: Text
     config:
       required: true
+      wysiwyg: false
+      schema:
+        format: markdown
     label: Text
-    default: Text
   - name: icon
     type: select
     default: []
