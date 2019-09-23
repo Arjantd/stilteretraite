@@ -19,6 +19,8 @@ layout: default
 					{% case template %}
 					{% when 'text-left-video-right' %}
 						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
+					{% when 'icon-boxes' %}
+						{% include blocks/icon-boxes.html %}
 					{% endcase %}
 				{% endfor %}
 			</div>
