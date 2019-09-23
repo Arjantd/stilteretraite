@@ -14,7 +14,7 @@ icon_boxes:
 - title: Titel 1
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
     beetje gevuld uitzien.
-  icon: ''
+  icon: fas fa-american-sign-language-interpreting
 menu:
   navigation:
     identifier: _over_ons
