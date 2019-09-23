@@ -13,17 +13,14 @@ layout: default
 <div id="main-container">
 	<div class="content">
 		<div class="lgray-bg padding-tb75">
-			<div class="container">
-				{% for block in page.sections %}
-					{% assign template = block.template %}
-					{% case template %}
-					{% when 'text-left-video-right' %}
-						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
-					{% when 'owl-carousel-image-left-story-right' %}
-						{% include blocks/owl-carousel-image-left-story.html items=block.items %}
-					{% endcase %}
-				{% endfor %}
-			</div>
+			{% for block in page.sections %}
+				{% case block.template %}
+				{% when 'text-left-video-right' %}
+					{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
+				{% when 'owl-carousel-image-left-story-right' %}
+					{% include blocks/owl-carousel-image-left-story-right.html items=block.items %}
+				{% endcase %}
+			{% endfor %}
 		</div>
 	</div>
 </div>

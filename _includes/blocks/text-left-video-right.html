@@ -1,19 +1,21 @@
-<div class="row">
-    <div class="col-md-5 col-sm-5">
-        <h2 class="block-title">{{ include.title }}</h2>
-        <p>{{ include.text | markdownify }}</p>
-        {% for button in include.buttons %}
-        {% assign document = site.pages | where:"path", button.link | first %}
-        <a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
-        {% endfor %}
-    </div>
-    <div class="col-md-6 col-sm-6 col-md-offset-1 col-md-offset-1">
-        <a href="{{ include.video.link }}" class="media-box magnific-video"> <img src="{{ include.video.thumbnail | absolute_url}}" alt="{{ include.video.caption }}"> </a>
-        <div class="grid-item-content">
-            {% for button in include.video.buttons %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-5 col-sm-5">
+            <h2 class="block-title">{{ include.title }}</h2>
+            <p>{{ include.text | markdownify }}</p>
+            {% for button in include.buttons %}
             {% assign document = site.pages | where:"path", button.link | first %}
             <a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
             {% endfor %}
+        </div>
+        <div class="col-md-6 col-sm-6 col-md-offset-1 col-md-offset-1">
+            <a href="{{ include.video.link }}" class="media-box magnific-video"> <img src="{{ include.video.thumbnail | absolute_url}}" alt="{{ include.video.caption }}"> </a>
+            <div class="grid-item-content">
+                {% for button in include.video.buttons %}
+                {% assign document = site.pages | where:"path", button.link | first %}
+                <a href="{{ document.url || absolute_url }}" class="btn btn-primary">{{ button.text }}</a>
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>
