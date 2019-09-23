@@ -24,10 +24,10 @@ fields:
       required: false
       options: []
       source:
-        type: pages
-        section: font-awesome-icons
-        file: 
-        path: 
+        type: documents
+        section: font-awesome-icons-bd3382b3-ea94-4048-ae30-99df2a998640
+        file: _data/fa-icons.yml
+        path: icons
     label: Icon
   config:
     min: 
