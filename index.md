@@ -10,7 +10,7 @@ hero_slider:
   buttons:
   - text: Lees meer
     link: over-stilte-retraite.md
-- image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
+- image: https://static.stilteretraite.nl/uploads/Original EVENTS.jpg
   title: Het mooiste cadeau aan jezelf
   sub_heading: sssssssssssss ssssssssssssssssssssss sssssssssssssssssssss sssssssssssssssss
   buttons:
