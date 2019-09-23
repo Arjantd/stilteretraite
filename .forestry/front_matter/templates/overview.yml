@@ -17,6 +17,18 @@ fields:
       required: true
     label: Text
     default: Text
+  - name: icon
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: font-awesome-icons
+        file: 
+        path: 
+    label: Icon
   config:
     min: 
     max: 
