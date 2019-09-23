@@ -6,6 +6,10 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: page
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
+icon_boxes:
+- text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
+    het goed op de overzichtspagina past.
+  title: Wat wij beogen
 menu:
   navigation:
     identifier: _over_ons
