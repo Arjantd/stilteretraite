@@ -1,4 +1,3 @@
 ---
 icons:
-  - className: fab fa-accessible-icon
-  - className: fas fa-american-sign-language-interpreting
+  className: fab fa-accessible-icon
