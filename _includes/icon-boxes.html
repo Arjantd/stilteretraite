@@ -1,5 +1,6 @@
 
 {% for icon_box in include.icon_boxes %}
+    {% assign link_page = site.pages | where:"path", icon_box.link | first %}
     {% if forloop.first %}
     <div class="text-align-left">
         <div class="spacer-50"></div>
@@ -11,7 +12,7 @@
             <div class="ibox-icon">
                 <i class="{{ icon_box.icon }}"></i>
             </div>
-            <h3>{{ icon_box.title }}</h3>
+            <a href="{{ link_page.url }}"><h3>{{ icon_box.title }}</h3></a>
             <p>{{ icon_box.text }}</p>
         </div>
     </div>
