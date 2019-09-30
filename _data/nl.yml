@@ -1,0 +1,20 @@
+short_months:
+  - jan
+  - feb
+  - mrt
+  - apr
+  - mei
+  - jun
+  - jul
+  - aug
+  - sep
+  - okt
+  - nov
+  - dec
+weekdays:
+  - zondag
+  - maandag
+  - dinsdag
+  - woensdag
+  - donderdag
+  - vrijdag
