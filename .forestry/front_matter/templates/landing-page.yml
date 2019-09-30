@@ -101,6 +101,7 @@ fields:
   template_types:
   - text-left-video-right
   - owl-carousel-image-left-story-right
+  - upcoming-events-left-latest-blogs-right
   config:
     min: 
     max: 

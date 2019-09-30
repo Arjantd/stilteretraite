@@ -19,6 +19,8 @@ layout: default
 					{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
 				{% when 'owl-carousel-image-left-story-right' %}
 					{% include blocks/owl-carousel-image-left-story-right.html items=block.items %}
+				{% when 'upcoming-events-left-latest-blogs-right' %}
+					{% include blocks/upcoming-events-left-latest-blogs-right.html events=block.events posts=block.posts %}
 				{% endcase %}
 			{% endfor %}
 		</div>
