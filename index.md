@@ -53,6 +53,7 @@ sections:
       Proin efficitur fermentum urna eu dignissim. Duis maximus ex orci, nec sodales
       justo tempor in.
     link: _locations/natuurcamping-sallandse-heuvelrug.md
+- template: upcoming-events-left-latest-blogs-right
 menu:
   navigation:
     identifier: _index
