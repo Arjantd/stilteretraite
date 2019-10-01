@@ -54,6 +54,11 @@ sections:
       Proin efficitur fermentum urna eu dignissim. Duis maximus ex orci, nec sodales
       justo tempor in.
     link: _locations/natuurcamping-sallandse-heuvelrug.md
+- template: blue-bar
+  button:
+    link: _videos/Voor wie is een stilte retraite?.md
+    text: Meld je aan
+  text: Let's start doing your bit for yourself.
 menu:
   navigation:
     identifier: _index
