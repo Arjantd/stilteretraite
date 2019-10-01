@@ -27,21 +27,7 @@ layout: page
                 <div class="grid-item-content">
                     <span class="event-date">
                         <span class="date">{{ event.from_date | date: '%d' }}</span>
-                        <span class="month">{% assign m = event.from_date | date: "%-m" %}
-                                {% case m %}
-                                    {% when '1' %}jan
-                                    {% when '2' %}feb
-                                    {% when '3' %}mrt
-                                    {% when '4' %}apr
-                                    {% when '5' %}mei
-                                    {% when '6' %}jun
-                                    {% when '7' %}jul
-                                    {% when '8' %}aug
-                                    {% when '9' %}sep
-                                    {% when '10' %}okt
-                                    {% when '11' %}nov
-                                    {% when '12' %}dec
-                                {% endcase %}</span>
+                        <span class="month">{% assign m = event.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
                         <span class="year">{{ event.from_date | date: '%Y' }}</span>
                     </span>
                     <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>

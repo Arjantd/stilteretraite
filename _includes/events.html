@@ -1,0 +1,16 @@
+<ul class="events-compact-list">
+    {% for event in include.events %}
+    <li class="event-list-item">	
+        <span class="event-date">
+            <span class="date">{{ event.from_date | date: '%d' }}</span>
+            <span class="month">{% assign m = event.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
+            <span class="year">{{ event.from_date | date: '%Y' }}</span>
+        </span>
+        <div class="event-list-cont">
+            <span class="meta-data">{% assign w = event.from_date | date: "%w" | plus: 0 %}{{ site.data.nl.weekdays[w] }}, {{ event.from_date | date: '%R' }}</span>
+            <h4 class="post-title"><a href="{{ post.url | absolute_url }}">{{ event.title | escape }}</a></h4>
+            <p>{{ event.lead_text }}</p>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

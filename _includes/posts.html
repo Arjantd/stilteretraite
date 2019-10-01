@@ -1,0 +1,17 @@
+{% for post in posts %}
+<div class="blog-list-item format-standard">
+    <div class="row">
+        <div class="col-md-4 col-sm-4">
+            <a href="{{ post.url | absolute_url }}" class="media-box grid-featured-img">
+                <img src="{{ post.banner_image | absolute_url }}" alt="">
+            </a>
+        </div>
+        <div class="col-md-8 col-sm-8">
+            <h4><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h4>
+            <div class="grid-item-excerpt">
+                <p>{{ post.lead_text }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

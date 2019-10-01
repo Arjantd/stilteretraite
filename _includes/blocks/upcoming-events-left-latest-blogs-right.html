@@ -4,47 +4,16 @@
             <div class="col-md-6">
                 <h2 class="block-title">Agenda</h2>
                 <div class="spacer-20"></div>
-                <ul class="events-compact-list">
-                    {% assign events = (site.events | sort: 'from_date') | reverse %}
-                    {% for event in events %}
-                    <li class="event-list-item">	
-                        <span class="event-date">
-                            <span class="date">{{ event.from_date | date: '%d' }}</span>
-                            <span class="month">{% assign m = event.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
-                            <span class="year">{{ event.from_date | date: '%Y' }}</span>
-                        </span>
-                        <div class="event-list-cont">
-                            <span class="meta-data">{% assign w = event.from_date | date: "%w" | plus: 0 %}{{ site.data.nl.weekdays[w] }}, {{ event.from_date | date: '%R' }}</span>
-                            <h4 class="post-title"><a href="{{ post.url | absolute_url }}">{{ event.title | escape }}</a></h4>
-                            <p>{{ event.lead_text }}</p>
-                        </div>
-                    </li>
-                    {% endfor %}
-                </ul>
+                {% assign events = (site.events | sort: 'from_date') | reverse %}
+                {% include events.html events=events %}
             </div>
             <div class="spacer-40 visible-sm visible-xs"></div>
             <div class="col-md-6">
                 <h2 class="block-title">Laatste blogs</h2>
                 <div class="spacer-20"></div>
                 {% assign posts = (site.posts | sort: 'date') | reverse %}
-                {% for post in posts %}
-                <div class="blog-list-item format-standard">
-                    <div class="row">
-                        <div class="col-md-4 col-sm-4">
-                            <a href="{{ post.url | absolute_url }}" class="media-box grid-featured-img">
-                                <img src="{{ post.banner_image | absolute_url }}" alt="">
-                            </a>
-                        </div>
-                        <div class="col-md-8 col-sm-8">
-                            <h4><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h4>
-                            <div class="grid-item-excerpt">
-                                <p>{{ post.lead_text }}</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {% endfor %}
-                </div>
+                {% include posts.html posts=posts %}
+            </div>
         </div>
     </div>
 </div>
