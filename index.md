@@ -56,7 +56,7 @@ sections:
     link: _locations/natuurcamping-sallandse-heuvelrug.md
 - template: blue-bar
   button:
-    link: _videos/Voor wie is een stilte retraite?.md
+    link: over-stilte-retraite.md
     text: Meld je aan
   text: Let's start doing your bit for yourself.
 menu:
