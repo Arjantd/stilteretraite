@@ -1,4 +1,4 @@
-{% assign button_link = site.documents | where:"path", include.button.link | first %}
+{% assign button_link = site.pages | where:"path", include.button.link | first %}
 <div class="accent-bg padding-tb20 cta-fw">
     <div class="container">
         <a href="{{ button_link.url }}" class="btn btn-default btn-ghost btn-light btn-rounded pull-right">{{ include.button.text }}</a>
