@@ -102,6 +102,7 @@ fields:
   - text-left-video-right
   - owl-carousel-image-left-story-right
   - upcoming-events-left-latest-blogs-right
+  - blue-bar
   config:
     min: 
     max: 
