@@ -43,6 +43,7 @@ sections:
   buttons:
   - link: wat-is-retraite.md
     text: Lees meer
+- template: upcoming-events-left-latest-blogs-right
 - template: owl-carousel-image-left-story-right
   items:
   - image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
@@ -53,7 +54,6 @@ sections:
       Proin efficitur fermentum urna eu dignissim. Duis maximus ex orci, nec sodales
       justo tempor in.
     link: _locations/natuurcamping-sallandse-heuvelrug.md
-- template: upcoming-events-left-latest-blogs-right
 menu:
   navigation:
     identifier: _index
