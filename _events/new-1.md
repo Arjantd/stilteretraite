@@ -8,7 +8,9 @@ from_date: 2020-01-16T23:00:00.000+00:00
 to_date: 2020-01-18T23:00:00.000+00:00
 price: 349
 image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
-lead_text: ''
+lead_text: Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit
+  finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean
+  enim magna, volutpat in convallis a, vehicula quis libero.
 length_of_time: weekend
 category: weekend
 
