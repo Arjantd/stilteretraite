@@ -5,7 +5,7 @@ image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
 published: false
 
 ---
-> **RE-TREAT JE HART DEC 2017**
+> **RE-TREAT JE HART - DEC 2017**
 
 Ik zag best op tegen 96 uur stilte en had geen idee wat te verwachten. Weliswaar heb ik eerder een mindfulness-training gedaan, waarbij we aan het eind van de training ongeveer 6 uur in stilte verbleven, maar dit zou toch iets anders worden. Achteraf vind ik dat de stilte een hele fijne ervaring is geweest en dat de stilte samen met de oefeningen tijdens de retraite bijgedragen hebben om mijn behoefte aan stilte en ruimte scherper te krijgen.  
 Ik kan geen betere investering in ‘je-zelf’ bedenken dan zo’n retraite.
