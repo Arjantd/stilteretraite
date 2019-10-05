@@ -49,7 +49,7 @@ sections:
 - template: upcoming-events-left-latest-blogs-right
 - template: owl-carousel-image-left-story-right
   items:
-  - image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
+  - image: https://static.stilteretraite.nl/uploads/04.jpg
     title: Ervaringen van deelnemers
     text: 'Al meer dan 10 jaar organiseert Robbert van Bruggen onder de naam ''In
       een hutje op de hei'' diverse soorten stilte retraites. In totaal staat de teller
