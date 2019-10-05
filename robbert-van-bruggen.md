@@ -2,7 +2,6 @@
 layout: page
 title: Robbert van Bruggen
 image: https://static.stilteretraite.nl/uploads/robbert1.jpg
-published: false
 
 ---
 **Over Robbert van Bruggen**  
