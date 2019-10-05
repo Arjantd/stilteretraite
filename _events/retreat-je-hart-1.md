@@ -12,7 +12,7 @@ category: 5-days
 length_of_time: 5 dagen
 lead_text: Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit
   finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean
-  enim magna, volutpat in convallis a, vehicula quis libero.
+  enim magna.
 
 ---
 #### **In de stilte opent zich puur ervaren**
