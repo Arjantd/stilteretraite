@@ -31,12 +31,12 @@ sections:
   title: Verlangen naar stilte
   text: "Weten we nog wel wat stilte is? In de huidige tijd waarin we leven laten
     we ons zo meesleuren door het collectieve ritme, dat we vaak het gevoel hebben
-    ‘geleefd te worden’. Op onbewaakte ogenblikken vragen we ons af of wat we aan
-    het doen zijn nog wel klopt met waar we van binnen eigenlijk naar verlangen. Maar
-    onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in
-    ons. Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid.   \n  \nVanuit
-    deze context dient zich soms een verlangen naar stilte, ruimte en bezinning aan.
-    En misschien ben je daarom ook wel op deze website aanbelandt."
+    ‘geleefd te worden’. We vragen ons af of wat we aan het doen zijn nog wel klopt
+    met waar we van binnen eigenlijk naar verlangen. Maar onze innerlijke fluisterstem
+    wordt stelselmatig overstemd door de aanjager in ons. Langzaam maar zeker ontwikkelt
+    zich een chronische vermoeidheid.   \n  \nVanuit deze context dient zich soms
+    een verlangen naar stilte, ruimte en bezinning aan. En misschien ben je daarom
+    ook wel op deze website aanbelandt."
   video:
     link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
     thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
