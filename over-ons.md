@@ -7,6 +7,11 @@ layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 icon_boxes:
+- title: Jouw initiatief op stilteretraite.nl
+  link: []
+  text: 'Stilretraite.nl deelt graag haar ruimte met anderen. Heb jij een initiatief
+    dat in lijn is met wat stilteretraite.nl beoogt? '
+  icon: ''
 - title: Wat wij beogen
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
