@@ -29,10 +29,15 @@ image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 sections:
 - template: text-left-video-right
   title: Verlangen naar stilte
-  text: |-
-    Weten we nog wel wat stilte is? In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We staan onszelf nauwelijks toe om stil te staan bij waar we eigenlijk mee bezig zijn. En: of wat we aan het doen zijn nog wel klopt met waar we van binnen eigenlijk naar verlangen. Onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons.
-
-    Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil; niet om ons, niet in ons.
+  text: "Weten we nog wel wat stilte is? We laten ons zo meesleuren door het collectieve
+    ritme, dat we vaak het gevoel hebben ‘geleefd te worden’. Op onbewaakte ogenblikken
+    vragen we ons af of wat we aan het doen zijn nog wel klopt met waar we van binnen
+    eigenlijk naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig
+    overstemd door de aanjager in ons. Langzaam maar zeker ontwikkelt zich een chronische
+    vermoeidheid, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens
+    is het stil; niet om ons, niet in ons.  \n  \nVanuit deze context dient zich op
+    enig moment een verlangen naar stilte, ruimte en bezinning aan. En misschien ben
+    je daarom ook wel op deze website aanbelandt."
   video:
     link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
     thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
