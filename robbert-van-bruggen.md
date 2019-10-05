@@ -2,6 +2,10 @@
 layout: page
 title: Robbert van Bruggen
 image: https://static.stilteretraite.nl/uploads/robbert1.jpg
+menu:
+  navigation:
+    weight: 2
+    parent: _over_ons
 
 ---
 **Over Robbert van Bruggen**  
