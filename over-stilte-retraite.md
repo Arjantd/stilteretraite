@@ -39,5 +39,6 @@ menu:
   navigation:
     identifier: _over_stilte_retraite
     weight: 2
+    title: Stilte retraite
 
 ---

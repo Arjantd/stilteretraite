@@ -2,6 +2,10 @@
 layout: page
 title: Over retraite
 image: ''
+menu:
+  navigation:
+    weight: 1
+    parent: _over_stilte_retraite
 
 ---
 **Verlangen naar stilte**
