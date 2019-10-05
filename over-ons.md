@@ -12,7 +12,7 @@ icon_boxes:
   text: 'Stilretraite.nl deelt graag haar ruimte met anderen. Heb jij een initiatief
     dat in lijn is met wat stilteretraite.nl beoogt? '
   icon: fab fa-accessible-icon
-- title: Wat wij beogen
+- title: Locaties
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
