@@ -7,6 +7,11 @@ layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 icon_boxes:
+- title: Robbert van Bruggen
+  link: []
+  text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
+    zodat het goed op de overzichtspagina past.
+  icon: ''
 - title: Huidig team
   link: []
   text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
