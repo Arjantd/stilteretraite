@@ -13,7 +13,7 @@ icon_boxes:
     het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
 - title: Robbert van Bruggen
-  link: Robbert van Bruggen.md
+  link: _people/robbert-van-bruggen.md
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
     zodat het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
