@@ -50,13 +50,15 @@ sections:
 - template: owl-carousel-image-left-story-right
   items:
   - image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
-    title: Dit is een test titel
-    text: Proin tempor arcu ut dignissim laoreet. Phasellus sit amet commodo est.
-      Vivamus nec lectus odio. In hac habitasse platea dictumst. Aliquam vehicula
-      sed dolor vitae efficitur. Maecenas eleifend ligula id nunc tempus scelerisque.
-      Proin efficitur fermentum urna eu dignissim. Duis maximus ex orci, nec sodales
-      justo tempor in.
-    link: _locations/natuurcamping-sallandse-heuvelrug.md
+    title: Ervaringen van deelnemers
+    text: 'Al meer dan 10 jaar organiseert Robbert van Bruggen onder de naam ''In
+      een hutje op de hei'' diverse soorten stilte retraites. In totaal staat de teller
+      inmiddels op 47! Eerst vonden deze plaats in Schin op Geul: later ook in het
+      Italiaanse Ca du Chittu, op de Veluwe en ook bij Avant Spirit, in het voormalig
+      Emmausklooster te Velp (NB). Deelnemers koesteren haast unaniem warme herinneringen
+      aan hun deelname(s) en daar zijn we maar wat trots op! Een willekeurige greep
+      uit hun persoonlijke ervaringen vind je hie. r      '
+    link: ervaringen.md
 - template: blue-bar
   button:
     link: over-stilte-retraite.md
