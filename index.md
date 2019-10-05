@@ -35,7 +35,7 @@ sections:
     Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil; niet om ons, niet in ons.
   video:
     link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
-    thumbnail: https://static.stilteretraite.nl/uploads/robbert1.jpg
+    thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
     caption: Wat gebeurt er tijdens een retraite?
     buttons:
     - link: video.md
