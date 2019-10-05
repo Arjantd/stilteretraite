@@ -15,4 +15,5 @@ fields:
   hidden: true
   default: event
 pages:
+- Robbert van Bruggen.md
 - events.md
