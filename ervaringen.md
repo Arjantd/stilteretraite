@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ervaringen
-image: ''
+image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
 published: false
 
 ---
