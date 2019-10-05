@@ -11,7 +11,7 @@ hero_slider:
   - text: Lees meer
     link: over-stilte-retraite.md
 - image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
-  title: Het mooiste cadeau aan jezelf
+  title: Het mooiste cadeau dat je jezelf kunt geven
   sub_heading: ''
   buttons: []
 featured_links:
