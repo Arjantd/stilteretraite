@@ -29,7 +29,7 @@ image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 sections:
 - template: text-left-video-right
   title: Verlangen naar stilte
-  text: Weten we nog wel wat stilte is? We laten ons zo meesleuren door het collectieve
+  text: Weten we nog wel wat stilte is? Vaak laten we ons zo meesleuren door het collectieve
     ritme, dat we vaak het gevoel hebben ‘geleefd te worden’. Op onbewaakte ogenblikken
     vragen we ons af of wat we aan het doen zijn nog wel klopt met waar we van binnen
     eigenlijk naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig
