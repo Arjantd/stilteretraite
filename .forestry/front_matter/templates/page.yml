@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- over-retraite.md
 - wat-wij-beogen.md
 - contact.md
 - magazine.md
