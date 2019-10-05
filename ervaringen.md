@@ -2,6 +2,10 @@
 layout: page
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
+menu:
+  navigation:
+    weight: 3
+    parent: item_AaxzyLL
 
 ---
 > **RE-TREAT JE HART - DEC 2017**
