@@ -36,9 +36,5 @@ icon_boxes:
 menu:
   footer:
     weight: 2
-  navigation:
-    identifier: _over_stilte_retraite
-    weight: 2
-    title: Stilte retraite
 
 ---
