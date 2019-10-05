@@ -13,6 +13,5 @@ lead_text: Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus
   enim magna.
 length_of_time: weekend
 category: weekend
-published: false
 
 ---
