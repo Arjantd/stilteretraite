@@ -32,8 +32,7 @@ sections:
   text: "Weten we nog wel wat stilte is? In de huidige tijd waarin we leven laten
     we ons zo meesleuren door het collectieve ritme, dat we vaak het gevoel hebben
     ‘geleefd te worden’. We vragen ons af of wat we aan het doen zijn nog wel klopt
-    met waar we van binnen eigenlijk naar verlangen. Maar onze innerlijke fluisterstem
-    wordt stelselmatig overstemd door de aanjager in ons. Langzaam maar zeker ontwikkelt
+    met waar we van binnen eigenlijk naar verlangen. Langzaam maar zeker ontwikkelt
     zich een chronische vermoeidheid.   \n  \nVanuit deze context dient zich soms
     een verlangen naar stilte, ruimte en bezinning aan. En misschien ben je daarom
     ook wel op deze website aanbelandt."
