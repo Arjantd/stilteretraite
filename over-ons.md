@@ -17,7 +17,7 @@ icon_boxes:
     het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
   link: wat-wij-beogen.md
-- title: Titel 1
+- title: Robbert van Bruggen
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
     beetje gevuld uitzien.
   icon: fas fa-american-sign-language-interpreting
