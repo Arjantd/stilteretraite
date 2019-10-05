@@ -8,7 +8,7 @@ show_staff: true
 image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 icon_boxes:
 - title: Wat wij beogen
-  link: []
+  link: wat-wij-beogen.md
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
   icon: fab fa-accessible-icon
