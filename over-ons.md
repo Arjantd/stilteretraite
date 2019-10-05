@@ -11,7 +11,7 @@ icon_boxes:
   link: []
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: ''
+  icon: fab fa-accessible-icon
 - title: Robbert van Bruggen
   link: []
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
