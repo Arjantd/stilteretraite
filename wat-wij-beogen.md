@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wat wij beogen
-image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner OVER ONS.jpg
 menu:
   navigation:
     weight: 1
