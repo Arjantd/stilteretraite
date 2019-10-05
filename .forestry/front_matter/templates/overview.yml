@@ -43,5 +43,6 @@ fields:
     labelField: 
   label: Icon boxes
 pages:
+- "./over-ons.md"
 - Stilte-retraite.md
 - over-ons.md
