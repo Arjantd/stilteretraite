@@ -16,12 +16,12 @@ icon_boxes:
   link: []
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
     zodat het goed op de overzichtspagina past.
-  icon: ''
+  icon: fab fa-accessible-icon
 - title: Huidig team
   link: []
   text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: ''
+  icon: fab fa-accessible-icon
 - title: Jouw initiatief
   link: []
   text: 'Stilretraite.nl deelt graag haar ruimte met anderen. Heb jij een initiatief
