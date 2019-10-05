@@ -12,22 +12,22 @@ Ik kan geen betere investering in ‘je-zelf’ bedenken dan zo’n retraite.
 
 Ardie uit Gennep
 
-**  
-RE-TREAT JE HART - DEC 2013**
+> **  
+> RE-TREAT JE HART - DEC 2013**
 
 Confronterend en verzachtend tegelijkertijd, het proces van retraite zit vol tegenstrijdigheden. Net zoals het echte leven en het is fijn om hier mee aan de slag te gaan. De begeleiding van Robbert maakt dat je je veilig voelt tijdens het proces van loslaten van oude én vastpakken van nieuwe ideeën en overtuigingen.
 
 Ton van der L. Project Manager
 
-**  
-DE BELOFTE VAN HET ZWARTE EI - PAASRETRAITE 1-5 APRIL 2015**
+> **  
+> DE BELOFTE VAN HET ZWARTE EI - PAASRETRAITE 1-5 APRIL 2015**
 
 Wat ik ervaren heb tijdens de stilte-retraite is iets dat niet makkelijk te beschrijven is, omdat het een gevoel is. Praktisch gezien vond ik het heerlijk om eens vier dagen lang niet gestoord te worden, geen telefoon aan te hebben, niets te doen (zonder je daar schuldig over te voelen) en tegelijk weer zoveel inspiratie te krijgen voor de dingen die ik ooit leuk vond om te doen, maar lang voor ‘nutteloos’ heb uitgemaakt. Dingen zoals tekenen, schilderen, schrijven, mijmeren, mediteren, door de natuur wandelen, bewust eten, simpelweg ‘zijn‘. Dit had als resultaat dat mijn ziel, hart of hoe je het ook wil noemen, in ieder geval mijn ‘ware ik’, tevoorschijn kwam. Voordat ik de stilte-retraite inging leek me het ‘eng’ dit te gaan ervaren, maar het tegendeel bleek waar. Ik heb zoveel liefde gevoeld (zonder daarvoor ook maar iets nodig te hebben) dat ik nu in mijn leven een kracht ervaar die ik eerder niet zo sterk gevoeld heb. Het is mijn innerlijke kracht die uiteindelijk alleen maar keuzes kan maken die goed voor mij zijn. En hier ben ik in het verleden nogal eens de mist mee in gegaan. Kortom, het ‘gevoel’ wat de stilte-retraite mij gegeven heeft is de waarde van mezelf, mijn leven en alles wat daaruit voortkomt, daarbij hoort, maar ook van het leven om mij heen, weer in volle glorie te zien. Precies dat gevoel is in mijn ogen hetgeen wat het leven nou juist de moeite waard maakt.
 
 E.J. (Televisie- en documentairemaker)
 
-**  
-RE-TREAT JE HART NOV 2017**
+> **  
+> RE-TREAT JE HART NOV 2017**
 
 Ik heb de dagen als wisselend ervaren, maar erg mooi. Wist niet wat ik ervan moest verwachten, en sta er nog steeds van te kijken dat ik zowel mijn mobiel, pc als het praten niet heb gemist...geen seconde, geen telefoon.
 
@@ -38,8 +38,8 @@ Toen zwaaide de poort open en zag ik hoofd van Robbert dat me toefluisterde “i
 
 A uit V
 
-**  
-RE-TREAT JE HART - DEC 2013**
+> **  
+> RE-TREAT JE HART - DEC 2013**
 
 Op het moment dat ik ziek thuis kwam te zitten, kreeg ik het advies ‘word eens stil’. Die zin uit het gesprek met mijn leidinggevende bleef bij mij hangen. In ons gezin met jonge kinderen lukte het me niet om de momenten van rust en ruimte te creëren Zo ontstond bij mij het idee: ik ga in retraite. Er was ook twijfel/ angst ‘wat als iets zich aandient wat ik eigenlijk niet wil?’ Toch overheerste mijn gevoel; dit wil ik doen!
 
@@ -51,8 +51,8 @@ De retraite heeft me net het duwtje gegeven om toe te geven aan mijn innerlijke 
 
 S. (onderwijs)
 
-**  
-RE-TREAT JE HART NOV 2017**
+> **  
+> RE-TREAT JE HART NOV 2017**
 
 Wat een "fantastische" dagen heb ik gehad, in stilte.... Het begint met wat milde spanning..... Niet lezen? Poeh! Geen telefoon? HELLUP! Geen oogcontact? Bestaat dat? Niet praten? euh... da's ook niet gezellig! En dan als bonus... (liever) niet analyseren! waar begin ik aan…
 
@@ -69,22 +69,22 @@ Ik kan echt zeggen dat ik de klankschaalwekker 's morgens vroeg thuis ga missen!
 
 M v M uit DB
 
-**  
-RE-TREAT JE HAT DEC. '14 EN APRIL '15**
+> **  
+> RE-TREAT JE HAT DEC. '14 EN APRIL '15**
 
 Ik heb nu twee stilte-retraties in Schin Op Geul mogen ervaren. Vier dagen stilte, meditatie, natuur, en oefeningen in de groep. Beide keren waren een mooie reis naar innerlijke rust en zelfacceptatie, die lang doorwerken na de retraite. Zo’n diepe rust had ik voor het laatst een jaar of twintig geleden meegemaakt. Ik was vergeten dat het bestond. Het is heerlijk om te ervaren en geeft ruimte voor diepgaande inzichten in jezelf en je leven. Zo ontdekte ik tijdens mijn eerste retraite waar mijn hart ligt en besloot ik mijn leven een andere draai te geven. Dat heeft me veel moois gebracht. Robbert heeft de gave je direct op je gemak te kunnen stellen. Ook de groep heeft een positief effect. Het versterkt het stil zijn in jezelf en zorgt ervoor dat je je veilig voelt. De locatie is prachtig. Het hotel heeft fijne, lichte kamers en omdat het aan de rand van het dorp ligt, loop je direct de natuur in. Een retraite is een cadeautje voor jezelf, een heel waardevol cadeautje, dat de potentie heeft om je leven te veranderen.
 
 Rens de Nobel, software ontwikkelaar & ondernemer
 
-**  
-RE-TREAT JE HART MEI 2012**
+> **  
+> RE-TREAT JE HART MEI 2012**
 
 ´Soms zijn er mensen die iets tegen je zeggen wat Echt aankomt. Dat is wat me gebeurde tijdens de retraite met Robbert en Marlies. Over de identificaties die je jezelf hebt toebedacht, de maskers die je opzet, de sluiers die over je heen hangen, de verhalen die je over jezelf bedacht hebt, de weigering om bepaalde emoties toe te laten. Om dat werkelijk te doorvoelen in de stilte, het moeilijke en het mooie om identificaties los te laten en emoties toe te laten..het heeft me iets heel moois en iets heel blijvends gebracht. Weer een stukje dichter bij mezelf, meer lucht, licht en vrijheid, overgave om alles gewoon te laten zijn en te aanvaarden zoals het is, eigenlijk om het Leven echt te leven...als mens maar ook vanuit mijn werk als HRM-er zou ik deze retraite aanraden aan mensen in soortgelijke functies maar ook voor ieder ander. Het geeft je de mogelijkheid om vanuit zelfkennis, acceptatie en authenticiteit , met een voelbaar stevigere basis, je werk te doen in samenwerking met anderen. Dat dat op een positieve manier gevoeld wordt door de mensen met wie je samenwerkt is mij heel duidelijk geworden.'
 
 Hanneke Croonenburg, senior HRM, trainer & coach, Geldrop
 
-**  
-RE-MEMBER! 2017**
+> **  
+> RE-MEMBER! 2017**
 
 Voor mij was deze tweede retraite weer een hele fijne en bijzondere ervaring. Fijn om weer onder leiding van Robbert te mediteren en oefeningen te doen die ik mij ineens herinnerde van de vorige keer. Fijn om weer stil te mogen zijn, om weer even los van alle prikkels te ontdekken hoe ik er voor stond.
 
