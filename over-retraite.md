@@ -5,7 +5,7 @@ image: ''
 menu:
   navigation:
     weight: 1
-    parent: _over_stilte_retraite
+    parent: item_AaxzyLL
 
 ---
 **Verlangen naar stilte**
