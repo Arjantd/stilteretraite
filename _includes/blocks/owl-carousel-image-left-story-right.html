@@ -1,7 +1,7 @@
 <div class="row">
     <ul class="owl-carousel carousel-fw" id="stories-slider" data-columns="1" data-autoplay="" data-pagination="no" data-arrows="yes" data-single-item="no" data-items-desktop="1" data-items-desktop-small="2" data-items-tablet="1" data-items-mobile="1">
         {% for item in include.items %}
-        {% assign link_page = site.documents | where:"path", item.link | first %}
+        {% assign button_link_page = site.pages | where:"path", item.button.link | first %}
         <li class="item">
             <div class="row">
                 <div class="col-md-6">
@@ -15,7 +15,7 @@
                                     <h3>{{ item.title }}</h3>
                                     {{ item.text | markdownify }}
                                 </blockquote>
-                                <a href="{{ link_page.button.url }}" class="btn btn-primary">{{ link_page.button.text }}</a>
+                                <a href="{{ button_link_page.url }}" class="btn btn-primary">{{ item.button.text }}</a>
                             </div>
                         </div>
                     </div>
