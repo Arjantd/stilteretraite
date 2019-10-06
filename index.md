@@ -43,7 +43,7 @@ sections:
     buttons:
     - link: video.md
       text: Meer video's
-    title: Wat gebeurt er tijdens een stilte retraite?
+    title: Video's
   buttons:
   - link: wat-is-retraite.md
     text: Lees meer
