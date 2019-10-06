@@ -46,6 +46,11 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: title
+    type: text
+    config:
+      required: true
+    label: Title
   - name: link
     type: text
     config:
