@@ -103,6 +103,7 @@ fields:
   - owl-carousel-image-left-story-right
   - upcoming-events-left-latest-blogs-right
   - blue-bar
+  - centered-header-text
   config:
     min: 
     max: 
