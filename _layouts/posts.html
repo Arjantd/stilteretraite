@@ -13,7 +13,7 @@ layout: page
             <div class="row">
                 <div class="col-md-4 col-sm-4">
                     <a href="{{ post.url | absolute_url }}" class="media-box grid-featured-img">
-                        <img src="{{ post.banner_image | absolute_url }}" alt="">
+                        <img src="{{ post.banner_image | resized_image_url: "230x153" }}" alt="">
                     </a>
                 </div>
                 <div class="col-md-8 col-sm-8">
@@ -68,7 +68,7 @@ layout: page
                             {% for post in recent_posts limit:3 %}
                             <li>
                                 <a href="{{ post.url | absolute_url }}" class="media-box">
-                                    <img src="{{ post.banner_image | absolute_url }}" alt="">
+                                    <img src="{{ post.banner_image | resized_image_url: "70x47" }}" alt="">
                                 </a>
                                 <h5><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h5>
                                 <span class="meta-data grid-item-meta">Posted on {{ post.date | date_to_string }}</span>

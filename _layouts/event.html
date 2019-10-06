@@ -25,7 +25,7 @@ layout: default
                 <div class="col-md-8 content-block">
                     <h3>{{ page.title }}</h3>
                     <div class="post-media">
-                        <img src="{{ page.image }}" alt="">
+                        <img src="{{ page.image | resized_image_url: "750x500" }}" alt="">
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-sm-6">

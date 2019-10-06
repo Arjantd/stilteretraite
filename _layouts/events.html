@@ -22,7 +22,7 @@ layout: page
         <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
             <div class="grid-item-inner">
                 <a href="{{ event.url | absolute_url }}" class="media-box">
-                    <img src="{{ event.image }}" alt="">
+                    <img src="{{ event.image | resized_image_url: "358x239" }}" alt="">
                 </a>
                 <div class="grid-item-content">
                     <span class="event-date">

@@ -24,7 +24,7 @@ layout: default
         <div class="col-md-8 content-block">
           <h3>{{ page.title | escape }}</h3>
           <div class="post-media">
-            <img src="{{ page.banner_image | absolute_url }}" alt="{{ post.title }}">
+            <img src="{{ page.banner_image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
           </div>
           <div class="post-content">
             {{ page.content }}
@@ -41,7 +41,7 @@ layout: default
           {% assign author = site.people | where:"path", page.author | first %}
           <!-- About Author -->
           <section class="about-author">
-            <img src="{{ author.thumbnail }}" alt="avatar" class="img-thumbnail">
+            <img src="{{ author.thumbnail | resized_image_url: "100x100" }}" alt="avatar" class="img-thumbnail">
             <div class="post-author-content">
                 <h3>{{ author.title }} <span class="label label-primary">Schrijver</span></h3>
                 <p>{{ author.content }}</p>
