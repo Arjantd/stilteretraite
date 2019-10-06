@@ -14,7 +14,7 @@
                 <h2 class="block-title">Laatste posts</h2>
                 <div class="spacer-20"></div>
                 {% assign posts = (site.posts | sort: 'date') | reverse %}
-                {% include posts.html posts=posts limit=4 %}
+                {% include posts.html posts=posts limit=4 show_lead_text=true %}
                 <a href="magazine" class="btn btn-primary">Meer posts</a>
             </div>
         </div>
