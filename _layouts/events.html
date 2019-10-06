@@ -33,7 +33,7 @@ layout: page
                     <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
                     <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
                     <ul class="list-group">
-                        <li class="list-group-item"><span class="badge">Tijdsduur</span>{{ event.length_of_time }}</li>
+                        <li class="list-group-item"><span class="badge">Duur</span>{{ event.length_of_time }}</li>
                         <li class="list-group-item"><span class="badge">Locatie</span><span>{{ location.title }}</span></li>
                         <li class="list-group-item"><span class="badge">Kosten</span>&euro; {{ event.price }}</li>
                     </ul>
