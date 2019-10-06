@@ -1,9 +1,9 @@
-{% for post in posts %}
+{% for post in include.posts | limit: include.limit %}
 <div class="blog-list-item format-standard">
     <div class="row">
         <div class="col-md-4 col-sm-4">
             <a href="{{ post.url | absolute_url }}" class="media-box grid-featured-img">
-                <img src="{{ post.banner_image | absolute_url }}" alt="">
+                <img src="{{ post.banner_image | absolute_url | resized_image_url: "165x99" }}" alt="">
             </a>
         </div>
         <div class="col-md-8 col-sm-8">

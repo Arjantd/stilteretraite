@@ -4,15 +4,18 @@
             <div class="col-md-6">
                 <h2 class="block-title">Agenda</h2>
                 <div class="spacer-20"></div>
-                {% assign events = (site.events | sort: 'from_date') | reverse %}
-                {% include events.html events=events %}
+                {% assign events = site.events | sort: 'from_date' %}
+                {% include events.html events=events limit=4 %}
+                <hr />
+                <a href="events" class="btn btn-primary">Meer events</a>
             </div>
             <div class="spacer-40 visible-sm visible-xs"></div>
             <div class="col-md-6">
-                <h2 class="block-title">Laatste blogs</h2>
+                <h2 class="block-title">Laatste posts</h2>
                 <div class="spacer-20"></div>
                 {% assign posts = (site.posts | sort: 'date') | reverse %}
-                {% include posts.html posts=posts %}
+                {% include posts.html posts=posts limit=4 %}
+                <a href="magazine" class="btn btn-primary">Meer posts</a>
             </div>
         </div>
     </div>

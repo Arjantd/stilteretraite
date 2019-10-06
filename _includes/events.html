@@ -1,5 +1,5 @@
 <ul class="events-compact-list">
-    {% for event in include.events %}
+    {% for event in include.events limit: include.limit %}
     <li class="event-list-item">	
         <span class="event-date">
             <span class="date">{{ event.from_date | date: '%d' }}</span>
