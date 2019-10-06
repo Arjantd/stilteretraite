@@ -59,6 +59,9 @@ sections:
       aan hun deelname(s) en daar zijn we maar wat trots op! Een willekeurige greep
       uit hun persoonlijke ervaringen vind je hie. r      '
     link: ervaringen.md
+    button:
+      text: Ervaringen van deelnemers
+      link: ervaringen.md
 - template: blue-bar
   button:
     link: over-stilte-retraite.md
