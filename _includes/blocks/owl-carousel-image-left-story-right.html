@@ -15,7 +15,7 @@
                                     <h3>{{ item.title }}</h3>
                                     {{ item.text | markdownify }}
                                 </blockquote>
-                                <a href="{{ link_page.url }}" class="btn btn-primary">Bekijk het volledige verhaal</a>
+                                <a href="{{ link_page.button.url }}" class="btn btn-primary">{{ link_page.button.text }}</a>
                             </div>
                         </div>
                     </div>
