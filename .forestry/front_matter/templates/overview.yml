@@ -42,6 +42,13 @@ fields:
     max: 
     labelField: 
   label: Icon boxes
+- name: template
+  type: text
+  config:
+    required: true
+  label: template
+  hidden: true
+  default: overview
 pages:
 - Stilte-retraite.md
 - over-ons.md
