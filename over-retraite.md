@@ -5,8 +5,8 @@ image: ''
 menu:
   navigation:
     weight: 1
-    parent: item_jopUWqq
-    identifier: item_SnNDDmH
+    parent: _stilte_retraite
+    identifier: _over_retraite
 
 ---
 **Verlangen naar stilte**

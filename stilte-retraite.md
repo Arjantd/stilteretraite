@@ -35,6 +35,7 @@ icon_boxes:
     op deze overzichtspagina
 menu:
   navigation:
+    identifier: _stilte_retraite
     weight: 2
   footer:
     weight: 2

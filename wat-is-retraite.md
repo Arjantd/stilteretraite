@@ -5,8 +5,8 @@ image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
 menu:
   navigation:
     weight: 2
-    parent: item_jopUWqq
-    identifier: item_AHwxBTj
+    parent: _stilte_retraite
+    identifier: _wat_is_retraite
 
 ---
 Test content
