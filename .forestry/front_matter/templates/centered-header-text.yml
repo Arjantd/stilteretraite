@@ -1,4 +1,9 @@
 ---
 label: centered-header-text
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: true
+  label: Text
