@@ -34,10 +34,6 @@ icon_boxes:
   text: Hier komt een introductie tekstje over 'Ervaringen'. Niet te lang, maar passend
     op deze overzichtspagina
 menu:
-  navigation:
-    weight: 2
-    identifier: item_AaxzyLL
-    title: Stilte retraite
   footer:
     weight: 2
 
