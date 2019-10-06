@@ -1,6 +1,6 @@
 ---
 title: Over retraite
-layout: page
+layout: overview
 image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
 icon_boxes:
 - title: Over retraite
