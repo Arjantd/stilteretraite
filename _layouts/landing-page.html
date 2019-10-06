@@ -23,6 +23,8 @@ layout: default
 					{% include blocks/upcoming-events-left-latest-blogs-right.html %}
 				{% when 'blue-bar' %}
 					{% include blocks/blue-bar.html text=block.text button=block.button %}
+				{% when 'centered-header-text' %}
+					{% include blocks/centered-header-text.html text=block.text %}
 				{% endcase %}
 			{% endfor %}
 		</div>
