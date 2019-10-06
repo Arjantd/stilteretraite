@@ -45,8 +45,8 @@ fields:
 - name: template
   type: text
   config:
-    required: true
-  label: template
+    required: false
+  label: Template
   hidden: true
   default: overview
 pages:
