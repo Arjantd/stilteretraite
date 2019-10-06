@@ -106,6 +106,21 @@ fields:
   config:
     min: 
     max: 
+- name: sections2
+  type: field_group_list
+  fields:
+  - name: blocks
+    type: blocks
+    label: Blocks
+    template_types: []
+    config:
+      min: 
+      max: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sections
 - name: layout
   label: Layout
   type: text
