@@ -43,6 +43,7 @@ sections:
     buttons:
     - link: video.md
       text: Meer video's
+    title: Wat gebeurt er tijdens een stilte retraite?
   buttons:
   - link: wat-is-retraite.md
     text: Lees meer
@@ -67,6 +68,8 @@ sections:
     link: over-stilte-retraite.md
     text: Meld je aan
   text: Let's start doing your bit for yourself.
+sections2:
+- blocks: []
 menu:
   navigation:
     identifier: _index
