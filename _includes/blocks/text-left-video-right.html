@@ -9,7 +9,8 @@
             {% endfor %}
         </div>
         <div class="col-md-6 col-sm-6 col-md-offset-1 col-md-offset-1">
-            <a href="{{ include.video.link }}" class="media-box magnific-video"> <img src="{{ include.video.thumbnail | absolute_url}}" alt="{{ include.video.caption }}"> </a>
+            <h2 class="block-title">{{ include.video.title }}</h2>
+            <a href="{{ include.video.link }}" class="media-box magnific-video"> <img src="{{ include.video.thumbnail | absolute_url}}" alt="{{ include.video.caption }}"></a>
             <div class="grid-item-content">
                 {% for button in include.video.buttons %}
                 {% assign document = site.pages | where:"path", button.link | first %}
