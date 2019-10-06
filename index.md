@@ -63,6 +63,8 @@ sections:
     button:
       text: Ervaringen van deelnemers
       link: ervaringen.md
+- template: centered-header-text
+  text: Het mooiste cadeau dat je jezelf kunt geven
 - template: blue-bar
   button:
     link: over-stilte-retraite.md
