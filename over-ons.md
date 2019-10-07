@@ -11,7 +11,7 @@ icon_boxes:
   link: wat-wij-beogen.md
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: fab fa-accessible-icon
+  icon: <i class="far fa-heart"></i>
 - title: Robbert van Bruggen
   link: _people/robbert-van-bruggen.md
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
@@ -37,6 +37,7 @@ icon_boxes:
     beetje gevuld uitzien.
   icon: fas fa-american-sign-language-interpreting
   link: ''
+template: ''
 menu:
   navigation:
     identifier: _over_ons

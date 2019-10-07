@@ -50,5 +50,4 @@ fields:
   hidden: true
   default: overview
 pages:
-- Stilte-retraite.md
 - over-ons.md
