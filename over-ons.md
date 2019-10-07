@@ -30,7 +30,7 @@ icon_boxes:
 - title: Locaties
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: fas fa-map-marker-alt
+  icon: fas fa-heart
   link: wat-wij-beogen.md
 - title: Toekomstplannen
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
