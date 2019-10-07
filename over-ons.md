@@ -33,8 +33,8 @@ icon_boxes:
   icon: fas fa-heart
   link: wat-wij-beogen.md
 - title: Toekomstplannen
-  text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
-    beetje gevuld uitzien.
+  text: Tekst voor titel toekomstplannen maar ook hier niet teveel tekst maar het
+    moet er wel een beetje gevuld uitzien.
   icon: fas fa-share
   link: ''
 template: ''
