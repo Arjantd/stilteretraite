@@ -17,7 +17,7 @@ icon_boxes:
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
     zodat het goed op de overzichtspagina past.
   icon: fas fa-user
-- title: Team
+- title: Mede-initiatiefnemers
   link: []
   text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
