@@ -35,7 +35,7 @@ icon_boxes:
 - title: Toekomstplannen
   text: Tekst voor titel 1 maar ook hier niet teveel tekst maar het moet er wel een
     beetje gevuld uitzien.
-  icon: fas fa-american-sign-language-interpreting
+  icon: fas fa-share
   link: ''
 template: ''
 menu:
