@@ -21,7 +21,7 @@ icon_boxes:
   link: []
   text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: fab fa-accessible-icon
+  icon: <i class="fas fa-user-friends"></i>
 - title: Jouw initiatief
   link: []
   text: 'Stilretraite.nl deelt graag haar ruimte met anderen. Heb jij een initiatief
