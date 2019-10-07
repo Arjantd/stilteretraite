@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robbert van Bruggen
-image: ''
+image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 menu:
   navigation:
     weight: 2
