@@ -16,7 +16,7 @@ icon_boxes:
   link: _people/robbert-van-bruggen.md
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
     zodat het goed op de overzichtspagina past.
-  icon: fab fa-accessible-icon
+  icon: <i class="fas fa-user-alt"></i>
 - title: Huidig team
   link: []
   text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
