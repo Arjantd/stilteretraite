@@ -2,7 +2,7 @@
 title: Agenda
 layout: events
 textline: Events
-image: https://static.stilteretraite.nl/uploads/Page banner EVENTS.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner AGENDA.jpg
 menu:
   navigation:
     identifier: _events
