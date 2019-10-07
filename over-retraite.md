@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Over retraite
-image: ''
+image: https://static.stilteretraite.nl/uploads/Page banner STILTE RETRAITE.jpg
 menu:
   navigation:
     weight: 1

@@ -20,9 +20,9 @@ fields:
   default: page
   hidden: true
 pages:
+- over-retraite.md
 - ervaringen.md
 - robbert-van-bruggen.md
-- over-retraite.md
 - wat-wij-beogen.md
 - contact.md
 - magazine.md
