@@ -4,7 +4,12 @@ layout: post
 title: De storm in de stilte-retraite
 sub_heading: Artikel Koorddanser Magazine – 3 sept 2019
 date: 2019-09-04T22:00:00.000+00:00
-tags: []
+tags:
+- retraite
+- " kritisch"
+- " hype"
+- " consumptie"
+- " maatschappij"
 banner_image: https://static.stilteretraite.nl/uploads/Posts - 1.jpg
 related_posts: []
 lead_text: 'Retraites zijn big business. Een kritisch en reflexief geluid van een
