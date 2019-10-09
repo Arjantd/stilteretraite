@@ -30,7 +30,7 @@ icon_boxes:
   icon: fas fa-hand-holding-heart
 - title: Ervaringen
   link: ervaringen.md
-  icon: fab fa-accessible-icon
+  icon: fas fa-smile
   text: Hier komt een introductie tekstje over 'Ervaringen'. Niet te lang, maar passend
     op deze overzichtspagina
 template: overview
