@@ -12,7 +12,7 @@ icon_boxes:
   link: wat-is-retraite.md
   text: Hier komt een introductie tekstje over 'Wat is het?'. Niet te lang, maar passend
     op deze overzichtspagina
-  icon: fab fa-accessible-icon
+  icon: fas fa-question-circle
 - title: Wat doet het?
   link: []
   text: Hier komt een introductie tekstje over 'Wat doet het?'. Niet te lang, maar
