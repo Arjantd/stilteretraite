@@ -7,7 +7,7 @@ icon_boxes:
   link: over-retraite.md
   text: Hier komt een introductie tekstje over 'Over retraite'. Niet te lang, maar
     passend op deze overzichtspagina
-  icon: <i class="fas fa-user-check"></i>
+  icon: fas fa-heart
 - title: Wat is het?
   link: wat-is-retraite.md
   text: Hier komt een introductie tekstje over 'Wat is het?'. Niet te lang, maar passend
