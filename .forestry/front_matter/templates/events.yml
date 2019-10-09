@@ -2,6 +2,11 @@
 label: events
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: image
   type: file
   config:
