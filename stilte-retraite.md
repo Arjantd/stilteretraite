@@ -9,7 +9,7 @@ icon_boxes:
     passend op deze overzichtspagina
   icon: fab fa-accessible-icon
 - title: Wat is het?
-  link: []
+  link: wat-is-retraite.md
   text: Hier komt een introductie tekstje over 'Wat is het?'. Niet te lang, maar passend
     op deze overzichtspagina
   icon: fab fa-accessible-icon
