@@ -29,7 +29,7 @@ icon_boxes:
     op deze overzichtspagina
   icon: fab fa-accessible-icon
 - title: Ervaringen
-  link: []
+  link: ervaringen.md
   icon: fab fa-accessible-icon
   text: Hier komt een introductie tekstje over 'Ervaringen'. Niet te lang, maar passend
     op deze overzichtspagina
