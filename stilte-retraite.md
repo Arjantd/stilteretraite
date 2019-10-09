@@ -16,7 +16,7 @@ icon_boxes:
 - title: Wat doet het?
   link: []
   text: Hier komt een introductie tekstje over 'Wat doet het?'. Niet te lang, maar
-    passend op deze overzichtspagina
+    passend op deze overzichtspagina 1
   icon: fas fa-brain
 - title: Voor wie?
   link: []
