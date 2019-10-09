@@ -17,7 +17,7 @@ icon_boxes:
   link: []
   text: Hier komt een introductie tekstje over 'Wat doet het?'. Niet te lang, maar
     passend op deze overzichtspagina
-  icon: fab fa-accessible-icon
+  icon: fas fa-brain
 - title: Voor wie?
   link: []
   text: Hier komt een introductie tekstje over 'Voor wie?'. Niet te lang, maar passend
