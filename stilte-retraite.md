@@ -1,7 +1,7 @@
 ---
 title: Stilte retraite
 layout: overview
-image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner STILTE RETRAITE.jpg
 icon_boxes:
 - title: Over retraite
   link: []
@@ -33,11 +33,12 @@ icon_boxes:
   icon: fab fa-accessible-icon
   text: Hier komt een introductie tekstje over 'Ervaringen'. Niet te lang, maar passend
     op deze overzichtspagina
+template: overview
 menu:
+  footer:
+    weight: 2
   navigation:
     identifier: _stilte_retraite
-    weight: 2
-  footer:
     weight: 2
 
 ---
