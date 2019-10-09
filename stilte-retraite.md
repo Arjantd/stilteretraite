@@ -4,7 +4,7 @@ layout: overview
 image: https://static.stilteretraite.nl/uploads/Page banner STILTE RETRAITE.jpg
 icon_boxes:
 - title: Over retraite
-  link: []
+  link: over-retraite.md
   text: Hier komt een introductie tekstje over 'Over retraite'. Niet te lang, maar
     passend op deze overzichtspagina
   icon: fab fa-accessible-icon
