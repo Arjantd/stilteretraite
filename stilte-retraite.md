@@ -22,7 +22,7 @@ icon_boxes:
   link: []
   text: Hier komt een introductie tekstje over 'Voor wie?'. Niet te lang, maar passend
     op deze overzichtspagina
-  icon: fab fa-accessible-icon
+  icon: fas fa-user-check
 - title: Ons aanbod
   link: []
   text: Hier komt een introductie tekstje over 'Ons aanbod'. Niet te lang, maar passend
