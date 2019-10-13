@@ -78,4 +78,3 @@ menu:
     weight: 1
 
 ---
-test test test
