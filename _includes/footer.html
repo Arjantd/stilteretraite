@@ -1,20 +1,3 @@
-<a href="#" class="visible-sm visible-xs" id="menu-toggle"><i class="fa fa-bars"></i></a>
-<ul class="sf-menu dd-menu pull-right" role="menu">
-    {% assign nav_level_1 = site.menus.navigation | where: 'parent', nil %}
-    {% for link in nav_level_1 %}
-    <li><a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>{{ link.title }}</a>
-      {% assign nav_level_2 = site.menus.navigation | where: 'parent', link.identifier %}
-      {% if nav_level_2.size > 0 %}
-        <ul>
-            {% for child in nav_level_2 %}
-            <li><a href="{{ child.url | absolute_url }}"{% if child.target %} target="_blank" {% endif %}>{{ child.title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-    </li>
-    {% endfor %}
-</ul>
-
 <!-- Site Footer -->
 {% assign footer = site.data.footer %}
 <div class="site-footer parallax parallax3" style="background-image:url('{{ "/images/parallax3.jpg" | absolute_url }}')">
