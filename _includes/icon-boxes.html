@@ -1,6 +1,6 @@
 
 {% for icon_box in include.icon_boxes %}
-    {% assign link_page = site.pages | where:"path", icon_box.link | first %}
+    {% assign link_page = site.pages | concat: site.documents | where:"path", icon_box.link | first %}
     {% if forloop.first %}
     <div class="text-align-left">
         <div class="spacer-50"></div>

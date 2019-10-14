@@ -1,7 +1,7 @@
 <div class="row">
     <ul class="owl-carousel carousel-fw" id="stories-slider" data-columns="1" data-autoplay="" data-pagination="no" data-arrows="yes" data-single-item="no" data-items-desktop="1" data-items-desktop-small="2" data-items-tablet="1" data-items-mobile="1">
         {% for item in include.items %}
-        {% assign button_link_page = site.pages | where:"path", item.button.link | first %}
+        {% assign button_link_page = site.pages | concat: site.documents | where:"path", item.button.link | first %}
         <li class="item">
             <div class="row">
                 <div class="col-md-6">
