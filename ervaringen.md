@@ -7,7 +7,6 @@ menu:
     weight: 3
     parent: _stilte_retraite
     identifier: _ervaringen
-published: false
 
 ---
 > **RE-TREAT JE HART - DEC 2017**
