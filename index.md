@@ -37,7 +37,7 @@ sections:
 
       Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil! Niet om ons, niet in ons.
 
-      Soms dient zich daarom de behoefte aan om ‘los’ te komen van de dagelijkse sleur. Een verlangen naar stilte, ruimte en leegte. Misschien ben je daarom ook wel op deze website aanbelandt?
+      Soms dient zich daarom de behoefte aan om ‘los’ te komen van de dagelijkse sleur: een verlangen naar stilte, ruimte en leegte. Misschien ben je daarom ook wel op deze website aanbelandt?
     video:
       link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
       thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
