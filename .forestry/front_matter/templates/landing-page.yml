@@ -132,7 +132,12 @@ fields:
   - name: blocks
     type: blocks
     label: Blocks
-    template_types: []
+    template_types:
+    - text-left-video-right
+    - centered-header-text
+    - blue-bar
+    - upcoming-events-left-latest-blogs-right
+    - owl-carousel-image-left-story-right
     config:
       min: 
       max: 
