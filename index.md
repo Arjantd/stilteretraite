@@ -47,7 +47,7 @@ sections:
         text: Meer video's
       title: Video's
     buttons:
-    - link: wat-is-retraite.md
+    - link: stilte-retraite.md
       text: Lees verder
   padding: padding-tb75
 - name: Agenda en laatste posts
