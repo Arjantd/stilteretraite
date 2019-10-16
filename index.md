@@ -48,7 +48,7 @@ sections:
       title: Video's
     buttons:
     - link: wat-is-retraite.md
-      text: Lees meer
+      text: Lees verder
   padding: padding-tb75
 - name: Agenda en laatste posts
   background: ''
