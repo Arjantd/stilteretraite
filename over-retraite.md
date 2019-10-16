@@ -15,4 +15,4 @@ Weten we nog wel wat stilte is? In de huidige tijd waarin we leven laten we ons 
 
 Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil; niet om ons, niet in ons. We hebben niet echt de ruimte voor contact met anderen en al helemaal niet met onszelf.
 
-Bij veel mensen dient zich op enig moment een verlangen aan naar stilte, ruimte en bezinning. Soms ook valt dit samen met een verlangen naar geborgenheid, rust en natuur. Misschien ben je daarom ook wel op deze website aanbelandt.
+Bij veel mensen dient zich op enig moment de behoefte aan om ‘los’ te zijn van de dagelijkse sleur. Een verlangen naar stilte, ruimte en leegte. Misschien ben je daarom ook wel op deze website aanbelandt.
