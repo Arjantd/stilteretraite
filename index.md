@@ -72,6 +72,8 @@ sections:
   text: Let's start doing your bit for yourself.
 sections2:
 - blocks: []
+  name: Verlangen naar stilte
+  background: lgray-bg
 menu:
   navigation:
     identifier: _index
