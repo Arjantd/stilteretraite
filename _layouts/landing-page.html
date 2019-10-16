@@ -13,7 +13,7 @@ layout: default
 <div id="main-container">
 	<div class="content">
 		{% for section in page.sections %}
-		<div class="{{ section.background }}">
+		<div class="{{ section.background }} {{ section.padding }}">
 			{% for block in section.blocks %}
 				{% case block.template %}
 					{% when 'text-left-video-right' %}
