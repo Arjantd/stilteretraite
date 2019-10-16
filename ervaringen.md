@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ervaringen
-image: https://static.stilteretraite.nl/uploads/Page banner OVER RETRAITE.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner STILTE RETRAITE.jpg
 menu:
   navigation:
     weight: 3
