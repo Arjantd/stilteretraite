@@ -129,6 +129,13 @@ fields:
         file: 
         path: 
     label: Background
+  - name: blocks
+    type: blocks
+    label: Blocks
+    template_types: []
+    config:
+      min: 
+      max: 
   config:
     min: 
     max: 
