@@ -9,12 +9,6 @@ menu:
     identifier: _ervaringen
 
 ---
-> **RE-TREAT JE HART - DEC 2017**
-
-Ik zag best op tegen 96 uur stilte en had geen idee wat te verwachten. Weliswaar heb ik eerder een mindfulness-training gedaan, waarbij we aan het eind van de training ongeveer 6 uur in stilte verbleven, maar dit zou toch iets anders worden. Achteraf vind ik dat de stilte een hele fijne ervaring is geweest en dat de stilte samen met de oefeningen tijdens de retraite bijgedragen hebben om mijn behoefte aan stilte en ruimte scherper te krijgen.  
-Ik kan geen betere investering in ‘je-zelf’ bedenken dan zo’n retraite.
-
-Ardie uit Gennep
 
 > **  
 > RE-TREAT JE HART - DEC 2013**
@@ -108,3 +102,10 @@ Een ervaring tijdens de retraite die voor mij van grote betekenis is geweest, is
 Het voelt als een drijvende kracht van waaruit ik mezelf kan vormgeven, kan manifesteren. Ik had geen bepaalde verwachting over wat de retraite me op had moeten leveren, maar deze ervaring had ik niet kunnen bedenken. Het geeft ruimte, lichtheid en zin aan mijn leven. Ik ben er heel dankbaar voor.
 
 M.C. - Klinisch psycholoog
+
+> RE-TREAT JE HART - DEC 2017
+
+Ik zag best op tegen 96 uur stilte en had geen idee wat te verwachten. Weliswaar heb ik eerder een mindfulness-training gedaan, waarbij we aan het eind van de training ongeveer 6 uur in stilte verbleven, maar dit zou toch iets anders worden. Achteraf vind ik dat de stilte een hele fijne ervaring is geweest en dat de stilte samen met de oefeningen tijdens de retraite bijgedragen hebben om mijn behoefte aan stilte en ruimte scherper te krijgen.  
+Ik kan geen betere investering in ‘je-zelf’ bedenken dan zo’n retraite.
+
+Ardie uit Gennep
