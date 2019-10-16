@@ -15,7 +15,7 @@ hero_slider:
     geven.
   buttons: []
 featured_links:
-- link: over-stilte-retraite.md
+- link: stilte-retraite.md
   small_text: Alles wat je wil weten over
   text: stilte retraite
 - link: events.md
