@@ -27,7 +27,7 @@ featured_links:
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 sections:
-  name: Verlangen naar stilte
+- name: Verlangen naar stilte
   background: lgray-bg
   blocks:
   - template: text-left-video-right
@@ -50,6 +50,9 @@ sections:
     buttons:
     - link: wat-is-retraite.md
       text: Lees meer
+- name: Agenda en laatste posts
+  background:
+  blocks:
   - template: upcoming-events-left-latest-blogs-right
   - template: owl-carousel-image-left-story-right
     items:
