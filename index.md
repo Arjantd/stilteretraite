@@ -33,7 +33,7 @@ sections:
   - template: text-left-video-right
     title: Verlangen naar stilte
     text: |-
-      Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. We staan onszelf nauwelijks toe om stil te staan bij waar we eigenlijk mee bezig zijn. Iets in ons vraagt zich af of wat we aan het doen zijn nog wel klopt met waar we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons.
+      Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep van binnen vragen we ons af of wat we aan het doen zijn nog wel klopt met waar we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons.
 
       Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid in ons, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil! Niet om ons, niet in ons.
 
