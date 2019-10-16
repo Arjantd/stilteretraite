@@ -117,6 +117,20 @@ fields:
         file: 
         path: 
     label: Background
+  - name: padding
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - padding-tb75
+      - padding-tb20
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Padding
   - name: blocks
     type: blocks
     label: Blocks
