@@ -110,13 +110,25 @@ fields:
 - name: sections2
   type: field_group_list
   fields:
-  - name: blocks
-    type: blocks
-    label: Blocks
-    template_types: []
+  - name: name
+    type: text
     config:
-      min: 
-      max: 
+      required: true
+    label: Name
+  - name: background
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - lgray-bg
+      - accent-bg
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Background
   config:
     min: 
     max: 
