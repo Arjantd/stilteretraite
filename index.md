@@ -45,7 +45,7 @@ sections:
       buttons:
       - link: video.md
         text: Meer video's
-      title: Video's
+      title: Wat brengt een retraite?
     buttons:
     - link: stilte-retraite.md
       text: Lees verder
