@@ -27,7 +27,7 @@ icon_boxes:
   link: []
   text: Hier komt een introductie tekstje over 'Ons aanbod'. Niet te lang, maar passend
     op deze overzichtspagina
-  icon: fas fa-hand-holding-heart
+  icon: ""
 - title: Ervaringen
   link: ervaringen.md
   icon: fas fa-smile
