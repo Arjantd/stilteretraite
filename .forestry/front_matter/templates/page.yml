@@ -20,8 +20,8 @@ fields:
   default: page
   hidden: true
 pages:
-- ervaringen.md
 - over-retraite.md
+- ervaringen.md
 - wat-wij-beogen.md
 - robbert-van-bruggen.md
 - contact.md
