@@ -2,7 +2,6 @@
 layout: page
 title: 'Wat doet het '
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
-published: false
 
 ---
 # WAT DOET RETRAITE

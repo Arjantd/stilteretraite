@@ -20,9 +20,9 @@ fields:
   default: page
   hidden: true
 pages:
+- wat-doet-het.md
 - ons-aanbod.md
 - voor-wie-is-het.md
-- wat-doet-het.md
 - contact.md
 - magazine.md
 - over-retraite.md
