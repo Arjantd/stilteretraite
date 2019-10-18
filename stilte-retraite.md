@@ -14,7 +14,7 @@ icon_boxes:
     op deze overzichtspagina
   icon: fas fa-question-circle
 - title: Wat doet het?
-  link: []
+  link: _videos/Wat gebeurt er tijdens een retraite?.md
   text: Hier komt een introductie tekstje over 'Wat doet het?'. Niet te lang, maar
     passend op deze overzichtspagina 1
   icon: fas fa-cogs
