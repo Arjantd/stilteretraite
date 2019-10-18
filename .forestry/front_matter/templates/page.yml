@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- ervaringen.md
 - wat-is-retraite.md
 - over-retraite.md
 - voor-wie-is-het.md
@@ -27,6 +28,5 @@ pages:
 - ons-aanbod.md
 - contact.md
 - magazine.md
-- ervaringen.md
 - wat-wij-beogen.md
 - robbert-van-bruggen.md
