@@ -9,7 +9,7 @@ hero_slider:
     geven.
   buttons: []
 - image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
-  title: Het mooiste cadeau dat je jezelf kunt geven
+  title: Het mooiste cadeau dat je jezelf kunt geven!
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
     geven.
