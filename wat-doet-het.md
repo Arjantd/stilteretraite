@@ -2,6 +2,11 @@
 layout: page
 title: 'Wat doet het '
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
+menu:
+  navigation:
+    weight: 3
+    parent: _stilte_retraite
+    title: Wat doet het?
 
 ---
 # WAT DOET RETRAITE
