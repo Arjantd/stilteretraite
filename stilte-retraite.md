@@ -19,7 +19,7 @@ icon_boxes:
     passend op deze overzichtspagina 1
   icon: fas fa-cogs
 - title: Voor wie?
-  link: []
+  link: voor-wie-is-het.md
   text: Hier komt een introductie tekstje over 'Voor wie?'. Niet te lang, maar passend
     op deze overzichtspagina
   icon: fas fa-user-plus
