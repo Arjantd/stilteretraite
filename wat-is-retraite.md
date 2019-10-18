@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wat is retraite?
-image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
+image: https://static.stilteretraite.nl/uploads/banner A.jpg
 menu:
   navigation:
     weight: 2
