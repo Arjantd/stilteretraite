@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- ons-aanbod.md
 - voor-wie-is-het.md
 - wat-doet-het.md
 - contact.md
