@@ -20,10 +20,10 @@ fields:
   default: page
   hidden: true
 pages:
+- contact.md
 - magazine.md
 - over-retraite.md
 - ervaringen.md
 - wat-wij-beogen.md
 - robbert-van-bruggen.md
-- contact.md
 - wat-is-retraite.md

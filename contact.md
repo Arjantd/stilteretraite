@@ -3,7 +3,7 @@ title: Contact
 description: Contact Belkirk College
 publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: page
-image: https://static.stilteretraite.nl/uploads/Page banner CONTACT.jpg
+image: https://static.stilteretraite.nl/uploads/357.jpg
 menu:
   footer:
     weight: 4
