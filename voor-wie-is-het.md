@@ -2,7 +2,6 @@
 layout: page
 title: Voor wie is het?
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
-published: false
 
 ---
 ### Een retraite is een soort innerlijke Odysseus, het is niet voor doetjes of macho’s.
