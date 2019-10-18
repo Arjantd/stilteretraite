@@ -24,7 +24,7 @@ icon_boxes:
     op deze overzichtspagina
   icon: fas fa-user-plus
 - title: Ons aanbod
-  link: []
+  link: ons-aanbod.md
   text: Hier komt een introductie tekstje over 'Ons aanbod'. Niet te lang, maar passend
     op deze overzichtspagina
   icon: fas fa-gem
