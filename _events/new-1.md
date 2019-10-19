@@ -8,8 +8,9 @@ from_date: 2020-01-16T23:00:00.000+00:00
 to_date: 2020-01-18T23:00:00.000+00:00
 price: 349
 image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
-lead_text: Nieuw in ons aanbod is een 'Back to nature retraite', waarbij we onder
-  basic omstandigheden een weekend in de bossen verblijven. We slapen in een tentje
+lead_text: 'Nieuw in ons aanbod is een ''Back to nature retraite'', waarbij we ons
+  een weekend lang in de bossen terugtrekken. We slapen in tenten en logischerwijs
+  vindt het grootste deel van het programma zich in de buitenlucht af. '
 length_of_time: weekend
 category: weekend
 
