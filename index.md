@@ -76,8 +76,7 @@ sections:
     button:
       link: contact.md
       text: Contact ons
-    text: 'Heb je nog vragen die je beslissing om deel te nemen in de weg staan? Stel
-      ze gerust!   '
+    text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
 menu:
   navigation:
