@@ -68,7 +68,7 @@ sections:
         Een willekeurige greep uit hun persoonlijke ervaringen vind je hier:'
       link: ervaringen.md
       button:
-        text: Ervaringen van deelnemers
+        text: 'Lees ervaringen:'
         link: ervaringen.md
   - template: centered-header-text
     text: Het mooiste cadeau dat je jezelf kunt geven
