@@ -58,13 +58,14 @@ sections:
     items:
     - image: https://static.stilteretraite.nl/uploads/04.jpg
       title: Ervaringen van deelnemers
-      text: 'Al meer dan 10 jaar organiseert Robbert van Bruggen onder de naam ''In
-        een hutje op de hei'' diverse soorten stilte retraites. In totaal staat de
-        teller inmiddels op 47! Eerst vonden deze plaats in Schin op Geul: later ook
-        in het Italiaanse Ca du Chittu, op de Veluwe en ook bij Avant Spirit, in het
-        voormalig Emmausklooster te Velp (NB). Deelnemers koesteren haast unaniem
-        warme herinneringen aan hun deelname(s) en daar zijn we maar wat trots op!
-        Een willekeurige greep uit hun persoonlijke ervaringen vind je hie. r      '
+      text: 'Onder de naam **''In een hutje op de hei''** organiseert Robbert van
+        Bruggen al meer dan 10 jaar stilte-retraites: in totaal staat de teller op
+        47! In de beginjaren vonden de retraites plaats in meditatiecentrum Kadampa
+        in Schin op Geul, later ook in het Italiaanse Ca du Chittu. De afgelopen 3
+        jaar was ''In een hutje op de hei'' te gast op het Veluwse landgoed Hoog Deelen
+        en bij Avant Spirit, in het voormalig Emmausklooster te Velp (NB). Deelnemers
+        koesteren warme herinneringen aan hun deelname(s) en daar zijn we trots op!
+        Een willekeurige greep uit hun persoonlijke ervaringen vind je hier:'
       link: ervaringen.md
       button:
         text: Ervaringen van deelnemers
