@@ -74,9 +74,10 @@ sections:
     text: Het mooiste cadeau dat je jezelf kunt geven
   - template: blue-bar
     button:
-      link: over-stilte-retraite.md
-      text: Meld je aan
-    text: Let's start doing your bit for yourself.
+      link: contact.md
+      text: Contact ons
+    text: 'Heb je nog vragen die je beslissing om deel te nemen in de weg staan? Stel
+      ze gerust!   '
   padding: ''
 menu:
   navigation:
