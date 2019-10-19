@@ -57,7 +57,7 @@ sections:
   - template: owl-carousel-image-left-story-right
     items:
     - image: https://static.stilteretraite.nl/uploads/04.jpg
-      title: Lees persoonlijke ervaringen
+      title: Ervaringen van deelnemers
       text: 'Onder de naam **''In een hutje op de hei''** organiseert Robbert van
         Bruggen al meer dan 10 jaar stilte-retraites: in totaal staat de teller op
         47! In de beginjaren vonden de retraites plaats in meditatiecentrum Kadampa
