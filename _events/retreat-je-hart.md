@@ -6,7 +6,7 @@ to_date: 2019-10-27T14:00:00.000+00:00
 attendees: 12
 location: _locations/avant-spirit-velp-grave.md
 layout: event
-price: 250
+price: '595.00'
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
