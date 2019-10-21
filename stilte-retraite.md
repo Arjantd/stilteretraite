@@ -1,7 +1,7 @@
 ---
 title: Stilte retraite
 layout: overview
-image: https://static.stilteretraite.nl/uploads/banner 1.jpg
+image: https://static.stilteretraite.nl/uploads/banner A.jpg
 icon_boxes:
 - title: Over retraite
   link: over-retraite.md
