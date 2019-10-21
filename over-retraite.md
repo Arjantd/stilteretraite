@@ -15,9 +15,7 @@ _In woordenboeken zijn verschillende betekenissen van het woord ‘retraite’ t
   
 Het woord retraite associëren we in Nederland vooral met de mogelijkheid om met een stapel boeken onder de arm een dag of wat door te brengen in een klooster; waar je tijd met jezelf kunt doorbrengen in een kleine kamer, verpoost in de kloostertuin, meedoet aan een gebedsdienst en je voor je maaltijden bij de monniken of zusters kunt aanschuiven. De afgelopen decennia hebben we vormen van retraites uit andere tradities en religies leren kennen zoals bijv. Zen- en Vipassana-meditatie uit het Boeddhisme.
 
-De soefi-meester Pir Vilayat Inayat-Khan (1916-2004) zei ooit over retraite: 'Are you able to withdraw yourself from your thoughts as a snake withdraws itself from its old skin?'
-
-Hij verwees daarmee naar het vermogen van de slang die zich uit zijn oude huid terugtrekt, doordat de nieuwe er al onder zit! Ook onze lichamen vervellen doordat onze cellen zich voortdurend vernieuwen. Dit vervellen en terugtrekken uit de oude huid vindt ook plaats in onze geestelijke ontwikkeling en ons menselijk leven.
+De soefi-meester Pir Vilayat Inayat-Khan (1916-2004) zei ooit over retraite: 'Are you able to withdraw yourself from your thoughts as a snake withdraws itself from its old skin?' Hij verwees daarmee naar het vermogen van de slang die zich uit zijn oude huid terugtrekt, doordat de nieuwe er al onder zit! Ook onze lichamen vervellen doordat onze cellen zich voortdurend vernieuwen. Dit vervellen en terugtrekken uit de oude huid vindt ook plaats in onze geestelijke ontwikkeling en ons menselijk leven.
 
 We bewegen ons soms geleidelijk en veelal schoksgewijs naar nieuwe fasen in ons leven, nieuwe hoofdstukken die zich aankondigen waarin we het ‘oude’ achterlaten omdat -kennelijk- het ‘nieuwe’ al roept. Ons vertrouwde evenwicht waarin we leven vanuit een redelijk stabiel ‘ik’, omgeven door vertrouwde naasten, begint dan te kantelen doordat er een innerlijke onrust voelbaar wordt, waarin er ‘iets wil’ dat we nog niet kennen.
 
