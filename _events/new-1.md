@@ -13,6 +13,5 @@ lead_text: Nieuw in ons aanbod is een 'Back to nature retraite', waarbij we een 
   buitenlucht. Heerlijk!
 length_of_time: weekend
 category: weekend
-published: false
 
 ---
