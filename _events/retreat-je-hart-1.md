@@ -2,7 +2,7 @@
 location: _locations/avant-spirit-velp-grave.md
 attendees: 12
 layout: event
-title: Retreat je hart 2!
+title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
 from_date: 2019-12-10T23:00:00.000+00:00
 to_date: 2019-12-14T23:00:00.000+00:00
@@ -10,9 +10,9 @@ price: '645.00'
 image: https://static.stilteretraite.nl/uploads/Event -grave2.jpg
 category: 5-days
 length_of_time: 5 dagen
-lead_text: Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit
-  finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean
-  enim magna.
+lead_text: 'Retreat je Hart is een vierdaagse retraite waar max. 10 deelnemers zich
+  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+  onderdompelen in stilte. '
 
 ---
 #### **In de stilte opent zich puur ervaren**
