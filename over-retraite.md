@@ -9,7 +9,9 @@ menu:
     identifier: _over_retraite
 
 ---
-### In woordenboeken zijn verschillende betekenissen van het woord ‘retraite’ te vinden zoals: ‘afzondering voor spiritueel zelfonderzoek en geestelijke oefening; afzondering van de wereld; eenzaamheid; rustplaats; toevluchtsoord.’
+## Over retraite
+
+###### In woordenboeken zijn verschillende betekenissen van het woord ‘retraite’ te vinden zoals: ‘afzondering voor spiritueel zelfonderzoek en geestelijke oefening; afzondering van de wereld; eenzaamheid; rustplaats; toevluchtsoord.’
 
 Het woord retraite associëren we in Nederland vooral met de mogelijkheid om met een stapel boeken onder de arm een dag of wat door te brengen in een klooster; waar je tijd met jezelf kunt doorbrengen in een kleine kamer, verpoost in de kloostertuin, meedoet aan een gebedsdienst en je voor je maaltijden bij de monniken of zusters kunt aanschuiven. De afgelopen decennia hebben we vormen van retraites uit andere tradities en religies leren kennen zoals bijv. Zen- en Vipassana-meditatie uit het Boeddhisme.
 
