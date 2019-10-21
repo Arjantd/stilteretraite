@@ -9,9 +9,9 @@ layout: event
 price: '875.00'
 image: https://static.stilteretraite.nl/uploads/event - italie.jpg
 category: 5-days
-lead_text: Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit
-  finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean
-  enim magna.
+lead_text: Voor deze retraite trekken we ons terug in Liguria, Italie. Het proces
+  van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen,
+  om de Stilte ten volste te beleven.
 length_of_time: 5 dagen
 
 ---
