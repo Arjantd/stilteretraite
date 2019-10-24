@@ -15,6 +15,3 @@ menu:
     weight: 4
 
 ---
-# Posts
-
-Hier komen de blog artikelen.

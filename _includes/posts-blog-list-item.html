@@ -3,15 +3,21 @@
     <div class="row">
         <div class="col-md-4 col-sm-4">
             <a href="{{ post.url | absolute_url }}" class="media-box grid-featured-img">
-                <img src="{{ post.banner_image | absolute_url | resized_image_url: "345x230" }}" alt="">
+                <img src="{{ post.banner_image | resized_image_url: "345x230" }}" alt="">
             </a>
         </div>
         <div class="col-md-8 col-sm-8">
-            <h4><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h4>
+            <h4><a href="{{ post.url }}">{{ post.title | escape }}</a></h4>
+            {% if include.show_posted %}
+            <span class="meta-data grid-item-meta"><i class="fa fa-calendar"></i> Geplaatst op {{ post.date | date_to_string }}</span>
+            {% endif %}
             {% if include.show_lead_text %}
             <div class="grid-item-excerpt">
                 <p>{{ post.lead_text }}</p>
             </div>
+            {% endif %}
+            {% if include.show_read_more %}
+            <a href="{{ post.url }}" class="basic-link">Lees meer</a>
             {% endif %}
         </div>
     </div>
