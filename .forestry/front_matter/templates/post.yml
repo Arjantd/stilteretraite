@@ -43,20 +43,8 @@ fields:
       path: 
   label: Author
 - name: categories
-  type: select
+  type: tag_list
   default: []
-  config:
-    required: false
-    options:
-    - Retraite
-    - Persoonlijke ontwikkeling
-    - Natuur
-    - Overig
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: Categories
 - type: list
   name: related_posts
