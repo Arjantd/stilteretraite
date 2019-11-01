@@ -14,7 +14,7 @@ hero_slider:
   title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
+- image: https://static.stilteretraite.nl/uploads/Home banner 2.jpg
   title: Het mooiste cadeau dat je jezelf kunt geven!
   sub_heading: ''
   buttons: []
