@@ -1,5 +1,5 @@
 ---
-location: _locations/avant-spirit-velp-grave.md
+location: _locations/kennemer-duinen.md
 attendees: 16
 category: 1-day
 layout: event
