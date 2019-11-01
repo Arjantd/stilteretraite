@@ -11,6 +11,5 @@ from_date: 2020-02-08 00:00:00 +0100
 to_date: 2020-02-08 00:00:00 +0100
 length_of_time: weekend
 price: 95
-published: false
 
 ---
