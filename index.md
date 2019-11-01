@@ -67,7 +67,9 @@ sections:
         text: 'Lees ervaringen:'
         link: ervaringen.md
   - template: centered-header-text
-    text: Het mooiste cadeau dat je jezelf kunt geven
+    text: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door onze
+      agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
+      geven.
   - template: blue-bar
     button:
       link: contact.md
