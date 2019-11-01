@@ -2,10 +2,6 @@
 title: Home
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/Home banner 9.jpg
-  title: Thuiskomen in stilte
-  sub_heading: ''
-  buttons: []
 - image: https://static.stilteretraite.nl/uploads/Home banner 8.jpg
   title: Een stilte-retraite is meer dan alleen de afwezigheid van geluid
   sub_heading: ''
