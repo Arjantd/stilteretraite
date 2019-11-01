@@ -18,10 +18,6 @@ hero_slider:
   title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/slotjes banner 3.jpg
-  title: In stilte openbaart zich het ware verlangen
-  sub_heading: ''
-  buttons: []
 featured_links:
 - link: stilte-retraite.md
   small_text: Alles wat je weten wil over
