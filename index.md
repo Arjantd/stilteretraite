@@ -2,11 +2,11 @@
 title: Home
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/Home banner 6.jpg
-  title: In stilte openbaart zich het ware verlangen
+- image: https://static.stilteretraite.nl/uploads/Home banner 1.jpg
+  title: Stilte-retraite is meer dan de afwezigheid van geluid
   sub_heading: ''
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home banner 5.jpg
+- image: https://static.stilteretraite.nl/uploads/Home banner 4.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
@@ -14,12 +14,12 @@ hero_slider:
   title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home banner 4.jpg
+- image: https://static.stilteretraite.nl/uploads/Home banner 6.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home banner 1.jpg
-  title: Stilte-retraite is meer dan de afwezigheid van geluid
+- image: https://static.stilteretraite.nl/uploads/Home banner 5.jpg
+  title: In stilte openbaart zich het ware verlangen
   sub_heading: ''
   buttons: []
 - image: https://static.stilteretraite.nl/uploads/slotjes banner 3.jpg
