@@ -102,6 +102,7 @@ fields:
   hidden: true
   default: event
 pages:
+- _events/stille-zaterdag.md
 - _events/new-1.md
 - _events/retreat-je-hart.md
 - _events/retreat-je-hart-1.md
