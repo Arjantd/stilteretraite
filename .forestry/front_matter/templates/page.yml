@@ -20,12 +20,12 @@ fields:
   default: page
   hidden: true
 pages:
+- over-retraite.md
 - ervaringen.md
 - wat-doet-het.md
 - magazine.md
 - voor-wie-is-het.md
 - wat-is-retraite.md
-- over-retraite.md
 - ons-aanbod.md
 - contact.md
 - wat-wij-beogen.md
