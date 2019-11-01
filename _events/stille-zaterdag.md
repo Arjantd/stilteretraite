@@ -1,5 +1,5 @@
 ---
-location: []
+location: _locations/avant-spirit-velp-grave.md
 attendees: 16
 category: 1-day
 layout: event
@@ -9,7 +9,7 @@ lead_text: 'Een zaterdag als eiland van bezinning, als baken in de maalstroom va
   het leven. ''Touch base'' en ''reload''.  '
 from_date: 2020-02-08 00:00:00 +0100
 to_date: 2020-02-08 00:00:00 +0100
-length_of_time: ''
+length_of_time: weekend
 price: 95
 published: false
 
