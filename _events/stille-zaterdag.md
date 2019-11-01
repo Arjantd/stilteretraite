@@ -3,7 +3,7 @@ location: []
 attendees: 16
 category: 1-day
 layout: event
-title: Stille zaterdag
+title: Stille zaterdag FEB2020
 image: https://static.stilteretraite.nl/uploads/shutterstock_227136478.jpg
 lead_text: 'Een zaterdag als eiland van bezinning, als baken in de maalstroom van
   het leven. ''Touch base'' en ''reload''.  '
