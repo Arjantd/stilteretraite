@@ -35,7 +35,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	padding: 0;
 	border: 0;
 	font: inherit;
-	font-size: 16px;
+	font-size: 18px;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -205,10 +205,10 @@ h6{
 	font-family: 'Playfair Display', serif;
 }
 h1{
-	font-size:42px;
+	font-size:46px;
 }
 h2{
-	font-size:36px;
+	font-size:40px;
 }
 h2 small{
 	display:block;
@@ -222,7 +222,7 @@ h3{
 h4{
 	font-size:18px;
 	text-transform:uppercase;
-	letter-spacing:2px;
+	letter-spacing:1px;
 }
 h5{
 	font-size:15px;
@@ -243,6 +243,9 @@ h1.spaced, h2.spaced, h3.spaced, h4.spaced, h5.spaced, h6.spaced {
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
 	color:#333;
 	text-decoration:none;
+}
+h4 a {
+	font-size: 20px;
 }
 h1 .label, h2 .label, h3 .label, h4 .label, h5 .label, h6 .label{
 	font-size:11px;
@@ -1138,6 +1141,9 @@ html[xmlns] .slides {
 .widget .owl-carousel .owl-wrapper-outer{
 	padding-top:10px;
 }
+.btn-default, .btn-primary, .btn-success, .btn-info, .btn-warning, .btn-danger {
+	font-size: 14px;
+}
 .btn-rounded{
 	border-radius:30px;
 }
@@ -1182,7 +1188,7 @@ body{
 	font-size:15px;
 	font-weight:400;
 	font-family:"Lato", sans-serif;
-	line-height:1.55em;
+	line-height:1.8em;
 	background-attachment:fixed;
 	overflow-x:hidden;
 }
@@ -1331,6 +1337,7 @@ body.boxed .body{
 }
 .sticky .dd-menu > li > a, .header-style2 .dd-menu > li > a, .header-style3 .dd-menu > li > a{
 	color:#333;
+	font-size: 14px;
 }
 .dd-menu > li ul{
 	margin:0;
@@ -1375,6 +1382,7 @@ body.boxed .body{
 	white-space:nowrap;
 	text-decoration:none;
 	color:#5e5e5e;
+	font-size: 14px;
 }
 .dd-menu > li > ul > li > a:hover{
 	color:#333;
@@ -1830,9 +1838,7 @@ body.boxed .body{
 	font-weight:700;
 	line-height:24px;
 	margin-top:5px;
-	text-transform:none;
 	margin-bottom:10px;
-	letter-spacing:0;
 }
 .events-compact-list h4, .events-compact-list p{
 	padding-left:80px;
