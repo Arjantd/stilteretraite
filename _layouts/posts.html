@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: default
 ---
 {% comment %}
 	This layout is used to by posts.md to display all of documents in
 	the _posts/ collection
 {% endcomment %}
 
-{% include posts-grid.html posts=paginator.posts %}
+<div class="container">
+	<h2>{{ page.title }}</h2>
 
-{% include paginator.html paginator=paginator %}
+	{% include posts-grid.html posts=paginator.posts %}
+
+	{% include paginator.html paginator=paginator %}
+</div>
