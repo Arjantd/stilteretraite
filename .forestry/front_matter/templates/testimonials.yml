@@ -10,6 +10,11 @@ fields:
     config:
       required: true
     label: Title
+  - name: subtitle
+    type: text
+    config:
+      required: false
+    label: Subtitle
   - name: text
     type: textarea
     default: ''
