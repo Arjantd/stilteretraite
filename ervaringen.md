@@ -3,8 +3,8 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: RE-TREAT JE HART - DEC 2013
-  subtitle: Confronterend en verzachtend
+- title: Confronterend en verzachtend
+  subtitle: RE-TREAT JE HART - DEC 2013
   text: Confronterend en verzachtend tegelijkertijd, het proces van retraite zit vol
     tegenstrijdigheden. Net zoals het echte leven en het is fijn om hier mee aan de
     slag te gaan. De begeleiding van Robbert maakt dat je je veilig voelt tijdens
