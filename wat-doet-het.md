@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 'Wat doet het '
-image: https://static.stilteretraite.nl/uploads/banner A.jpg
+image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 menu:
   navigation:
     weight: 3
     parent: _stilte_retraite
     title: Wat doet het?
+    identifier: item_7ty6DCB
 
 ---
 # WAT DOET RETRAITE
