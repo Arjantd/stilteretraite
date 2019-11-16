@@ -3925,6 +3925,9 @@ body.boxed .body{
 	.header-style2 .hero-slider, .header-style3 .hero-slider, .header-style2 .hero-slider.flexslider ul.slides li, .header-style3 .hero-slider.flexslider ul.slides li, .header-style2 .flex-caption-cell, .header-style3 .flex-caption-cell{
 		height:250px;
 	}
+	.flex-caption {
+		display:none;
+	}
 	.flex-caption h2 {
 		font-size: 36px;
 		margin-bottom: 15px;
