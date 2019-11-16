@@ -5,19 +5,22 @@ layout: page
     <div class="owl-wrapper-outer">
         <div class="owl-wrapper" style="width: 1170px; left: 0px; display: block;">
             <div class="owl-item" style="width: 585px;">
+                {% for testimonial in page.testimonials %}
                 <li class="item">
                     <div class="testimonial-block">
                         <blockquote>
-                            <h3>Everyday food for Mumbai children</h3>
-                            Vestibulum quam nisi, pretium a nibh sit amet, consectetur hendrerit mi. Aenean imperdiet lacus sit amet elit porta, et malesuada erat bibendum. Cras sed nunc massa. Quisque tempor dolor sit amet tellus malesuada, malesuada iaculis eros dignissim.
+                            <h3>{{ testimonial.title }}</h3>
+                            <h4>{{ testimonial.subtitle }}</h4>
+                            {{ testimonial.text }}
                         </blockquote>
                         <div class="testimonial-info">
                             <div class="testimonial-info-in">
-                                <strong>Chloe Lévesque</strong>
+                                <strong>{{ testimonial.participant }}</strong>
                             </div>
                         </div>
                     </div>
                 </li>
+                {% endfor %}
             </div>
         </div>
     </div>
