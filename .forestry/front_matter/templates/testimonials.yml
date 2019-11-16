@@ -34,3 +34,5 @@ fields:
     max: 
     labelField: 
   label: Testimonials
+pages:
+- ervaringen.md
