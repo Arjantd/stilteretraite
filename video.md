@@ -7,10 +7,10 @@ textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte fi
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
 image: https://static.stilteretraite.nl/uploads/shutterstock_1115950973.jpg
 videos:
-- _videos/Wat is een retraite?.md
-- _videos/Wat gebeurt er tijdens een retraite?.md
-- _videos/Voor wie is een stilte retraite?.md
-- _videos/Hoe ziet een stilte retraite er uit?.md
+- _videos/wat-is-een-retraite.md
+- _videos/wat-gebeurt-er-tijdens-een-retraite.md
+- _videos/voor-wie-is-een-stilte-retraite.md
+- _videos/hoe-ziet-een-stilte-retraite-er-uit.md
 menu:
   navigation:
     identifier: _video
