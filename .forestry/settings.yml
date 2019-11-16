@@ -20,6 +20,7 @@ sections:
   - page
   - videos
   - events
+  - testimonials
 - type: directory
   path: _people
   label: People
