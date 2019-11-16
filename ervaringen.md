@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 menu:
@@ -7,7 +7,6 @@ menu:
     weight: 6
     parent: _stilte_retraite
     identifier: _ervaringen
-
 ---
 
 > **  
