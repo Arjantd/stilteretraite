@@ -19,15 +19,11 @@ fields:
       schema:
         format: markdown
     label: Text
-  - name: date
-    type: datetime
-    label: Date
-    description: ''
+  - name: participant
+    type: text
     config:
-      required: false
-      date_format: 
-      time_format: 
-      display_utc: false
+      required: true
+    label: Participant
   config:
     min: 
     max: 
