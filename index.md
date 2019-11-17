@@ -48,7 +48,7 @@ sections:
       door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep
       van binnen vragen we ons af of wat we doen nog wel klopt met waar we naar verlangen.
       Maar onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager
-      in ons en langzaam maar zeker ontwikkelt zich een chronische vermoeidheid. \n\nUiteindelijk
+      in ons en langzaam ontwikkelt zich een chronische vermoeidheid. \n\nUiteindelijk
       dient zich de behoefte aan om ‘los’ te komen van de dagelijkse sleur: een verlangen
       naar stilte, ruimte en leegte. Misschien ben je daarom ook wel op deze website
       aanbeland?"
