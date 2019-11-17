@@ -44,7 +44,7 @@ sections:
   blocks:
   - template: text-left-video-right
     title: Verlangen naar stilte
-    text: "Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren
+    text: "Weten we nog wat stilte is? In de huidige tijd laten we ons zo meesleuren
       door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep
       van binnen vragen we ons af of wat we aan het doen zijn nog wel klopt met waar
       we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd
