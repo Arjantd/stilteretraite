@@ -44,12 +44,14 @@ sections:
   blocks:
   - template: text-left-video-right
     title: Verlangen naar stilte
-    text: |-
-      Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep van binnen vragen we ons af of wat we aan het doen zijn nog wel klopt met waar we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd door de aanjager in ons.
-
-      Langzaam maar zeker ontwikkelt zich een chronische vermoeidheid, die er tijdens vakanties uitkomt, of ons narrig of ziek maakt. Nergens is het stil! Niet om ons, niet in ons.
-
-      Uiteindelijk dient zich de behoefte aan om ‘los’ te komen van de dagelijkse sleur: een verlangen naar stilte, ruimte en leegte. Misschien ben je daarom ook wel op deze website aanbeland?
+    text: "Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren
+      door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep
+      van binnen vragen we ons af of wat we aan het doen zijn nog wel klopt met waar
+      we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd
+      door de aanjager in ons en langzaam maar zeker ontwikkelt zich een chronische
+      vermoeidheid. \n\nUiteindelijk dient zich de behoefte aan om ‘los’ te komen
+      van de dagelijkse sleur: een verlangen naar stilte, ruimte en leegte. Misschien
+      ben je daarom ook wel op deze website aanbeland?"
     video:
       link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
       thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
