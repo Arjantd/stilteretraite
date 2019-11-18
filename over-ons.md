@@ -14,8 +14,8 @@ icon_boxes:
   icon: far fa-heart
 - title: Initiatiefnemers
   link: robbert-van-bruggen.md
-  text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
-    zodat het goed op de overzichtspagina past.
+  text: 'Het initiatief tot stilteretraite.nl werd in 2019 genomen door een gezelschap
+    dat zich via de retraites van ''Ineenhutjeopdehei'' had leren kennen. '
   icon: fas fa-user
 - title: Mede-initiatiefnemers
   link: []
