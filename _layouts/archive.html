@@ -1,18 +1,20 @@
 ---
-layout: page-with-hero
+layout: page
 ---
 {% comment %}
   This layout is used by the jekyll-archives plugin to generate
   archive pages for all posts
 {% endcomment %}
 
-<h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
+<div class="container">
+  {% case page.type %}
+  {% when 'tag' %}
+  <h1>Posts met de tag {{ page.title }}</h1>
+  {% when 'category' %}
+  <h1>Posts in de categorie {{ page.title }}</h1>
+  {% when 'year' %}
+  <h1>Posts van het jaar {{ page.date | date: "%Y" }}</h1>
+  {% endcase %}
 
-<ul class="posts-list">
-{% for post in page.posts %}
-  <li>
-    <a class="post-link" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-		<div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-  </li>
-{% endfor %}
-</ul>
+  {% include posts-gallery.html posts=page.posts %}  
+</div>
