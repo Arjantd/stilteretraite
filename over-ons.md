@@ -32,9 +32,8 @@ icon_boxes:
     het goed op de overzichtspagina past.
   icon: fas fa-map-marker-alt
   link: wat-wij-beogen.md
-- title: Toekomstplannen
-  text: Tekst voor titel toekomstplannen maar ook hier niet teveel tekst maar het
-    moet er wel een beetje gevuld uitzien.
+- title: "."
+  text: "."
   icon: fas fa-share
   link: ''
 template: ''
