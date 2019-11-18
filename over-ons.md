@@ -12,7 +12,7 @@ icon_boxes:
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
   icon: far fa-heart
-- title: Robbert van Bruggen
+- title: Initiatiefnemers
   link: robbert-van-bruggen.md
   text: Tekst voor 'Robbert van Bruggen' kan hier geschreven worden. Niet teveel tekst
     zodat het goed op de overzichtspagina past.
