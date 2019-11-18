@@ -33,7 +33,7 @@ icon_boxes:
   icon: fas fa-map-marker-alt
   link: wat-wij-beogen.md
 - title: "."
-  text: "."
+  text: ".."
   icon: fas fa-share
   link: ''
 template: ''
