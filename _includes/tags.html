@@ -2,7 +2,7 @@
 <div class="tag-cloud">
 <i class="fa fa-tags"></i> 
 {% for tag in include.tags %}
-<a href="#">{{ tag }}</a>
+<a href="/tag/{{tag}}">{{ tag }}</a>
 {% endfor %}
 </div>
 {% endif %}
