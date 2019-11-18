@@ -14,7 +14,7 @@ icon_boxes:
   icon: far fa-heart
 - title: Initiatiefnemers
   link: robbert-van-bruggen.md
-  text: 'Het initiatief tot stilteretraite.nl werd igenomen door een gezelschap dat
+  text: 'Het initiatief tot stilteretraite.nl werd genomen door een gezelschap dat
     elkaar ontmoette via de retraites van ''Ineenhutjeopdehei''. '
   icon: fas fa-user
 - title: Mede-initiatiefnemers
