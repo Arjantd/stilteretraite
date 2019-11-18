@@ -1,27 +1,4 @@
 ---
 layout: page
 ---
-<ul class="owl-carousel carousel-fw owl-theme" data-columns="2" data-autoplay="" data-pagination="no" data-arrows="yes" data-single-item="no" data-items-desktop="2" data-items-desktop-small="2" data-items-tablet="1" data-items-mobile="1" data-rtl="ltr" style="opacity: 1; display: block;">
-    <div class="owl-wrapper-outer">
-        <div class="owl-wrapper" style="width: 1170px; left: 0px; display: block;">
-            <div class="owl-item" style="width: 585px;">
-                {% for testimonial in page.testimonials %}
-                <li class="item">
-                    <div class="testimonial-block">
-                        <blockquote>
-                            <h3>{{ testimonial.title }}</h3>
-                            <h4>{{ testimonial.subtitle }}</h4>
-                            {{ testimonial.text }}
-                        </blockquote>
-                        <div class="testimonial-info">
-                            <div class="testimonial-info-in">
-                                <strong>{{ testimonial.participant }}</strong>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</ul>
+{% include testimonials-carousel.html testimonials=page.testimonials %}

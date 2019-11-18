@@ -9,16 +9,6 @@ layout: default
 <div class="container">
     <h2>{{ page.title }}</h2>
     <div class="row">
-        <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-            {% for page_video in page.videos %}
-            {% assign video = site.videos | where:"path", page_video | first %}
-            <li class="col-md-6 col-sm-6 col-xs-6 grid-item gallery-grid-item videos format-video">
-                <a href="{{ video.link }}" class="media-box magnific-video"> <img src="{{ video.thumbnail | resized_image_url: "555x370" }}" alt=""> </a>
-                <div class="grid-item-content">
-                    <p>{{ video.caption }}</p>
-                </div>
-            </li>
-            {% endfor %}
-        </ul>
+        {% include videos-gallery.html videos=page.videos %}
     </div>
 </div>

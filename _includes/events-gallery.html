@@ -1,0 +1,27 @@
+<ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
+    {% assign events_sorted_by_from_date = include.events | sort: 'from_date' %}
+    {% for event in events_sorted_by_from_date %}
+    {% assign location = include.locations | where:"path", event.location | first %}
+    <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
+        <div class="grid-item-inner">
+            <a href="{{ event.url | absolute_url }}" class="media-box">
+                <img src="{{ event.image | resized_image_url: "358x239" }}" alt="">
+            </a>
+            <div class="grid-item-content">
+                <span class="event-date">
+                    <span class="date">{{ event.from_date | date: '%d' }}</span>
+                    <span class="month">{% assign m = event.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
+                    <span class="year">{{ event.from_date | date: '%Y' }}</span>
+                </span>
+                <span class="meta-data">{{ event.from_date | date_to_string }} - {{ event.to_date | date_to_string }}</span>
+                <h3 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title }}</a></h3>
+                <ul class="list-group">
+                    <li class="list-group-item"><span class="badge">Duur</span>{{ event.length_of_time }}</li>
+                    <li class="list-group-item"><span class="badge">Locatie</span><span>{{ location.title }}</span></li>
+                    <li class="list-group-item"><span class="badge">Kosten</span>&euro; {{ event.price }}</li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,22 @@
+{% assign prev_entity = nil %}
+{% assign next_entity = nil %}
+{% assign entity_found = false %}
+{% assign entities = include.entities | sort: 'date' | reverse %}
+{% for entity in entities %}
+{% if entity_found %}
+    {% assign next_entity = entity %}
+    {% break %}
+{% endif %}
+{% if entity.path == include.path %}
+    {% assign entity_found = true %}
+{% else %}
+    {% assign prev_entity = entity %}
+{% endif %}
+{% endfor %}
+<ul class="pager">
+{% if prev_entity %}
+<li class="pull-left"><a href="{{ prev_entity.url | absolute_url }}">&larr; {{ include.prev_text }}</a></li>
+{% endif %}
+{% if next_entity %}
+<li class="pull-right"><a href="{{ next_entity.url | absolute_url }}">{{ include.next_text }} &rarr;</a></li>
+{% endif %}

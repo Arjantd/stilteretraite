@@ -1,61 +1,33 @@
 ---
-layout: default
+layout: page-with-hero
 ---
 {% comment %}
 	This layout is used by the documents in the _events/ collection
 {% endcomment %}
 
-{% assign location = site.locations | where:"path", event.location | first %}
-<!-- Main Content -->
-<div id="main-container">
-    <div class="content">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 content-block">
-                    <h3>{{ page.title }}</h3>
-                    <div class="post-media">
-                        <img src="{{ page.image | resized_image_url: "750x500" }}" alt="">
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6">
-                            <span class="event-date">
-                                <span class="date">{{ page.from_date | date: '%d' }}</span>
-                                <span class="month">{% assign m = page.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
-                                <span class="year">{{ page.from_date | date: '%Y' }}</span>
-                            </span>
-                                <span class="meta-data">{{ page.from_date | date_to_string }} - {{ page.to_date | date_to_string }}</span>
-                            <a href="#" class="btn btn-primary btn-event-single-book">Aanmelden</a>
-                          </div>
-                        <div class="col-md-6 col-sm-6">
-                            <ul class="list-group">
-                                <li class="list-group-item">{{ page.length_of_time }}<span class="badge">Duur</span></li>
-                                <li class="list-group-item">{{ location.title }}<span class="badge">Locatie</span></li>
-                                <li class="list-group-item">&euro; {{ page.price }}<span class="badge">Kosten</span></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="spacer-20"></div>
-                    <p class="lead">{{ page.lead_text }}</p>
-                    {{ page.content }}
-                </div>
-                
-                <!-- Sidebar -->
-                <div class="col-md-4 sidebar-block">
-                    <div class="widget sidebar-widget">
-                        <h3 class="widgettitle">Komende events</h3>
-                        {% assign events = site.events | sort: 'from_date' %}
-                        {% include events.html events=events %}
-                    </div>
-                    <div class="widget sidebar-widget">
-                        <h3 class="widgettitle">Laatste posts</h3>
-                        {% assign posts = site.posts | sort: 'date' | reverse %}
-                        {% include posts-blog-list-item.html posts=posts limit=5 show_lead_text=false %}
-                    </div>
-                    <div class="widget sidebar-widget">
-                        <h3 class="widgettitle">Video's</h3>
-                        {% include videos.html videos=site.videos %}
-                    </div>
-                </div>
+<div class="container">
+    <h3>{{ page.title }}</h3>
+    <div class="row">
+        <div class="col-md-8 content-block">
+            {% assign location = site.locations | where:"path", page.location | first %}
+            {% include event.html location=location image=page.image from_date=page.from_date to_date=page.to_date length_of_time=page.length_of_time title=page.title price=page.price lead_text=page.lead_text content=page.content %}
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-md-4 sidebar-block">
+            <div class="widget sidebar-widget">
+                <h3 class="widgettitle">Komende events</h3>
+                {% assign events = site.events | sort: 'from_date' %}
+                {% include events-compact-list.html events=events %}
+            </div>
+            <div class="widget sidebar-widget">
+                <h3 class="widgettitle">Laatste posts</h3>
+                {% assign posts = site.posts | sort: 'date' | reverse %}
+                {% include posts-blog-list-item.html posts=posts limit=5 show_lead_text=false %}
+            </div>
+            <div class="widget sidebar-widget">
+                <h3 class="widgettitle">Video's</h3>
+                {% include videos-gallery.html videos=site.videos %}
             </div>
         </div>
     </div>

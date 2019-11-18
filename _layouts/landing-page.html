@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 {% comment %}
@@ -9,26 +9,8 @@ layout: default
 
 {% include featured-links.html %}
 
-<!-- Main Content -->
-<div id="main-container">
-	<div class="content">
-		{% for section in page.sections %}
-		<div class="{{ section.background }} {{ section.padding }}">
-			{% for block in section.blocks %}
-				{% case block.template %}
-					{% when 'text-left-video-right' %}
-						{% include blocks/text-left-video-right.html title=block.title text=block.text buttons=block.buttons video=block.video %}
-					{% when 'owl-carousel-image-left-story-right' %}
-						{% include blocks/owl-carousel-image-left-story-right.html items=block.items %}
-					{% when 'upcoming-events-left-latest-blogs-right' %}
-						{% include blocks/upcoming-events-left-latest-blogs-right.html %}
-					{% when 'blue-bar' %}
-						{% include blocks/blue-bar.html text=block.text button=block.button %}
-					{% when 'centered-header-text' %}
-						{% include blocks/centered-header-text.html text=block.text %}
-				{% endcase %}
-			{% endfor %}
-		</div>
-		{% endfor %}
-	</div>
+{% for section in page.sections %}
+<div class="{{ section.background }} {{ section.padding }}">
+	{% include blocks.html blocks=section.blocks %}
 </div>
+{% endfor %}

@@ -5,21 +5,9 @@ layout: default
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
 
-<!-- Hero Area -->
-<div class="hero-area">
-    <div class="page-banner parallax" style="background-image:url('{{ page.image }}');">
-        <div class="container">
-            <div class="page-banner-text">
-                <h1 class="block-title">{{ page.title }}</h1>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Main Content -->
 <div id="main-container">
     <div class="content">
-        <div class="container">
-            {{ content }}
-        </div>
+        {{ content }}
     </div>
 </div>

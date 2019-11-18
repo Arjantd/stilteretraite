@@ -1,0 +1,24 @@
+<div class="post-media">
+    <img src="{{ include.image | resized_image_url: "750x500" }}" alt="">
+</div>
+<div class="row">
+    <div class="col-md-6 col-sm-6">
+        <span class="event-date">
+            <span class="date">{{ include.from_date | date: '%d' }}</span>
+            <span class="month">{% assign m = include.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
+            <span class="year">{{ include.from_date | date: '%Y' }}</span>
+        </span>
+            <span class="meta-data">{{ include.from_date | date_to_string }} - {{ include.to_date | date_to_string }}</span>
+        <a href="#" class="btn btn-primary btn-event-single-book">Aanmelden</a>
+      </div>
+    <div class="col-md-6 col-sm-6">
+        <ul class="list-group">
+            <li class="list-group-item">{{ include.length_of_time }}<span class="badge">Duur</span></li>
+            <li class="list-group-item">{{ include.location.title }}<span class="badge">Locatie</span></li>
+            <li class="list-group-item">&euro; {{ include.price }}<span class="badge">Kosten</span></li>
+        </ul>
+    </div>
+</div>
+<div class="spacer-20"></div>
+<p class="lead">{{ include.lead_text }}</p>
+{{ include.content }}

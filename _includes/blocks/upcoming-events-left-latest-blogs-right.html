@@ -5,7 +5,7 @@
                 <h2 class="block-title">Agenda</h2>
                 <div class="spacer-20"></div>
                 {% assign events = site.events | sort: 'from_date' %}
-                {% include events.html events=events limit=4 %}
+                {% include events-compact-list.html events=events limit=4 %}
                 <hr />
                 <a href="events" class="btn btn-primary">Meer events</a>
             </div>

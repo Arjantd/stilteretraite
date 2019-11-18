@@ -1,0 +1,20 @@
+<div class="post-media">
+    <img src="{{ include.banner_image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
+    </div>
+    <div class="post-content">
+    {{ include.content }}
+    </div>
+
+    <!-- Tags -->
+    {% include tags.html tags=include.tags %}
+    {% if include.author %}
+
+    <!-- About Author -->
+    {% assign author = site.people | where:"path", include.author | first %}
+    {% include author.html thumbnail=author.thumbnail title=author.title content=author.content %}
+    {% endif %}
+
+    <!-- Pager -->
+    {% include pager.html path=include.path entities=site.posts prev_text="Vorig artikel" next_text="Volgend artikel" %}
+    </ul>
+</div>

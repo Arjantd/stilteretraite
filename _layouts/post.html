@@ -1,94 +1,41 @@
 ---
-layout: default
+layout: page
 ---
 {% comment %}
 	This layout is used by the documents in the _posts/ collection
 {% endcomment %}
 
-<!-- Main Content -->
-<div id="main-container">
-  <div class="content">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 content-block">
-          <h3>{{ page.title | escape }}</h3>
-          <div class="post-media">
-            <img src="{{ page.banner_image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
-          </div>
-          <div class="post-content">
-            {{ page.content }}
-          </div>
-          {% if page.tags.size > 0 %}
-          <div class="tag-cloud">
-            <i class="fa fa-tags"></i> 
-            {% for tag in page.tags %}
-            <a href="#">{{ tag }}</a>
-            {% endfor %}
-          </div>
-          {% endif %}
-          {% if page.author %}
-          {% assign author = site.people | where:"path", page.author | first %}
-          <!-- About Author -->
-          <section class="about-author">
-            <img src="{{ author.thumbnail | resized_image_url: "100x100" }}" alt="avatar" class="img-thumbnail">
-            <div class="post-author-content">
-                <h3>{{ author.title }} <span class="label label-primary">Schrijver</span></h3>
-                <p>{{ author.content }}</p>
-            </div>
-          </section>
-          {% endif %}
-          <!-- Pager -->
-          {% assign prev_post = nil %}
-          {% assign next_post = nil %}
-          {% assign post_found = false %}
-          {% assign posts = site.posts | sort: 'date' | reverse %}
-          {% for post in posts %}
-            {% if post_found %}
-              {% assign next_post = post %}
-              {% break %}
-            {% endif %}
-            {% if post.path == page.path %}
-              {% assign post_found = true %}
-            {% else %}
-              {% assign prev_post = post %}
-            {% endif %}
-          {% endfor %}
-          <ul class="pager">
-            {% if prev_post %}
-            <li class="pull-left"><a href="{{ prev_post.url | absolute_url }}">&larr; Vorig artikel</a></li>
-            {% endif %}
-            {% if next_post %}
-            <li class="pull-right"><a href="{{ next_post.url | absolute_url }}">Volgend artikel &rarr;</a></li>
-            {% endif %}
-          </ul>
-        </div>
+<div class="container">
+  <h3>{{ page.title | escape }}</h3>
+  <div class="row">
+    <div class="col-md-8 content-block">
+      {% include post.html banner_image=page.banner_image content=page.content tags=page.tags author=page.author path=page.path %}
+    </div>
 
-        <!-- Sidebar -->
-        <div class="col-md-4 sidebar-block">
-          <div class="widget tabbed_content tabs">
-            <ul class="nav nav-tabs">
-              <li class="active"> <a data-toggle="tab" href="#Trelated">Related</a> </li>
-            </ul>
-            <div class="tab-content">
-              <div id="Trelated" class="tab-pane active">
-                {% if page.related_posts.size > 0 %}
-                <div class="widget recent_posts">
-                  <ul>
-                    {% for item in page.related_posts %}
-                    {% assign post = site.posts | where:"path", item | first %}
-                    <li>
-                      <a href="{{ post.url | absolute_url }}" class="media-box">
-                        <img src="{{ post.banner_image | absolute_url }}" alt="">
-                      </a>
-                      <h5><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h5>
-                      <span class="meta-data grid-item-meta">Posted on {{ post.date | date_to_string }}</span>
-                    </li>
-                    {% endfor %}
-                  </ul>
-                </div>
-                {% endif %}
-              </div>
+    <!-- Sidebar -->
+    <div class="col-md-4 sidebar-block">
+      <div class="widget tabbed_content tabs">
+        <ul class="nav nav-tabs">
+          <li class="active"> <a data-toggle="tab" href="#Trelated">Related</a> </li>
+        </ul>
+        <div class="tab-content">
+          <div id="Trelated" class="tab-pane active">
+            {% if page.related_posts.size > 0 %}
+            <div class="widget recent_posts">
+              <ul>
+                {% for item in page.related_posts %}
+                {% assign post = site.posts | where:"path", item | first %}
+                <li>
+                  <a href="{{ post.url | absolute_url }}" class="media-box">
+                    <img src="{{ post.banner_image | absolute_url }}" alt="">
+                  </a>
+                  <h5><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h5>
+                  <span class="meta-data grid-item-meta">Posted on {{ post.date | date_to_string }}</span>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
+            {% endif %}
           </div>
         </div>
       </div>

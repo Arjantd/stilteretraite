@@ -1,0 +1,13 @@
+<ul class="owl-carousel carousel-fw owl-theme" data-columns="2" data-autoplay="" data-pagination="no" data-arrows="yes" data-single-item="no" data-items-desktop="2" data-items-desktop-small="2" data-items-tablet="1" data-items-mobile="1" data-rtl="ltr" style="opacity: 1; display: block;">
+    <div class="owl-wrapper-outer">
+        <div class="owl-wrapper" style="width: 1170px; left: 0px; display: block;">
+            <div class="owl-item" style="width: 585px;">
+                {% for testimonial in include.testimonials %}
+                <li class="item">
+                    {% include testimonial.html title=testimonial.title subtitle=testimonial.subtitle text=testimonial.text participant=testimonial.participant %}
+                </li>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</ul>

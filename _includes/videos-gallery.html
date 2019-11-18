@@ -1,7 +1,8 @@
 <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
-    {% for video in include.videos %}
+    {% for include_video in include.videos %}
+    {% assign video = site.videos | where:"path", include_video | first %}
     <li class="col-md-6 col-sm-6 col-xs-6 grid-item gallery-grid-item videos format-video">
-        <a href="{{ video.link }}" class="media-box magnific-video"> <img src="{{ video.thumbnail | absolute_url}}" alt=""> </a>
+        <a href="{{ video.link }}" class="media-box magnific-video"> <img src="{{ video.thumbnail | resized_image_url: "555x370" }}" alt=""> </a>
         <div class="grid-item-content">
             <p>{{ video.caption }}</p>
         </div>
