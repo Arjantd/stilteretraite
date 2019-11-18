@@ -15,7 +15,7 @@ icon_boxes:
 - title: Initiatiefnemers
   link: robbert-van-bruggen.md
   text: 'Het initiatief tot stilteretraite.nl werd in 2019 genomen door een gezelschap
-    dat zich via de retraites van ''Ineenhutjeopdehei'' had leren kennen. '
+    dat elkaar ontmoette via de retraites van ''Ineenhutjeopdehei''. '
   icon: fas fa-user
 - title: Mede-initiatiefnemers
   link: []
