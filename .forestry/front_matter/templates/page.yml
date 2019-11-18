@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- robbert-van-bruggen.md
 - wat-is-retraite.md
 - wat-doet-het.md
 - voor-wie-is-het.md
@@ -28,4 +29,3 @@ pages:
 - magazine.md
 - contact.md
 - wat-wij-beogen.md
-- robbert-van-bruggen.md
