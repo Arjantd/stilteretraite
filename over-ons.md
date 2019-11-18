@@ -17,10 +17,10 @@ icon_boxes:
   text: 'Het initiatief tot stilteretraite.nl werd genomen door een gezelschap dat
     elkaar ontmoette via de retraites van ''Ineenhutjeopdehei''. '
   icon: fas fa-user
-- title: Mede-initiatiefnemers
+- title: Toekomstplannen
   link: []
-  text: Tekst voor 'huidig team' kan hier geschreven worden. Niet teveel tekst zodat
-    het goed op de overzichtspagina past.
+  text: Tekst voor 'toekomstplannen' kan hier geschreven worden. Niet teveel tekst
+    zodat het goed op de overzichtspagina past.
   icon: fas fa-users
 - title: Jouw initiatief
   link: []
