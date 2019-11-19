@@ -23,7 +23,8 @@ layout: page
             <div class="widget sidebar-widget">
                 <h3 class="widgettitle">Laatste posts</h3>
                 {% assign posts = site.posts | sort: 'date' | reverse %}
-                {% include posts-blog-list-item.html posts=posts limit=5 show_lead_text=false %}
+                {% include posts-blog-list-item.html posts=posts limit=3 show_lead_text=false %}
+                <a href="{{ "/magazine" | absolute_url }}" class="btn btn-primary btn-event-single-book">Meer posts</a>
             </div>
             <div class="widget sidebar-widget">
                 <h3 class="widgettitle">Video's</h3>
