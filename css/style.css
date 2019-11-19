@@ -1246,7 +1246,14 @@ body.boxed .body{
 .site-header .container{
 	position:relative;
 }
-.site-header.sticky,body.page-centered-content .site-header{
+.site-header.sticky,
+body.page-centered-content .site-header,
+body.events .site-header,
+body.event .site-header,
+body.posts .site-header,
+body.post .site-header,
+body.videos .site-header,
+body.video .site-header{
 	-webkit-transition: background .3s .2s, box-shadow .3s .2s;
 	-moz-transition: background .3s .2s, box-shadow .3s .2s;
 	-ms-transition: background .3s .2s, box-shadow .3s .2s;
