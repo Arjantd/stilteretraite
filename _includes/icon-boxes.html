@@ -18,12 +18,11 @@
     </div>
 
     {% assign index_mod_3 = forloop.index | modulo: 3 %}
-    {% if !forloop.first and index_mod_3 == 0 %}
+    {% if forloop.last == false and index_mod_3 == 0 %}
     </div>
     <div class="spacer-50 hidden-sm hidden-xs"></div>
     <div class="row">
     {% endif %}
-
 
     {% if forloop.last %}
         </div>
