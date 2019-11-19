@@ -1,7 +1,7 @@
 <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
     {% assign events_sorted_by_from_date = include.events | sort: 'from_date' %}
     {% for event in events_sorted_by_from_date %}
-    {% assign location = include.locations | where:"path", event.location | first %}
+    {% assign location = site.locations | where:"path", event.location | first %}
     <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
         <div class="grid-item-inner">
             <a href="{{ event.url | absolute_url }}" class="media-box">
