@@ -1,7 +1,0 @@
-<ul class="owl-carousel carousel-fw" id="testimonials-slider" data-columns="1" data-autoplay="5000" data-pagination="yes" data-arrows="no" data-single-item="no" data-items-desktop="1" data-items-desktop-small="1" data-items-tablet="1" data-items-mobile="1">
-    {% for testimonial in include.testimonials %}
-    <li class="item">
-        {% include testimonial.html title=testimonial.title subtitle=testimonial.subtitle text=testimonial.text participant=testimonial.participant %}
-    </li>
-    {% endfor %}
-</ul>

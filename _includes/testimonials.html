@@ -1,0 +1,5 @@
+{% for testimonial in include.testimonials %}
+    <div class="mb-5">
+    {% include testimonial.html title=testimonial.title subtitle=testimonial.subtitle text=testimonial.text participant=testimonial.participant %}
+    </div>
+{% endfor %}
