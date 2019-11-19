@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-centered-content
 title: Initiatiefnemers
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 menu:
