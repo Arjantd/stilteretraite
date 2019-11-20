@@ -75,10 +75,10 @@ sections:
       text: 'Onder de naam **''In een hutje op de hei''** organiseert Robbert van
         Bruggen al meer dan 10 jaar stilte-retraites: in totaal staat de teller op
         47! In de beginjaren vonden de retraites plaats in ''Kadampa'' in Schin op
-        Geul, later ook in het Italiaanse Ca du Chittu. De afgelopen 3 jaar was ''In
-        een hutje op de hei'' te gast op het Veluwse landgoed Hoog Deelen en bij het
-        voormalig Emmausklooster te Velp (NB). Deelnemers koesteren warme herinneringen
-        aan hun deelname(s) en daar zijn we trots op! '
+        Geul, later ook in het Italiaanse Ca du Chittu. De afgelopen 3 jaar waren
+        we te gast op het Veluwse landgoed Hoog Deelen en bij het voormalig Emmausklooster
+        te Velp (NB). Deelnemers koesteren warme herinneringen aan hun deelname(s)
+        en daar zijn we trots op! '
       link: ervaringen.md
       button:
         text: 'Lees ervaringen:'
