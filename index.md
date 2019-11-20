@@ -78,8 +78,7 @@ sections:
         in Schin op Geul, later ook in het Italiaanse Ca du Chittu. De afgelopen 3
         jaar was ''In een hutje op de hei'' te gast op het Veluwse landgoed Hoog Deelen
         en bij Avant Spirit, in het voormalig Emmausklooster te Velp (NB). Deelnemers
-        koesteren warme herinneringen aan hun deelname(s) en daar zijn we trots op!
-        Een willekeurige greep uit hun persoonlijke ervaringen vind je hier:'
+        koesteren warme herinneringen aan hun deelname(s) en daar zijn we trots op! '
       link: ervaringen.md
       button:
         text: 'Lees ervaringen:'
