@@ -10,46 +10,35 @@ testimonials:
     slag te gaan. De begeleiding van Robbert maakt dat je je veilig voelt tijdens
     het proces van loslaten van oude én vastpakken van nieuwe ideeën en overtuigingen.
   participant: Ton van der L. Project Manager
+- title: Ik heb geen sleutel bij me
+  subtitle: RE-TREAT JE HART NOV 2017
+  text: |-
+    Ik heb de dagen als wisselend ervaren, maar erg mooi. Wist niet wat ik ervan moest verwachten, en sta er nog steeds van te kijken dat ik zowel mijn mobiel, pc als het praten niet heb gemist...geen seconde, geen telefoon.
+    Ik liep een keer heerlijk te wandelen, toen ik ineens een ingeving kreeg. Ik zag, en voelde, hoe ik mijn brein en mijn hart kon zien.Met het een voel ik aan en handel ik, met het ander maak ik boodschappenlijstjes, onthou ik dingen enz...klinkt heel kort, maar was voor mij een heel proces in de tuin.
+    Ineens ging het regenen...mijn brein mompelde van verdikkeme, snel naar binnen, mijn haar enz enz. Mijn hart zei En...is dat nou zo erg...en zo liep ik richting deur. Ineens realiseerde ik me dat ik geen sleutel bij me had. Ok, zei ik tegen mezelf... leuk hoor, maar nu zegt mijn brein toch echt dat dit niet handig is.
+    Toen zwaaide de poort open en zag ik hoofd van Robbert dat me toefluisterde “ik heb geen sleutel bij me"... Even later zagen we assistent Arjan. Ik vond dit zo'n geweldig moment!!! De dagen waren gevuld met dit soort ogenblikken...mooi.'
+  participant: A uit V
 - title: De waarde van mezelf
   subtitle: DE BELOFTE VAN HET ZWARTE EI - PAASRETRAITE 1-5 APRIL 2015
   text: Wat ik ervaren heb tijdens de stilte-retraite is iets dat niet makkelijk te
-    beschrijven is, omdat het een gevoel is. Praktisch gezien vond ik het heerlijk om
-    eens vier dagen lang niet gestoord te worden, geen telefoon aan te hebben, niets te
-    doen (zonder je daar schuldig over te voelen) en tegelijk weer zoveel inspiratie te
-    krijgen voor de dingen die ik ooit leuk vond om te doen, maar lang voor ‘nutteloos’
-    heb uitgemaakt. Dingen zoals tekenen, schilderen, schrijven, mijmeren, mediteren, door
-    de natuur wandelen, bewust eten, simpelweg ‘zijn‘. Dit had als resultaat dat mijn
-    ziel,hart of hoe je het ook wil noemen, in ieder geval mijn ‘ware ik’, tevoorschijn
-    kwam. Voordat ik de stilte-retraite inging leek me het ‘eng’ dit te gaan ervaren, maar
-    het tegendeel bleek waar. Ik heb zoveel liefde gevoeld (zonder daarvoor ook maar iets
-    nodig te hebben) dat ik nu in mijn leven een kracht ervaar die ik eerder niet zo sterk
-    gevoeld heb. Het is mijn innerlijke kracht die uiteindelijk alleen maar keuzes kan
-    maken die goed voor mij zijn. En hier ben ik in het verleden nogal eens de mist mee
-    in gegaan. Kortom, het ‘gevoel’ wat de stilte-retraite mij gegeven heeft is de waarde
-    van mezelf, mijn leven en alles wat daaruit voortkomt, daarbij hoort, maar ook van het
-    leven om mij heen, weer in volle glorie te zien. Precies dat gevoel is in mijn ogen
-    hetgeen wat het leven nou juist de moeite waard maakt.
+    beschrijven is, omdat het een gevoel is. Praktisch gezien vond ik het heerlijk
+    om eens vier dagen lang niet gestoord te worden, geen telefoon aan te hebben,
+    niets te doen (zonder je daar schuldig over te voelen) en tegelijk weer zoveel
+    inspiratie te krijgen voor de dingen die ik ooit leuk vond om te doen, maar lang
+    voor ‘nutteloos’ heb uitgemaakt. Dingen zoals tekenen, schilderen, schrijven,
+    mijmeren, mediteren, door de natuur wandelen, bewust eten, simpelweg ‘zijn‘. Dit
+    had als resultaat dat mijn ziel,hart of hoe je het ook wil noemen, in ieder geval
+    mijn ‘ware ik’, tevoorschijn kwam. Voordat ik de stilte-retraite inging leek me
+    het ‘eng’ dit te gaan ervaren, maar het tegendeel bleek waar. Ik heb zoveel liefde
+    gevoeld (zonder daarvoor ook maar iets nodig te hebben) dat ik nu in mijn leven
+    een kracht ervaar die ik eerder niet zo sterk gevoeld heb. Het is mijn innerlijke
+    kracht die uiteindelijk alleen maar keuzes kan maken die goed voor mij zijn. En
+    hier ben ik in het verleden nogal eens de mist mee in gegaan. Kortom, het ‘gevoel’
+    wat de stilte-retraite mij gegeven heeft is de waarde van mezelf, mijn leven en
+    alles wat daaruit voortkomt, daarbij hoort, maar ook van het leven om mij heen,
+    weer in volle glorie te zien. Precies dat gevoel is in mijn ogen hetgeen wat het
+    leven nou juist de moeite waard maakt.
   participant: E.J. (Televisie- en documentairemaker)
-- title: Ik heb geen sleutel bij me
-  subtitle: RE-TREAT JE HART NOV 2017
-  text: Ik heb de dagen als wisselend ervaren, maar erg mooi. Wist niet wat ik ervan
-    moest verwachten, en sta er nog steeds van te kijken dat ik zowel mijn mobiel, pc
-    als het praten niet heb gemist...geen seconde, geen telefoon.
-
-    Ik liep een keer heerlijk te wandelen, toen ik ineens een ingeving kreeg. Ik zag,
-    en voelde, hoe ik mijn brein en mijn hart kon zien.Met het een voel ik aan en handel
-    ik, met het ander maak ik boodschappenlijstjes, onthou ik dingen enz...klinkt heel
-    kort, maar was voor mij een heel proces in de tuin.
-
-    Ineens ging het regenen...mijn brein mompelde van verdikkeme, snel naar binnen, mijn
-    haar enz enz. Mijn hart zei En...is dat nou zo erg...en zo liep ik richting deur.
-    Ineens realiseerde ik me dat ik geen sleutel bij me had. Ok, zei ik tegen mezelf...
-    leuk hoor, maar nu zegt mijn brein toch echt dat dit niet handig is.
-
-    Toen zwaaide de poort open en zag ik hoofd van Robbert dat me toefluisterde “ik heb geen
-    sleutel bij me"... Even later zagen we assistent Arjan. Ik vond dit zo'n geweldig moment!!!
-    De dagen waren gevuld met dit soort ogenblikken...mooi.'
-  participant: A uit V
 menu:
   navigation:
     weight: 6
