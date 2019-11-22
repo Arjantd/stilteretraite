@@ -21,6 +21,7 @@ sections:
   - videos
   - events
   - testimonials
+  - team
 - type: directory
   path: _people
   label: People
