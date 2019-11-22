@@ -1,5 +1,5 @@
 ---
-layout: team
+layout: locations
 title: Locaties
 members: []
 
