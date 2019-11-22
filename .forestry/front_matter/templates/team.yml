@@ -25,4 +25,5 @@ fields:
   hidden: true
   default: team
 pages:
+- locaties.md
 - initiatiefnemers.md
