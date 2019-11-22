@@ -23,3 +23,5 @@ fields:
     required: true
   label: Layout
   default: locations
+pages:
+- locaties.md
