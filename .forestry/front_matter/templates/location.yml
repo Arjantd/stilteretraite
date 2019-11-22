@@ -1,12 +1,31 @@
 ---
 label: location
-hide_body: false
+hide_body: true
 fields:
 - name: title
   type: text
   config:
     required: true
   label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
 pages:
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 - _locations/avant-spirit-velp-grave.md
