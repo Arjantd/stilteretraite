@@ -2,6 +2,11 @@
 label: team
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: members
   type: list
   config:
@@ -12,3 +17,10 @@ fields:
       type: pages
       section: people
   label: Members
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  hidden: true
+  default: team
