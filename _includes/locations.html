@@ -1,10 +1,18 @@
 {% if include.locations %}
 <div class="row">
     {% for include_location in include.locations %}
-    {% assign location = site.locations | where:"path", include_location | first %}
-    <div class="col-md-4 col-sm-4">
-        {% include location.html image=location.image title=location.title location=location.location content=location.description %}
-    </div>
+        {% assign location = site.locations | where:"path", include_location | first %}
+        <div class="col-md-4 col-sm-4">
+            {% include location.html image=location.image title=location.title location=location.location description=location.description %}
+        </div>
+
+        {% assign index_mod_3 = forloop.index | modulo: 3 %}
+        {% if forloop.last == false and index_mod_3 == 0 %}
+        </div>
+        <div class="spacer-50 hidden-sm hidden-xs"></div>
+        <div class="row">
+        {% endif %}
+    
     {% endfor %}
 </div>
 {% endif %}
