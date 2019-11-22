@@ -1,6 +1,6 @@
 ---
 label: location
-hide_body: false
+hide_body: true
 display_field: title
 fields:
 - name: title
