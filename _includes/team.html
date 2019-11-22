@@ -1,0 +1,10 @@
+{% if include.members %}
+<div class="row">
+    {% for include_member in include.members %}
+    {% assign member = site.people | where:"path", include_member | first %}
+    <div class="col-md-4 col-sm-4">
+        {% include member.html thumbnail=member.thumbnail title=member.title sub_heading=member.sub_heading content=member.content %}
+    </div>
+    {% endfor %}
+</div>
+{% endif %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-with-hero
 ---
 {% comment %}
 	This layout is used to by events.md to display all of documents in
@@ -8,15 +8,6 @@ layout: page
 
 <div class="container">
     <h2>{{ page.title }}</h2>
-    <div class="grid-filter">
-        <ul class="nav nav-pills sort-source" data-sort-id="gallery" data-option-key="filter">
-            <li data-option-value="*" class="active"><a href="#"><i class="fa fa-th"></i> <span>Toon alles</span></a></li>
-            <li data-option-value=".1-day"><a href="#"><span>1 dag</span></a></li>
-            <li data-option-value=".weekend"><a href="#"><span>Weekend</span></a></li>
-            <li data-option-value=".5-days"><a href="#"><span>5 dagen</span></a></li>
-        </ul>
-    </div>
-    <div class="row">
-        {% include events-gallery.html events=site.events location=site.locations %}
-    </div>
+    <div class="spacer-20"></div>
+    {% include team.html members=page.members %}
 </div>
