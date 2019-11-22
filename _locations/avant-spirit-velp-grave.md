@@ -1,4 +1,7 @@
 ---
-title: Avant Spirit, Velp/Grave
+title: Avant Spirit
+location: Velp/Grave
+image: ''
+description: ''
 
 ---
