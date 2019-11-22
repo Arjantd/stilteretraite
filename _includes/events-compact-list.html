@@ -8,7 +8,7 @@
         </span>
         <div class="event-list-cont">
             <span class="meta-data">{% assign w = event.from_date | date: "%w" | plus: 0 %}{{ site.data.nl.weekdays[w] }}, {{ event.from_date | date: '%R' }}</span>
-            <h4 class="post-title"><a href="{{ post.url | absolute_url }}">{{ event.title | escape }}</a></h4>
+            <h4 class="post-title"><a href="{{ event.url | absolute_url }}">{{ event.title | escape }}</a></h4>
             <p>{{ event.lead_text }}</p>
         </div>
     </li>
