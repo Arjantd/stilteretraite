@@ -3,6 +3,13 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Confronterend en verzachtend
+  subtitle: RE-TREAT JE HART - DEC 2013
+  text: Confronterend en verzachtend tegelijkertijd, het proces van retraite zit vol
+    tegenstrijdigheden. Net zoals het echte leven en het is fijn om hier mee aan de
+    slag te gaan. De begeleiding van Robbert maakt dat je je veilig voelt tijdens
+    het proces van loslaten van oude én vastpakken van nieuwe ideeën en overtuigingen.
+  participant: Ton van der L. Project Manager
 - title: Er borrelde al een tijdje iets
   subtitle: 'RE-TREAT JE HART   Oktober 2019  '
   text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
@@ -42,13 +49,6 @@ testimonials:
     weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
     doen (en dan weer bij Robbert!)"
   participant: Ted, gepensioneerd NLP Trainer/coach
-- title: Confronterend en verzachtend
-  subtitle: RE-TREAT JE HART - DEC 2013
-  text: Confronterend en verzachtend tegelijkertijd, het proces van retraite zit vol
-    tegenstrijdigheden. Net zoals het echte leven en het is fijn om hier mee aan de
-    slag te gaan. De begeleiding van Robbert maakt dat je je veilig voelt tijdens
-    het proces van loslaten van oude én vastpakken van nieuwe ideeën en overtuigingen.
-  participant: Ton van der L. Project Manager
 - title: Ik heb geen sleutel bij me
   subtitle: RE-TREAT JE HART NOV 2017
   text: |-
