@@ -1,5 +1,5 @@
 <div class="post-media">
-    <img src="{{ include.banner_image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
+    <img src="{{ include.banner_image | resized_image_url: "750x500" }}" alt="{{ include.title }}">
     <div class="post-content">
     {{ include.content }}
     </div>
@@ -15,5 +15,4 @@
 
     <!-- Pager -->
     {% include pager.html path=include.path entities=site.posts prev_text="Vorig artikel" next_text="Volgend artikel" %}
-    </ul>
 </div>

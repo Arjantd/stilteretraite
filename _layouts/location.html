@@ -7,9 +7,7 @@ layout: page
 
 <div class="container">
     <h3>{{ page.title }}</h3>
-    <div class="row">
-        <div class="col-md-8 content-block">
-            {% include location.html image=page.image title=page.title location=page.location description=page.description %}
-        </div>
-    </div>
+    <img src="{{ page.image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
+    <div class="spacer-20"></div>
+    {{ page.content }}
 </div>

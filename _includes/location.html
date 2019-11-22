@@ -1,10 +1,10 @@
-<div class="post-media">
-    <img src="{{ include.image | resized_image_url: "750x500" }}" alt="{{ include.title }}">
-</div>
-<div class="row">
-    <div class="col-md-6 col-sm-6">
+<div class="grid-item grid-staff-item">
+    <div class="grid-item-inner">
+        <div class="media-box"><a href="{{ include.url }}"><img src="{{ include.image | resized_image_url: "358x238" }}" alt="{{ include.title }}"></a></div>
+        <div class="grid-item-content">
+        <a href="{{ include.url }}"><h3>{{ include.title }}</h3></a>
         <span class="meta-data">{{ include.location }}</span>
+        <p>{{ include.description }}</p>
+        </div>
     </div>
 </div>
-<div class="spacer-20"></div>
-{{ include.content }}
