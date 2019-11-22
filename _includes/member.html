@@ -1,8 +1,8 @@
 <div class="grid-item grid-staff-item">
     <div class="grid-item-inner">
-        <div class="media-box"><img src="{{ include.thumbnail | resized_image_url: "358x238" }}" alt="{{ include.title }}"></div>
+        <div class="media-box"><a href="{{ include.url }}"><img src="{{ include.thumbnail | resized_image_url: "358x238" }}" alt="{{ include.title }}"></a></div>
         <div class="grid-item-content">
-        <h3>{{ include.title }}</h3>
+        <a href="{{ include.url }}"><h3>{{ include.title }}</h3></a>
         <span class="meta-data">{{ include.sub_heading }}</span>
         <ul class="social-icons-rounded social-icons-colored">
             <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>

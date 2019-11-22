@@ -26,6 +26,13 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: location
 pages:
 - _locations/avant-spirit-velp-grave.md
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md

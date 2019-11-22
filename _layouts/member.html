@@ -1,0 +1,10 @@
+---
+layout: page
+---
+{% comment %}
+	This layout is used by the documents in the _people/ collection
+{% endcomment %}
+
+<div class="container">
+{% include member.html thumbnail=page.thumbnail title=page.title sub_heading=page.sub_heading page=member.content %}
+</div>

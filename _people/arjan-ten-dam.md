@@ -7,7 +7,7 @@ thumbnail: https://static.stilteretraite.nl/uploads/arjan.jpg
 sub_heading: Initiatiefnemer stilteretraite.nl
 email: 'arjan@stilteretraite.nl '
 linkedin: ''
-layout: person
+layout: member
 
 ---
 Arjan ten Dam is Communicatiewetenschapper, natuurliefhebber, levensworstelaar en gefascineerd door de heilzame werking die stilte kan hebben. Naast het verwezenlijken van stilteretraite.nl assisteert hij bij gelegenheid bij retraites en schrijft hij blogs.

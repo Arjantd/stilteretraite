@@ -34,4 +34,4 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: person
+  default: member
