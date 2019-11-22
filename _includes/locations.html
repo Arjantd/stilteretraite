@@ -1,0 +1,10 @@
+{% if include.locations %}
+<div class="row">
+    {% for include_location in include.locations %}
+    {% assign location = site.locations | where:"path", include_location | first %}
+    <div class="col-md-4 col-sm-4">
+        {% include location.html  %}
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
