@@ -3,7 +3,7 @@
     {% for include_location in include.locations %}
     {% assign location = site.locations | where:"path", include_location | first %}
     <div class="col-md-4 col-sm-4">
-        {% include location.html  %}
+        {% include location.html image=location.image title=location.title location=location.location content=location.description %}
     </div>
     {% endfor %}
 </div>

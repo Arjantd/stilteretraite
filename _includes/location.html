@@ -1,10 +1,10 @@
 <div class="grid-item grid-staff-item">
     <div class="grid-item-inner">
-        <div class="media-box"><img src="{{ include.thumbnail | resized_image_url: "358x238" }}" alt="{{ include.title }}"></div>
+        <div class="media-box"><img src="{{ include.image | resized_image_url: "358x238" }}" alt="{{ include.title }}"></div>
         <div class="grid-item-content">
-        <h3>{{ include.title }}</h3>
-        <span class="meta-data">{{ include.sub_heading }}</span>
-        <p>{{ include.content }}</p>
+        <a href="#"><h3>{{ include.title }}</h3></a>
+        <span class="meta-data">{{ include.location }}</span>
+        <p>{{ include.description }}</p>
         </div>
     </div>
 </div>
