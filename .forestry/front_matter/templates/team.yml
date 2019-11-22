@@ -1,4 +1,14 @@
 ---
 label: team
 hide_body: false
-fields: []
+fields:
+- name: members
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: people
+  label: Members
