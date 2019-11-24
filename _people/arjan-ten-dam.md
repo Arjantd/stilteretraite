@@ -3,7 +3,7 @@ title: Arjan ten Dam
 date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: https://static.stilteretraite.nl/uploads/arjan.jpg
+thumbnail: https://static.stilteretraite.nl/uploads/People - Arjan.jpg
 sub_heading: Initiatiefnemer stilteretraite.nl
 email: 'arjan@stilteretraite.nl '
 linkedin: ''
