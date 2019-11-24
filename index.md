@@ -14,7 +14,7 @@ hero_slider:
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
     geven.
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home banner 8.jpg
+- image: https://static.stilteretraite.nl/uploads/Home - Banner 3.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
     onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
