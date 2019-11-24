@@ -4,7 +4,7 @@ date: '2017-11-14T10:00:44.000+00:00'
 role:
 - partner
 - board
-thumbnail: https://static.stilteretraite.nl/uploads/robbert portrait.jpg
+thumbnail: https://static.stilteretraite.nl/uploads/People - Robbert.jpg
 sub_heading: Initiatiefnemer, retraite begeleider
 email: 'robbert@stilteretraite.nl '
 linkedin: ''
