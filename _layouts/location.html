@@ -10,4 +10,6 @@ layout: page
     <img src="{{ page.image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
     <div class="spacer-20"></div>
     {{ page.content }}
+    <div class="spacer-20"></div>
+    {% include gallery.html gallery=page.gallery %}
 </div>

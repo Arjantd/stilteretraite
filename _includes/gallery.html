@@ -1,0 +1,9 @@
+<ul class="sort-destination isotope gallery-items gallery-items-nocaption" data-sort-id="gallery">
+    {% for image in include.gallery %}
+    <li class="col-md-4 col-sm-6 col-xs-6 grid-item gallery-grid-item images format-image">
+        <a href="{{ image | resized_image_url: "1024x768" }}" class="media-box magnific-image">
+            <img src="{{ image | resized_image_url: "358x239" }}" alt="">
+        </a>
+    </li>
+    {% endfor %}
+</ul>
