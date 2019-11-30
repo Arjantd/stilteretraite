@@ -7,16 +7,16 @@ layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 icon_boxes:
-- title: Wat wij beogen
-  link: wat-wij-beogen.md
-  text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
-    het goed op de overzichtspagina past.
-  icon: far fa-heart
 - title: Initiatiefnemers
   link: robbert-van-bruggen.md
   text: 'Het initiatief tot stilteretraite.nl werd genomen door een gezelschap dat
     elkaar ontmoette via de retraites van ''Ineenhutjeopdehei''. '
   icon: fas fa-user
+- title: Wat wij beogen
+  link: wat-wij-beogen.md
+  text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
+    het goed op de overzichtspagina past.
+  icon: far fa-heart
 - title: Locaties
   link: []
   text: Voor ons retraiteaanbod maken we gebruik van verschillende locaties, met ieder
