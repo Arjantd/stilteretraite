@@ -5,8 +5,8 @@ image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 icon_boxes:
 - title: Over retraite
   link: over-retraite.md
-  text: Hier komt een introductie tekstje over 'Over retraite'. Niet te lang, maar
-    passend op deze overzichtspagina
+  text: Achtergrond en betekenis van 'retraite', bezien vanuit verschillende tradities
+    en religies.
   icon: fas fa-heart
 - title: Wat is het?
   link: wat-is-retraite.md
