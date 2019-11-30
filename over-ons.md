@@ -22,20 +22,6 @@ icon_boxes:
   text: Voor ons retraiteaanbod maken we gebruik van verschillende locaties, met ieder
     zijn unieke sfeer en charme. Lees hier meer!
   icon: fas fa-users
-- title: Jouw initiatief
-  link: []
-  text: 'Stilretraite.nl deelt graag haar ruimte met anderen. Heb jij een initiatief
-    dat in lijn is met wat stilteretraite.nl beoogt? '
-  icon: fas fa-child
-- title: Locaties
-  text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
-    het goed op de overzichtspagina past.
-  icon: fas fa-map-marker-alt
-  link: wat-wij-beogen.md
-- title: "."
-  text: ".."
-  icon: fas fa-share
-  link: ''
 template: ''
 menu:
   navigation:
