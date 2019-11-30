@@ -25,8 +25,8 @@ icon_boxes:
   icon: fas fa-user-plus
 - title: Ons aanbod
   link: ons-aanbod.md
-  text: 'Er zijn stilte-retraites in verschillende vormen. Welke vormen van stilte-retraite
-    bieden wij aan? '
+  text: 'Een dag, een weekend of 5 dagen: welke vormen van stilte-retraite bieden
+    wij aan? '
   icon: fas fa-gem
 - title: Ervaringen
   link: ervaringen.md
