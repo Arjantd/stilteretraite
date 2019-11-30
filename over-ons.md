@@ -18,7 +18,7 @@ icon_boxes:
     het goed op de overzichtspagina past.
   icon: far fa-heart
 - title: Locaties
-  link: _locations/kennemer-duinen.md
+  link: locaties.md
   text: Voor ons retraiteaanbod maken we gebruik van verschillende locaties, met ieder
     zijn unieke sfeer en charme. Lees hier meer!
   icon: fas fa-users
