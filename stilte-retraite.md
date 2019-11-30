@@ -15,8 +15,8 @@ icon_boxes:
   icon: fas fa-question-circle
 - title: Wat doet het?
   link: _videos/Wat gebeurt er tijdens een retraite?.md
-  text: Hier komt een introductie tekstje over 'Wat doet het?'. Niet te lang, maar
-    passend op deze overzichtspagina 1
+  text: 'Wat brengt een retraite jou? Dat is voor iedereen anders. Lees hier meer
+    wat de stilte met je doet. '
   icon: fas fa-cogs
 - title: Voor wie?
   link: voor-wie-is-het.md
