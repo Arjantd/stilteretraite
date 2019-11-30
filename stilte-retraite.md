@@ -27,7 +27,7 @@ icon_boxes:
   link: ons-aanbod.md
   text: 'Een dag, een weekend of 5 dagen: welke vormen van stilte-retraite bieden
     wij aan? '
-  icon: <i class="fas fa-user-friends"></i>
+  icon: '"fas fa-user-friends"'
 - title: Ervaringen
   link: ervaringen.md
   icon: fas fa-smile
