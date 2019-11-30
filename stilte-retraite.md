@@ -25,8 +25,8 @@ icon_boxes:
   icon: fas fa-user-plus
 - title: Ons aanbod
   link: ons-aanbod.md
-  text: Hier komt een introductie tekstje over 'Ons aanbod'. Niet te lang, maar passend
-    op deze overzichtspagina
+  text: 'Er zijn stilte-retraites in verschillende vormen. Welke vormen van stilte-retraite
+    bieden wij aan? '
   icon: fas fa-gem
 - title: Ervaringen
   link: ervaringen.md
