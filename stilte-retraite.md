@@ -20,8 +20,8 @@ icon_boxes:
   icon: fas fa-cogs
 - title: Voor wie?
   link: voor-wie-is-het.md
-  text: Hier komt een introductie tekstje over 'Voor wie?'. Niet te lang, maar passend
-    op deze overzichtspagina
+  text: Is een stilte-retraite wel iets voor mij? Een vaak gestelde vraag! Lees er
+    hier meer over.
   icon: fas fa-user-plus
 - title: Ons aanbod
   link: ons-aanbod.md
