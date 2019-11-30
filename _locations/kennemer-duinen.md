@@ -8,7 +8,6 @@ description: Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, se
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
-- https://static.stilteretraite.nl/uploads/shutterstock_276715007.jpg
 - https://static.stilteretraite.nl/uploads/blog 2a.jpg
 - https://static.stilteretraite.nl/uploads/Event -grave2.jpg
 - https://static.stilteretraite.nl/uploads/Event - back to nature.jpg
