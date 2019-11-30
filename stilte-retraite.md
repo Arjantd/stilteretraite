@@ -7,7 +7,7 @@ icon_boxes:
   link: over-retraite.md
   text: Historische context en betekenis van 'retraite', bezien vanuit verschillende
     tradities en religies.
-  icon: https://img.icons8.com/ios-filled/50/000000/meditation-guru.png
+  icon: <a href="https://icons8.com/icon/9798/meditation">Meditation icon by Icons8</a>
 - title: Wat is het?
   link: wat-is-retraite.md
   text: Het retraite-proces geeft ruimte aan gedachten, beelden, gevoel, sensatie,
