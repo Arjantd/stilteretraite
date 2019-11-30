@@ -31,8 +31,8 @@ icon_boxes:
 - title: Ervaringen
   link: ervaringen.md
   icon: fas fa-smile
-  text: Hier komt een introductie tekstje over 'Ervaringen'. Niet te lang, maar passend
-    op deze overzichtspagina
+  text: Deelnemers koesteren warme herinneringen aan hun deelname(s) en daar zijn
+    wij trots op!
 template: overview
 menu:
   footer:
