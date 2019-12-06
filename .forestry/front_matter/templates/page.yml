@@ -20,12 +20,12 @@ fields:
   default: page
   hidden: true
 pages:
-- robbert-van-bruggen.md
 - wat-wij-beogen.md
-- contact.md
-- wat-doet-het.md
-- wat-is-retraite.md
-- voor-wie-is-het.md
-- over-retraite.md
 - ons-aanbod.md
 - magazine.md
+- contact.md
+- over-retraite.md
+- robbert-van-bruggen.md
+- voor-wie-is-het.md
+- wat-is-retraite.md
+- wat-doet-het.md

@@ -60,5 +60,6 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/voorbeeld-post.md
 - _posts/2019-09-02-blog-test.md
 - _posts/2019-08-13-de-vele-gezichten-van-retraite.md
