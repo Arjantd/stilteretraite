@@ -9,8 +9,8 @@ image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 icon_boxes:
 - title: Initiatiefnemers
   link: robbert-van-bruggen.md
-  text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen + medestanders
-    die zich samen inspannen voor ''Ineenhutjeopdehei 2.0''  '
+  text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
+    medestanders dat zich samen inspannen voor ''Ineenhutjeopdehei 2.0''  '
   icon: fas fa-user
 - title: Wat wij beogen
   link: wat-wij-beogen.md
