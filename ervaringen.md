@@ -116,6 +116,7 @@ menu:
     weight: 6
     parent: _stilte_retraite
     identifier: _ervaringen
+published: false
 
 ---
 > **  
