@@ -3,6 +3,22 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De tweede retraite die ik bij Robbert deed
+  subtitle: RE-TREAT JE HART MEI 2012
+  text: De tweede retraite die ik bij Robbert deed leek aanvankelijk veel op de eerste,
+    in de zin van dat ik dezelfde processen en weerstanden in mezelf herkende. En
+    weer ontmoette ik mijn eigen rusteloze Stilte, wat een ongelooflijk kado is dat
+    toch. Wat totaal anders was dan de eerste keer, was de uitwerking van de retraite.
+    Tijdens de retraite werd me duidelijk dat er iets van mijn sexualiteit bevrijd
+    wilde worden; ik heb het op dat moment ontmoet zonder te weten wat het was en
+    er weinig aandacht aan besteed. Een week later droomde ik een bijzonder scherpe
+    droom van een vrouw die mij riep om me in te wijden in de liefde tussen vrouwen.
+    Ik werd me plotseling bewust van mijn levenslange verliefdheden op vrouwen die
+    ik altijd zorgvuldig had geprobeerd niet te voelen. Mijn biseksualiteit heeft
+    zich inmiddels bevrijd onder het juk van oordelen en veroordelen en is springlevend!
+    Er is een prachtige vrouw mijn leven binnengewandeld en de energie die we bij
+    elkaar opwekken doet me stralen. Wat een vrijheid!!!
+  participant: C.
 - title: Het mooie van alles was dat bijna niemand van de deelnemers wist wat hen
     te wachten stond
   subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
