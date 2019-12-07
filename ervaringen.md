@@ -3,6 +3,39 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: " Je voelt je direct thuis en welkom"
+  subtitle: RE-TREAT JE HART NOV 2017
+  text: "Wat een \"fantastische\" dagen heb ik gehad, in stilte.... Het begint met
+    wat milde spanning..... Niet lezen? Poeh! Geen telefoon? HELLUP! Geen oogcontact?
+    Bestaat dat? Niet praten? euh... da's ook niet gezellig! En dan als bonus... (liever)
+    niet analyseren! waar begin ik aan…\n\nIk kan je zeggen dat het wat onwennig begint
+    en alles komt voorbij. En als je jezelf dan ziet zitten om 7:00 op een kussentje
+    om een uur in stilte te ontwaken dan denk je, euh, ben ik dat?\n\nOm met 10 onbekende
+    mensen op zaterdagavond op een zolder te zitten in Velp om een 'Zikr' te doen
+    (en nee ik ga het niet uitleggen, maar het is zeer intiem) en daarna, omdat het
+    \"bonte avond\" is, thee met een chocolaatje te nuttigen geheel in stilte is heel
+    bijzonder!!\n\nWat heb ik veel geleerd, gezien, beleefd, gehoord, gevoeld en vooral
+    genoten! Genoten van alle inzichten en groei en vooral van mezelf ;)\n\nMocht
+    je ooit een retraite willen doen dan kan ik ineenhutjeopdehei zeker aanbevelen!
+    Robbert Van Bruggen is zo'n mooie, warme, lieve man je voelt je direct thuis en
+    welkom. De \"ontmoetingen\" waren elke keer weer even fijn en brachten nieuwe
+    inzichten. De oefeningen geven richting en soms roepen ze wel wat weerstand op,
+    maar ja we love weerstand!\n\nIk kan echt zeggen dat ik de klankschaalwekker 's
+    morgens vroeg thuis ga missen!! Vervolgens slenter je in je makkelijk zittende
+    kleding naar zolder, waar je op je sloffen binnenloopt. Je gaat zitten in een
+    kring. Mooie bloemen en kaarsjes in het midden... Heerlijk op je kussen onder
+    een dekentje, zalig knus om 7u in de ochtend een uurtje stil zijn. Dat is pas
+    goedemorgen!  \nHouden van jezelf tijdens re-treat je hart"
+  participant: M v M uit DB
+- title: Een fijne en bijzondere en warme ervaring
+  subtitle: RE-TREAT JE HART NOV 2012
+  text: |-
+    Ik denk nog regelmatig aan de sfeer van het stille samen zijn. Ook moet ik nog wel eens giechelen om de humoristische momenten die plaats vonden, juist door het stil zijn. Wanneer er door mijn omgeving naar mijn ervaringen wordt gevraagd, vind ik het lastig te omschrijven, omdat ik het zo'n fijne en bijzondere en warme ervaring heb gevonden. En dat is dan wat ik vertel. Ook vertel ik hoe de dagen zich vulden met ontbijt, meditaties, lunch, wandelingen in de natuur, diner. En dat ik de sessies gebaseerd op het soefisme, als bijzonder heb ervaren. Dat ik mij veilig heb gevoeld met Robbert’s aanwezigheid. Dat ik het eten geweldig vond. En de omgeving fantastisch. Vertel maar eens aan een collega, dat ik denk een energetische ervaring te hebben gehad. Voor een tweede keer in mijn leven, ontstaan tijdens de nachtelijke sessie van het ‘gloeiende kooltje’..
+
+    Het afscheid aldaar voelde zwaar. Ik heb mij verbonden gevoeld met de sfeer en de mensen. Ik huilde op de terug reis naar huis. Ik had sterk het gevoel, nu moet ik het zelf weer gaan doen.
+
+    Inmiddels vier weken verder is mijn proces zich gaan ontwikkelen. Zoals Robbert omschrijft ' zich gaan ontvouwen'. Ik voel mij dankbaar voor deze vijf mooie dagen.
+  participant: E.S. Receptioniste/ Telefoniste
 - title: Confronterend en verzachtend
   subtitle: RE-TREAT JE HART - DEC 2013
   text: Confronterend en verzachtend tegelijkertijd, het proces van retraite zit vol
