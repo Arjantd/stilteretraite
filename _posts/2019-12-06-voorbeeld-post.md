@@ -3,7 +3,7 @@ author: _people/robbert-van-bruggen.md
 categories: []
 layout: post
 title: voorbeeld post
-date: 
+date: 2019-12-07 00:00:00 +0100
 lead_text: balalaalalalalalaaggg ggg gg gggrgkgjg
 tags: []
 banner_image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
