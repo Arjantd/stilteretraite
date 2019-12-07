@@ -3,6 +3,22 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De natuur heb ik ervaren als sereen, haast verstild
+  subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
+  text: "\n1\\.  \nEerst was ik bang voor de stilte; geloofde niet dat ik die zou
+    kunnen (ver)dragen.   \nAlgauw voelde het \"stil zijn\" warm en veilig en leerde
+    ik het kennen als een krachtig leermiddel.  \nIk ontdekte meer de diepte van mijn
+    verlangen.  \nNiet wat ik van tevoren had bedacht ontvouwde zich maar na een geleide
+    meditatie, tijdens de derde dag, kon ik mijn gevoel toelaten.   \nIk kreeg via
+    een voorportaaltje toegang tot mijn hart(senergie). Eerst snapte ik niks van de
+    beelden en schrok ik ervan maar geleidelijk aan drong de essentie tot mij door......
+    \ \n   \n2\\.  \nDe natuur heb ik ervaren als sereen, haast verstild.  \nDe verstilling
+    in combinatie met de loopmeditatie bracht mij in een sfeer van tijdloosheid.  \nDit
+    heeft me geholpen om werkelijk bij mijn innerlijke stilte te durven zijn.  \n
+    \  \n3\\.  \nTijdens een van de 'seva's' (taakjes) liep ik weer eens tegen mezelf
+    aan.  \n\\- Doe ik het wel goed ?  \n\\- En oh als ik op de klankschaal sla, zijn
+    alle ogen en oren op mij gericht. Doodeng."
+  participant: Jeaninne
 - title: Nog een gedichtje
   subtitle: RE-TREAT YOUR SENSES ITALIE 2016
   text: |-
