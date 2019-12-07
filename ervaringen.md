@@ -3,6 +3,18 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost
+    voelde
+  subtitle: RE-MEMBER! 2017
+  text: |-
+    Voor mij was deze tweede retraite weer een hele fijne en bijzondere ervaring. Fijn om weer onder leiding van Robbert te mediteren en oefeningen te doen die ik mij ineens herinnerde van de vorige keer. Fijn om weer stil te mogen zijn, om weer even los van alle prikkels te ontdekken hoe ik er voor stond.
+
+    Bijzonder door de plek waar wij waren. 's Ochtends vroeg de eerste meditatie in de stal, op 't hooi met op de achtergrond pony Coco die zo stil stond dat wij er van overtuigd waren dat zij met ons mee deed! De hei en 't bos die wij helemaal voor ons zelf hadden en waar ik eindeloos heerlijk rond gewandeld heb.
+
+    Na de laatste sessie van de dag op de deel terug te stappen in de door kaarsen verlichte woonkamer. Bijzonder omdat ik het zo prettig vond om in stilte, in een groep onbekenden te zijn.
+
+    Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost voelde en nu een maand verder voel ik dat nog steeds dus wat mij betreft zeker volgend jaar weer!
+  participant: TO, groepsleerkracht basisonderwijs
 - title: " Je voelt je direct thuis en welkom"
   subtitle: RE-TREAT JE HART NOV 2017
   text: "Wat een \"fantastische\" dagen heb ik gehad, in stilte.... Het begint met
