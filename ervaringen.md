@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De twinkels in mijn ogen zijn weer terug
+  subtitle: RE-TREAT JE HART - OKTOBER 2014
+  text: "Het is nu een half jaar geleden dat ik op retraite ben geweest en het is
+    de beste beslissing geweest die ik toen had kunnen nemen. Echt!  \nIk merkte op
+    een moment dat ik heel erg de behoefte had aan stilte om me heen en stilte in
+    me hoofd. Werd gek van mijn eigen gedachten en voelde me opgesloten zitten. Ik
+    wilde alleen zijn en rust. Ik wilde op retraite bedacht ik me.\n\nDe retraite
+    heeft mij heel veel gegeven. Het valt niet echt te beschrijven maar ik kan het
+    het beste omschrijven als een gevoel van èèn geworden zijn. Tijdens de retraite
+    kwam het gevoel dat ik goed was zoals ik ben. Ik ben ik!\n\nIk vond de ervaring
+    heerlijk maar ook confronterend: de stilte, de gedachtes die langskwamen, de gevoelens
+    en de tranen. Dankzij de begeleiding van Robert konden deze gedachtes er ook zijn
+    en leerde ik er mee om te gaan en om ze los te laten.\n\nIk was eerst bang dat
+    het heel zweverig zou zijn of heel zwaar op de hand maar dat was het helemaal
+    niet. Er was plek voor humor en Robert bracht het allemaal op een heel natuurlijke
+    manier. Je kon mee doen met de oefeningen maar er werd ook de mogelijkheid geboden
+    om je eigen weg te gaan. Ik kon altijd bij Robert terecht en heb me heel erg veilig
+    gevoeld in de groep. Ook niet onbelangrijk, de omgeving is heel erg mooi en het
+    eten was super lekker.\n\nIk heb nu mijn rust gevonden en zit lekkerder in mijn
+    vel, het voelt als of mijn energie weer stroomt en ook de twinkels in mijn ogen
+    zijn weer terug. Het was voor mij het beste cadeautje dat ik mezelf ooit gegeven
+    heb en ik gun het anderen ook heel erg, bij twijfel, doen!!"
+  participant: Fatima, Verpleegkundig ggz
 - title: Ik had nog nooit een (georganiseerde) stilte retraite gedaan
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: Tot voor kort had ik nog nooit een (georganiseerde) stilte retraite gedaan.
