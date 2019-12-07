@@ -3,6 +3,16 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De stilte bleek juist een verademing
+  subtitle: RE-TREAT JE HART APRIL/MEI '15
+  text: Moe, gespannen en zoekende ging ik de retraite in. Een stuk minder moe, heel
+    ontspannen en met een idee van nieuwe richting, kwam ik er weer uit. Dit door
+    de meditaties, sessies met verschillende oefeningen en vooral ook door de stilte.
+    Als je niet hoeft te praten met en luisteren naar anderen wordt het stil genoeg
+    om je te ontspannen en te voelen wat je diepste verlangens zijn. De stilte bleek
+    niet raar of eng te zijn maar juist een verademing. Ik ben heel erg blij dat ik
+    mezelf deze paar dagen cadeau heb gedaan!
+  participant: Thamar, werkzaam in het Onderwijs.
 - title: Een retraite is een cadeautje voor jezelf
   subtitle: RE-TREAT JE HART DEC. '14 EN APRIL '15
   text: Ik heb nu twee stilte-retraties in Schin Op Geul mogen ervaren. Vier dagen
