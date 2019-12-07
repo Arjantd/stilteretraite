@@ -3,6 +3,14 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Ik had nog nooit een (georganiseerde) stilte retraite gedaan
+  subtitle: RE-TREAT JE HART FEBRUARI 2018
+  text: Tot voor kort had ik nog nooit een (georganiseerde) stilte retraite gedaan.
+    Wel altijd zelf mijn retraites - in mn uppie - in hutjes op de hei gedaan. Heerlijk!
+    Maar wat een verademing is deze reis voor me geweest. Onder bezielde leiding van
+    Robbert Van Bruggen mocht ik een gevreesd stuk in mij ontdekken, beleven en belichamen.
+    En weer geheeld eruit gekomen. Jongens en meisjes, dit is een absolute aanrader!
+  participant: L.F.
 - title: De stilte bleek juist een verademing
   subtitle: RE-TREAT JE HART APRIL/MEI '15
   text: Moe, gespannen en zoekende ging ik de retraite in. Een stuk minder moe, heel
