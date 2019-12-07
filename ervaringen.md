@@ -3,22 +3,18 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: De tweede retraite die ik bij Robbert deed
-  subtitle: RE-TREAT JE HART MEI 2012
-  text: De tweede retraite die ik bij Robbert deed leek aanvankelijk veel op de eerste,
-    in de zin van dat ik dezelfde processen en weerstanden in mezelf herkende. En
-    weer ontmoette ik mijn eigen rusteloze Stilte, wat een ongelooflijk kado is dat
-    toch. Wat totaal anders was dan de eerste keer, was de uitwerking van de retraite.
-    Tijdens de retraite werd me duidelijk dat er iets van mijn sexualiteit bevrijd
-    wilde worden; ik heb het op dat moment ontmoet zonder te weten wat het was en
-    er weinig aandacht aan besteed. Een week later droomde ik een bijzonder scherpe
-    droom van een vrouw die mij riep om me in te wijden in de liefde tussen vrouwen.
-    Ik werd me plotseling bewust van mijn levenslange verliefdheden op vrouwen die
-    ik altijd zorgvuldig had geprobeerd niet te voelen. Mijn biseksualiteit heeft
-    zich inmiddels bevrijd onder het juk van oordelen en veroordelen en is springlevend!
-    Er is een prachtige vrouw mijn leven binnengewandeld en de energie die we bij
-    elkaar opwekken doet me stralen. Wat een vrijheid!!!
-  participant: C.
+- title: 'Ik heb mezelf echt gemist! '
+  subtitle: RE-TREAT JE HART - DECEMBER 2014
+  text: Toen ik bij Robbert in retraite ging was van mijn stralend licht niet veel
+    meer over dan een zwak flikkerend schijnsel. Gedurende de retraite ben ik weer
+    in verbinding gekomen met mezelf. Mijn hart was verkrampt en daarmee mijn gevoel
+    ook. Het “zijn” in stilte heeft mij weer reconnected met mezelf en dat voelt zo
+    fijn. Ik heb mezelf echt gemist! Aan het einde van de retraite heb ik bij het
+    afscheid van meerdere mensen gehoord dat ik straalde. Ik kwam met een thema en
+    ging weg met meer inzicht met betrekking tot dat thema. In mijn geval loslaten
+    en met het inzicht dat sommige processen zelfsturend zijn. Dat inzicht geeft me
+    heel veel rust!
+  participant: M.B. directeur welzijnsorganisatie
 - title: Het mooie van alles was dat bijna niemand van de deelnemers wist wat hen
     te wachten stond
   subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
@@ -52,6 +48,45 @@ testimonials:
     zijn weer terug. Het was voor mij het beste cadeautje dat ik mezelf ooit gegeven
     heb en ik gun het anderen ook heel erg, bij twijfel, doen!!"
   participant: Fatima, Verpleegkundig ggz
+- title: Er borrelde al een tijdje iets
+  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
+  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
+    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
+    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
+    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
+    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
+    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
+    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
+    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
+    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
+    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
+    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
+    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
+    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
+    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
+    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
+    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
+    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
+    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
+    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
+    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
+    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
+    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
+    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
+    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
+    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
+    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
+    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
+    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
+    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
+    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
+    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
+    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
+    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
+    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
+    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
+    doen (en dan weer bij Robbert!)"
+  participant: Ted, gepensioneerd NLP Trainer/coach
 - title: Ik had nog nooit een (georganiseerde) stilte retraite gedaan
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: Tot voor kort had ik nog nooit een (georganiseerde) stilte retraite gedaan.
@@ -97,45 +132,22 @@ testimonials:
 
     Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost voelde en nu een maand verder voel ik dat nog steeds dus wat mij betreft zeker volgend jaar weer!
   participant: TO, groepsleerkracht basisonderwijs
-- title: Er borrelde al een tijdje iets
-  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
-  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
-    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
-    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
-    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
-    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
-    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
-    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
-    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
-    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
-    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
-    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
-    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
-    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
-    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
-    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
-    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
-    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
-    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
-    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
-    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
-    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
-    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
-    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
-    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
-    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
-    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
-    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
-    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
-    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
-    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
-    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
-    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
-    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
-    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
-    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
-    doen (en dan weer bij Robbert!)"
-  participant: Ted, gepensioneerd NLP Trainer/coach
+- title: De tweede retraite die ik bij Robbert deed
+  subtitle: RE-TREAT JE HART MEI 2012
+  text: De tweede retraite die ik bij Robbert deed leek aanvankelijk veel op de eerste,
+    in de zin van dat ik dezelfde processen en weerstanden in mezelf herkende. En
+    weer ontmoette ik mijn eigen rusteloze Stilte, wat een ongelooflijk kado is dat
+    toch. Wat totaal anders was dan de eerste keer, was de uitwerking van de retraite.
+    Tijdens de retraite werd me duidelijk dat er iets van mijn sexualiteit bevrijd
+    wilde worden; ik heb het op dat moment ontmoet zonder te weten wat het was en
+    er weinig aandacht aan besteed. Een week later droomde ik een bijzonder scherpe
+    droom van een vrouw die mij riep om me in te wijden in de liefde tussen vrouwen.
+    Ik werd me plotseling bewust van mijn levenslange verliefdheden op vrouwen die
+    ik altijd zorgvuldig had geprobeerd niet te voelen. Mijn biseksualiteit heeft
+    zich inmiddels bevrijd onder het juk van oordelen en veroordelen en is springlevend!
+    Er is een prachtige vrouw mijn leven binnengewandeld en de energie die we bij
+    elkaar opwekken doet me stralen. Wat een vrijheid!!!
+  participant: C.
 - title: " Je voelt je direct thuis en welkom"
   subtitle: RE-TREAT JE HART NOV 2017
   text: "Wat een \"fantastische\" dagen heb ik gehad, in stilte.... Het begint met
