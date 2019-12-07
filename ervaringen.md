@@ -3,6 +3,19 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Mijn allerdiepste kwetsbaarheid
+  subtitle: RE-TREAT JE HART - DEC 2013
+  text: "Ik was zo stralend de eerste weken toen ik thuis was, zo diep geïncarneerd
+    in mijn lichaam. Ik dacht: dit gevoel raak ik nooit meer kwijt.  \nMaar in het
+    bestaan van alledag bleek dat toch wel mogelijk te zijn. Ik heb nu de retraite
+    oefeningen weer in mijn dagritme opgenomen en dat voelt goed.  \nDe diepe resonantie
+    van de woorden ‘ya batin’ vinden weer-klank in mij. Mijn allerdiepste kwetsbaarheid
+    kan ik weer voelen en dan kan ik ademen in dat wat er is, en tegelijkertijd het
+    overbodige weg laten stromen. Robbert, dank voor je manier van Zijn, voor en in
+    de groep! Dank voor de prachtige muziek! Met deze groep was het heerlijk om in
+    de stilte te zijn! En het afscheid aan het eind van de retraite was zo hart verwarmend,
+    dat ik alle knuffels en warme woorden nu nog voel!"
+  participant: 'Marjo Zwaneveld, 65-plusser: moeder en oma!'
 - title: Mijn spelend kind
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: |-
