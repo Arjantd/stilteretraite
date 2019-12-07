@@ -3,6 +3,22 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een retraite is een cadeautje voor jezelf
+  subtitle: RE-TREAT JE HART DEC. '14 EN APRIL '15
+  text: Ik heb nu twee stilte-retraties in Schin Op Geul mogen ervaren. Vier dagen
+    stilte, meditatie, natuur, en oefeningen in de groep. Beide keren waren een mooie
+    reis naar innerlijke rust en zelfacceptatie, die lang doorwerken na de retraite.
+    Zo’n diepe rust had ik voor het laatst een jaar of twintig geleden meegemaakt.
+    Ik was vergeten dat het bestond. Het is heerlijk om te ervaren en geeft ruimte
+    voor diepgaande inzichten in jezelf en je leven. Zo ontdekte ik tijdens mijn eerste
+    retraite waar mijn hart ligt en besloot ik mijn leven een andere draai te geven.
+    Dat heeft me veel moois gebracht. Robbert heeft de gave je direct op je gemak
+    te kunnen stellen. Ook de groep heeft een positief effect. Het versterkt het stil
+    zijn in jezelf en zorgt ervoor dat je je veilig voelt. De locatie is prachtig.
+    Het hotel heeft fijne, lichte kamers en omdat het aan de rand van het dorp ligt,
+    loop je direct de natuur in. Een retraite is een cadeautje voor jezelf, een heel
+    waardevol cadeautje, dat de potentie heeft om je leven te veranderen.
+  participant: Rens de Nobel, software ontwikkelaar & ondernemer
 - title: Ik constateerde dat ik mij geheeld en getroost voelde
   subtitle: RE-MEMBER! 2017
   text: |-
