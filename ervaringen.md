@@ -3,6 +3,16 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Het mooie van alles was dat bijna niemand van de deelnemers wist wat hen
+    te wachten stond
+  subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
+  text: |-
+    Een stilte retraite. Wat is dat eigenlijk? Dat vroeg ik mij af nadat iets in mij had gezegd dat ik me moest inschrijven. Zelfs tot het moment van arriveren in Schin op Geul wist ik eigenlijk niet goed wat mij te wachten stond. Het mooie van alles was dat bijna niemand van de deelnemers wist wat hen te wachten stond. Maar iedereen was daar voor een reden, en ik denk dat iedereen daar een zelfde soort stemmetje had gehoord, net als ik: dit is goed, moet je doen. En zo zat iedereen bij het eerste diner zo goed als stil aan tafel, terwijl we op dat moment nog gewoon mochten praten!
+
+    De stilte retraite is een niet te beschrijven ervaring voor mij geweest. Het is een achtbaan van gedachten, geluiden, lichtflitsen, dromen, liefde en verdriet. Alles komt voorbij. In het begin duren de meditaties eindeloos en zat ik mij op te vreten met de gedachte: wanneer slaat Robbert nou op de klankschaal om de meditatie af te ronden! Wat duurt een uur lang! En die druppende kraan, kan iemand daar wat aan doen? Maar door de oefeningen die Robbert mee geeft, de mooie gedachtes en beelden die hij vertelt, maken dat je er langzaam in zakt. En al de tweede dag werd ik verrast door de klankschaal: nu al de meditatie voorbij? En wat fijn die lekkende kraan, dan weet ik dat ik hier ben. Nu, op dit moment.
+
+    Tijdens de retraite zag ik de gedachten voorbij komen, waaronder: wat ga ik de mensen vertellen hoe de retraite eigenlijk was? Ga ik vertellen over de lichten die ik heb gezien. Hoe ik mijzelf tijdens een meditatie kon opladen? De liefde die ik van groep voelde zonder enige aanraking? De schaamte tijdens de dans, maar daarna vooral het vrije gevoel van lekker bewegen? Alles bezien was het voor mij simpelweg bijzonder. En voel ik het voorrecht dit te hebben mogen meemaken. En mijzelf heb mogen verrijken met de ervaringen, beelden, muziek, kennis en liefde die Robbert heeft weten te brengen. Kortom, een stilte retraite is zo stil nog niet."
+  participant: O.S. / Projectmanager
 - title: De twinkels in mijn ogen zijn weer terug
   subtitle: RE-TREAT JE HART - OKTOBER 2014
   text: "Het is nu een half jaar geleden dat ik op retraite ben geweest en het is
