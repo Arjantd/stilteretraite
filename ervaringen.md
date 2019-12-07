@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Mijn spelend kind
+  subtitle: RE-TREAT JE HART FEBRUARI 2018
+  text: |-
+    Ruim drie jaar geleden maakte ik een einde aan een liefdesrelatie die totaal niet goed voor mij was. De relatie heeft gemaakt dat ik mezelf op veel vlakken totaal kwijt geraakt ben. In de afgelopen drie jaar zat ik enorm in mijn hoofd. Wat is er gebeurd, wat is er van mij overgebleven, wie ben ik nu? Ik heb therapie gehad en ben bij coaches geweest, maar bij al deze hulp had ik iedere keer het gevoel dat dit niet was wat ik nodig had. Mijn hoofd wist alles wel, die kon alles goed relativeren.
+
+    Ik moest tot rust komen, uit mijn hoofd en weer mijn lijf in zakken. En dat is precies wat de retraite heeft gedaan! De stilte gaf mij de ruimte om echt weer in contact te komen met mijn authentieke ik. Toen ik die verbinding weer voelde, ik alle verwachtingen en dat wat ik dacht dat ik wilde kon loslaten, kwam datgene wat wilde komen naar boven. En dat was mijn spelend kind! Mijn spelend kind die ik langzaamaan kwijt geraakt was in mijn relatie. Mijn spelend kind die ik jaren niet gehoord, gezien en gevoeld heb. Dit was het! Dit was het ontbrekende stukje.
+
+    Ik heb me in jaren niet zo heel, rustig en vooral blij en gelukkig gevoeld. De verbinding met mezelf en met al dat is is hersteld. Wat vier dagen stilte al niet kan doen :-) Een mooier cadeau had ik mezelf niet kunnen geven.
+
+    Robbert, ik ben je enorm dankbaar. Wat doe jij een prachtig werk!
+  participant: F.
 - title: Geen religie maar een antwoord op mijn verlangen naar stilte
   subtitle: RE-TREAT JE HART NOV 2012
   text: Begin van september begon er iets te kriebelen, ik kreeg een verlangen om
