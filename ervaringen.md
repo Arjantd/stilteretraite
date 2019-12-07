@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Geen religie maar een antwoord op mijn verlangen naar stilte
+  subtitle: RE-TREAT JE HART NOV 2012
+  text: Begin van september begon er iets te kriebelen, ik kreeg een verlangen om
+    mijn mond te houden en de stilte op te zoeken. Een verlangen wat ik nooit eerder
+    zo heb gehad. Ik kon het moeilijk verklaren, maar ik voelde van binnenuit dat
+    ik even moest stil zitten om weer door te kunnen. Toen ben ik gaan googlen en
+    kwam ik vrij snel bij de website van “in een hutje op de hei”. Bingo, dit is wat
+    ik wilde, en een gesprek met Robbert bevestigde mijn gevoel, geen religie maar
+    een antwoord op mijn verlangen naar stilte, een helpende hand. Ik moest wel even
+    geduld hebben, de retraite zou pas in november beginnen. Maar het was het wachten
+    waard. “In een groep van 14 mensen zwijgen, jij????” Zo reageerde mijn omgeving,
+    en er zijn veel grappen over gemaakt. Maar wat kan ik zeggen, het was een louterende,
+    leerzame en zalige ervaring. Mijn stilte was rustig en ontspannen, en ik heb mezelf
+    verbaasd dat ik het zo fijn vond alleen te zijn. Maar dat was juist zo mooi aan
+    deze retraite, we waren niet alleen, maar wel stil, in stilte samen en dat was
+    als een grote stampende agregrator, daar ging zo veel kracht en energie van uit.
+    Robbert heeft ons fantastisch begeleid en iedere dag was een feest, met een opbouw,
+    kop en staart. Het was niet vaag (was ik bang voor) maar concreet en glashelder.
+    Ik heb eigenlijk in 5 dagen, een nieuwe versie van mezelf gedownload. En dat kan
+    alleen in rust, als de “tefal laag” van het dagelijks leven van je afglijdt en
+    je echt bij je gevoel kunt komen. Ik ben niet veranderd maar verbeterd. Het beste
+    cadeau voor mezelf.
+  participant: Sophie Houtzager, psycholoog/gevangenisdirecteur
 - title: Ik kan geen betere investering in ‘je-zelf’ bedenken
   subtitle: RE-TREAT JE HART DEC 2017
   text: "Ik zag best op tegen 96 uur stilte en had geen idee wat te verwachten. Weliswaar
