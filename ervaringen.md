@@ -3,6 +3,56 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Ik constateerde dat ik mij geheeld en getroost voelde
+  subtitle: RE-MEMBER! 2017
+  text: |-
+    Voor mij was deze tweede retraite weer een hele fijne en bijzondere ervaring. Fijn om weer onder leiding van Robbert te mediteren en oefeningen te doen die ik mij ineens herinnerde van de vorige keer. Fijn om weer stil te mogen zijn, om weer even los van alle prikkels te ontdekken hoe ik er voor stond.
+
+    Bijzonder door de plek waar wij waren. 's Ochtends vroeg de eerste meditatie in de stal, op 't hooi met op de achtergrond pony Coco die zo stil stond dat wij er van overtuigd waren dat zij met ons mee deed! De hei en 't bos die wij helemaal voor ons zelf hadden en waar ik eindeloos heerlijk rond gewandeld heb.
+
+    Na de laatste sessie van de dag op de deel terug te stappen in de door kaarsen verlichte woonkamer. Bijzonder omdat ik het zo prettig vond om in stilte, in een groep onbekenden te zijn.
+
+    Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost voelde en nu een maand verder voel ik dat nog steeds dus wat mij betreft zeker volgend jaar weer!
+  participant: TO, groepsleerkracht basisonderwijs
+- title: Er borrelde al een tijdje iets
+  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
+  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
+    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
+    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
+    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
+    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
+    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
+    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
+    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
+    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
+    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
+    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
+    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
+    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
+    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
+    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
+    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
+    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
+    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
+    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
+    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
+    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
+    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
+    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
+    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
+    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
+    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
+    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
+    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
+    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
+    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
+    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
+    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
+    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
+    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
+    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
+    doen (en dan weer bij Robbert!)"
+  participant: Ted, gepensioneerd NLP Trainer/coach
 - title: De natuur heb ik ervaren als sereen, haast verstild
   subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
   text: "1\\.  \nEerst was ik bang voor de stilte; geloofde niet dat ik die zou kunnen
@@ -19,47 +69,6 @@ testimonials:
     aan.  \n\\- Doe ik het wel goed ?  \n\\- En oh als ik op de klankschaal sla, zijn
     alle ogen en oren op mij gericht. Doodeng."
   participant: Jeaninne
-- title: Nog een gedichtje
-  subtitle: RE-TREAT YOUR SENSES ITALIE 2016
-  text: |-
-    Wat flarden beelden
-
-    met je delen
-
-    Vage stukjes schimmen
-
-    o zo fijn
-
-    Die samen als een
-
-    kleine windflard
-
-    toch een Eenheid
-
-    kunnen zijn
-
-    Het is de wind
-
-    die er niks
-
-    van vindt
-
-    Ze waait en zwaait
-
-    en aait en beukt
-
-    en rolt en gromt
-
-    weer gaat, weer komt
-
-    maar
-
-    nooit verlaat
-
-    tot ze weer gaat
-
-    ….en komt
-  participant: Lenny Leppers, Hannover
 - title: Wat ik er van moest verwachten geen idee..
   subtitle: RE-TREAT JE HART - DEC 2013
   text: Op een punt beland in m'n leven dat ik soort van vastgelopen was vond ik het
@@ -121,6 +130,47 @@ testimonials:
     je echt bij je gevoel kunt komen. Ik ben niet veranderd maar verbeterd. Het beste
     cadeau voor mezelf.
   participant: Sophie Houtzager, psycholoog/gevangenisdirecteur
+- title: Nog een gedichtje
+  subtitle: RE-TREAT YOUR SENSES ITALIE 2016
+  text: |-
+    Wat flarden beelden
+
+    met je delen
+
+    Vage stukjes schimmen
+
+    o zo fijn
+
+    Die samen als een
+
+    kleine windflard
+
+    toch een Eenheid
+
+    kunnen zijn
+
+    Het is de wind
+
+    die er niks
+
+    van vindt
+
+    Ze waait en zwaait
+
+    en aait en beukt
+
+    en rolt en gromt
+
+    weer gaat, weer komt
+
+    maar
+
+    nooit verlaat
+
+    tot ze weer gaat
+
+    ….en komt
+  participant: Lenny Leppers, Hannover
 - title: Ik kan geen betere investering in ‘je-zelf’ bedenken
   subtitle: RE-TREAT JE HART DEC 2017
   text: "Ik zag best op tegen 96 uur stilte en had geen idee wat te verwachten. Weliswaar
@@ -176,45 +226,6 @@ testimonials:
     zijn weer terug. Het was voor mij het beste cadeautje dat ik mezelf ooit gegeven
     heb en ik gun het anderen ook heel erg, bij twijfel, doen!!"
   participant: Fatima, Verpleegkundig ggz
-- title: Er borrelde al een tijdje iets
-  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
-  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
-    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
-    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
-    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
-    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
-    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
-    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
-    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
-    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
-    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
-    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
-    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
-    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
-    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
-    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
-    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
-    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
-    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
-    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
-    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
-    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
-    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
-    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
-    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
-    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
-    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
-    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
-    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
-    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
-    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
-    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
-    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
-    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
-    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
-    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
-    doen (en dan weer bij Robbert!)"
-  participant: Ted, gepensioneerd NLP Trainer/coach
 - title: Ik had nog nooit een (georganiseerde) stilte retraite gedaan
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: Tot voor kort had ik nog nooit een (georganiseerde) stilte retraite gedaan.
@@ -249,17 +260,6 @@ testimonials:
     loop je direct de natuur in. Een retraite is een cadeautje voor jezelf, een heel
     waardevol cadeautje, dat de potentie heeft om je leven te veranderen.
   participant: Rens de Nobel, software ontwikkelaar & ondernemer
-- title: Ik constateerde dat ik mij geheeld en getroost voelde
-  subtitle: RE-MEMBER! 2017
-  text: |-
-    Voor mij was deze tweede retraite weer een hele fijne en bijzondere ervaring. Fijn om weer onder leiding van Robbert te mediteren en oefeningen te doen die ik mij ineens herinnerde van de vorige keer. Fijn om weer stil te mogen zijn, om weer even los van alle prikkels te ontdekken hoe ik er voor stond.
-
-    Bijzonder door de plek waar wij waren. 's Ochtends vroeg de eerste meditatie in de stal, op 't hooi met op de achtergrond pony Coco die zo stil stond dat wij er van overtuigd waren dat zij met ons mee deed! De hei en 't bos die wij helemaal voor ons zelf hadden en waar ik eindeloos heerlijk rond gewandeld heb.
-
-    Na de laatste sessie van de dag op de deel terug te stappen in de door kaarsen verlichte woonkamer. Bijzonder omdat ik het zo prettig vond om in stilte, in een groep onbekenden te zijn.
-
-    Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost voelde en nu een maand verder voel ik dat nog steeds dus wat mij betreft zeker volgend jaar weer!
-  participant: TO, groepsleerkracht basisonderwijs
 - title: De tweede retraite die ik bij Robbert deed
   subtitle: RE-TREAT JE HART MEI 2012
   text: De tweede retraite die ik bij Robbert deed leek aanvankelijk veel op de eerste,
