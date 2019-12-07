@@ -3,6 +3,20 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Wat ik er van moest verwachten geen idee..
+  subtitle: RE-TREAT JE HART - DEC 2013
+  text: Op een punt beland in m'n leven dat ik soort van vastgelopen was vond ik het
+    wel tijd worden voor bezinning. Een retraite leek me wel iets om dichterbij mezelf
+    te komen en dan het liefst enigszins neutraal qua geloof of religie. Wat ik er
+    van moest verwachten geen idee, maar in het ergste geval overleef ik het wel dacht
+    ik. Het duurde dan ook even voordat ik de rust had gevonden en geland was, maar
+    vanaf begin af aan ervaarde ik de stilte als prettig. Toen ik me eenmaal wat meer
+    overgegeven had aan het mediteren en de dingen kon laten zijn, voelde het ook
+    goed om daar te zijn. Sommige meditatiesessies voelde dan ook als een warme deken,
+    andere oefeningen waren wat onwennig. Mede dankzij de begeleiding van Robbert
+    en de mooie omgeving was het een mooie en waardevolle ervaring. Zeer zeker de
+    moeite waard en ik zou het zo nog een keer doen.
+  participant: Marnix, Grafisch Ontwerper
 - title: Mijn allerdiepste kwetsbaarheid
   subtitle: RE-TREAT JE HART - DEC 2013
   text: "Ik was zo stralend de eerste weken toen ik thuis was, zo diep geïncarneerd
