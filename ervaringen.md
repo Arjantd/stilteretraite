@@ -3,6 +3,47 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Nog een gedichtje
+  subtitle: RE-TREAT YOUR SENSES ITALIE 2016
+  text: |-
+    Wat flarden beelden
+
+    met je delen
+
+    Vage stukjes schimmen
+
+    o zo fijn
+
+    Die samen als een
+
+    kleine windflard
+
+    toch een Eenheid
+
+    kunnen zijn
+
+    Het is de wind
+
+    die er niks
+
+    van vindt
+
+    Ze waait en zwaait
+
+    en aait en beukt
+
+    en rolt en gromt
+
+    weer gaat, weer komt
+
+    maar
+
+    nooit verlaat
+
+    tot ze weer gaat
+
+    ….en komt
+  participant: Lenny Leppers, Hannover
 - title: Wat ik er van moest verwachten geen idee..
   subtitle: RE-TREAT JE HART - DEC 2013
   text: Op een punt beland in m'n leven dat ik soort van vastgelopen was vond ik het
