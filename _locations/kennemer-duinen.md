@@ -1,11 +1,11 @@
 ---
 title: Landgoed Hoog Deelen
 layout: location
-description: 'Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
+description: "Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
   te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe.
   De historische boerderij biedt op beperkte schaal in stilte- en rustverblijf. Een
-  ''back to nature'' verblijf, waar niets het omliggende bosgebied en haar bewoners
-  verstoort. '
+  'back to nature' verblijf, waar niets het omliggende bosgebied en haar bewoners
+  verstoort.   \n**LEES MEER**"
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 location: Particulier landgoed Hoge Veluwe
 gallery:
