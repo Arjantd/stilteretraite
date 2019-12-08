@@ -19,7 +19,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-15.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-13.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-12.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-11.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-10.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-9.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-8.jpg
