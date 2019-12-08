@@ -10,8 +10,9 @@ description: Het Emmausklooster in Velp is het oudste Kapucijnenklooster in Nede
 gallery: []
 
 ---
-**Het Emmausklooster te Velp  
-**Een deel van onze retraites vinden plaats op het complex van het Emmausklooster te Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en is vernoemd naar de Bijbelse plaats Emmaus. Meer dan 300 jaar hebben er in dit klooster Kapucijnen gewoond. Inmiddels is de laatste Kapucijnenmonnik vertrokken en verhuurt het klooster zijn ruimtes voor cursussen, trainingen, vergaderingen en heisessies. Ook zijn er ruimtes voor meditaties en retraites en wordt er, geheel in de oude traditie, slaapplaatsen geboden aan pelgrims en retraitegasten.  
+## Het Emmausklooster te Velp
+
+Een deel van onze retraites vinden plaats op het complex van het Emmausklooster te Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en is vernoemd naar de Bijbelse plaats Emmaus. Meer dan 300 jaar hebben er in dit klooster Kapucijnen gewoond. Inmiddels is de laatste Kapucijnenmonnik vertrokken en verhuurt het klooster zijn ruimtes voor cursussen, trainingen, vergaderingen en heisessies. Ook zijn er ruimtes voor meditaties en retraites en wordt er, geheel in de oude traditie, slaapplaatsen geboden aan pelgrims en retraitegasten.  
   
 **Het Clarahuis**  
 Naast het Klooster is in 1997 een gastenverblijf, het Clarahuis, gebouwd. Hierin bevinden zich een grote groepsruimte voor cursussen en trainingen, een meditatiezolder en 12 slaapkamers. Retraitedeelnemers eten en slapen hier en het grootste deel van het programma vindt op de meditatiezolder van het Clarahuis plaats. Bekijk de foto’s onderaan deze pagina om een indruk te krijgen!  
