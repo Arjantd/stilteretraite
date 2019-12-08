@@ -66,7 +66,7 @@ sections:
   - template: upcoming-events-left-latest-blogs-right
   - template: owl-carousel-image-left-story-right
     items:
-    - image: https://static.stilteretraite.nl/uploads/04.jpg
+    - image: https://static.stilteretraite.nl/uploads/Home-deelnemers-ervaringen.jpg
       title: Ervaringen van deelnemers
       text: 'Onder de naam **''In een hutje op de hei''** organiseert Robbert van
         Bruggen al meer dan 10 jaar stilte-retraites. In de beginjaren vonden de retraites
