@@ -3,11 +3,11 @@ title: Emmausklooster in Velp
 layout: location
 image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
 location: Velp / Grave
-description: Een deel van ons retraiteaanbod vindt plaats op het complex van het Emmausklooster
-  te Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645)
-  en is door de jaren heen zeer goed onderhouden en zeer authentiek te noemen. Als
-  je binnenstapt, voel je de eeuwenoude geschiedenis en verhalen van alle bewoners
-  en gasten.
+description: Een deel van ons retraiteaanbod vindt plaats in het Emmausklooster te
+  Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en
+  is door de jaren heen zeer goed onderhouden en zeer authentiek te noemen. Als je
+  binnenstapt, voel je de eeuwenoude geschiedenis en verhalen van alle bewoners en
+  gasten.
 gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-3.jpg
