@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- wat-vraagt-het.md
 - robbert-van-bruggen.md
 - wat-wij-beogen.md
 - contact.md
