@@ -3,8 +3,8 @@ location: _locations/kennemer-duinen.md
 attendees: 16
 category: 1-day
 layout: event
-title: Stilte (introductie) dag februari 2020
-image: https://static.stilteretraite.nl/uploads/shutterstock_227136478.jpg
+title: 'Stilte (introductie) dag '
+image: https://static.stilteretraite.nl/uploads/Locatie-boshuis-doorn-stilte dag.jpg
 lead_text: 'Een zaterdag als eiland van bezinning, als baken in de maalstroom van
   het leven. ''Touch base'' en ''reload''.  '
 from_date: 2020-02-07T23:00:00.000+00:00
