@@ -5,8 +5,7 @@ layout: post
 title: voorbeeld
 date: 2019-12-08 00:00:00 +0100
 lead_text: De mensheid als geheel maakt een evolutionair proces door, waarin de mens
-  zich in haar ontwikkeling door haar verschillende capaciteiten heeft uitgedrukt;
-  met nadruk op lijf, voortplanting en overleven
+  zich in haar ontwikkeling door haar verschillende capaciteiten heeft.
 tags: []
 banner_image: https://static.stilteretraite.nl/uploads/IMG_0459.JPG
 related_posts: []
