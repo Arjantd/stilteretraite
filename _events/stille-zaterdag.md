@@ -9,7 +9,7 @@ lead_text: 'Een vrijdag als eiland van bezinning, om kennis te maken met het con
   ''stilte-retraite''. ''Touch base'' en ''reload''. Iets voor jou?  '
 from_date: 2020-02-07T23:00:00.000+00:00
 to_date: 2020-02-07T23:00:00.000+00:00
-length_of_time: weekend
+length_of_time: 1 dag
 price: 95
 
 ---
