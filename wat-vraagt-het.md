@@ -5,7 +5,7 @@ image: ''
 published: false
 
 ---
-# Op retraite gaan vraagt lef 
+# Op retraite gaan vraagt lef. 
 
 _Het doen van een retraite is een keuze voor overgave, die voortkomt uit de bewustwording dat er van binnen een verlangen knaagt om ‘iets’ te ontdekken. Ook kan het een keuze zijn om in een tussenfase, waarin een oude manier van ‘zijn’ niet meer voldoet en het nieuwe nog geen vorm heeft gekregen, in stilte met jezelf te kunnen zijn, om transformatie te zoeken met een hernieuwd gevoel van richting._
 
