@@ -4,7 +4,8 @@ categories: []
 layout: post
 title: voorbeeld post
 date: 2019-12-07 00:00:00 +0100
-lead_text: balalaalalalalalaaggg ggg gg gggrgkgjg
+lead_text: De mensheid als geheel maakt een evolutionair proces door, waarin de mens
+  zich in haar ontwikkeling door haar verschillende capaciteiten heeft.
 tags: []
 banner_image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 related_posts: []
