@@ -7,7 +7,23 @@ description: Het Emmausklooster in Velp is het oudste Kapucijnenklooster in Nede
   (1645) en is door de jaren heen zeer goed onderhouden en zeer authentiek te noemen.
   Als je binnenstapt, voel je de eeuwenoude geschiedenis en verhalen van alle bewoners
   en gasten.
-gallery: []
+gallery:
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-3.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-2.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-1.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-8.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-12.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-15.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-16.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-5.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-6.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-14.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-13.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-10.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-9.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-7.jpg
 
 ---
 _Een deel van ons retraiteaanbod vindt plaats op het complex van het Emmausklooster te Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en is vernoemd naar de Bijbelse plaats Emmaus. Meer dan 300 jaar hebben er in dit klooster Kapucijnen gewoond. Inmiddels is de laatste Kapucijnenmonnik vertrokken en verhuurt het klooster zijn ruimtes voor cursussen, trainingen, vergaderingen en heisessies. Ook zijn er ruimtes voor meditaties en retraites en wordt er, geheel in de oude traditie, slaapplaatsen geboden aan pelgrims en retraitegasten._  
