@@ -4,7 +4,7 @@ sub_heading: Vijfdaagse stilte retraite
 from_date: 2019-10-23T14:00:00.000+00:00
 to_date: 2019-10-27T14:00:00.000+00:00
 attendees: 12
-location: _locations/avant-spirit-velp-grave.md
+location: _locations/natuurcamping-sallandse-heuvelrug.md
 layout: event
 price: '595.00'
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
