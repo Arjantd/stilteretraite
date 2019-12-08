@@ -24,7 +24,7 @@ icon_boxes:
     hier meer over.
   icon: fas fa-user-plus
 - title: Wat vraagt het?
-  link: []
+  link: wat-vraagt-het.md
   text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
     Welke voorbereidingen moet je treffen?
   icon: ''
