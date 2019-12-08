@@ -20,8 +20,8 @@ fields:
   default: page
   hidden: true
 pages:
-- voor-wie-is-het.md
 - wat-vraagt-het.md
+- voor-wie-is-het.md
 - robbert-van-bruggen.md
 - wat-wij-beogen.md
 - contact.md
