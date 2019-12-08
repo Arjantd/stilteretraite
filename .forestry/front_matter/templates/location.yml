@@ -39,6 +39,6 @@ fields:
   hidden: true
   default: location
 pages:
-- _locations/kennemer-duinen.md
 - _locations/natuurcamping-sallandse-heuvelrug.md
+- _locations/kennemer-duinen.md
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
