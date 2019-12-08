@@ -10,11 +10,11 @@ description: Een deel van ons retraiteaanbod vindt plaats in het Emmausklooster 
   gasten.
 gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-3.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-12.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-2.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-3.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-1.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-8.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-12.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-15.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-16.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-5.jpg
