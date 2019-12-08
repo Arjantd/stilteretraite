@@ -20,10 +20,10 @@ fields:
   default: page
   hidden: true
 pages:
+- wat-wij-beogen.md
 - wat-vraagt-het.md
 - voor-wie-is-het.md
 - robbert-van-bruggen.md
-- wat-wij-beogen.md
 - contact.md
 - wat-doet-het.md
 - wat-is-retraite.md
