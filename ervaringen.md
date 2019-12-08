@@ -347,7 +347,7 @@ testimonials:
   participant: E.J. (Televisie- en documentairemaker)
 menu:
   navigation:
-    weight: 6
+    weight: 7
     parent: _stilte_retraite
     identifier: _ervaringen
 
