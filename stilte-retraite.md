@@ -3,6 +3,11 @@ title: Stilte retraite
 layout: overview
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 icon_boxes:
+- title: Wat vraagt het
+  link: []
+  text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
+    Welke voorbereidingen moet je treffen?
+  icon: ''
 - title: Over retraite
   link: over-retraite.md
   text: Historische context en betekenis van 'retraite', bezien vanuit verschillende
