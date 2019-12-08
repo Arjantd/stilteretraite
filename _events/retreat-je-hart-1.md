@@ -1,5 +1,5 @@
 ---
-location: _locations/avant-spirit-velp-grave.md
+location: _locations/natuurcamping-sallandse-heuvelrug.md
 attendees: 12
 layout: event
 title: Retreat je hart!
