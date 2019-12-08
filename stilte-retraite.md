@@ -3,11 +3,6 @@ title: Stilte retraite
 layout: overview
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 icon_boxes:
-- title: Wat vraagt het
-  link: []
-  text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
-    Welke voorbereidingen moet je treffen?
-  icon: ''
 - title: Over retraite
   link: over-retraite.md
   text: Historische context en betekenis van 'retraite', bezien vanuit verschillende
@@ -28,6 +23,11 @@ icon_boxes:
   text: Is een stilte-retraite wel iets voor mij? Een vaak gestelde vraag! Lees er
     hier meer over.
   icon: fas fa-user-plus
+- title: Wat vraagt het?
+  link: []
+  text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
+    Welke voorbereidingen moet je treffen?
+  icon: ''
 - title: Ons aanbod
   link: ons-aanbod.md
   text: 'Een dag, een weekend of 5 dagen: welke vormen van stilte-retraite bieden
