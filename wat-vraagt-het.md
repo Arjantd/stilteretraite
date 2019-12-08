@@ -2,7 +2,6 @@
 layout: page
 title: Wat vraagt het?
 image: ''
-published: false
 
 ---
 # Op retraite gaan vraagt lef. 
