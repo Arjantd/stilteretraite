@@ -1,5 +1,5 @@
 ---
-title: Besloten landgoed Veluwe
+title: Besloten Veluws landgoed
 layout: location
 description: "Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
   te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe.
