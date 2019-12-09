@@ -3,9 +3,9 @@ title: Besloten landgoed Veluwe
 layout: location
 description: "Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
   te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe.
-  De historische boerderij biedt op beperkte schaal in stilte- en rustverblijf. Een
-  'back to nature' verblijf, waar niets het omliggende bosgebied en haar bewoners
-  verstoort.   \n**LEES MEER**"
+  De historische boerderij voorziet op beperkte schaal in stilte- en rustverblijf.
+  Een 'back to nature' onderkomen, waar niets het omliggende bosgebied en haar bewoners
+  verstoort.  \n**LEES MEER**"
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
@@ -29,7 +29,7 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-19.jpg
 
 ---
-_Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische boerderij biedt op beperkte schaal in stilte- en rustverblijf. Een 'back to nature' verblijf, waar niets het omliggende bosgebied en haar bewoners verstoort. Wilde zwijnen woelen hier de grond om, herten steken het veld bij zonsondergang over en zelfs dassen laten zich hier soms zien bij hun nabijgelegen burcht._
+_Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature' onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort. Wilde zwijnen woelen hier de grond om, herten steken het veld bij zonsondergang over en zelfs dassen laten zich hier soms zien bij hun nabijgelegen burcht._
 
 **Het verblijf**  
 De boerderij is even eenvoudig als buitengewoon: het is een van de eerste, oudste boerderijen in deze regio. Het is gebouwd in 1846 ter ontginning van de oergronden en omgeven door oude lindebomen, weilandjes en bosschages. De buitenkant van het Huis en de deel verkeren nog in vrijwel de oorspronkelijke staat. Naast het huis staan een even oude schuur, en een aantal kleine opstallen.
