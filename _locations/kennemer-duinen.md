@@ -7,7 +7,7 @@ description: "Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite
   'back to nature' verblijf, waar niets het omliggende bosgebied en haar bewoners
   verstoort.   \n**LEES MEER**"
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
-location: De Hoge Veluwe
+location: Hoge Veluwe
 gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-2.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-1.jpg
