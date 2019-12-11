@@ -1,27 +1,25 @@
 ---
 title: Contact
-description: Contact Belkirk College
-publish_date: '2017-12-01T04:00:00.000+00:00'
-layout: page
+layout: contact
 image: https://static.stilteretraite.nl/uploads/357.jpg
 blocks:
 - template: form
   success_text: Het formulier is succesvol verstuurd.
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
   action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendContactForm
-  fields:
+  controls:
+  - type: Text
+    label: ''
+    name: name
+    placeholder: Naam
+  - type: E-mail
+    label: ''
+    name: email
+    placeholder: E-mail
   - name: message
     label: ''
     type: Text area
     placeholder: Bericht
-  - name: name
-    label: Naam
-    type: Text
-    placeholder: Naam
-  - name: email
-    label: E-mail
-    type: E-mail
-    placeholder: ''
   name: contact
   submit_button_text: Verzenden
 menu:

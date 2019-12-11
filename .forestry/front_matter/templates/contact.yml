@@ -15,7 +15,7 @@ fields:
   config:
     required: false
   label: Layout
-  default: page
+  default: contact
   hidden: true
 pages:
 - contact.md

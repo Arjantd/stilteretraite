@@ -10,5 +10,7 @@
         {% include blocks/blue-bar.html text=block.text button=block.button %}
     {% when 'centered-header-text' %}
         {% include blocks/centered-header-text.html text=block.text %}
+    {% when 'form' %}
+        {% include blocks/form.html action=block.action controls=block.controls success_text=block.succcess_text failure_text=block.failure_text %}
 {% endcase %}
 {% endfor %}
