@@ -64,6 +64,7 @@ sections:
   background: ''
   blocks:
   - template: upcoming-events-left-latest-blogs-right
+  padding: ''
 - name: Ervaringen van deelnemers
   background: ''
   blocks:
@@ -96,12 +97,12 @@ sections:
   - template: parallax
     button:
       link: locaties.md
-      text: Alle locaties
+      text: Bekijk onze locaties
     image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-13.jpg
-    title: Hele mooie locatie
-    text: Hier een mooie korte omschrijving van deze locatie en nog wat meer tekst
-      om dit gevuld te krijgen. Misschien ook nog wat **opmaak** in de tekst om te
-      kijken of dat _werkt_.
+    title: Voor ons retraiteaanbod maken we gebruik van verschillende locaties
+    text: De plek waar je aan een stilte-retraite deelneemt kleurt je ervaring. De
+      retraites die wij aanbieden vinden plaats op verschillende mooie locaties, ieder
+      met een unieke sfeer en charme.
 - name: Neem contact op voor vragen
   background: ''
   blocks:
