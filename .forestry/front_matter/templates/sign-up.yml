@@ -27,3 +27,5 @@ fields:
   label: Layout
   default: sign-up
   hidden: true
+pages:
+- aanmelden-voor-retraite.md
