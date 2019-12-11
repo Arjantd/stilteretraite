@@ -45,6 +45,9 @@ fields:
     config:
       required: false
     label: Placeholder
+  - name: mandatory
+    type: boolean
+    label: Mandatory
   config:
     min: 
     max: 
