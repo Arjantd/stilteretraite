@@ -23,6 +23,7 @@ sections:
   - testimonials
   - team
   - locations
+  - contact
 - type: directory
   path: _people
   label: People
