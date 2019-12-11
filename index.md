@@ -64,6 +64,9 @@ sections:
   background: ''
   blocks:
   - template: upcoming-events-left-latest-blogs-right
+- name: Ervaringen van deelnemers
+  background: ''
+  blocks:
   - template: owl-carousel-image-left-story-right
     items:
     - image: https://static.stilteretraite.nl/uploads/Home-deelnemers-ervaringen.jpg
@@ -78,14 +81,13 @@ sections:
       button:
         text: 'Lees ervaringen:'
         link: ervaringen.md
+  padding: ''
+- name: Gecentreerde titel
+  background: ''
+  blocks:
   - template: centered-header-text
     text: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ is een
       stilte retraite het grootste geschenk dat we onszelf kunnen geven.
-  - template: blue-bar
-    button:
-      link: contact.md
-      text: Contact ons
-    text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
 - name: Locaties
   background: ''
@@ -100,6 +102,15 @@ sections:
     text: Hier een mooie korte omschrijving van deze locatie en nog wat meer tekst
       om dit gevuld te krijgen. Misschien ook nog wat **opmaak** in de tekst om te
       kijken of dat _werkt_.
+- name: Neem contact op voor vragen
+  background: ''
+  blocks:
+  - template: blue-bar
+    button:
+      link: contact.md
+      text: Contact ons
+    text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
+  padding: ''
 menu:
   navigation:
     identifier: _index
