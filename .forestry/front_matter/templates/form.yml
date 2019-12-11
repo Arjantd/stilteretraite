@@ -59,6 +59,12 @@ fields:
     required: false
   label: Submit button text
   default: Verzenden
+- name: submitting_button_text
+  type: text
+  config:
+    required: false
+  label: Submitting button text
+  default: Verzenden...
 - name: success_text
   type: textarea
   default: Het formulier is succesvol verstuurd.
