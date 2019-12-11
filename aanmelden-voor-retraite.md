@@ -10,6 +10,12 @@ blocks:
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
   name: sign-up
   controls:
+  - name: event
+    label: ''
+    placeholder: Evenement
+    required: true
+    type: Event select
+    options: []
   - name: name
     label: ''
     required: true
@@ -21,12 +27,6 @@ blocks:
     required: true
     type: E-mail
     label: ''
-    options: []
-  - name: event
-    label: ''
-    placeholder: Evenement
-    required: true
-    type: Event select
     options: []
   action: ''
 
