@@ -1,8 +1,14 @@
 {% case include.type %}
-    {% when 'Text' %}
-      <input type="text" name="{{ include.name }}"  class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}>
-    {% when 'E-mail' %}
-      <input type="email" name="{{ include.name }}"  class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}>
-    {% when 'Text area' %}
-      <textarea cols="6" rows="8" name="{{ include.name }}" class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}></textarea>
+  {% when 'Text' %}
+    <input type="text" name="{{ include.name }}"  class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}>
+  {% when 'E-mail' %}
+    <input type="email" name="{{ include.name }}"  class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}>
+  {% when 'Text area' %}
+    <textarea cols="6" rows="8" name="{{ include.name }}" class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}></textarea>
+  {% when 'Event select' %}
+    <select name="{{ include.name }}" class="form-control input-lg">
+      {% for event in site.events %}
+      <option value="{{ event.title }}">{{ event.title }}</option>
+      {% endfor %}
+    </select>
 {% endcase %}
