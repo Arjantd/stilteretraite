@@ -24,7 +24,7 @@ fields:
       - Text
       - E-mail
       - Text area
-      - Location select
+      - Event select
       source:
         type: simple
         section: 
