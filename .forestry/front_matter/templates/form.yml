@@ -7,19 +7,14 @@ fields:
   config:
     required: false
   label: Action
+- name: name
+  type: text
+  config:
+    required: true
+  label: Name
 - name: fields
   type: field_group_list
   fields:
-  - name: name
-    type: text
-    config:
-      required: true
-    label: Name
-  - name: label
-    type: text
-    config:
-      required: false
-    label: Label
   - name: type
     type: select
     default: []
@@ -35,11 +30,32 @@ fields:
         file: 
         path: 
     label: Type
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Name
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+  - name: placeholder
+    type: text
+    config:
+      required: false
+    label: Placeholder
   config:
     min: 
     max: 
     labelField: 
   label: Fields
+- name: submit_button_text
+  type: text
+  config:
+    required: false
+  label: Submit button text
+  default: Verzenden
 - name: success_text
   type: textarea
   default: Het formulier is succesvol verstuurd.
