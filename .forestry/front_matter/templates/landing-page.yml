@@ -140,6 +140,7 @@ fields:
     - blue-bar
     - upcoming-events-left-latest-blogs-right
     - owl-carousel-image-left-story-right
+    - parallax
     config:
       min: 
       max: 
