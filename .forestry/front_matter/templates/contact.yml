@@ -10,3 +10,10 @@ fields:
   config:
     min: 
     max: 
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: page
+  hidden: true
