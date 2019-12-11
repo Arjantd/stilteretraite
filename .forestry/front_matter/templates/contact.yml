@@ -17,3 +17,5 @@ fields:
   label: Layout
   default: page
   hidden: true
+pages:
+- contact.md
