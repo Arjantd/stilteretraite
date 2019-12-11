@@ -11,13 +11,13 @@ blocks:
   action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendContactForm
   fields:
   - name: message
-    label: Bericht
+    label: ''
     type: Text area
-    placeholder: ''
+    placeholder: Bericht
   - name: name
     label: Naam
     type: Text
-    placeholder: ''
+    placeholder: Naam
   - name: email
     label: E-mail
     type: E-mail
