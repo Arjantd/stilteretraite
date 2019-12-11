@@ -14,14 +14,17 @@ blocks:
     label: ''
     name: name
     placeholder: Naam
+    required: true
   - type: E-mail
     label: ''
     name: email
     placeholder: E-mail
+    required: true
   - name: message
     label: ''
     type: Text area
     placeholder: Bericht
+    required: true
   name: contact
   submit_button_text: Verzenden
   fields: []
