@@ -26,8 +26,9 @@ blocks:
     placeholder: Bericht
     required: true
   name: contact
-  submit_button_text: Verzenden
+  submit_button_text: Verzend
   fields: []
+  submitting_button_text: Verzenden...
 menu:
   footer:
     weight: 4
