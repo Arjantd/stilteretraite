@@ -1,8 +1,8 @@
-<div class="parallax parallax6 padding-tb100" style="background-image: url('{{ include.image | resized_image_url: "1024x768", "inside" }}; background-position: 50% 97px;">
+<div class="parallax parallax6 padding-tb100" style="background-image: url('{{ include.image | resized_image_url: "1024x768", "inside" }}'); background-position: 50% 97px;">
   <div class="container">
         <div class="parallax-text-block pull-right">
             <h3>{{ include.title }}</h3>
-            {{ include.text }}
+            {{ include.text | markdownify }}
             {% assign document = site.pages | concat: site.documents | where:"path", include.button.link | first %}
             <a href="{{ document.url | absolute_url }}" class="btn btn-primary">{{ include.button.text }}</a>
         </div>
