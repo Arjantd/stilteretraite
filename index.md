@@ -98,7 +98,7 @@ sections:
     button:
       link: locaties.md
       text: Bekijk onze locaties
-    image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-13.jpg
+    image: https://static.stilteretraite.nl/uploads/Home-widget-locaties.jpg
     title: Voor ons retraiteaanbod maken we gebruik van verschillende locaties
     text: De plek waar je aan een stilte-retraite deelneemt kleurt je ervaring. De
       retraites die wij aanbieden vinden plaats op verschillende mooie locaties, ieder
