@@ -7,8 +7,10 @@
     <textarea cols="6" rows="8" name="{{ include.name }}" class="form-control input-lg" placeholder="{{ include.placeholder }}"{% if include.required %} required="required"{% endif %}></textarea>
   {% when 'Event select' %}
     <select name="{{ include.name }}" class="form-control input-lg">
+      <option value=""></option>
       {% for event in site.events %}
-      <option value="{{ event.title }}">{{ event.title }}</option>
+      {% assign location = site.locations | where:"path", event.location | first %}
+      <option value="{{ event.from_date | date_to_string }} - {{ event.title }} - {{ location.title }}">{{ event.from_date | date_to_string }} - {{ event.title }} - {{ location.title }}</option>
       {% endfor %}
     </select>
 {% endcase %}
