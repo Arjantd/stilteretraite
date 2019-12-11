@@ -11,6 +11,6 @@
     {% when 'centered-header-text' %}
         {% include blocks/centered-header-text.html text=block.text %}
     {% when 'form' %}
-        {% include blocks/form.html action=block.action controls=block.controls submit_button_text=block.submit_button_text success_text=block.success_text fail_text=block.fail_text %}
+        {% include blocks/form.html action=block.action controls=block.controls submit_button_text=block.submit_button_text submitting_button_text=block.submitting_button_text success_text=block.success_text fail_text=block.fail_text %}
 {% endcase %}
 {% endfor %}
