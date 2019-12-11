@@ -4,5 +4,5 @@
     {% when 'E-mail' %}
       <input type="email" name="{{ include.name }}"  class="form-control input-lg" placeholder="{{ include.placeholder }}">
     {% when 'Text area' %}
-      <textarea cols="6" rows="8" id="comments" name="comments" class="form-control input-lg" placeholder="{{ include.placeholder }}"></textarea>
+      <textarea cols="6" rows="8" name="{{ include.name }}" class="form-control input-lg" placeholder="{{ include.placeholder }}"></textarea>
 {% endcase %}

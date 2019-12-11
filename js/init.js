@@ -619,3 +619,50 @@ function WWHGetter(){
 	$(".wwidth").css("width",wwidth);
 }
 });
+
+// Serialize form to object
+$.fn.serializeObject = function()
+{
+   var o = {};
+   var a = this.serializeArray();
+   $.each(a, function() {
+       if (o[this.name]) {
+           if (!o[this.name].push) {
+               o[this.name] = [o[this.name]];
+           }
+           o[this.name].push(this.value || '');
+       } else {
+           o[this.name] = this.value || '';
+       }
+   });
+   return o;
+};
+
+// Handle AJAX forms
+$("form.ajax").submit((e) => {
+	e.preventDefault();
+	
+	let form = $(e.target);
+	let submitButton = form.find("input[type=submit]");
+
+	// Disable submit button
+	submitButton.prop("disabled", true);
+		
+	let data = form.serializeObject();
+
+	$.ajax({
+    type: 'post',
+    url: e.target.action,
+    data: JSON.stringify(data),
+    contentType: "application/json",
+		dataType: 'json'
+	})
+	.done((data) => {
+		console.log( "Data Loaded: ", data );
+		submitButton.prop("disabled", false);
+	})
+	.fail(() => {
+		console.log("error");
+		submitButton.prop("disabled", false);
+	});
+})

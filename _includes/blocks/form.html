@@ -1,12 +1,8 @@
-<form method="post" class="contact-form clearfix" action="{{ include.action }}">
-    <div class="row">
-        <div class="col-md-6">
-            {% for control in include.controls %}
-            <div class="form-group">
-                {% include blocks/form-control.html name=control.name label=control.label type=control.type %}
-            </div>
-            {% endfor %}
-            <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="Submit now!">
-        </div>
+<form method="post" name="{{ include.name }}" class="ajax clearfix" action="{{ include.action }}">
+    {% for control in include.controls %}
+    <div class="form-group">
+        {% include blocks/form-control.html type=control.type name=control.name placeholder=control.placeholder %}
     </div>
+    {% endfor %}
+    <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="{{ include.submit_button_text }}">
 </form>
