@@ -649,7 +649,7 @@ $("form.ajax").submit((e) => {
 		
 	let data = form.serializeObject();
 
-	/*$.ajax({
+	$.ajax({
     type: 'post',
     url: e.target.action,
     data: JSON.stringify(data),
@@ -662,9 +662,8 @@ $("form.ajax").submit((e) => {
 		submitButton.prop("disabled", false);
 	})
 	.fail((err) => {
-		console.log(err);
 		form.find('.form-body').addClass('hidden');
 		form.find('.alert.fail').removeClass('hidden');
 		submitButton.prop("disabled", false);
-	});*/
+	});
 })
