@@ -15,16 +15,19 @@ blocks:
     required: true
     type: Text
     placeholder: Naam
+    options: []
   - name: email
     placeholder: E-mail
     required: true
     type: E-mail
     label: ''
+    options: []
   - name: event
     label: ''
-    placeholder: Retraite
+    placeholder: Evenement
     required: true
-    type: Text
+    type: Event select
+    options: []
   action: ''
 
 ---
