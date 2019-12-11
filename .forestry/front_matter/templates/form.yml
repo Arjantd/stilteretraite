@@ -24,7 +24,7 @@ fields:
       - Text
       - E-mail
       - Text area
-      - Select
+      - Location select
       source:
         type: simple
         section: 
@@ -49,13 +49,6 @@ fields:
   - name: required
     type: boolean
     label: Required
-  - name: options
-    type: tag_list
-    default: []
-    label: Options
-    showOnly:
-      field: type
-      value: Select
   config:
     min: 
     max: 
