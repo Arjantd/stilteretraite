@@ -24,6 +24,7 @@ sections:
   - team
   - locations
   - contact
+  - sign-up
 - type: directory
   path: _people
   label: People

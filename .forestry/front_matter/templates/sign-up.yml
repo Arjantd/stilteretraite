@@ -1,0 +1,29 @@
+---
+label: sign-up
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - form
+  config:
+    min: 
+    max: 
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: sign-up
+  hidden: true
