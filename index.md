@@ -39,6 +39,19 @@ featured_links:
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 sections:
+- name: Locaties
+  background: ''
+  padding: ''
+  blocks:
+  - template: parallax
+    button:
+      link: locaties.md
+      text: Alle locaties
+    image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-13.jpg
+    title: Hele mooie locatie
+    text: Hier een mooie korte omschrijving van deze locatie en nog wat meer tekst
+      om dit gevuld te krijgen. Misschien ook nog wat **opmaak** in de tekst om te
+      kijken of dat _werkt_.
 - name: Verlangen naar stilte
   background: lgray-bg
   blocks:
