@@ -13,12 +13,17 @@ blocks:
   - name: message
     label: Bericht
     type: Text area
+    placeholder: ''
   - name: name
     label: Naam
     type: Text
+    placeholder: ''
   - name: email
     label: E-mail
     type: E-mail
+    placeholder: ''
+  name: contact
+  submit_button_text: Verzenden
 menu:
   footer:
     weight: 4
