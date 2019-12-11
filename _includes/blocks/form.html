@@ -5,7 +5,7 @@
             {% include blocks/form-control.html type=control.type name=control.name placeholder=control.placeholder required=control.required %}
         </div>
         {% endfor %}
-        <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="{{ include.submit_button_text }}">
+        <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="{{ include.submit_button_text }}" data-loading-text="{{ include.submitting_button_text }}">
     </div>
     <div class="alert alert-success success hidden">
         {{ include.success_text }}

@@ -645,12 +645,11 @@ $("form.ajax").submit((e) => {
 	let form = $(e.target);
 	let submitButton = form.find("input[type=submit]");
 
-	// Disable submit button
-	submitButton.prop("disabled", true);
+	submitButton.button('loading');
 		
 	let data = form.serializeObject();
 
-	$.ajax({
+	/*$.ajax({
     type: 'post',
     url: e.target.action,
     data: JSON.stringify(data),
@@ -667,5 +666,5 @@ $("form.ajax").submit((e) => {
 		form.find('.form-body').addClass('hidden');
 		form.find('.alert.fail').removeClass('hidden');
 		submitButton.prop("disabled", false);
-	});
+	});*/
 })
