@@ -658,11 +658,14 @@ $("form.ajax").submit((e) => {
 		dataType: 'json'
 	})
 	.done((data) => {
-		console.log( "Data Loaded: ", data );
+		form.find('.form-body').addClass('hidden');
+		form.find('.alert.success').removeClass('hidden');
 		submitButton.prop("disabled", false);
 	})
-	.fail(() => {
-		console.log("error");
+	.fail((err) => {
+		console.log(err);
+		form.find('.form-body').addClass('hidden');
+		form.find('.alert.fail').removeClass('hidden');
 		submitButton.prop("disabled", false);
 	});
 })
