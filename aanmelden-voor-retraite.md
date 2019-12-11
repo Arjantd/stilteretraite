@@ -4,8 +4,8 @@ title: Aanmelden voor retraite
 image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
 blocks:
 - template: form
-  submit_button_text: Verzenden
-  submitting_button_text: Verzenden...
+  submit_button_text: Meld me aan
+  submitting_button_text: Aanmelden...
   success_text: Het formulier is succesvol verstuurd.
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
   name: sign-up
