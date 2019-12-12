@@ -22,7 +22,7 @@ icon_boxes:
   link: voor-wie-is-het.md
   text: Is een stilte-retraite wel iets voor mij? Een vaak gestelde vraag! Lees er
     hier meer over.
-  icon: fas fa-user-plus
+  icon: "\tfa fa-group"
 - title: Wat vraagt het?
   link: wat-vraagt-het.md
   text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
