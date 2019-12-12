@@ -7,7 +7,7 @@ icon_boxes:
   link: over-retraite.md
   text: Historische context en betekenis van 'retraite', bezien vanuit verschillende
     tradities en religies.
-  icon: far fa-heart
+  icon: fa fa-child
 - title: Wat is het?
   link: wat-is-retraite.md
   text: Het retraite-proces geeft ruimte aan gedachten, beelden, gevoel, sensatie,

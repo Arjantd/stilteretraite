@@ -60,5 +60,5 @@ fields:
   hidden: true
   default: overview
 pages:
-- over-ons.md
 - stilte-retraite.md
+- over-ons.md
