@@ -32,7 +32,7 @@ icon_boxes:
   link: ons-aanbod.md
   text: 'Een dag, een weekend of 5 dagen: welke vormen van stilte-retraite bieden
     wij aan? '
-  icon: "\tfa fa-handshake-o"
+  icon: "\tfa fa-coffee"
 - title: Ervaringen
   link: ervaringen.md
   icon: "\tfa fa-commenting"
