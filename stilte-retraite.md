@@ -35,7 +35,7 @@ icon_boxes:
   icon: "\tfa fa-handshake-o"
 - title: Ervaringen
   link: ervaringen.md
-  icon: fas fa-smile
+  icon: "\tfa fa-commenting"
   text: Deelnemers koesteren warme herinneringen aan hun deelname(s) en daar zijn
     wij trots op!
 template: overview
