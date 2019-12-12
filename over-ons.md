@@ -11,7 +11,7 @@ icon_boxes:
   link: robbert-van-bruggen.md
   text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
     medestanders. Gezamenlijk spannen zij zich in voor een ''Ineenhutjeopdehei 2.0''  '
-  icon: fas fa-user
+  icon: "\tfa fa-user-plus"
 - title: Wat wij beogen
   link: wat-wij-beogen.md
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
