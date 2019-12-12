@@ -21,7 +21,7 @@ icon_boxes:
   link: locaties.md
   text: Voor ons retraiteaanbod maken we gebruik van verschillende locaties, met ieder
     zijn unieke sfeer en charme. Lees hier meer!
-  icon: fas fa-users
+  icon: fa fa-university
 template: ''
 menu:
   navigation:
