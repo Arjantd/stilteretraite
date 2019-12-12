@@ -27,7 +27,7 @@ icon_boxes:
   link: wat-vraagt-het.md
   text: Waar moet je zoal bij stilstaan voordat je aan een retraite gaat deelnemen?
     Welke voorbereidingen moet je treffen?
-  icon: "\tfa fa-puzzle-piece"
+  icon: fa fa-question-circle
 - title: Ons aanbod
   link: ons-aanbod.md
   text: 'Een dag, een weekend of 5 dagen: welke vormen van stilte-retraite bieden
