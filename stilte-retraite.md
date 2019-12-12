@@ -17,7 +17,7 @@ icon_boxes:
   link: _videos/Wat gebeurt er tijdens een retraite?.md
   text: 'Wat brengt een retraite jou? Dat is voor iedereen anders. Lees hier meer
     wat de stilte met je doet. '
-  icon: "\tfa fa-question-circle"
+  icon: fa fa-gears
 - title: Voor wie?
   link: voor-wie-is-het.md
   text: Is een stilte-retraite wel iets voor mij? Een vaak gestelde vraag! Lees er
