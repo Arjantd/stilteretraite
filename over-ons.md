@@ -16,7 +16,7 @@ icon_boxes:
   link: wat-wij-beogen.md
   text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
     het goed op de overzichtspagina past.
-  icon: fa fa-smile-o
+  icon: "\tfa fa-thumbs-up"
 - title: Locaties
   link: locaties.md
   text: Voor ons retraiteaanbod maken we gebruik van verschillende locaties, met ieder
