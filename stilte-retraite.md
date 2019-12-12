@@ -12,7 +12,7 @@ icon_boxes:
   link: wat-is-retraite.md
   text: Het retraite-proces geeft ruimte aan gedachten, beelden, gevoel, sensatie,
     inspiratie, inzichten.
-  icon: "\tfa fa-heart"
+  icon: "\tfa fa-child"
 - title: Wat doet het?
   link: _videos/Wat gebeurt er tijdens een retraite?.md
   text: 'Wat brengt een retraite jou? Dat is voor iedereen anders. Lees hier meer
