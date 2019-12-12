@@ -100,9 +100,9 @@ sections:
       text: Bekijk onze locaties
     image: https://static.stilteretraite.nl/uploads/Home-widget-locaties.jpg
     title: Voor ons retraiteaanbod maken we gebruik van verschillende locaties
-    text: De plek waar je aan een stilte-retraite deelneemt kleurt je ervaring. De
-      retraites die wij aanbieden vinden plaats op verschillende mooie locaties, ieder
-      met een unieke sfeer en charme.
+    text: De plek waar je aan een stilte retraite deelneemt kleurt je ervaring. Onze
+      retraites vinden plaats op verschillende mooie locaties, ieder met een eigen
+      sfeer en charme.
 - name: Neem contact op voor vragen
   background: ''
   blocks:
