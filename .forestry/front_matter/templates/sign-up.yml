@@ -20,6 +20,16 @@ fields:
   config:
     min: 
     max: 
+- name: script
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Script
+  hidden: true
 - name: layout
   type: text
   config:
