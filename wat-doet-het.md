@@ -1,16 +1,16 @@
 ---
-layout: page-centered-content
-title: Wat doet het
+layout: page
+title: Wat doet het?
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
+description: ''
 menu:
   navigation:
     weight: 3
     parent: _stilte_retraite
-    title: Wat doet het?
     identifier: item_7ty6DCB
 
 ---
-# WAT DOET RETRAITE
+# Wat doet retraite?
 
 Een stilte-retraite is de meest intieme ontmoeting met jezelf. In jouw overgave aan ‘niet-weten’ en de volledige aanvaarding van wat zich ook maar zal aandienen, wordt je je gewaar van wat je bent voorbij al je prachtige ik-verhalen, je innerlijke curriculum vitae, waarmee je rechtvaardigt wat je doet. Je ontmoet wat je verstopt had achter de verhalen en dat gezien wil worden, zodat het kan transformeren. Een stilte-retraite werkt als een reiniging, die helemaal vanzelf op gang komt.
 
