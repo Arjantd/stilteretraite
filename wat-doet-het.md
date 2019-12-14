@@ -3,6 +3,7 @@ layout: page-centered-content
 title: Wat doet het?
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: ''
+show_pager: true
 menu:
   navigation:
     weight: 3
