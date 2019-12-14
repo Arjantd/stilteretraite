@@ -14,35 +14,9 @@ fields:
     schema:
       format: markdown
   label: Description
-- name: pager
-  type: field_group
-  config: {}
-  fields:
-  - name: previous_page
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: 
-        file: 
-        path: 
-    label: Previous page
-  - name: next_page
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: 
-        file: 
-        path: 
-    label: Next page
-  label: Pager
+- name: show_pager
+  type: boolean
+  label: Show pager
 - type: text
   name: layout
   label: Layout
