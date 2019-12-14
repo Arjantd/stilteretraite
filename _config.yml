@@ -19,12 +19,16 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+    permalink: "/posts/:path/"
   events:
     output: true
+    permalink: "/events/:path/"
   locations:
     output: true
+    permalink: "/locations/:path/"
   videos:
     output: true
+    permalink: "/videos/:path/"
   projects:
     output: true
     permalink: "/projects/:path/"
