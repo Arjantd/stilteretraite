@@ -1,7 +1,8 @@
 ---
-layout: page-centered-content
+layout: page
 title: Wat is retraite?
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
+description: ''
 menu:
   navigation:
     weight: 2
