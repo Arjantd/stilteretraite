@@ -10,7 +10,7 @@
       <option value=""></option>
       {% for event in site.events %}
       {% assign location = site.locations | where:"path", event.location | first %}
-      <option value="{{ event.from_date | date_to_string }} - {{ event.title }} - {{ location.title }}">{{ event.from_date | date_to_string }} - {{ event.title }} - {{ location.title }}</option>
+      <option value="{{ event.url }}">{{ event.from_date | date_to_string }} - {{ event.title }} - {{ location.title }}</option>
       {% endfor %}
     </select>
 {% endcase %}

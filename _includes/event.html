@@ -8,8 +8,8 @@
             <span class="month">{% assign m = include.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
             <span class="year">{{ include.from_date | date: '%Y' }}</span>
         </span>
-            <span class="meta-data">{{ include.from_date | date_to_string }} - {{ include.to_date | date_to_string }}</span>
-        <a href="#" class="btn btn-primary btn-event-single-book">Aanmelden</a>
+        <span class="meta-data">{{ include.from_date | date_to_string }} - {{ include.to_date | date_to_string }}</span>
+        <a href="{{ "/aanmelden-voor-retraite/" | absolute_url | append: "?event=" | append: page.url }}" class="btn btn-primary btn-event-single-book">Aanmelden</a>
       </div>
     <div class="col-md-6 col-sm-6">
         <ul class="list-group">

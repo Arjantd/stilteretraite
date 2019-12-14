@@ -29,5 +29,13 @@ blocks:
     label: ''
     options: []
   action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendsignupform
+  script: "<script>
+$(() => {
+  let event = getUrlParameter('event');
+>>>>>>> Added event select
 
+  $('select[name=event]').val(event);
+  $('input[name=name]').focus();
+});
+</script>"
 ---
