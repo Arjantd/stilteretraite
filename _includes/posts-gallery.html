@@ -3,7 +3,7 @@
     <li class="col-md-4 col-sm-6 grid-item blog-grid-item format-standard">
         <div class="grid-item-inner">
             <a href="{{ post.url | absolute_url }}" class="media-box">
-                <img src="{{ post.banner_image | resized_image_url: "367x245" }}" alt="">
+                <img src="{{ post.banner_image | resized_image_url: "367x245" }}" width="367" height="245" alt="">
             </a>
             <div class="grid-item-content">
                 <h3 class="post-title"><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h3>

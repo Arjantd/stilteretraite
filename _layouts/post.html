@@ -27,7 +27,7 @@ layout: page
                 {% assign post = site.posts | where:"path", item | first %}
                 <li>
                   <a href="{{ post.url | absolute_url }}" class="media-box">
-                    <img src="{{ post.banner_image | absolute_url }}" alt="">
+                    <img src="{{ post.banner_image | resized_image_url: "70x47" }}" width="70" height="47" alt="{{ post.title}}">
                   </a>
                   <h5><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h5>
                   <span class="meta-data grid-item-meta">Posted on {{ post.date | date_to_string }}</span>
