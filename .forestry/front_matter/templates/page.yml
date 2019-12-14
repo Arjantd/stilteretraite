@@ -20,6 +20,7 @@ fields:
   default: page
   hidden: true
 pages:
+- ons-aanbod.md
 - over-retraite.md
 - voor-wie-is-het.md
 - wat-doet-het.md
