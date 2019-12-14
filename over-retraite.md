@@ -7,6 +7,9 @@ hero_slider: []
 featured_links: []
 sections: []
 description: ''
+pager:
+  previous_page: ''
+  next_page: wat-is-retraite.md
 menu:
   navigation:
     weight: 1
