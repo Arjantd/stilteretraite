@@ -102,8 +102,8 @@ fields:
   hidden: true
   default: event
 pages:
-- _events/stille-dag.md
-- _events/retreat-your-senses.md
 - _events/back-to-nature-retraite.md
-- _events/retreat-je-hart.md
 - _events/retreat-je-hart-1.md
+- _events/retreat-je-hart.md
+- _events/retreat-your-senses.md
+- _events/stille-dag.md
