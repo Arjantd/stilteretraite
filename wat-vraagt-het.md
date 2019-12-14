@@ -2,10 +2,12 @@
 layout: page
 title: Wat vraagt het?
 image: ''
+description: ''
 menu:
   navigation:
     weight: 5
     parent: _stilte_retraite
+    identifier: item_1JQv7pW
 
 ---
 # Op retraite gaan vraagt lef. 
