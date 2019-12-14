@@ -2,6 +2,7 @@
 layout: page-centered-content
 title: Wat vraagt het?
 description: ''
+show_pager: true
 menu:
   navigation:
     weight: 5
