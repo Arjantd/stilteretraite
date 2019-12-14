@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-centered-content
 title: Wat doet het?
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: ''

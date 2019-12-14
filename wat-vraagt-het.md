@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page-centered-content
 title: Wat vraagt het?
-image: ''
 description: ''
 menu:
   navigation:

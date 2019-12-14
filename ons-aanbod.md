@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: page-centered-content
 title: Ons aanbod
-image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: ''
 menu:
   navigation:

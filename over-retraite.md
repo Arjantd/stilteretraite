@@ -1,15 +1,8 @@
 ---
-layout: page
+layout: page-centered-content
 title: Over retraite
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
-textline: ''
-hero_slider: []
-featured_links: []
-sections: []
 description: ''
-pager:
-  previous_page: ''
-  next_page: wat-is-retraite.md
 show_pager: true
 menu:
   navigation:
