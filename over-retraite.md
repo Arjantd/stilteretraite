@@ -10,6 +10,7 @@ description: ''
 pager:
   previous_page: ''
   next_page: wat-is-retraite.md
+show_pager: true
 menu:
   navigation:
     weight: 1
