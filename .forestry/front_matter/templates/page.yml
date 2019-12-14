@@ -14,9 +14,6 @@ fields:
     schema:
       format: markdown
   label: Description
-- type: file
-  name: image
-  label: Image
 - type: text
   name: layout
   label: Layout
