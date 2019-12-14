@@ -20,7 +20,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  default: page
+  default: page-centered-content
   hidden: true
 pages:
 - ons-aanbod.md
