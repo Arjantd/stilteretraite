@@ -28,6 +28,6 @@ blocks:
     type: E-mail
     label: ''
     options: []
-  action: ''
+  action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendsignupform
 
 ---
