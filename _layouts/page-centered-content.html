@@ -12,6 +12,22 @@ layout: default
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     {{ content }}
+                    {% if page.show_pager %}
+                    <ul class="pager">
+
+                        {% assign prev_weight = page.menu.navigation.weight | minus: 1 %}
+                        {% assign prev_nav_item = site.menus.navigation | where:"parent", page.menu.navigation.parent | where:"weight", prev_weight | first %}
+                        {% if prev_nav_item %}
+                        <li class="pull-left"><a href="{{ prev_nav_item.url | absolute_url }}">&larr;  {{ prev_nav_item.title }}</a></li>
+                        {% endif %}
+
+                        {% assign next_weight = page.menu.navigation.weight | plus: 1 %}
+                        {% assign next_nav_item = site.menus.navigation | where:"parent", page.menu.navigation.parent | where:"weight", next_weight | first %}
+                        {% if next_nav_item %}
+                        <li class="pull-right"><a href="{{ next_nav_item.url | absolute_url }}">{{ next_nav_item.title }} &rarr;</a></li>
+                        {% endif %}
+                    </ul>
+                    {% endif %}
                 </div>
             </div>
         </div>
