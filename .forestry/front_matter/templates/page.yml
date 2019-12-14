@@ -3,11 +3,13 @@ label: page
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
-  label: title
+  label: Title
 - type: file
   name: image
-  label: image
+  label: Image
+- type: text
+  name: layout
+  label: Layout
+  default: page
+  hidden: true
