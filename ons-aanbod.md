@@ -2,6 +2,7 @@
 layout: page-centered-content
 title: Ons aanbod
 description: ''
+show_pager: true
 menu:
   navigation:
     weight: 6
