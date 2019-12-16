@@ -10,6 +10,11 @@ blocks:
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
   name: sign-up
   controls:
+  - type: Text area
+    name: Vraag of opmerking
+    label: ''
+    placeholder: ''
+    required: false
   - name: event
     label: ''
     placeholder: Evenement
@@ -29,11 +34,7 @@ blocks:
     label: ''
     options: []
   action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendsignupform
-script: "<script>
-$(() => {
-  let event = getUrlParameter('event');
-  $('select[name=event]').val(event);
-  $('input[name=name]').focus();
-});
-</script>"
+script: "<script> $(() => { let event = getUrlParameter('event'); $('select[name=event]').val(event);
+  $('input[name=name]').focus(); }); </script>"
+
 ---
