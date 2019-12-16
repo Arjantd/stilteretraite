@@ -85,8 +85,8 @@ sections:
   background: ''
   blocks:
   - template: centered-header-text
-    text: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ is een
-      stilte retraite het grootste geschenk dat we onszelf kunnen geven.
+    text: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ is een stilte
+      retraite het grootste geschenk dat je jezelf kunt geven.
   padding: ''
 - name: Locaties
   background: ''
