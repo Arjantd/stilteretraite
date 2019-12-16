@@ -1254,8 +1254,10 @@ body.posts .site-header,
 body.post .site-header,
 body.videos .site-header,
 body.video .site-header,
-body.testimonials .site-header {
-	-webkit-transition: background .3s .2s, box-shadow .3s .2s;
+body.testimonials .site-header,
+body.team .site-header,
+body.locations .site-header {
+			-webkit-transition: background .3s .2s, box-shadow .3s .2s;
 	-moz-transition: background .3s .2s, box-shadow .3s .2s;
 	-ms-transition: background .3s .2s, box-shadow .3s .2s;
 	-o-transition: background .3s .2s, box-shadow .3s .2s;
@@ -2273,8 +2275,6 @@ body.testimonials .site-header {
 }
 .grid-staff-item-compact .grid-item-inner{
 	border:0;
-}
-.grid-staff-item-compact .media-box{
 }
 .grid-staff-item-compact .grid-item-content h3{
 	font-size:15px;
