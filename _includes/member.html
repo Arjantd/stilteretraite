@@ -1,16 +1,10 @@
 <div class="grid-item grid-staff-item">
     <div class="grid-item-inner">
-        <div class="media-box"><a href="{{ include.url }}"><img src="{{ include.thumbnail | resized_image_url: "358x238" }}" width="358" height="238" alt="{{ include.title }}"></a></div>
+        <div class="media-box">{% if include.link_to_details %}<a href="{{ include.url }}">{% endif %}<img src="{{ include.thumbnail | resized_image_url: "358x238" }}" width="358" height="238" alt="{{ include.title }}">{% if include.link_to_details %}</a>{% endif %}</div>
         <div class="grid-item-content">
-        <a href="{{ include.url }}"><h3>{{ include.title }}</h3></a>
+            {% if include.link_to_details %}<a href="{{ include.url }}">{% endif %}<h3>{{ include.title }}</h3>{% if include.link_to_details %}</a>{% endif %}
         <span class="meta-data">{{ include.sub_heading }}</span>
-        <ul class="social-icons-rounded social-icons-colored">
-            <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li class="googleplus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-            <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></li>
-        </ul>
-        <p>{{ include.content }}</p>
+        <p>{{ include.description }}</p>
         </div>
     </div>
 </div>

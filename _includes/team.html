@@ -3,7 +3,7 @@
     {% for include_member in include.members %}
     {% assign member = site.people | where:"path", include_member | first %}
     <div class="col-md-4 col-sm-4">
-        {% include member.html url=member.url thumbnail=member.thumbnail title=member.title sub_heading=member.sub_heading content=member.content %}
+        {% include member.html url=member.url thumbnail=member.thumbnail title=member.title sub_heading=member.sub_heading description=member.description link_to_details=member.link_to_details %}
     </div>
     {% endfor %}
 </div>
