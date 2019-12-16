@@ -19,7 +19,7 @@ blocks:
   - type: Text area
     name: Vraag of opmerking
     label: ''
-    placeholder: ''
+    placeholder: Vraag of opmerking
     required: false
   - name: name
     label: ''
