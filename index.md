@@ -18,7 +18,7 @@ hero_slider:
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons: []
 - image: https://static.stilteretraite.nl/uploads/Home - Banner 4.jpg
-  title: Ssst
+  title: Stilteretraite.nl
   sub_heading: ''
   buttons: []
 featured_links:
