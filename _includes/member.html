@@ -5,6 +5,7 @@
             {% if include.link_to_details %}<a href="{{ include.url }}">{% endif %}<h3>{{ include.title }}</h3>{% if include.link_to_details %}</a>{% endif %}
         <span class="meta-data">{{ include.sub_heading }}</span>
         <p>{{ include.description }}</p>
+        {% if include.link_to_details %}<a href="{{ include.url }}" class="btn btn-primary">Lees meer</a>{% endif %}
         </div>
     </div>
 </div>
