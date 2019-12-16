@@ -1256,8 +1256,9 @@ body.videos .site-header,
 body.video .site-header,
 body.testimonials .site-header,
 body.team .site-header,
-body.locations .site-header {
-			-webkit-transition: background .3s .2s, box-shadow .3s .2s;
+body.locations .site-header,
+body.member .site-header {
+	-webkit-transition: background .3s .2s, box-shadow .3s .2s;
 	-moz-transition: background .3s .2s, box-shadow .3s .2s;
 	-ms-transition: background .3s .2s, box-shadow .3s .2s;
 	-o-transition: background .3s .2s, box-shadow .3s .2s;

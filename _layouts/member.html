@@ -6,5 +6,8 @@ layout: page
 {% endcomment %}
 
 <div class="container">
-{% include member.html thumbnail=page.thumbnail title=page.title sub_heading=page.sub_heading page=member.content %}
+	<h3>{{ page.title }}</h3>
+	<img src="{{ page.thumbnail | resized_image_url: "750x500" }}" width="750" height="500" alt="{{ post.title }}">
+	<div class="spacer-20"></div>
+	{{ page.content }}
 </div>
