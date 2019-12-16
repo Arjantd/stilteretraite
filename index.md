@@ -20,7 +20,9 @@ hero_slider:
 - image: https://static.stilteretraite.nl/uploads/Home - Banner 4.jpg
   title: Stilteretraite.nl
   sub_heading: ''
-  buttons: []
+  buttons:
+  - text: Contact ons!
+    link: contact.md
 featured_links:
 - link: stilte-retraite.md
   small_text: Alles wat je weten wil over
