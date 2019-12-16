@@ -4,9 +4,8 @@ layout: landing-page
 hero_slider:
 - image: https://static.stilteretraite.nl/uploads/Home - Banner 1.jpg
   title: In stilte openbaart zich het ware verlangen
-  sub_heading: In een tijd waarin we vaak het gevoel hebben ‘geleefd te worden’ door
-    onze agenda’s is een stilte retraite het grootste geschenk dat we onszelf kunnen
-    geven.
+  sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
+    je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons: []
 - image: https://static.stilteretraite.nl/uploads/Home - banner 3a.jpg
   title: In stilte openbaart zich het ware verlangen
