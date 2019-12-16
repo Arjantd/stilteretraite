@@ -13,6 +13,7 @@ description: Robbert van Bruggen (MA) is begeleidingskundige en docent aan de ma
   begeleidingskunde en specialist in het in beweging brengen van identificatie met
   taaie patronen in organisaties. Hij doet promotie onderzoek naar de bevrijding van
   het subjectieve hart in een door rationaliteit gedomineerde maatschappij.
+link_to_details: true
 
 ---
 Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master begeleidingskunde en specialist in het in beweging brengen van identificatie met taaie patronen in organisaties. Hij doet promotie onderzoek naar de bevrijding van het subjectieve hart in een door rationaliteit gedomineerde maatschappij.
