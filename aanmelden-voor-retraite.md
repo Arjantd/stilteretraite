@@ -10,17 +10,17 @@ blocks:
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
   name: sign-up
   controls:
-  - type: Text area
-    name: Vraag of opmerking
-    label: ''
-    placeholder: ''
-    required: false
   - name: event
     label: ''
     placeholder: Evenement
     required: true
     type: Event select
     options: []
+  - type: Text area
+    name: Vraag of opmerking
+    label: ''
+    placeholder: ''
+    required: false
   - name: name
     label: ''
     required: true
