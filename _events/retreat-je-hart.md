@@ -4,7 +4,7 @@ sub_heading: Vijfdaagse stilte retraite
 from_date: 2020-04-01 16:00:00 +0200
 to_date: 2020-04-05 15:00:00 +0200
 attendees: 12
-location: _locations/natuurcamping-sallandse-heuvelrug.md
+location: _locations/besloten-veluws-landgoed.md
 layout: event
 price: '695.00'
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg

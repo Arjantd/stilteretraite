@@ -1,5 +1,5 @@
 ---
-location: _locations/natuurcamping-sallandse-heuvelrug.md
+location: _locations/besloten-veluws-landgoed.md
 attendees: 12
 layout: event
 title: Retreat je hart!
