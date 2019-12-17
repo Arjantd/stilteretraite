@@ -1,7 +1,7 @@
 ---
 layout: sign-up
 title: Aanmelden voor retraite
-image: https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg
+image: https://static.stilteretraite.nl/uploads/Home - Banner 4.jpg
 blocks:
 - template: form
   submit_button_text: Verstuur
