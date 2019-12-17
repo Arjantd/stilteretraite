@@ -1,11 +1,11 @@
 ---
 title: Besloten Veluws landgoed
 layout: location
-description: "Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
+description: Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl
   te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe.
   De historische boerderij voorziet op beperkte schaal in stilte- en rustverblijf.
   Een 'back to nature' onderkomen, waar niets het omliggende bosgebied en haar bewoners
-  verstoort.  \n**LEES MEER**"
+  verstoort.
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
