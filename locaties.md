@@ -5,7 +5,7 @@ members: []
 locations:
 - _locations/natuurcamping-sallandse-heuvelrug.md
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
-- _locations/besloten-veluws-landgoed.md
+- _locations/emmausklooster-in-velp.md
 menu:
   navigation:
     weight: 3
