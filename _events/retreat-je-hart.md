@@ -1,12 +1,12 @@
 ---
 title: Retreat je hart!
 sub_heading: Vijfdaagse stilte retraite
-from_date: 2019-10-23T14:00:00.000+00:00
-to_date: 2019-10-27T14:00:00.000+00:00
+from_date: 2020-04-01 16:00:00 +0200
+to_date: 2020-04-05 15:00:00 +0200
 attendees: 12
 location: _locations/natuurcamping-sallandse-heuvelrug.md
 layout: event
-price: '595.00'
+price: '695.00'
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
