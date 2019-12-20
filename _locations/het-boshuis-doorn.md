@@ -7,13 +7,14 @@ description: De Stilte retraite (introductie)dag vindt plaats op een prachtige l
   op Landgoed Beukenrode in Doorn, op de Utrechtse Heuvelrug. Omringd door bossen
   en vogelgeluiden ben je hier in een rustige en inspirerende omgeving.
 gallery:
+- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
+- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-2.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-3.jpg
+- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-4.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-8.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-7.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-6.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-5.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-4.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-3.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
 
 ---
 # Het Boshuis
