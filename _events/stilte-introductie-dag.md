@@ -3,7 +3,7 @@ location: _locations/het-boshuis-doorn.md
 attendees: 12
 category: 1-day
 layout: event
-title: 'Stilte (introductie) dag '
+title: 'Stilte retraite (introductie) dag '
 image: https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
 lead_text: 'Een vrijdag in stilte, als eiland van bezinning, om kennis te maken met
   het concept ''stilte-retraite''. Iets voor jou?  '
