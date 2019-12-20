@@ -13,6 +13,5 @@ lead_text: Nieuw in ons aanbod is een 'Weekend-retraite', waarbij we een weekend
   zijn we dicht bij de natuur.
 length_of_time: weekend
 category: weekend
-published: false
 
 ---
