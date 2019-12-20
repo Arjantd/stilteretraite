@@ -19,7 +19,7 @@ published: false
 ---
 # Het Boshuis
 
-> Een bijzondere vergaderlocatie en ontmoetingsruimte in het midden van het land!
+Een bijzondere vergaderlocatie en ontmoetingsruimte in het midden van het land!
 
 Deze prachtige locatie ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heuvelrug. Omringd door bossen en vogelgeluiden ben je hier in een rustige en inspirerende omgeving, waar je ook heerlijk kunt wandelen of buiten kunt werken in het open veld, in het bos of bij het water. Bezoekers komen vaak al tot rust nog voordat ze de drempel over zijn.
 
