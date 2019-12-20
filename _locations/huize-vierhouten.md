@@ -22,6 +22,5 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-13.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-11.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-10.jpg
-published: false
 
 ---
