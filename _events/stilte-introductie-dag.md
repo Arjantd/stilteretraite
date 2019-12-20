@@ -4,11 +4,11 @@ attendees: 12
 category: 1-day
 layout: event
 title: 'Stilte (introductie) dag '
-image: https://static.stilteretraite.nl/uploads/Locatie-boshuis-doorn-stilte dag.jpg
+image: https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
 lead_text: 'Een vrijdag in stilte, als eiland van bezinning, om kennis te maken met
   het concept ''stilte-retraite''. Iets voor jou?  '
-from_date: 2020-01-24 21:00:00 +0100
-to_date: 2020-01-24 17:00:00 +0100
+from_date: 2020-05-01 21:00:00 +0200
+to_date: 2020-05-01 17:00:00 +0200
 length_of_time: 1 dag
 price: 89
 published: false
