@@ -17,8 +17,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-5.jpg
 
 ---
-# Het Boshuis
-
 Een bijzondere vergaderlocatie en ontmoetingsruimte in het midden van het land!
 
 Deze prachtige locatie ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heuvelrug. Omringd door bossen en vogelgeluiden ben je hier in een rustige en inspirerende omgeving, waar je ook heerlijk kunt wandelen of buiten kunt werken in het open veld, in het bos of bij het water. Bezoekers komen vaak al tot rust nog voordat ze de drempel over zijn.
@@ -40,8 +38,8 @@ In Doorn rijd je richting Driebergen (N225). Bij hectometerpaal 17,7 ga je recht
 
 Je kunt de auto gratis parkeren in het groen langs de weg.
 
-**Met het openbaar vervoer:  
-**_Met de trein:_  
+\**Met het openbaar vervoer:  
+\**_Met de trein:_  
 Uitstappen op station Driebergen-Zeist.  
 Daarna per (trein)taxi of buslijn 50/56 richting Doorn  
 Uitstappen bij halte Beukenlaan.
