@@ -11,6 +11,5 @@ from_date: 2020-05-01 21:00:00 +0200
 to_date: 2020-05-01 17:00:00 +0200
 length_of_time: 1 dag
 price: 89
-published: false
 
 ---
