@@ -14,7 +14,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-4.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-3.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
-published: false
 
 ---
 # Het Boshuis
