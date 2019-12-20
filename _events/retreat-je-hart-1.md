@@ -4,8 +4,8 @@ attendees: 12
 layout: event
 title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2019-12-10T23:00:00.000+00:00
-to_date: 2019-12-14T23:00:00.000+00:00
+from_date: 2020-03-11 17:00:00 +0100
+to_date: 2020-03-15 15:00:00 +0100
 price: '645.00'
 image: https://static.stilteretraite.nl/uploads/Event -grave2.jpg
 category: 5-days
@@ -18,8 +18,6 @@ lead_text: 'Retreat je Hart is een vierdaagse retraite waar max. 12 deelnemers z
 #### **In de stilte opent zich puur ervaren**
 
 > Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers.
->
-> ![](https://static.stilteretraite.nl/uploads/Event - retraite Italie 2.jpg)
 
 **Re-treat je hart!**
 
