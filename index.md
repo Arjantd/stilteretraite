@@ -29,7 +29,7 @@ featured_links:
   text: stilte retraite
 - link: events.md
   small_text: Overzicht komende retraites
-  text: agenda
+  text: Agenda
 - link: locaties.md
   small_text: Een fijne retraite plek
   text: Locaties
