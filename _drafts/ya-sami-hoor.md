@@ -2,7 +2,7 @@
 author: []
 categories: []
 layout: post
-title: Ya Sami - Hoor!
+title: Gedicht
 date: 2019-12-21 00:00:00 +0100
 lead_text: Ya Sami - Hoor!
 tags:
@@ -14,9 +14,6 @@ related_posts: []
 ---
 # Ya Sami - Hoor!
 
-## Gedicht
-
-  
 Hoor je hoe de wind knuffelt met de bomen
 
 hoe de sterren zachtjes dromen
