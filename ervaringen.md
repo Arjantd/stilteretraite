@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: In beweging gekomen
+  subtitle: RE-TREAT JE HART SEPT 2015
+  text: De eerste weken na de retraite waren wonderbaarlijk. Ik heb nooit beseft wat
+    een kabaal we om ons heen hebben. En ook hoe men onbewust elkander claimt. Ik
+    ben spontaan weer begonnen met het avondeten koken. Ik ben nu weer in staat om
+    met aandacht mijn boodschappen te doen en de rust om het eten te koken. Wel heb
+    ik ontdekt dat bij toenemende stress dit meteen onder druk komt te staan. Tevens
+    heb ik sinds september nauwelijks meer mijn televisie aan staan. Ik ga mijn abonnement
+    opzeggen. Ik ben begonnen met zangles en "glas in lood" ramen maken. Beide wilde
+    ik eigenlijk al jaren proberen. Nu is het in beweging gekomen.
+  participant: Ellen K.
 - title: Ik constateerde dat ik mij geheeld en getroost voelde
   subtitle: RE-MEMBER! VELUWE 2017
   text: |-
