@@ -12,7 +12,7 @@ banner_image: https://static.stilteretraite.nl/uploads/Post 6 - Gedicht.jpg
 related_posts: []
 
 ---
-Gedicht:
+Gedicht van een deelnemer:
 
 # Ya Sami - Hoor!
 
