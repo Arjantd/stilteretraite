@@ -4,7 +4,7 @@ attendees: 12
 category: 1-day
 layout: event
 title: 'Stilte retraite (introductie) dag '
-image: https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-1.png
+image: https://static.stilteretraite.nl/uploads/Blog 6.jpg
 lead_text: 'Een vrijdag in stilte, als eiland van bezinning, om kennis te maken met
   het concept ''stilte-retraite''. Iets voor jou?  '
 from_date: 2020-05-01 21:00:00 +0200
