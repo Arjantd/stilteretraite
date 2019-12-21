@@ -12,8 +12,9 @@ banner_image: https://static.stilteretraite.nl/uploads/Post 6 - Gedicht.jpg
 related_posts: []
 
 ---
-#   
-Ya Sami - Hoor!
+Gedicht:
+
+# Ya Sami - Hoor!
 
 Hoor je hoe de wind knuffelt met de bomen
 
