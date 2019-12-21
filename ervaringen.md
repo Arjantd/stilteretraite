@@ -3,57 +3,6 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: 'Gedicht: Ya Sami - Hoor!'
-  subtitle: RE-TREAT YOUR SENSES 2016
-  text: |-
-    Hoor je hoe de wind knuffelt met de bomen
-
-    hoe de sterren zachtjes dromen
-
-    hoe de bomen ademen en zuchten
-
-    de hagedisjes ritselend vluchten
-
-    hoe de vogels kletsen met de opkomende maan
-
-    de kevers door de boomstam gaan
-
-    De golven die ontstaan door vleugelslagen
-
-    Houtwormen die het hour doorzagen
-
-    Druppels die kletsen tijdens het vallen
-
-    de explosie als ze op de rotsen knallen
-
-    en de boodschap dien het ritme van het pulseren
-
-    ons het geheim van het leven wil leren….
-  participant: Lenny Leppers, Hannover
-- title: Lekker afwisselend en voldoende tijd voor jezelf
-  subtitle: RE-TREAT JE HART NOV. 2017
-  text: "De eerste 2,5 dag merkte ik dat er heel veel gedachten door mijn hoofd gingen,
-    heel erg onrustig. Ik heb ook heel slecht geslapen omdat mijn hoofd zo druk was.
-    \ \nDat voelde overigens totaal niet storend, alsof het zo prima was en het zo
-    mocht zijn. Na 2,5 dag merkte ik, dat ik veel meer rust in mijn hoofd en in mijn
-    lijf had. Ik kon bijvoorbeeld heerlijk niks doen, lekker op een stoel voor het
-    raam zitten en naar buiten kijken, met een kopje thee en alleen maar waarnemen
-    wat er gebeurd.\n\nTijdens een sessie in de tuin heb intense ervaringen gehad
-    met bomen, de communicatie daarmee en haar energie.\n\nIk wil benadrukken dat
-    de retraite absoluut niet zweverig is en dat ikzelf ook een nuchter persoon daarin
-    ben maar wel heel kinesthetisch.\n\nDe retraite bevat zeer diverse meditaties,
-    sessies en activiteiten. Lekker afwisselend en voldoende tijd voor jezelf om bijvoorbeeld
-    te rusten of te wandelen.\n\nEen ander moment dat me is bijgebleven is tijdens
-    een sessie op zolder, waarin ik een enorm warm en liefdevol gevoel heb ontvangen
-    van de groep, erg fijn. Oh ja, en niet te vergeten, de boodschap die ik van mijn
-    Hart heb gekregen tijdens een sessie, wat heb ik daar om gelachen in positieve
-    zin, het was een hele fijne boodschap met veel humor.\n\nDe terugrit naar huis
-    vond ik zeer bijzonder, de zon scheen, een regenboog op de achtergrond, het gevoel
-    van vrijheid, leven en verwondering, het maakte me melancholisch en euforisch
-    tegelijk!\n\nDe eerste dagen na de retraite in alledaagse wereld heb ik als best
-    intens ervaren, ik was enorm sensitief en ervaarde een diep gevoel van rust en
-    het gevoel dat het oké is. Ik ben heel blij dat ik deze retraite heb gedaan!"
-  participant: Anoniem, Man, 31 jaar, Eindhoven, 29-11-2017
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART NOV. 2012
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
@@ -127,6 +76,57 @@ testimonials:
 
     Met de tools die we hebben geleerd tijdens de retraite, kan ik tot op de dag van vandaag vooruit; ik zoek de stilte in mezelf op, om mij bewust te worden van mijzelf, van mijn behoeften, mijn gevoelens. Ik ben dankbaar voor dit nieuwe bewustzijn. Ik ben dankbaar voor de gelegenheid die Robbert ons biedt, om met onszelf in het reine te komen, om geluk van binnenuit naar buiten te laten komen.
   participant: Annelies Lammers, beleidsmedewerker grote gemeente
+- title: Lekker afwisselend en voldoende tijd voor jezelf
+  subtitle: RE-TREAT JE HART NOV. 2017
+  text: "De eerste 2,5 dag merkte ik dat er heel veel gedachten door mijn hoofd gingen,
+    heel erg onrustig. Ik heb ook heel slecht geslapen omdat mijn hoofd zo druk was.
+    \ \nDat voelde overigens totaal niet storend, alsof het zo prima was en het zo
+    mocht zijn. Na 2,5 dag merkte ik, dat ik veel meer rust in mijn hoofd en in mijn
+    lijf had. Ik kon bijvoorbeeld heerlijk niks doen, lekker op een stoel voor het
+    raam zitten en naar buiten kijken, met een kopje thee en alleen maar waarnemen
+    wat er gebeurd.\n\nTijdens een sessie in de tuin heb intense ervaringen gehad
+    met bomen, de communicatie daarmee en haar energie.\n\nIk wil benadrukken dat
+    de retraite absoluut niet zweverig is en dat ikzelf ook een nuchter persoon daarin
+    ben maar wel heel kinesthetisch.\n\nDe retraite bevat zeer diverse meditaties,
+    sessies en activiteiten. Lekker afwisselend en voldoende tijd voor jezelf om bijvoorbeeld
+    te rusten of te wandelen.\n\nEen ander moment dat me is bijgebleven is tijdens
+    een sessie op zolder, waarin ik een enorm warm en liefdevol gevoel heb ontvangen
+    van de groep, erg fijn. Oh ja, en niet te vergeten, de boodschap die ik van mijn
+    Hart heb gekregen tijdens een sessie, wat heb ik daar om gelachen in positieve
+    zin, het was een hele fijne boodschap met veel humor.\n\nDe terugrit naar huis
+    vond ik zeer bijzonder, de zon scheen, een regenboog op de achtergrond, het gevoel
+    van vrijheid, leven en verwondering, het maakte me melancholisch en euforisch
+    tegelijk!\n\nDe eerste dagen na de retraite in alledaagse wereld heb ik als best
+    intens ervaren, ik was enorm sensitief en ervaarde een diep gevoel van rust en
+    het gevoel dat het oké is. Ik ben heel blij dat ik deze retraite heb gedaan!"
+  participant: Anoniem, Man, 31 jaar, Eindhoven, 29-11-2017
+- title: 'Gedicht: Ya Sami - Hoor!'
+  subtitle: RE-TREAT YOUR SENSES 2016
+  text: |-
+    Hoor je hoe de wind knuffelt met de bomen
+
+    hoe de sterren zachtjes dromen
+
+    hoe de bomen ademen en zuchten
+
+    de hagedisjes ritselend vluchten
+
+    hoe de vogels kletsen met de opkomende maan
+
+    de kevers door de boomstam gaan
+
+    De golven die ontstaan door vleugelslagen
+
+    Houtwormen die het hour doorzagen
+
+    Druppels die kletsen tijdens het vallen
+
+    de explosie als ze op de rotsen knallen
+
+    en de boodschap dien het ritme van het pulseren
+
+    ons het geheim van het leven wil leren….
+  participant: Lenny Leppers, Hannover
 - title: Er borrelde al een tijdje iets
   subtitle: 'RE-TREAT JE HART   Oktober 2019  '
   text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
