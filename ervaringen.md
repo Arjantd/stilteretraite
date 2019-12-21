@@ -3,6 +3,15 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Retraite, ik had er in een keer zo'n behoefte aan
+  subtitle: RE-TREAT JE HART 3-7 FEBR 2016
+  text: "Retraite, ik had er in een keer zo'n behoefte aan.  \nAlleen de stilte leek
+    me eng, de tweede dag greep me dit ook behoorlijk naar de keel. Mijn lichaam wilde
+    zich uiten, kabaal maken.  \nMooie, soms emotionele momenten beleefd en dat was
+    ok.  \nHet was fijn, een cadeau aan mezelf, iets om te koesteren en zeker vaker
+    te doen.  \nDe stilte opzoeken is iets wat ik nog regelmatig probeer te doen.
+    En teruggaan naar in een hutje op de hei, dat heb ik mezelf alvast beloofd."
+  participant: Rachel
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART NOV. 2012
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
