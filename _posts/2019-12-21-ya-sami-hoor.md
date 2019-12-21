@@ -38,6 +38,7 @@ de explosie als ze op de rotsen knallen
 
 en de boodschap dien het ritme van het pulseren
 
-ons het geheim van het leven wil leren….
+ons het geheim van het leven wil leren….  
+.
 
 ###### **Lenny Leppers, Hannover**
