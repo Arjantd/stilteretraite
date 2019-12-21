@@ -3,7 +3,7 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: 'Gedicht: Ya Sami - Hoor !'
+- title: 'Gedicht: Ya Sami - Hoor!'
   subtitle: RE-TREAT YOUR SENSES 2016
   text: |-
     Hoor je hoe de wind knuffelt met de bomen
