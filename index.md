@@ -31,8 +31,8 @@ featured_links:
   small_text: Overzicht komende retraites
   text: agenda
 - link: locaties.md
-  small_text: De plek kleurt je ervaring
-  text: Retraite locaties
+  small_text: Een fijne retraite plek
+  text: Locaties
 textline: ''
 image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
 sections:
