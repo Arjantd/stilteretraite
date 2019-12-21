@@ -3,6 +3,30 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Lekker afwisselend en voldoende tijd voor jezelf
+  subtitle: RE-TREAT JE HART NOV. 2017
+  text: "De eerste 2,5 dag merkte ik dat er heel veel gedachten door mijn hoofd gingen,
+    heel erg onrustig. Ik heb ook heel slecht geslapen omdat mijn hoofd zo druk was.
+    \ \nDat voelde overigens totaal niet storend, alsof het zo prima was en het zo
+    mocht zijn. Na 2,5 dag merkte ik, dat ik veel meer rust in mijn hoofd en in mijn
+    lijf had. Ik kon bijvoorbeeld heerlijk niks doen, lekker op een stoel voor het
+    raam zitten en naar buiten kijken, met een kopje thee en alleen maar waarnemen
+    wat er gebeurd.\n\nTijdens een sessie in de tuin heb intense ervaringen gehad
+    met bomen, de communicatie daarmee en haar energie.\n\nIk wil benadrukken dat
+    de retraite absoluut niet zweverig is en dat ikzelf ook een nuchter persoon daarin
+    ben maar wel heel kinesthetisch.\n\nDe retraite bevat zeer diverse meditaties,
+    sessies en activiteiten. Lekker afwisselend en voldoende tijd voor jezelf om bijvoorbeeld
+    te rusten of te wandelen.\n\nEen ander moment dat me is bijgebleven is tijdens
+    een sessie op zolder, waarin ik een enorm warm en liefdevol gevoel heb ontvangen
+    van de groep, erg fijn. Oh ja, en niet te vergeten, de boodschap die ik van mijn
+    Hart heb gekregen tijdens een sessie, wat heb ik daar om gelachen in positieve
+    zin, het was een hele fijne boodschap met veel humor.\n\nDe terugrit naar huis
+    vond ik zeer bijzonder, de zon scheen, een regenboog op de achtergrond, het gevoel
+    van vrijheid, leven en verwondering, het maakte me melancholisch en euforisch
+    tegelijk!\n\nDe eerste dagen na de retraite in alledaagse wereld heb ik als best
+    intens ervaren, ik was enorm sensitief en ervaarde een diep gevoel van rust en
+    het gevoel dat het oké is. Ik ben heel blij dat ik deze retraite heb gedaan!"
+  participant: Anoniem, Man, 31 jaar, Eindhoven, 29-11-2017
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART NOV. 2012
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
@@ -125,6 +149,17 @@ testimonials:
 
     Tijdens de retraite zag ik de gedachten voorbij komen, waaronder: wat ga ik de mensen vertellen hoe de retraite eigenlijk was? Ga ik vertellen over de lichten die ik heb gezien. Hoe ik mijzelf tijdens een meditatie kon opladen? De liefde die ik van groep voelde zonder enige aanraking? De schaamte tijdens de dans, maar daarna vooral het vrije gevoel van lekker bewegen? Alles bezien was het voor mij simpelweg bijzonder. En voel ik het voorrecht dit te hebben mogen meemaken. En mijzelf heb mogen verrijken met de ervaringen, beelden, muziek, kennis en liefde die Robbert heeft weten te brengen. Kortom, een stilte retraite is zo stil nog niet."
   participant: O.S. / Projectmanager
+- title: Mijn spelend kind
+  subtitle: RE-TREAT JE HART FEBRUARI 2018
+  text: |-
+    Ruim drie jaar geleden maakte ik een einde aan een liefdesrelatie die totaal niet goed voor mij was. De relatie heeft gemaakt dat ik mezelf op veel vlakken totaal kwijt geraakt ben. In de afgelopen drie jaar zat ik enorm in mijn hoofd. Wat is er gebeurd, wat is er van mij overgebleven, wie ben ik nu? Ik heb therapie gehad en ben bij coaches geweest, maar bij al deze hulp had ik iedere keer het gevoel dat dit niet was wat ik nodig had. Mijn hoofd wist alles wel, die kon alles goed relativeren.
+
+    Ik moest tot rust komen, uit mijn hoofd en weer mijn lijf in zakken. En dat is precies wat de retraite heeft gedaan! De stilte gaf mij de ruimte om echt weer in contact te komen met mijn authentieke ik. Toen ik die verbinding weer voelde, ik alle verwachtingen en dat wat ik dacht dat ik wilde kon loslaten, kwam datgene wat wilde komen naar boven. En dat was mijn spelend kind! Mijn spelend kind die ik langzaamaan kwijt geraakt was in mijn relatie. Mijn spelend kind die ik jaren niet gehoord, gezien en gevoeld heb. Dit was het! Dit was het ontbrekende stukje.
+
+    Ik heb me in jaren niet zo heel, rustig en vooral blij en gelukkig gevoeld. De verbinding met mezelf en met al dat is is hersteld. Wat vier dagen stilte al niet kan doen :-) Een mooier cadeau had ik mezelf niet kunnen geven.
+
+    Robbert, ik ben je enorm dankbaar. Wat doe jij een prachtig werk!
+  participant: F.
 - title: Retraite, ik had er in een keer zo'n behoefte aan
   subtitle: RE-TREAT JE HART 3-7 FEBR 2016
   text: "Retraite, ik had er in een keer zo'n behoefte aan.  \nAlleen de stilte leek
@@ -177,17 +212,6 @@ testimonials:
     aan.  \n\\- Doe ik het wel goed ?  \n\\- En oh als ik op de klankschaal sla, zijn
     alle ogen en oren op mij gericht. Doodeng."
   participant: Jeaninne
-- title: Mijn spelend kind
-  subtitle: RE-TREAT JE HART FEBRUARI 2018
-  text: |-
-    Ruim drie jaar geleden maakte ik een einde aan een liefdesrelatie die totaal niet goed voor mij was. De relatie heeft gemaakt dat ik mezelf op veel vlakken totaal kwijt geraakt ben. In de afgelopen drie jaar zat ik enorm in mijn hoofd. Wat is er gebeurd, wat is er van mij overgebleven, wie ben ik nu? Ik heb therapie gehad en ben bij coaches geweest, maar bij al deze hulp had ik iedere keer het gevoel dat dit niet was wat ik nodig had. Mijn hoofd wist alles wel, die kon alles goed relativeren.
-
-    Ik moest tot rust komen, uit mijn hoofd en weer mijn lijf in zakken. En dat is precies wat de retraite heeft gedaan! De stilte gaf mij de ruimte om echt weer in contact te komen met mijn authentieke ik. Toen ik die verbinding weer voelde, ik alle verwachtingen en dat wat ik dacht dat ik wilde kon loslaten, kwam datgene wat wilde komen naar boven. En dat was mijn spelend kind! Mijn spelend kind die ik langzaamaan kwijt geraakt was in mijn relatie. Mijn spelend kind die ik jaren niet gehoord, gezien en gevoeld heb. Dit was het! Dit was het ontbrekende stukje.
-
-    Ik heb me in jaren niet zo heel, rustig en vooral blij en gelukkig gevoeld. De verbinding met mezelf en met al dat is is hersteld. Wat vier dagen stilte al niet kan doen :-) Een mooier cadeau had ik mezelf niet kunnen geven.
-
-    Robbert, ik ben je enorm dankbaar. Wat doe jij een prachtig werk!
-  participant: F.
 - title: Geen religie maar een antwoord op mijn verlangen naar stilte
   subtitle: RE-TREAT JE HART NOV 2012
   text: Begin van september begon er iets te kriebelen, ik kreeg een verlangen om
