@@ -3,15 +3,6 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: Retraite, ik had er in een keer zo'n behoefte aan
-  subtitle: RE-TREAT JE HART 3-7 FEBR 2016
-  text: "Retraite, ik had er in een keer zo'n behoefte aan.  \nAlleen de stilte leek
-    me eng, de tweede dag greep me dit ook behoorlijk naar de keel. Mijn lichaam wilde
-    zich uiten, kabaal maken.  \nMooie, soms emotionele momenten beleefd en dat was
-    ok.  \nHet was fijn, een cadeau aan mezelf, iets om te koesteren en zeker vaker
-    te doen.  \nDe stilte opzoeken is iets wat ik nog regelmatig probeer te doen.
-    En teruggaan naar in een hutje op de hei, dat heb ik mezelf alvast beloofd."
-  participant: Rachel
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART NOV. 2012
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
@@ -45,24 +36,6 @@ testimonials:
     raad het echt aan!"
   participant: Karin A. (werkzaam in de geestelijke gezondheidszorg rond ontwikkeling
     & onderzoek)
-- title: Ik heb de stilte ervaren als warm en verwelkomend. Ik kon eindelijk in mezelf
-    duiken
-  subtitle: RE-TREAT JE HART - DEC. 2013
-  text: |-
-    De weken voorafgaand aan de retraite schreeuwden mijn lichaam en geest om Rust; alleen zijn, op mezelf zijn, even geen aandacht schenken aan een ander, om zodoende met mezelf in contact te komen. Voor het eerst van mijn leven voelde ik aan, dat ik moest gaan thuis komen bij mezelf, om zodoende verder te kunnen met de volgende stappen in mijn leven. De retraite bleek daarom een complete verademing en een kadootje voor mezelf.
-
-    Op het moment dat de stilte werd ingeluid, was de opluchting binnen de groep voelbaar; eindelijk tijd voor mezelf!
-
-    Ik heb de stilte ervaren als warm en verwelkomend. Ik kon eindelijk in mezelf duiken.
-
-    De begeleiding door Robbert was als vanzelfsprekend. Hij voelde altijd aan waar we als groep behoefte aan hadden, nog voor we het zelf wisten. Van de muziek die af en toe gedraaid werd heb ik enorm genoten. Die opende bij mij een deur in mijn binnenste waarvan ik niet wist dat die er zat.
-
-    De omgeving van Kadampa is een paradijsje op aarde en Kadampa zelf is een warm nestje, waar het eten met liefde wordt bereid.
-
-    Het proces waar ik reeds voor de retraite is zat, heeft verder vorm gekregen tijdens de retraite. Ik kreeg het inzicht dat het kooitje waarin ik me zo vaak opgesloten voel zitten, dat ik die zelf maak. Het is niet de buitenwereld die me iets aandoet; ik ben het. En ik realiseerde me dat het klepje altijd al open staat!
-
-    Met de tools die we hebben geleerd tijdens de retraite, kan ik tot op de dag van vandaag vooruit; ik zoek de stilte in mezelf op, om mij bewust te worden van mijzelf, van mijn behoeften, mijn gevoelens. Ik ben dankbaar voor dit nieuwe bewustzijn. Ik ben dankbaar voor de gelegenheid die Robbert ons biedt, om met onszelf in het reine te komen, om geluk van binnenuit naar buiten te laten komen.
-  participant: Annelies Lammers, beleidsmedewerker grote gemeente
 - title: In beweging gekomen
   subtitle: RE-TREAT JE HART SEPT 2015
   text: De eerste weken na de retraite waren wonderbaarlijk. Ik heb nooit beseft wat
@@ -85,6 +58,24 @@ testimonials:
 
     Aan het eind van deze retraite constateerde ik dat ik mij geheeld en getroost voelde en nu een maand verder voel ik dat nog steeds dus wat mij betreft zeker volgend jaar weer!
   participant: TO, groepsleerkracht basisonderwijs
+- title: Ik heb de stilte ervaren als warm en verwelkomend. Ik kon eindelijk in mezelf
+    duiken
+  subtitle: RE-TREAT JE HART - DEC. 2013
+  text: |-
+    De weken voorafgaand aan de retraite schreeuwden mijn lichaam en geest om Rust; alleen zijn, op mezelf zijn, even geen aandacht schenken aan een ander, om zodoende met mezelf in contact te komen. Voor het eerst van mijn leven voelde ik aan, dat ik moest gaan thuis komen bij mezelf, om zodoende verder te kunnen met de volgende stappen in mijn leven. De retraite bleek daarom een complete verademing en een kadootje voor mezelf.
+
+    Op het moment dat de stilte werd ingeluid, was de opluchting binnen de groep voelbaar; eindelijk tijd voor mezelf!
+
+    Ik heb de stilte ervaren als warm en verwelkomend. Ik kon eindelijk in mezelf duiken.
+
+    De begeleiding door Robbert was als vanzelfsprekend. Hij voelde altijd aan waar we als groep behoefte aan hadden, nog voor we het zelf wisten. Van de muziek die af en toe gedraaid werd heb ik enorm genoten. Die opende bij mij een deur in mijn binnenste waarvan ik niet wist dat die er zat.
+
+    De omgeving van Kadampa is een paradijsje op aarde en Kadampa zelf is een warm nestje, waar het eten met liefde wordt bereid.
+
+    Het proces waar ik reeds voor de retraite is zat, heeft verder vorm gekregen tijdens de retraite. Ik kreeg het inzicht dat het kooitje waarin ik me zo vaak opgesloten voel zitten, dat ik die zelf maak. Het is niet de buitenwereld die me iets aandoet; ik ben het. En ik realiseerde me dat het klepje altijd al open staat!
+
+    Met de tools die we hebben geleerd tijdens de retraite, kan ik tot op de dag van vandaag vooruit; ik zoek de stilte in mezelf op, om mij bewust te worden van mijzelf, van mijn behoeften, mijn gevoelens. Ik ben dankbaar voor dit nieuwe bewustzijn. Ik ben dankbaar voor de gelegenheid die Robbert ons biedt, om met onszelf in het reine te komen, om geluk van binnenuit naar buiten te laten komen.
+  participant: Annelies Lammers, beleidsmedewerker grote gemeente
 - title: Er borrelde al een tijdje iets
   subtitle: 'RE-TREAT JE HART   Oktober 2019  '
   text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
@@ -134,22 +125,15 @@ testimonials:
 
     Tijdens de retraite zag ik de gedachten voorbij komen, waaronder: wat ga ik de mensen vertellen hoe de retraite eigenlijk was? Ga ik vertellen over de lichten die ik heb gezien. Hoe ik mijzelf tijdens een meditatie kon opladen? De liefde die ik van groep voelde zonder enige aanraking? De schaamte tijdens de dans, maar daarna vooral het vrije gevoel van lekker bewegen? Alles bezien was het voor mij simpelweg bijzonder. En voel ik het voorrecht dit te hebben mogen meemaken. En mijzelf heb mogen verrijken met de ervaringen, beelden, muziek, kennis en liefde die Robbert heeft weten te brengen. Kortom, een stilte retraite is zo stil nog niet."
   participant: O.S. / Projectmanager
-- title: De natuur heb ik ervaren als sereen, haast verstild
-  subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
-  text: "1\\.  \nEerst was ik bang voor de stilte; geloofde niet dat ik die zou kunnen
-    (ver)dragen.   \nAlgauw voelde het \"stil zijn\" warm en veilig en leerde ik het
-    kennen als een krachtig leermiddel.  \nIk ontdekte meer de diepte van mijn verlangen.
-    \ \nNiet wat ik van tevoren had bedacht ontvouwde zich maar na een geleide meditatie,
-    tijdens de derde dag, kon ik mijn gevoel toelaten.   \nIk kreeg via een voorportaaltje
-    toegang tot mijn hart(senergie). Eerst snapte ik niks van de beelden en schrok
-    ik ervan maar geleidelijk aan drong de essentie tot mij door......  \n   \n2\\.
-    \ \nDe natuur heb ik ervaren als sereen, haast verstild.  \nDe verstilling in
-    combinatie met de loopmeditatie bracht mij in een sfeer van tijdloosheid.  \nDit
-    heeft me geholpen om werkelijk bij mijn innerlijke stilte te durven zijn.  \n
-    \  \n3\\.  \nTijdens een van de 'seva's' (taakjes) liep ik weer eens tegen mezelf
-    aan.  \n\\- Doe ik het wel goed ?  \n\\- En oh als ik op de klankschaal sla, zijn
-    alle ogen en oren op mij gericht. Doodeng."
-  participant: Jeaninne
+- title: Retraite, ik had er in een keer zo'n behoefte aan
+  subtitle: RE-TREAT JE HART 3-7 FEBR 2016
+  text: "Retraite, ik had er in een keer zo'n behoefte aan.  \nAlleen de stilte leek
+    me eng, de tweede dag greep me dit ook behoorlijk naar de keel. Mijn lichaam wilde
+    zich uiten, kabaal maken.  \nMooie, soms emotionele momenten beleefd en dat was
+    ok.  \nHet was fijn, een cadeau aan mezelf, iets om te koesteren en zeker vaker
+    te doen.  \nDe stilte opzoeken is iets wat ik nog regelmatig probeer te doen.
+    En teruggaan naar in een hutje op de hei, dat heb ik mezelf alvast beloofd."
+  participant: Rachel
 - title: Wat ik er van moest verwachten geen idee..
   subtitle: RE-TREAT JE HART - DEC 2013
   text: Op een punt beland in m'n leven dat ik soort van vastgelopen was vond ik het
@@ -177,6 +161,22 @@ testimonials:
     de stilte te zijn! En het afscheid aan het eind van de retraite was zo hart verwarmend,
     dat ik alle knuffels en warme woorden nu nog voel!"
   participant: 'Marjo Zwaneveld, 65-plusser: moeder en oma!'
+- title: De natuur heb ik ervaren als sereen, haast verstild
+  subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
+  text: "1\\.  \nEerst was ik bang voor de stilte; geloofde niet dat ik die zou kunnen
+    (ver)dragen.   \nAlgauw voelde het \"stil zijn\" warm en veilig en leerde ik het
+    kennen als een krachtig leermiddel.  \nIk ontdekte meer de diepte van mijn verlangen.
+    \ \nNiet wat ik van tevoren had bedacht ontvouwde zich maar na een geleide meditatie,
+    tijdens de derde dag, kon ik mijn gevoel toelaten.   \nIk kreeg via een voorportaaltje
+    toegang tot mijn hart(senergie). Eerst snapte ik niks van de beelden en schrok
+    ik ervan maar geleidelijk aan drong de essentie tot mij door......  \n   \n2\\.
+    \ \nDe natuur heb ik ervaren als sereen, haast verstild.  \nDe verstilling in
+    combinatie met de loopmeditatie bracht mij in een sfeer van tijdloosheid.  \nDit
+    heeft me geholpen om werkelijk bij mijn innerlijke stilte te durven zijn.  \n
+    \  \n3\\.  \nTijdens een van de 'seva's' (taakjes) liep ik weer eens tegen mezelf
+    aan.  \n\\- Doe ik het wel goed ?  \n\\- En oh als ik op de klankschaal sla, zijn
+    alle ogen en oren op mij gericht. Doodeng."
+  participant: Jeaninne
 - title: Mijn spelend kind
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: |-
