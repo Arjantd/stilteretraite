@@ -38,4 +38,4 @@ en de boodschap dien het ritme van het pulseren
 
 ons het geheim van het leven wil leren….
 
-**Lenny Leppers, Hannover**
+###### **Lenny Leppers, Hannover**
