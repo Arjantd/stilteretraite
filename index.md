@@ -26,7 +26,7 @@ hero_slider:
 featured_links:
 - link: stilte-retraite.md
   small_text: Alles wat je weten wil over
-  text: stilte retraite
+  text: Stilte retraite
 - link: events.md
   small_text: Overzicht komende retraites
   text: Agenda
