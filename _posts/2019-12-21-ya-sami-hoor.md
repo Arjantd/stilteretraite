@@ -30,7 +30,7 @@ de kevers door de boomstam gaan
 
 De golven die ontstaan door vleugelslagen
 
-Houtwormen die het hour doorzagen
+Houtwormen die het hout doorzagen
 
 Druppels die kletsen tijdens het vallen
 
