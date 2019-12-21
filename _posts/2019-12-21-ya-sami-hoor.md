@@ -2,7 +2,7 @@
 author: []
 categories: []
 layout: post
-title: Gedicht
+title: Gedicht van een deelnemer
 date: 2019-12-21 00:00:00 +0100
 lead_text: Ya Sami - Hoor!
 tags:
