@@ -38,6 +38,27 @@ fields:
   label: Layout
   hidden: true
   default: location
+- name: style
+  type: textarea
+  default: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+    />
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Style
+  hidden: true
+- name: script
+  type: textarea
+  default: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Script
+  hidden: true
 pages:
 - _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 - _locations/het-boshuis-doorn.md
