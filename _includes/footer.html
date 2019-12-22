@@ -38,7 +38,7 @@
             <div class="copyrights-col-right">
                 {% if site.menus.footer-bottom %}
                 <ul class="footer-menu">
-                    {% for link in site.menus.footer %}
+                    {% for link in site.menus.footer-bottom %}
                     <li><a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>{{ link.title }}</a>
                     {% endfor %}
                 </ul>
