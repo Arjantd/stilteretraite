@@ -683,3 +683,21 @@ let getUrlParameter = (sParam) => {
 			}
 	}
 };
+
+// Set Fancybox 3 defaults
+if ($.fancybox) {
+	$.fancybox.defaults.lang = "nl";
+	$.fancybox.defaults.i18n.nl = {
+		CLOSE: "Sluiten",
+		NEXT: "Volgende",
+		PREV: "Vorige",
+		ERROR: "De gevraagde inhoud kan niet worden geladen. <br/> Probeer het later opnieuw.",
+		PLAY_START: "Begin diavoorstelling",
+		PLAY_STOP: "Pauzeer diavoorstelling",
+		FULL_SCREEN: "Volledig scherm",
+		THUMBS: "miniatuurafbeeldings",
+		DOWNLOAD: "Download",
+		SHARE: "Deel",
+		ZOOM: "Inzoomen"
+	}
+}

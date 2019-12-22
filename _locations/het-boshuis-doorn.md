@@ -15,6 +15,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-7.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-6.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-5.jpg
+style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
 Een bijzondere vergaderlocatie en ontmoetingsruimte in het midden van het land!
