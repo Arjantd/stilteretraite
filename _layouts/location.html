@@ -1,15 +1,24 @@
 ---
-layout: page
+layout: default
 ---
 {% comment %}
 	This layout is used by the documents in the _locations/ collection
 {% endcomment %}
 
-<div class="container">
-    <h3>{{ page.title }}</h3>
-    <img src="{{ page.image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
-    <div class="spacer-20"></div>
-    {{ page.content }}
-    <div class="spacer-20"></div>
-    {% include gallery.html gallery=page.gallery %}
+<!-- Main Content -->
+<div id="main-container">
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1>{{ page.title }}</h1>
+                    <img src="{{ page.image | resized_image_url: "750x500" }}" alt="{{ post.title }}">
+                    <div class="spacer-20"></div>
+                    {{ page.content }}
+                    <div class="spacer-20"></div>
+                    {% include gallery.html gallery=page.gallery %}
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

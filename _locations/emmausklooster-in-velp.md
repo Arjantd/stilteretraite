@@ -24,6 +24,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-10.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-9.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-7.jpg
+style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
 _Een deel van ons retraiteaanbod vindt plaats op het complex van het Emmausklooster te Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en is vernoemd naar de Bijbelse plaats Emmaus. Meer dan 300 jaar hebben er in dit klooster Kapucijnen gewoond. Inmiddels is de laatste Kapucijnenmonnik vertrokken en verhuurt het klooster zijn ruimtes voor cursussen, trainingen, vergaderingen en heisessies. Ook zijn er ruimtes voor meditaties en retraites en wordt er, geheel in de oude traditie, slaapplaatsen geboden aan pelgrims en retraitegasten._
