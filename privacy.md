@@ -3,6 +3,10 @@ layout: page-centered-content
 title: Privacy
 description: ''
 show_pager: false
+menu:
+  footer-bottom:
+    weight: 1
+    identifier: _privacy
 
 ---
 **Privacy Statement stilteretraite.nl**

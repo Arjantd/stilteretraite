@@ -35,13 +35,15 @@
                 </div>
             </div>
             <div class="col-md-6 col-sm-6"></div>
-                <div class="copyrights-col-right">
-                    <ul class="footer-menu">
-                        <li><a href="privacy-policy.html">Privacy policy</a></li>
-                        <li><a href="payment-terms.html">Payment terms</a></li>
-                        <li><a href="refund-policy.html">Refund policy</a></li>
-                    </ul>
-                </div>
+            <div class="copyrights-col-right">
+                {% if site.menus.footer-bottom %}
+                <ul class="footer-menu">
+                    {% for link in site.menus.footer %}
+                    <li><a href="{{ link.url | absolute_url }}"{% if link.target %} target="_blank" {% endif %}>{{ link.title }}</a>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </div>
         </div>
     </div>
 </div>
