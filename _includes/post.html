@@ -10,7 +10,7 @@
 
     <!-- About Author -->
     {% assign author = site.people | where:"path", include.author | first %}
-    {% include author.html thumbnail=author.thumbnail title=author.title content=author.content %}
+    {% include author.html thumbnail=author.thumbnail title=author.title description=author.description %}
     {% endif %}
 
     <!-- Pager -->
