@@ -1,11 +1,11 @@
 ---
-location: _locations/besloten-veluws-landgoed.md
+location: _locations/emmausklooster-in-velp.md
 attendees: 12
 layout: event
 title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2020-03-11 17:00:00 +0100
-to_date: 2020-03-15 15:00:00 +0100
+from_date: 2020-05-13 17:00:00 +0200
+to_date: 2020-05-17 15:00:00 +0200
 price: '645.00'
 image: https://static.stilteretraite.nl/uploads/Event -grave2.jpg
 category: 5-days
