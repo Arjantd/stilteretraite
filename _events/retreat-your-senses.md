@@ -1,8 +1,8 @@
 ---
 title: Retreat your senses!
 sub_heading: ''
-from_date: 2020-09-26 00:00:00 +0200
-to_date: 2020-10-03 00:00:00 +0200
+from_date: 2020-09-25T22:00:00.000+00:00
+to_date: 2020-10-02T22:00:00.000+00:00
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
@@ -21,7 +21,7 @@ length_of_time: 5 dagen
 
 In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de directe omgeving van Ca du Chittu trekken we ons terug voor een bijzondere vijfdaagse stilte-retraite. Het proces van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen, om de Stilte van deze plek ten volste te beleven. Naast de bekende vijf zintuigen zien, horen, ruiken, proeven en aanraking, wordt ook aandacht besteed aan de onderbuik als zintuig voor het aanvoelen van gevaar en veiligheid en het Hart als het meest essentiele ‘aanvoelend’ zintuig van ons wezen.
 
-### **Praktische info**
+## **Praktische info**
 
 ‘Re-treat your Senses’ is een stilte-retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur, ook langs de Cinque Terre.
 
