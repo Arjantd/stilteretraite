@@ -15,7 +15,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-7.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-6.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-5.jpg
-style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+  />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
@@ -25,7 +26,7 @@ Deze prachtige locatie ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heu
 
 De ruimte waar onze Stilte retraite (introductie)dag in plaatsvindt is licht en heeft tegelijkertijd een warme, prettige uitstraling. Er is plaats genoeg voor zo’n 10-14 personen. De ruimte is uitgerust met comfortabele stoelen, een zitje, keukentje en openslaande tuindeuren.
 
-Voor de deelnemers is er de hele dag Nespresso koffie, thee en water beschikbaar, evenals iets lekkers en vers fruit. De lunch is inbegrepen en bestaat uit een heerlijke verse (maaltijd)soep, salade, lekker brood en vegetarisch beleg.
+Voor de deelnemers is er de hele dag Nespresso koffie, thee en water beschikbaar, evenals iets lekkers en vers fruit. De lunch is inbegrepen en bestaat uit een heerlijke verse soep, salade, lekker brood en vegetarisch beleg.
 
 ### Bereikbaarheid en parkeren
 
@@ -40,8 +41,8 @@ In Doorn rijd je richting Driebergen (N225). Bij hectometerpaal 17,7 ga je recht
 
 Je kunt de auto gratis parkeren in het groen langs de weg.
 
-\**Met het openbaar vervoer:  
-\**_Met de trein:_  
+\*_Met het openbaar vervoer:  
+\*Met de trein:_  
 Uitstappen op station Driebergen-Zeist.  
 Daarna per (trein)taxi of buslijn 50/56 richting Doorn  
 Uitstappen bij halte Beukenlaan.
