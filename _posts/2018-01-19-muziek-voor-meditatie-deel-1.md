@@ -16,8 +16,8 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en 
 
 Soms helpt het om je onrust bij aanvang van een meditatiesessie te beteugelen door met een muziekstuk te beginnen. In deze eerste bijdrage over muziek delen we 3 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
 
-**Spiegel im Spiegel (1978)**  
-Arvo Part  
+**Test**  
+test 123456789  
 [Luister via Youtube]()
 
 **Highway thru Hell (1976)**  
