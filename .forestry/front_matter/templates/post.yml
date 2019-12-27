@@ -60,7 +60,7 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/1231.md
 - _posts/2019-08-13-de-vele-gezichten-van-retraite.md
 - _posts/2019-09-02-blog-test.md
 - _posts/2019-12-21-ya-sami-hoor.md
+- _posts/2019-12-27-1231.md
