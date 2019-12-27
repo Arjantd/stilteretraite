@@ -102,6 +102,7 @@ fields:
   hidden: true
   default: event
 pages:
+- _events/back-to-nature-retraite-1.md
 - _events/back-to-nature-retraite.md
 - _events/hoog-deelen.md
 - _events/retreat-je-hart-1.md
