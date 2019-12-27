@@ -3,7 +3,7 @@ author: _people/robbert-van-bruggen.md
 layout: post
 title: Storm in de stilte-retraite
 sub_heading: Artikel Koorddanser Magazine – 3 sept 2019
-date: 2019-09-12 00:00:00 +0200
+date: 2019-09-11T22:00:00.000+00:00
 tags:
 - retraite
 - " kritisch"
@@ -18,6 +18,8 @@ lead_text: 'Retraites zijn big business. Een kritisch en reflexief geluid van ee
 categories:
 - Retraite
 - Natuur
+- Persoonlijke ontwikkeling
+- " Overig"
 
 ---
 > Retraites zijn big business. Een kritisch en reflexief geluid van een specialist op dit gebied: Robbert van Bruggen. Want wie is klaar voor de Ware Confrontatie in de échte stilte-retraite? Robbert van Bruggen schreef er over in Koorddanser (kd.nl).
