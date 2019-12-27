@@ -6,7 +6,7 @@ to_date: 2020-10-02T22:00:00.000+00:00
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
-price: '875.00'
+price: '895.00'
 image: https://static.stilteretraite.nl/uploads/event - italie.jpg
 category: 5-days
 lead_text: Voor deze retraite trekken we ons terug in Liguria, Italie. Het proces
@@ -39,7 +39,7 @@ _Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt p
 
 ### Kosten & meer
 
-Deze 5-daagse retraite is residentieel; de prijs is inclusief alle teachings, meditaties, individuele begeleiding, vegetarische slow-food maaltijden + koﬃe, kruidenthee voor de gehele periode; 7 overnachtingen, alle vervoer/entreekosten die onderdeel zijn van de retraite en bedraagt € 895 inclusief BTW. Niet inbegrepen zijn: auto- of vliegreis naar Pisa (goedkoop via Ryanair Eindhoven), trein La Spezia (€12), evt. bus naar Carro en tenslotte consumpties die buiten het arrangement vallen.
+Deze 5-daagse retraite is residentieel; de prijs is inclusief alle programmaonderdelen, meditaties, individuele begeleiding, vegetarische slow-food maaltijden + koﬃe, kruidenthee voor de gehele periode; 7 overnachtingen, alle vervoer/entreekosten die onderdeel zijn van de retraite en bedraagt € 895 inclusief BTW. Niet inbegrepen zijn: auto- of vliegreis naar Pisa (goedkoop via Ryanair Eindhoven), trein La Spezia (€12), evt. bus naar Carro en tenslotte consumpties die buiten het arrangement vallen.
 
 Betaling naar banknummer NL97 INGB0004 7459 39 t.n.v. Spiegelzaal - Ineenhutjeopdehei, te Dordrecht; o.v.v. ‘Re-treat your Senses’, september 2019, met voor- en achternaam.
 
