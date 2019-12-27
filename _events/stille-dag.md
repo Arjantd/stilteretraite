@@ -11,6 +11,6 @@ lead_text: 'Een hele dag in stilte doorbrengen, om kennis te maken met het conce
 from_date: 2020-05-01 00:00:00 +0200
 to_date: 2020-05-01 17:00:00 +0200
 length_of_time: 1 dag
-price: 89
+price: 95
 
 ---
