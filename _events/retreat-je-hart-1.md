@@ -10,12 +10,12 @@ price: '645.00'
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 category: 5-days
 length_of_time: 5 dagen
-lead_text: 'Retreat je Hart is een vierdaagse retraite waar max. 12 deelnemers zich
-  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+lead_text: 'Re-treat je Hart is een vierdaagse stilte retraite waar max. 12 deelnemers
+  zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte. '
 
 ---
-Deze vierdaagse stilte-retraite is de uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen zonder dat je weet waar je al brokkelend zult belanden.
+Deze vierdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
 
