@@ -4,7 +4,7 @@ attendees: 10
 category: 5-days
 layout: event
 title: Back to Nature Retraite
-image: ''
+image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-15.jpg
 lead_text: Besloten Veluws landgoed
 from_date: 2020-06-03 00:00:00 +0200
 to_date: 2020-06-07 00:00:00 +0200
