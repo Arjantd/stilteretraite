@@ -11,6 +11,6 @@ lead_text: 'Het unieke Veluwse landgoed waar we 1 of 2 keer per jaar te gast zij
 from_date: 2020-06-03 00:00:00 +0200
 to_date: 2020-06-07 00:00:00 +0200
 length_of_time: 5 dagen
-price: 745
+price: 695
 
 ---
