@@ -15,6 +15,30 @@ lead_text: 'Retreat je Hart is een vierdaagse retraite waar max. 12 deelnemers z
   onderdompelen in stilte. '
 
 ---
-Aliquam dictum ex ut mi lacinia rhoncus. Ut posuere mauris non tellus hendrerit finibus. Duis a magna at felis placerat pharetra. Ut imperdiet dolor nunc. Aenean enim magna, volutpat in convallis a, vehicula quis libero. Vestibulum sodales, ipsum sed porta rhoncus, est odio fermentum enim, et ultrices lorem tortor a tellus. Donec convallis sit amet ante quis posuere. Etiam quis tortor sed urna faucibus tempor a sed lectus. Maecenas eleifend tempus ultricies. Donec suscipit urna vitae metus pulvinar aliquet. Pellentesque non ultrices lacus, eu efficitur enim. Mauris pharetra gravida finibus. Etiam felis tortor, accumsan at erat in, molestie ultrices libero. Quisque gravida hendrerit vestibulum. Mauris faucibus elementum facilisis.
+> Deze vierdaagse stilte-retraite is de uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen zonder dat je weet waar je al brokkelend zult belanden.
+>
+> _Het verlangen naar nieuwe Zin vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden._
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas mattis ipsum sed felis convallis, non egestas justo commodo. Suspendisse eleifend dignissim augue, ac posuere quam efficitur eu. Proin semper luctus tellus. Nam tincidunt tortor vitae elit ultricies, ac fringilla purus elementum. Praesent blandit, velit eu lacinia pellentesque, magna enim vulputate arcu, faucibus lacinia sapien dui ut dui. Etiam et erat eget augue dapibus mollis quis ac ligula. Proin efficitur libero sem, ac placerat risus imperdiet in. Mauris feugiat dolor id fringilla scelerisque. Ut molestie congue interdum. Integer varius interdum lectus, posuere tincidunt lacus porta at. Aliquam congue sem libero, a mollis diam fringilla et. Integer bibendum tempor augue vitae gravida. Vestibulum sodales sapien at faucibus egestas. Ut lacinia vel arcu eget faucibus. Donec pulvinar sollicitudin eros eu volutpat.
+## PRAKTISCHE INFO
+
+‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen in de natuur & individuele ontmoetingen met Robbert.
+
+**Aanvang retraite:** woensdag ….. 16.00 uur
+
+**Einde retraite:** zondag …… 15.00 uur
+
+**Locatie:** Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’
+
+**Informatie:** Robbert van Bruggen
+
+**Per email:** wilnu@ineenhutjeopdehei.nl
+
+**Voor vragen:** 06-24678735 tussen 20.00-20.30
+
+### KOSTEN EN MEER
+
+Deze vierdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 695 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
+
+Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
+
+De administratiekosten bij annulering vóór maandag ………. bedragen € 35; na die datum en vóór maandag …………. wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag …………. is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
