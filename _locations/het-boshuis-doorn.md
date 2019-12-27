@@ -11,10 +11,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-2.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-3.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-4.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-8.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-7.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-6.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Boshuis-Doorn-5.jpg
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
