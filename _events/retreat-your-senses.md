@@ -15,13 +15,13 @@ lead_text: Voor deze retraite trekken we ons terug in Liguria, Italie. Het proce
 length_of_time: 5 dagen
 
 ---
-> In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de directe omgeving van Ca du Chittu trekken we ons terug voor een bijzondere vijfdaagse stilte-retraite. Het proces van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen, om de Stilte van deze plek ten volste te beleven. Naast de bekende vijf zintuigen zien, horen, ruiken, proeven en aanraking, wordt ook aandacht besteed aan de onderbuik als zintuig voor het aanvoelen van gevaar en veiligheid en het Hart als het meest essentiele ‘aanvoelend’ zintuig van ons wezen.
+> In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de directe omgeving van Ca du Chittu trekken we ons terug voor een bijzondere vijfdaagse stilte retraite. Het proces van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen, om de Stilte van deze plek ten volste te beleven. Naast de bekende vijf zintuigen zien, horen, ruiken, proeven en aanraking, wordt ook aandacht besteed aan de onderbuik als zintuig voor het aanvoelen van gevaar en veiligheid en het Hart als het meest essentiele ‘aanvoelend’ zintuig van ons wezen.
 >
 > _Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt proeven door de rijkdom van ons zintuiglijk ervaren; kom dan naar deze retraite met Robbert van Bruggen in Liguria! Max. 10 deelnemers._
 
 ## **Praktische info**
 
-‘Re-treat your Senses’ is een stilte-retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur, ook langs de Cinque Terre.
+‘Re-treat your Senses’ is een stilte retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur, ook langs de Cinque Terre.
 
 **Aankomst :** zaterdag 21 september
 
