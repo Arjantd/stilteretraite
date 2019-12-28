@@ -17,8 +17,3 @@ menu:
     weight: 5
 
 ---
-# Video
-
-Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte filmpjes waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites.   
-  
-[watch?v=1aq8JSiKmLs&t=84s](https://www.youtube.com/watch?v=1aq8JSiKmLs&t=84s "watch?v=1aq8JSiKmLs&t=84s")

@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-tagging"
   gem "jekyll-archives"
   gem 'jekyll-paginate-v2', '~> 2.0'
+  gem "jekyll-youtube"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

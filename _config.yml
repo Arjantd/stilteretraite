@@ -41,6 +41,7 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-youtube
 pagination:
   enabled: true
   per_page: 20
