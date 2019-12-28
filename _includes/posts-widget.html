@@ -1,0 +1,11 @@
+<ul>
+    {% for post in include.posts | limit: include.limit %}
+    <li>
+        <a href="{{ post.url | absolute_url }}" class="media-box">
+            <img src="{{ post.banner_image | resized_image_url: "70x47" }}" width="70" height="47" alt="{{ event.title }}">
+        </a>
+        <h5><a href="{{ post.url | absolute_url }}">{{ post.title | escape }}</a></h5>
+        <span class="meta-data grid-item-meta">Gepost op {{ post.date | date_to_string }}</span>
+    </li>
+    {% endfor %}
+</ul>

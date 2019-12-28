@@ -6,7 +6,7 @@ layout: page
 {% endcomment %}
 
 <div class="container">
-    <h3>{{ page.title }}</h3>
+    <h1>{{ page.title }}</h1>
     <div class="row">
         <div class="col-md-8 content-block">
             {% assign location = site.locations | where:"path", page.location | first %}
@@ -15,20 +15,17 @@ layout: page
 
         <!-- Sidebar -->
         <div class="col-md-4 sidebar-block">
-            <div class="widget sidebar-widget">
+            <div class="widget sidebar-widget recent_posts">
                 <h3 class="widgettitle">Komende events</h3>
                 {% assign events = site.events | sort: 'from_date' %}
-                {% include events-compact-list.html events=events %}
+                {% include events-widget.html events=events limit=5 %}
+                <a href="{{ "/events" | absolute_url }}" class="basic-link">Meer events</a>
             </div>
-            <div class="widget sidebar-widget">
+            <div class="widget sidebar-widget recent_posts">
                 <h3 class="widgettitle">Laatste posts</h3>
                 {% assign posts = site.posts | sort: 'date' | reverse %}
-                {% include posts-blog-list-item.html posts=posts limit=3 show_lead_text=false %}
-                <a href="{{ "/magazine" | absolute_url }}" class="btn btn-primary btn-event-single-book">Meer posts</a>
-            </div>
-            <div class="widget sidebar-widget">
-                <h3 class="widgettitle">Video's</h3>
-                {% include videos-gallery.html videos=site.videos %}
+                {% include posts-widget.html posts=posts limit=5 %}
+                <a href="{{ "/magazine" | absolute_url }}" class="basic-link">Meer posts</a>
             </div>
         </div>
     </div>

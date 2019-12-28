@@ -1,0 +1,13 @@
+<ul>
+    {% for event in include.events limit: include.limit %}
+    {% assign location = site.locations | where:"path", event.location | first %}
+    <li>
+        <a href="{{ event.url | absolute_url }}" class="media-box">
+            <img src="{{ event.image | resized_image_url: "70x47" }}" width="70" height="47" alt="{{ event.title }}">
+        </a>
+        <h5><a href="{{ event.url | absolute_url }}">{{ event.title | escape }}</a></h5>
+        <span class="meta-data grid-item-meta">{{ event.from_date | date_to_string }} ({{ event.length_of_time }})</span>
+        <span class="meta-data grid-item-meta">{{ location.title }}</span>
+    </li>
+    {% endfor %}
+</ul>
