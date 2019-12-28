@@ -1,7 +1,7 @@
 ---
 author: _people/robbert-van-bruggen.md
 layout: post
-title: Storm in de stilte-retraite
+title: De storm in de stilte retraite
 sub_heading: Artikel Koorddanser Magazine – 3 sept 2019
 date: 2019-09-11T22:00:00.000+00:00
 tags:
