@@ -12,9 +12,9 @@ tags:
 - " maatschappij"
 banner_image: https://static.stilteretraite.nl/uploads/blog 5.jpg
 related_posts: []
-lead_text: 'Retraites zijn big business. Een kritisch en reflexief geluid van een
+lead_text: 'Retraites zijn ineens trendy. Een kritisch en reflexief geluid van een
   specialist op dit gebied: Robbert van Bruggen. Want wie is klaar voor een echte
-  stilte retraite? '
+  stilte retraite? Robbert van Bruggen schreef er over in Koorddanser (kd.nl).'
 categories:
 - Retraite
 - Natuur
@@ -22,7 +22,6 @@ categories:
 - " Overig"
 
 ---
-> Retraites zijn big business. Een kritisch en reflexief geluid van een specialist op dit gebied: Robbert van Bruggen. Want wie is klaar voor de Ware Confrontatie in de échte stilte-retraite? Robbert van Bruggen schreef er over in Koorddanser (kd.nl).
 
 Het zal niet lang meer duren voordat Kruitvat, Hema of De Action komen met een fleurig ‘retraite-pakket’ om alle jachtige klanten (en wie zijn dat niet) de mogelijkheid te verschaffen goedkoop en thuis te herbronnen; een doos gevuld met vitamines & mineralen, reinigingsthee, verkoelende gezichtstonic, oordopjes om het omgevingsgeluid uit te zetten, een fleurig meditatiekussentje met zoet gevormde Boeddha-afbeelding en een ouderwets kookwekkertje om je meditaties te timen zonder op je smartphone te kijken. En natuurlijk een gebruiksaanwijzing: ‘Cursus Kluizenaar – herbronnen in 10 stappen’. Het zal stormlopen! Zo hopen zij commercieel aan te sluiten op de ‘goed bezig!’-hype die het inmiddels aan het worden is; je telt spiritueel niet mee als je geen stilte-retraite hebt gedaan.
 
