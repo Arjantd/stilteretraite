@@ -15,6 +15,7 @@ banner_image: https://static.stilteretraite.nl/uploads/Post 7 - vakantieliefde.j
 related_posts: []
 
 ---
+
 Als je het hebt meegemaakt, weet je dat het je overkomt als een donderslag bij heldere hemel: de gelukzaligheid van een vakantieliefde. Plotseling oogcontact, een grote vonk die overspringt, zwabberend op je voeten en met een impact die veel dieper gaat dan je kunt bevatten. De start van een eindeloos lijkende liefdesdans in de tijdloosheid van vakantie. Ik kan het me nog goed herinneren, alweer vele jaren geleden aan het strandje van Cadaques in Spanje, op het terras van een bescheiden houten strandtentje. Naast me drie Spaanse vrouwen, die leraressen uit Barcelona bleken op hun jaarlijks vriendinnenweekje. Het oogcontact met een van hen was meteen betoverend en plotseling klonk die onhandige vraag: ‘Are you happy?’ Het opende alles. Die avond bedreven we in de zwoele avondlucht de liefde op een bankje voor het huis van Salvador Dali in Port Lligat, meermalen overrompeld door de koplampen van auto’s die de bocht namen en luid toeterend hun weg vervolgden. We hebben nog bijna een jaar contact gehad, daarna ebde het weg. Was het louter toeval? Moesten we elkaar ontmoeten? Was het een biologische aantrekking gestuurd door een uitbarsting van feromonen? Nog steeds verschijnt bij de herinnering aan die ontmoeting een zoete glimlach rond mijn mond.
 
 **Betoverd**
