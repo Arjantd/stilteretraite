@@ -2,6 +2,26 @@
 label: landing-page
 hide_body: true
 fields:
+- name: meta
+  type: field_group
+  config: {}
+  fields:
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: Keywords
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+  label: Meta
 - name: title
   label: Title
   type: text
@@ -9,14 +29,6 @@ fields:
   default: ''
   config:
     required: true
-- type: textarea
-  name: textline
-  label: Description
-  config:
-    wysiwyg: true
-    required: false
-    schema:
-      format: markdown
 - name: hero_slider
   type: field_group_list
   fields:
