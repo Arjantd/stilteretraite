@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: member
+pages:
+- _people/madeleine-van-mourik.md
