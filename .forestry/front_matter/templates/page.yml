@@ -5,20 +5,26 @@ fields:
 - type: text
   name: title
   label: Title
-- name: keywords
-  type: text
-  config:
-    required: false
-  label: Keywords
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Description
+- name: meta
+  type: field_group
+  config: {}
+  fields:
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: Keywords
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+  label: Meta
 - name: show_pager
   type: boolean
   label: Show pager
