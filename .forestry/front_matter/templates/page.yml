@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Title
+- name: keywords
+  type: text
+  config:
+    required: false
+  label: Keywords
 - name: description
   type: textarea
   default: ''
