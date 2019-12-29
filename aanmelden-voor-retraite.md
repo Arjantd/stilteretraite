@@ -16,11 +16,6 @@ blocks:
     required: true
     type: Event select
     options: []
-  - type: Text area
-    name: Vraag of opmerking
-    label: ''
-    placeholder: Vraag of opmerking
-    required: false
   - name: name
     label: ''
     required: true
@@ -33,6 +28,11 @@ blocks:
     type: E-mail
     label: ''
     options: []
+  - type: Text area
+    name: comments
+    label: ''
+    placeholder: Vraag of opmerking
+    required: false
   action: https://jxaxi5zqi1.execute-api.eu-central-1.amazonaws.com/beta/sendsignupform
 script: "<script> $(() => { let event = getUrlParameter('event'); $('select[name=event]').val(event);
   $('input[name=name]').focus(); }); </script>"
