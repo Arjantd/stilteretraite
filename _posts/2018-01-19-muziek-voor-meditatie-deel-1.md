@@ -24,6 +24,6 @@ Soms helpt het om je onrust bij aanvang van een meditatiesessie te beteugelen do
 
 {% youtube "https://www.youtube.com/watch?v=s3FIJq-h6PE" %}
 
-  
+         
   
 Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Welke muziekstukken zou jij willen aandragen? Deel bij _comments_ je favoriete lied, eventueel met een YouTube link en vertel ons wat dit nummer zo speciaal maakt voor jou.
