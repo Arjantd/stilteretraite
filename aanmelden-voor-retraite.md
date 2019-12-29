@@ -29,7 +29,7 @@ blocks:
     label: ''
     options: []
   - type: Text area
-    name: comments
+    name: message
     label: ''
     placeholder: Vraag of opmerking
     required: false
