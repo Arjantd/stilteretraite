@@ -37,4 +37,5 @@ fields:
   hidden: true
   default: member
 pages:
+- _people/jan-willem.md
 - _people/madeleine-van-mourik.md
