@@ -1,9 +1,9 @@
 ---
 layout: member
-title: Jan Willem
+title: Jan Willem Winter
 sub_heading: Initiatiefnemer
 description: Initiatiefnemer
-thumbnail: ''
+thumbnail: https://static.stilteretraite.nl/uploads/People - Jan Willem Winter.png
 email: ''
 link_to_details: false
 published: false
