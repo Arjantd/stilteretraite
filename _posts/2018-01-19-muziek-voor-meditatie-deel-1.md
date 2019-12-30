@@ -20,7 +20,7 @@ Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen doo
 
 By Filipe Melo & Ana Cláudia
 
-{% youtube "https://www.youtube.com/watch?v=TJ6Mzvh3XCc" %}
+{% youtube "https://www.youtube.com/watch?v=TA0U22ZMVR0" %}
 
 .
 
