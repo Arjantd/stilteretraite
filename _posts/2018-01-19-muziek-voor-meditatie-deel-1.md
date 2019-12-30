@@ -12,9 +12,9 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en 
   daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ....
 
 ---
-> Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren.
+> Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of voorafgaand aan een meditatiesessie.
 
-Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen door met een muziekstuk te beginnen. In deze muziekbijdrage 2 wereldberoemde muziekstukken die het prima doen als opmaat naar een meditatie!
+In deze muziekbijdrage 2 wereldberoemde muziekstukken die het prima doen als opmaat voor een meditatie!
 
 **Spiegel im Spiegel (Arvo Pärt):**
 
