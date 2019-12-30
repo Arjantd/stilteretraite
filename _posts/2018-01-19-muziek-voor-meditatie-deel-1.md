@@ -14,7 +14,7 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en 
 ---
 > Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of bij aanvang van mediteren.
 
-Soms helpt het om je onrust bij aanvang van een meditatiesessie te beteugelen door met een muziekstuk te beginnen. In deze eerste bijdrage over muziek delen we 3 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
+Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen door met een muziekstuk te beginnen. In deze muziekbijdrage 2 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
 
 **Wat dacht je van deze:**
 
@@ -24,6 +24,5 @@ Soms helpt het om je onrust bij aanvang van een meditatiesessie te beteugelen do
 
 {% youtube "https://www.youtube.com/watch?v=s3FIJq-h6PE" %}
 
-         
 .  
-Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Welke muziekstukken zou jij willen aandragen? Deel bij _comments_ je favoriete lied, eventueel met een YouTube link en vertel ons wat dit nummer zo speciaal maakt voor jou.
+Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Welke muziekstukken zou jij willen aanraden? Deel ze met ons via een berichtje via het contactformulier (eventueel met een YouTube linkje) en vertel ons wat dit nummer zo speciaal maakt voor jou. Wie weet posten we jouw aanbeveling de volgende keer!
