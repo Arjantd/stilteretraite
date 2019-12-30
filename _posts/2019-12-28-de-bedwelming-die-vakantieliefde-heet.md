@@ -1,6 +1,7 @@
 ---
 author: _people/robbert-van-bruggen.md
-categories: []
+categories:
+- persoonlijke ontwikkeling
 layout: post
 title: De bedwelming die vakantieliefde heet
 date: 2019-12-27T23:00:00.000+00:00
