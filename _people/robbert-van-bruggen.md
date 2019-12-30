@@ -9,10 +9,10 @@ sub_heading: Initiatiefnemer, retraite begeleider
 email: 'robbert@stilteretraite.nl '
 linkedin: ''
 layout: member
-description: Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master
+description: 'Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master
   begeleidingskunde en specialist in het in beweging brengen van identificatie met
-  taaie patronen in organisaties. Hij doet promotie onderzoek naar de bevrijding van
-  het subjectieve hart in een door rationaliteit gedomineerde maatschappij.
+  taaie patronen in organisaties. Sinds 2010 organiseert en begeleidt hij stilte-retraites
+  onder de naam ''Ineenhutjeopdehei''. '
 link_to_details: true
 
 ---
