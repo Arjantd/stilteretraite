@@ -16,7 +16,9 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en 
 
 Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen door met een muziekstuk te beginnen. In deze muziekbijdrage 2 wereldberoemde muziekstukken die het prima doen als opmaat naar een meditatie!
 
-**Spiegel im Spiegel (Arvo Part):**
+**Spiegel im Spiegel (Arvo Pärt):**
+
+By Filipe Melo & Ana Cláudia
 
 {% youtube "https://www.youtube.com/watch?v=TJ6Mzvh3XCc" %}
 
