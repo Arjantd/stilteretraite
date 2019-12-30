@@ -11,7 +11,7 @@ linkedin: ''
 layout: member
 description: 'Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master
   begeleidingskunde en specialist in het in beweging brengen van identificatie met
-  taaie patronen in organisaties. Sinds 2010 organiseert en begeleidt hij stilte-retraites
+  taaie patronen in organisaties. Sinds 2010 organiseert en begeleidt hij stilte retraites
   onder de naam ''Ineenhutjeopdehei''. '
 link_to_details: true
 
