@@ -20,6 +20,8 @@ Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen doo
 
 {% youtube "https://www.youtube.com/watch?v=TJ6Mzvh3XCc" %}
 
+.
+
 **Gymnopedies (Erik Satie):**
 
 {% youtube "https://www.youtube.com/watch?v=_fuIMye31Gw" %}
