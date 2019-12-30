@@ -24,9 +24,9 @@ By Filipe Melo & Ana Cláudia
 
 .
 
-**Gymnopédies (Erik Satie):**
+**Gymnopédies 1, 2 & 3 (Erik Satie):**
 
-{% youtube "https://www.youtube.com/watch?v=m1Nnqe-u-ew" %}
+{% youtube "https://www.youtube.com/watch?v=FS6o3qFimsc" %}
 
 .  
 Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Welke muziekstukken zou jij willen aanraden? Deel ze met ons via een berichtje via het contactformulier (eventueel met een YouTube linkje) en vertel ons wat dit nummer zo speciaal maakt voor jou. Wie weet posten we jouw aanbeveling de volgende keer!
