@@ -24,7 +24,7 @@ By Filipe Melo & Ana Cláudia
 
 .
 
-**Gymnopedies (Erik Satie):**
+**Gymnopédies (Erik Satie):**
 
 {% youtube "https://www.youtube.com/watch?v=_fuIMye31Gw" %}
 
