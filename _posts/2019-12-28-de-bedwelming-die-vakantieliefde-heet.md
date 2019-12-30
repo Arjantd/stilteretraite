@@ -3,10 +3,10 @@ author: _people/robbert-van-bruggen.md
 categories: []
 layout: post
 title: De bedwelming die vakantieliefde heet
-date: 2019-12-28 00:00:00 +0100
-lead_text: 'Een boeiende visie op ''de zoete bedwelming die liefde heet''. Conclusie:
-  vakantieliefde is een cadeautje van het bestaan. Maar blijf met je voeten op de
-  grond…'
+date: 2019-12-27T23:00:00.000+00:00
+lead_text: 'Een boeiende visie op ''de zoete bedwelming die vakantieliefde heet''.
+  Conclusie: vakantieliefde is een cadeautje van het bestaan. Maar blijf met je voeten
+  op de grond…'
 tags:
 - stilte retraite
 - " liefde"
