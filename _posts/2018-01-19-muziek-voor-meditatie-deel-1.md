@@ -16,13 +16,13 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en 
 
 Soms helpt het om bij aanvang van een meditatiesessie tot stilstand te komen door met een muziekstuk te beginnen. In deze muziekbijdrage 2 prachtige muziekstukken die het prima doen als opmaat naar een meditatie!
 
-**Wat dacht je van deze:**
+**Spiegel im Spiegel   |   Arvo Part:**
 
-{% youtube "https://www.youtube.com/watch?v=zhiq5CCthg0" %}
+{% youtube "https://www.youtube.com/watch?v=TJ6Mzvh3XCc" %}
 
 **Nog een nummer:**
 
-{% youtube "https://www.youtube.com/watch?v=s3FIJq-h6PE" %}
+{% youtube "https://www.youtube.com/watch?v=_fuIMye31Gw" %}
 
 .  
 Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank” zei Tao Meng. Welke muziekstukken zou jij willen aanraden? Deel ze met ons via een berichtje via het contactformulier (eventueel met een YouTube linkje) en vertel ons wat dit nummer zo speciaal maakt voor jou. Wie weet posten we jouw aanbeveling de volgende keer!
