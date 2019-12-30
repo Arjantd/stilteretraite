@@ -1,9 +1,10 @@
 ---
 author: []
-categories: []
+categories:
+- overig
 layout: post
 title: Gedicht van een deelnemer
-date: 2019-12-21 00:00:00 +0100
+date: 2019-12-20T23:00:00.000+00:00
 lead_text: Ya Sami - Hoor!
 tags:
 - gedicht
