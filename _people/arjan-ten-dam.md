@@ -9,9 +9,9 @@ email: 'arjan@stilteretraite.nl '
 linkedin: ''
 layout: member
 description: Arjan is communicatiewetenschapper, natuurliefhebber & ijverig levenswandelaar.
-  Sinds kennismaking met de retraites van Robbert is hij gefascineerd door de werking
+  Sinds zijn kennismaking met de retraites van Robbert is hij geboeid door de werking
   die Stilte heeft. Naast het verwezenlijken van de website van stilteretraite.nl
   assisteert hij soms bij retraites en schrijft hij blogs.
 
 ---
-Arjan is communicatiewetenschapper, natuurliefhebber & ijverig levenswandelaar. Sinds kennismaking met de retraites van Robbert is hij gefascineerd door de werking die Stilte heeft. Naast het verwezenlijken van de website van stilteretraite.nl assisteert hij soms bij retraites en schrijft hij blogs.
+Arjan is communicatiewetenschapper, natuurliefhebber & ijverig levenswandelaar. Sinds zijn kennismaking met de retraites van Robbert is hij geboeid door de werking die Stilte heeft. Naast het verwezenlijken van de website van stilteretraite.nl assisteert hij soms bij retraites en schrijft hij blogs.
