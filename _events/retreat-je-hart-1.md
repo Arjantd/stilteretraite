@@ -4,9 +4,9 @@ attendees: 12
 layout: event
 title: Retreat je hart!
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2020-05-13 17:00:00 +0200
-to_date: 2020-05-17 15:00:00 +0200
-price: '645.00'
+from_date: 2020-05-13T15:00:00.000+00:00
+to_date: 2020-05-17T13:00:00.000+00:00
+price: '695.00'
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 category: 5-days
 length_of_time: 5 dagen
