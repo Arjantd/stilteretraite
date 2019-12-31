@@ -11,6 +11,6 @@ lead_text: Nieuw in ons aanbod is een weekend retraite. Vooral geschikt voor hen
 from_date: 2020-01-23T23:00:00.000+00:00
 to_date: 2020-01-25T23:00:00.000+00:00
 length_of_time: 2 dagen
-price: 395
+price: 345
 
 ---
