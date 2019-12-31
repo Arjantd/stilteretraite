@@ -1,8 +1,8 @@
 ---
 title: Retreat your senses!
 sub_heading: ''
-from_date: 
-to_date: 
+from_date: 2020-09-26 00:00:00 +0200
+to_date: 2020-10-02 00:00:00 +0200
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
@@ -23,13 +23,13 @@ _Als je het leven wilt beleven vanuit innerlijke Stilte; als je het leven wilt p
 
 ‘Re-treat your Senses’ is een stilte retraite waarin groepsmeditaties worden afgewisseld met individuele afzondering, met dagelijkse focus op zintuigelijke bewustwording, oefeningen uit wereldtradities, individuele begeleiding en stilte wandelingen in de natuur, ook langs de Cinque Terre.
 
-**Aankomst :** zaterdag 21 september
+**Aankomst :** zaterdag 26 september
 
-**Aanvang retraite:** zondag 22 september 17.00
+**Aanvang retraite:** zondag 27 september 17.00
 
-**Einde retraite:** vrijdag 27 september 20.00
+**Einde retraite:** vrijdag 2 oktober 17.00
 
-**Vertrek:** zaterdag 28 september
+**Vertrek:** zaterdag 3 oktober
 
 **Informatie:** Robbert van Bruggen
 
