@@ -12,8 +12,8 @@ tags:
 - " maatschappij"
 banner_image: https://static.stilteretraite.nl/uploads/blog 5.jpg
 related_posts: []
-lead_text: Stilte retraites zijn ineens trendy. Een kritisch en reflexief geluid is
-  op zijn plaats! Want wie is klaar voor een echte stilte retraite? Robbert van Bruggen
+lead_text: Stilte retraites zijn plots trendy. Een kritisch en reflexief geluid is
+  op zijn plaats! Want wie is klaar voor echte stilte retraite? Robbert van Bruggen
   schreef er over in Koorddanser (kd.nl).
 categories:
 - Retraite
