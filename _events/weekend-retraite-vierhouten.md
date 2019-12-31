@@ -6,7 +6,7 @@ title: Weekend retraite Vierhouten
 sub_heading: nieuw event 1
 from_date: 2020-05-21T22:00:00.000+00:00
 to_date: 2020-05-24T13:00:00.000+00:00
-price: 395
+price: 345
 image: https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-15.jpg
 lead_text: 'Nieuw in ons aanbod is een ''Weekend retraite'', waarvoor we onze intrek
   nemen in een sfeervol 100 jaar oud landhuis te midden van de Veluwse bossen.  '
