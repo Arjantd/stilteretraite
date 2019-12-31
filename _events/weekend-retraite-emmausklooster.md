@@ -4,12 +4,12 @@ attendees: 12
 category: weekend
 layout: event
 title: Weekend retraite Emmausklooster
-image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-14.jpg
+image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
 lead_text: Nieuw in ons aanbod is een weekend retraite. Vooral geschikt voor hen die
   al eens eerder aan een stilte retraite deelnamen en verlangen naar een 'Refresh'
   weekend.
-from_date: 2020-01-24 00:00:00 +0100
-to_date: 2020-01-26 00:00:00 +0100
+from_date: 2020-01-23T23:00:00.000+00:00
+to_date: 2020-01-25T23:00:00.000+00:00
 length_of_time: 2 dagen
 price: 395
 
