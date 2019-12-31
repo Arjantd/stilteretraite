@@ -5,8 +5,8 @@ categories:
 layout: post
 title: De bedwelming die vakantieliefde heet
 date: 2019-12-27T23:00:00.000+00:00
-lead_text: 'Een boeiende visie op ''de zoete bedwelming van vakantieliefde''. Conclusie:
-  vakantieliefde is een cadeautje van het bestaan.'
+lead_text: 'Een boeiende visie op ''de zoete bedwelming van vakantieliefde'': een
+  cadeautje van het bestaan! Maar houd beide benen op de grond..'
 tags:
 - stilte retraite
 - " liefde"
