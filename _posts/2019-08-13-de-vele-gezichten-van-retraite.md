@@ -21,7 +21,7 @@ categories:
 - " Overig"
 
 ---
-> Stilte retraites zijn ineens trendy. Een kritisch en reflexief geluid is op zijn plaats! Want wie is klaar voor een echte stilte retraite? Robbert van Bruggen schreef er over in Koorddanser (kd.nl).
+> Stilte retraites zijn ineens trendy. Een kritisch en reflexief geluid is op zijn plaats! Want wie is klaar voor een echte stilte retraite? Robbert van Bruggen schreef er over in [Koorddanser Magazine (kd.nl)](https://kd.nl/2019/09/03/de-storm-de-stilte-retraite/ "Koorddanser Magazine").
 
 Het zal niet lang meer duren voordat Kruitvat, Hema of De Action komen met een fleurig ‘retraite-pakket’ om alle jachtige klanten (en wie zijn dat niet) de mogelijkheid te verschaffen goedkoop en thuis te herbronnen; een doos gevuld met vitamines & mineralen, reinigingsthee, verkoelende gezichtstonic, oordopjes om het omgevingsgeluid uit te zetten, een fleurig meditatiekussentje met zoet gevormde Boeddha-afbeelding en een ouderwets kookwekkertje om je meditaties te timen zonder op je smartphone te kijken. En natuurlijk een gebruiksaanwijzing: ‘Cursus Kluizenaar – herbronnen in 10 stappen’. Het zal stormlopen! Zo hopen zij commercieel aan te sluiten op de ‘goed bezig!’-hype die het inmiddels aan het worden is; je telt spiritueel niet mee als je geen stilte-retraite hebt gedaan.
 
