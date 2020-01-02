@@ -55,7 +55,7 @@ sections:
       title: Wat brengt retraite?
     buttons:
     - link: stilte-retraite.md
-      text: Lees verder
+      text: Alles over stilte retraite
   padding: padding-tb75
 - name: Agenda en laatste posts
   background: ''
@@ -109,6 +109,10 @@ sections:
       text: Contact ons
     text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
+meta:
+  keywords: ''
+  description: ''
+  author: ''
 menu:
   navigation:
     identifier: _index
