@@ -110,7 +110,7 @@ sections:
     text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
 meta:
-  keywords: stilte retraite, retraite-aanbod, deelnemers, agenda, posts
+  keywords: stilte retraite, retraite-aanbod, deelnemers, week, weekend
   description: 'Een stilte retraite het grootste geschenk dat je jezelf kunt geven.
     Voel jij een verlangen naar stilte? Robbert van Bruggen biedt verschillende retraite-vormen
     aan. '
