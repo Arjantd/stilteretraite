@@ -5,6 +5,12 @@ image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: 'Wat is de betekenis van stilte retraite? Waar ontstond het? Waar associeren
   we retraite mee? '
 show_pager: true
+meta:
+  keywords: betekenis, stilte retraite, transformatie, rust, ontwikkeling
+  description: In een retraite kun je ontspannen in wat je werkelijk bent. Tijdelijke
+    afwezigheid van sociale impulsen geven je de gelegenheid te ontspannen in het
+    ‘nu’ en bieden ruimte voor bezinning en transformatie.
+  author: ''
 menu:
   navigation:
     weight: 1
