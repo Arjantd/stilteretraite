@@ -15,11 +15,13 @@ lead_text: 'Re-treat je Hart is een vierdaagse stilte retraite waar max. 12 deel
   onderdompelen in stilte. '
 
 ---
+# Re-treat je hart!
+
 Deze vierdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
 
-### PRAKTISCHE INFO
+## Praktische info
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen in de natuur & individuele ontmoetingen met Robbert.
 
@@ -35,7 +37,7 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 **Voor vragen:** 06-24678735 tussen 20.00-20.30
 
-### KOSTEN EN MEER
+### Kosten en meer
 
 Deze vierdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 695 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
 
