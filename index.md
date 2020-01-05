@@ -110,9 +110,11 @@ sections:
     text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
 meta:
-  keywords: ''
-  description: ''
-  author: ''
+  keywords: stilte retraite, retraite-aanbod, deelnemers, agenda, posts
+  description: 'Een stilte retraite het grootste geschenk dat je jezelf kunt geven.
+    Voel jij een verlangen naar stilte? Robbert van Bruggen biedt verschillende retraite-vormen
+    aan. '
+  author: Arjan ten Dam
 menu:
   navigation:
     identifier: _index
