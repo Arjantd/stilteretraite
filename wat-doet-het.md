@@ -5,7 +5,7 @@ image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: ''
 show_pager: true
 meta:
-  keywords: Werking, doel, ontspanning, retraite
+  keywords: Werking, richting, ontspanning, retraite
   description: Een georganiseerde retraite biedt de veiligheid waarin je, geholpen
     door de werking van de stilte, ontspant in het nu en als het ware ‘thuiskomt’
     in jezelf.
