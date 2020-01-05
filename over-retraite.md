@@ -28,7 +28,7 @@ Retraite is geen product dat je ‘koopt’. Er gaat altijd een verlangen aan vo
 
 Een retraite is geen leergang waarin je nieuwe kennis verwerft of vaardigheden aanleert; eigenlijk is het meer het omgekeerde, een àfleren, waarbij je vertrouwde identificaties en de manier waarop je kijkt en betekenis geeft langzaam maar zeker unplugged raakt door met nieuwe ogen en een open hart het leven te beleven.
 
-Als de zingeving van wat je tot nu toe deed en waarmee je je vereenzelvigde ineens begint weg te vallen; als er iets ‘niet meer wil’, of ‘iets anders’ zich al heeft aangekondigd en je leven ontregeld raakt, dan is een stilte-retraite het mooiste kade dat je jezelf cadeau kunt doen. Een retraite is het antwoord op het verlangen om je ‘ware zelf’ te vinden, om steeds aan te voelen wat er wil gebeuren in jouw leven, elk moment opnieuw, en de moed te hebben die richting daadwerkelijk te volgen. Om te ontspannen in het oog van de orkaan van de dagelijkse dynamiek die leven heet.
+Als de zingeving van wat je tot nu toe deed en waarmee je je vereenzelvigde ineens begint weg te vallen; als er iets ‘niet meer wil’, of ‘iets anders’ zich al heeft aangekondigd en je leven ontregeld raakt, dan is een stilte-retraite het mooiste dat je jezelf cadeau kunt doen. Een retraite is het antwoord op het verlangen om je ‘ware zelf’ te vinden, om steeds aan te voelen wat er wil gebeuren in jouw leven, elk moment opnieuw, en de moed te hebben die richting daadwerkelijk te volgen. Om te ontspannen in het oog van de orkaan van de dagelijkse dynamiek die leven heet.
 
 #### De soefi-meester Pir Vilayat Inayat-Khan (1916-2004) zei over retraite: ‘Are you able to withdraw yourself from your thoughts as a snake withdraws itself from its old skin?’
 
