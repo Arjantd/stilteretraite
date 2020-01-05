@@ -4,6 +4,12 @@ title: Voor wie is het?
 image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
 description: ''
 show_pager: true
+keywords: retraite,
+meta:
+  keywords: Deelnemer, geschikt, voor mij?
+  description: Voor iedereen die zichzelf beter wil leren kennen. Meer hart, minder
+    hoofd.
+  author: Robbert van bruggen
 menu:
   navigation:
     weight: 4
