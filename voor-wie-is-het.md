@@ -6,9 +6,9 @@ description: ''
 show_pager: true
 keywords: retraite,
 meta:
-  keywords: Deelnemer, geschikt, voor mij?
-  description: Voor iedereen die zichzelf beter wil leren kennen. Voor iedereen die
-    verlangt naar meer ruimte voor het hart in plaats van het hoofd.
+  keywords: Deelnemer, geschikt, beginner, gevorderde
+  description: 'Voor iedereen die zichzelf beter wil leren kennen. Beginner of gevorderde:
+    voor iedereen die verlangt naar leven vanuit het hart in plaats van het hoofd.'
   author: Robbert van bruggen
 menu:
   navigation:
