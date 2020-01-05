@@ -8,7 +8,7 @@ keywords: retraite,
 meta:
   keywords: Deelnemer, geschikt, voor mij?
   description: Voor iedereen die zichzelf beter wil leren kennen. Voor iedereen die
-    verlangt naar meer ruimte voor zijn of haar hart in plaats van hoofd.
+    verlangt naar meer ruimte voor het hart in plaats van het hoofd.
   author: Robbert van bruggen
 menu:
   navigation:
