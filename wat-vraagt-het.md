@@ -3,6 +3,12 @@ layout: page-centered-content
 title: Wat vraagt het?
 description: ''
 show_pager: true
+meta:
+  keywords: Voorwaarden, stilte, lef, voorbereidingen
+  description: 'Een retraite vraagt om overgave. Het vraagt lef om tijdelijk je vertrouwde
+    omgeving, gewoonten en to-do-lijstjes in te ruilen voor ware stilte en je ware
+    ‘ik’. '
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 5
