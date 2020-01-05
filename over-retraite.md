@@ -10,7 +10,7 @@ meta:
   description: In een retraite kun je ontspannen in wat je werkelijk bent. Tijdelijke
     afwezigheid van sociale impulsen geven je de gelegenheid te ontspannen in het
     ‘nu’ en bieden ruimte voor bezinning en transformatie.
-  author: ''
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 1
