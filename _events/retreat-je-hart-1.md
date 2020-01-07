@@ -2,7 +2,7 @@
 location: _locations/emmausklooster-in-velp.md
 attendees: 12
 layout: event
-title: Retreat je hart!
+title: Re-treat je hart!
 sub_heading: 'vijf daagse stilte retraite '
 from_date: 2020-05-13T15:00:00.000+00:00
 to_date: 2020-05-17T13:00:00.000+00:00
