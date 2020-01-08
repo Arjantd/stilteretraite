@@ -16,9 +16,7 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
-Een bijzondere vergaderlocatie en ontmoetingsruimte in het midden van het land!
-
-Deze prachtige locatie ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heuvelrug. Omringd door bossen en vogelgeluiden ben je hier in een rustige en inspirerende omgeving, waar je ook heerlijk kunt wandelen of buiten kunt werken in het open veld, in het bos of bij het water. Bezoekers komen vaak al tot rust nog voordat ze de drempel over zijn.
+Een bijzondere ontmoetingsruimte in het midden van het land! Het Boshuis ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heuvelrug. Omringd door bossen en vogelgeluiden ben je hier in een rustige en inspirerende omgeving, waar je ook heerlijk kunt wandelen door open veld, bos of langs water. Bezoekers komen vaak al tot rust nog voordat ze de drempel over zijn.
 
 De ruimte waar onze Stilte retraite (introductie)dag in plaatsvindt is licht en heeft tegelijkertijd een warme, prettige uitstraling. Er is plaats genoeg voor zo’n 10-14 personen. De ruimte is uitgerust met comfortabele stoelen, een zitje, keukentje en openslaande tuindeuren.
 
