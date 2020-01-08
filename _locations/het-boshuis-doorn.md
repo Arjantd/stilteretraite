@@ -22,7 +22,7 @@ Deze prachtige locatie ligt op Landgoed Beukenrode in Doorn, op de Utrechtse Heu
 
 De ruimte waar onze Stilte retraite (introductie)dag in plaatsvindt is licht en heeft tegelijkertijd een warme, prettige uitstraling. Er is plaats genoeg voor zo’n 10-14 personen. De ruimte is uitgerust met comfortabele stoelen, een zitje, keukentje en openslaande tuindeuren.
 
-Voor de deelnemers is er de hele dag Nespresso koffie, thee en water beschikbaar, evenals iets lekkers en vers fruit. De lunch is inbegrepen en bestaat uit een heerlijke verse soep, salade, lekker brood en vegetarisch beleg.
+Voor de deelnemers is er de hele dag koffie, thee en water beschikbaar, evenals iets lekkers en vers fruit. Een vegetarische lunch is inbegrepen.
 
 ### Bereikbaarheid en parkeren
 
