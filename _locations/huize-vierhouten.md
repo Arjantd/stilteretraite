@@ -23,7 +23,7 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
-In een buitengebied midden in de Veluwse bossen ligt het landgoed Huize Vierhouten, een oorspronkelijk zomerhuis van een adellijke familie op loopafstand van het dorp Vierhouten. Het huis werd in 1917 gebouwd en ademt een en al nostalgie. Gelijk bij binnenkomst waan je je al in lang vervlogen tijden, want de laatste 100 jaar is er niet zo gek veel veranderd in het huis. 
+In een buitengebied midden in de Veluwse bossen ligt het landgoed Huize Vierhouten, een oorspronkelijk zomerhuis van een adellijke familie op loopafstand van het dorp Vierhouten. Het huis werd in 1917 gebouwd en ademt een en al nostalgie. Je waant je oprecht terug in de tijd, want de laatste 100 jaar is er niet zo gek veel veranderd in dit huis. 
 
   
 Het interieur is eenvoudig en gezellig. Verwacht zeker geen luxe! De voorzieningen zijn uiterst eenvoudig maar volstaan voor een weekend in afzondering.   
