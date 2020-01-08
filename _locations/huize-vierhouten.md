@@ -30,6 +30,6 @@ Het interieur is eenvoudig en gezellig. Verwacht zeker geen luxe! De voorziening
 
 De grote tuin nodigt uit tot heerlijk rond slenteren en waar hij ophoudt, begint het bos. Eenmaal door het hek kan je urenlang ongestoord wandelen in het stiltegebied van het Vierhouterbos. Wild zie en hoor je hier volop: wilde zwijnen, damherten, reeen en zelfs dassen zijn hier veel voorkomende buurtgenoten.
 
-**Huize Vierhouten   
-**Elspeterbosweg 63 A  
+Huize Vierhouten   
+Elspeterbosweg 63 A  
 8076 RA Vierhouten
