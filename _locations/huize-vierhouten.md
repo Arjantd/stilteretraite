@@ -18,8 +18,18 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-12.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-7.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-13.jpg
-style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+  />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
-test
+In een buitengebied midden in de Veluwse bossen ligt het landgoed Huize Vierhouten, een oorspronkelijk zomerhuis van een adellijke familie op loopafstand van het dorp Vierhouten. Het huis werd in 1917 gebouwd en ademt een en al nostalgie. Gelijk bij binnenkomst waan je je al in lang vervlogen tijden, want de laatste 100 jaar is er niet zo gek veel veranderd in het huis. 
+
+  
+Het interieur is eenvoudig en gezellig. Verwacht zeker geen luxe! De voorzieningen zijn uiterst eenvoudig maar volstaan voor een weekend in afzondering.   
+
+De grote tuin nodigt uit tot heerlijk rond slenteren en waar hij ophoudt, begint het bos. Eenmaal door het hek kan je urenlang ongestoord wandelen in het stiltegebied van het Vierhouterbos. Wild zie en hoor je hier volop: wilde zwijnen, damherten, reeen en zelfs dassen zijn hier veel voorkomende buurtgenoten.
+
+**Huize Vierhouten   
+**Elspeterbosweg 63 A  
+8076 RA Vierhouten
