@@ -26,7 +26,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-4.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-3.jpg
 - https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-19.jpg
-style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+  />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 ---
@@ -41,6 +42,6 @@ Het huis heeft drie slaapkamers met elk twee bedden waarvan één met een dubbel
 Onder invloed van de één na laatste ijstijd, in het Pleistoceen, werd zo’n 150.000 jaar geleden het landschap gevormd dat nu het Veluwemassief is. Het Landgoed maakt onderdeel uit van dit landschap en ligt midden op de Veluwe, op de rand van een stuwwal op één van de hoogste plekken, namelijk 86 meter boven NAP. Zwerfkeien rond de boerderij en stuwwallen op het landgoed vormen nog rechtstreekse overblijfselen uit deze zeer oude tijd. Hiervóór bestond dit gebied uit onherbergzame, woeste gronden. Mede door de 10.000 jaar onveranderde en beschermde situatie tot op heden, hebben er geen Aardeverstoringen plaatsgevonden en zijn er hierdoor bijzondere energieplekken en leylijnen aanwezig. De locatie nodigt uit tot een intens contact met de natuur en de elementen en biedt door haar hoge ligging een prachtig uitzicht over het Nationale Park de Hoge Veluwe. Het landgoed is voor het publiek ontoegankelijk, waarbij de oorspronkelijke natuurprocessen, voor zover bekend, eeuwenlang ongestoord hun gang hebben kunnen gaan. Hierdoor is het landgoed een unieke verblijfplaats en paradijs voor wild geworden. Mens en dier vertoeven in harmonie. Er zijn geen aangrenzende of doorkruisende openbare wegen, waardoor dit specifiek Veluws landschap als een van de mooiste en meest stille rustgebieden van Nederland beschouwd kan worden.
 
 **Stilte en rust verblijf**  
-Stilte en aanwezig zijn in de natuur brengt je ziel en geest tot rust. Zoals onze gastvrouw Viathou betoogt is de natuur een poort om tot jezelf te komen. De verbinding met het creatie- en inspiratieveld In jezelf. Alleen al je pure aanwezigheid in de ont-moeting met dit scheppingsveld draagt hieraan bij. Aandacht geven aan de natuur en eindelijk jezelf Zijn midden in de natuur, geeft een innerlijke heling. Niets meer moeten, alleen nog leegte, stilte en rust. Terug naar je gevoel en intuïtie. In deze pure natuur geeft een verblijf op deze plek dé gelegenheid om in deze ont-moeting te delen, te helen en inzichten te krijgen.
+Stilte en aanwezig zijn in de natuur brengt je ziel en geest tot rust. Zoals onze gastvrouw Viathou betoogt is de natuur een poort om tot jezelf te komen. De verbinding met het creatie- en inspiratieveld In jezelf. Alleen al je pure aanwezigheid in de ont-moeting met dit scheppingsveld draagt hieraan bij. Aandacht geven aan de natuur en eindelijk jezelf Zijn midden in de natuur, geeft een innerlijke heling. Niets meer moeten, alleen nog leegte, stilte en rust. Terug naar je gevoel en intuïtie. In deze pure natuur geeft een verblijf op deze plek dé gelegenheid om in deze ontmoeting te delen, te helen en inzichten te krijgen.
 
 We zijn hier te gast op in het domein van de natuur en het wild. Met grote eerbied voor hun leefgebied mogen wij hun domein betreden. Stilteretraite.nl voelt zich gezegend hier te gast te mogen zijn.
