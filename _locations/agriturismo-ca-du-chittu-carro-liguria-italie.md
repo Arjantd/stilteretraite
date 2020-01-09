@@ -3,11 +3,11 @@ title: Ca du Chittu, Italie
 layout: location
 image: https://static.stilteretraite.nl/uploads/IMG_0459.JPG
 location: Carro, Italie
-description: 'In het noordwesten van Italië ligt Ligurië. Deze streek wordt ingesloten
-  door de Ligurische Zee en de Apennijnen en heeft een fijn klimaat, met zachte winters
-  en behaaglijk warme zomers. In het binnenland, nabij het dorpje Carro, vind je de
-  Agriturismo ''Ca du Chittu'', een heerlijke plek waar wij al een aantal keren te
-  gast waren voor een zeer bijzondere retraiteweek. '
+description: '1x per jaar organiseren we een retraite in het Italiaanse Ligurië. Deze
+  streek wordt ingesloten door de Ligurische Zee en de Apennijnen en heeft een fijn
+  klimaat, met zachte winters en warme zomers. In het binnenland, nabij het dorpje
+  Carro, vind je de Agriturismo ''Ca du Chittu'': een heerlijke plek waar wij al een
+  aantal keren te gast waren voor een zeer bijzondere retraiteweek.'
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
