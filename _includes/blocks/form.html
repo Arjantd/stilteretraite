@@ -5,14 +5,6 @@
             {% include blocks/form-control.html type=control.type name=control.name placeholder=control.placeholder required=control.required %}
         </div>
         {% endfor %}
-        <script src="https://www.google.com/recaptcha/api.js?render=6LcQutAUAAAAADn8pSmg_pxsnWYJ8rEEc_gGxvU6"></script>
-        <script>
-        grecaptcha.ready(function() {
-            grecaptcha.execute('6LcQutAUAAAAADn8pSmg_pxsnWYJ8rEEc_gGxvU6', {action: 'homepage'}).then(function(token) {
-               console.log(token);
-            });
-        });
-        </script>
         <input id="submit" name="submit" type="submit" class="btn btn-primary btn-lg pull-right" value="{{ include.submit_button_text }}" data-loading-text="{{ include.submitting_button_text }}">
     </div>
     <div class="alert alert-success success hidden">

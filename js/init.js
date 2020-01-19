@@ -649,22 +649,26 @@ $("form.ajax").submit((e) => {
 		
 	let data = form.serializeObject();
 
-	$.ajax({
-    type: 'post',
-    url: e.target.action,
-    data: JSON.stringify(data),
-    contentType: "application/json",
-		dataType: 'json'
-	})
-	.done((data) => {
-		form.find('.form-body').addClass('hidden');
-		form.find('.alert.success').removeClass('hidden');
-		submitButton.prop("disabled", false);
-	})
-	.fail((err) => {
-		form.find('.form-body').addClass('hidden');
-		form.find('.alert.fail').removeClass('hidden');
-		submitButton.prop("disabled", false);
+	grecaptcha.execute('6LcQutAUAAAAADn8pSmg_pxsnWYJ8rEEc_gGxvU6', {action: 'homepage'}).then((token) => {
+		data.captcha_token = token;
+
+		$.ajax({
+			type: 'post',
+			url: e.target.action,
+			data: JSON.stringify(data),
+			contentType: "application/json",
+			dataType: 'json'
+		})
+		.done((data) => {
+			form.find('.form-body').addClass('hidden');
+			form.find('.alert.success').removeClass('hidden');
+			submitButton.prop("disabled", false);
+		})
+		.fail((err) => {
+			form.find('.form-body').addClass('hidden');
+			form.find('.alert.fail').removeClass('hidden');
+			submitButton.prop("disabled", false);
+		});
 	});
 });
 
