@@ -13,7 +13,7 @@
 								<div class="flex-caption-text">
 									<div class="row">
 										<div class="col-md-6">
-											<h2>{{ hero_slider_item.title }}</h2>
+											<h1>{{ hero_slider_item.title }}</h1>
 											<p>{{ hero_slider_item.sub_heading }}</p>
 											{% for button in hero_slider_item.buttons %}
 											{% assign document = site.pages | concat: site.documents | where:"path", button.link | first %}
