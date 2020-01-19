@@ -1605,6 +1605,7 @@ body.location .site-header {
 .flex-caption-text h1, .flex-caption-text h2, .flex-caption-text h3, .flex-caption-text p{
 	color:#fff;
 	margin-bottom:30px;
+	line-height: 1.2em;
 }
 .flex-caption-text h2{
 	font-size:51px;
