@@ -2,7 +2,7 @@
     {% for image in include.gallery %}
     <div class="col-md-4 col-sm-6 col-xs-6 gallery-grid-item">
         <a href="{{ image | resized_image_url: "1024x768" }}" data-fancybox="gallery">
-            <img src="{{ image | resized_image_url: "358x239" }}" width="358" height="239" alt="">
+            <img data-src="{{ image | resized_image_url: "358x239" }}" width="358" height="239" alt="" class="lazy">
         </a>
     </div>
     {% endfor %}

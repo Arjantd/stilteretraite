@@ -10,7 +10,7 @@
             <ul class="slides">
                 {% for logo in page.partners %}
                     <li>
-                        <img src="{{ logo | absolute_url }}" alt="{{ logo }}" />
+                        <img data-src="{{ logo | absolute_url }}" alt="{{ logo }}" class="lazy" />
                     </li>
                 {% endfor %}
             </ul>
