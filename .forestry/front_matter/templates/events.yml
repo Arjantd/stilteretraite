@@ -2,6 +2,26 @@
 label: events
 hide_body: true
 fields:
+- name: meta
+  type: field_group
+  config: {}
+  fields:
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: Keywords
+  - name: description
+    type: text
+    config:
+      required: false
+    label: Description
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+  label: Meta
 - name: title
   type: text
   config:
