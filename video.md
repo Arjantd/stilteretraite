@@ -11,6 +11,10 @@ videos:
 - _videos/wat-gebeurt-er-tijdens-een-retraite.md
 - _videos/voor-wie-is-een-stilte-retraite.md
 - _videos/hoe-ziet-een-stilte-retraite-er-uit.md
+meta:
+  keywords: ''
+  description: ''
+  author: ''
 menu:
   navigation:
     identifier: _video
