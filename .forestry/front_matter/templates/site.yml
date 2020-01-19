@@ -1,4 +1,9 @@
 ---
 label: site
 hide_body: true
-fields: []
+fields:
+- name: recaptcha_site_key
+  type: text
+  config:
+    required: false
+  label: reCAPTCHA site key
