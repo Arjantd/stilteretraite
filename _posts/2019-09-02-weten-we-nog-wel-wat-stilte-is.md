@@ -12,6 +12,9 @@ banner_image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
 author: _people/arjan-ten-dam.md
 lead_text: In de huidige tijd waarin we leven laten we ons zo meesleuren door het
   collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’..
+meta:
+  description: In de huidige tijd waarin we leven laten we ons zo meesleuren door
+    het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’..
 
 ---
 > In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis...
