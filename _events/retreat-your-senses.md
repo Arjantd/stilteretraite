@@ -1,8 +1,8 @@
 ---
-title: Retreat your senses!
+title: Retreat your senses! (datum volgt)
 sub_heading: ''
-from_date: 
-to_date: 2020-09-26 00:00:00 +0200
+from_date: 2020-10-07 00:00:00 +0200
+to_date: 2020-10-11 00:00:00 +0200
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
