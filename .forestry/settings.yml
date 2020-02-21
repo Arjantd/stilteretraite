@@ -63,7 +63,6 @@ sections:
 - type: document
   path: _data/site.yml
   label: Site
-  match: "**/*"
 upload_dir: uploads
 public_path: https://static.stilteretraite.nl/uploads
 front_matter_path: ''
