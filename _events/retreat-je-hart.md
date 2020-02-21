@@ -6,13 +6,18 @@ to_date: 2020-04-26T13:00:00.000+00:00
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
 layout: event
-price: '695.00'
+price: 695.0
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
 lead_text: 'Re-treat je Hart is een vierdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte. '
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
 Deze vierdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
