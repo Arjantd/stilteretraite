@@ -7,7 +7,7 @@ layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 icon_boxes:
-- title: Initiatiefnemers
+- title: Robbert van Bruggen
   link: robbert-van-bruggen.md
   text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
     medestanders. Gezamenlijk spannen zij zich in voor een ''Ineenhutjeopdehei 2.0''  '
@@ -23,6 +23,11 @@ icon_boxes:
     zijn unieke sfeer en charme. Lees hier meer!
   icon: fa fa-university
 template: ''
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 menu:
   navigation:
     identifier: _over_ons
