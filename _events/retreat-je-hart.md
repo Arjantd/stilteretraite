@@ -14,7 +14,7 @@ lead_text: 'Re-treat je Hart is een vierdaagse retraite waar max. 12 deelnemers 
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte. '
 meta:
-  title: '5-daagse stilte retraite met Robbert van Bruggen vaaf woensdag 22 april
+  title: '5-daagse stilte retraite met Robbert van Bruggen vanaf woensdag 22 april
     2020 '
   keywords: stilte retraite, klooster, voorjaar 2020
   description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
