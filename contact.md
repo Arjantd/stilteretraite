@@ -3,7 +3,7 @@ title: Contact
 description: Contact Belkirk College
 publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: contact
-image: https://static.stilteretraite.nl/uploads/357.jpg
+image: https://static.stilteretraite.nl/uploads/Page banner CONTACT.jpg
 blocks:
 - template: form
   success_text: Het formulier is succesvol verstuurd.
@@ -29,6 +29,11 @@ blocks:
   submit_button_text: Verzend
   fields: []
   submitting_button_text: Verzenden...
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 menu:
   footer:
     weight: 4
