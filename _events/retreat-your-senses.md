@@ -1,18 +1,23 @@
 ---
 title: Retreat your senses!
 sub_heading: ''
-from_date: 2020-09-26 00:00:00 +0200
-to_date: 2020-10-02 00:00:00 +0200
+from_date: 
+to_date: 
 attendees: 10
 location: _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 layout: event
-price: '895.00'
+price: 895.0
 image: https://static.stilteretraite.nl/uploads/event - italie.jpg
 category: 5-days
 lead_text: Voor deze retraite trekken we ons terug in Liguria, Italie. Het proces
   van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen,
   om de Stilte ten volste te beleven.
 length_of_time: 5 dagen
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
 In de stilte opent zich puur ervaren! Te midden van de prachtige natuur in de directe omgeving van Ca du Chittu trekken we ons terug voor een bijzondere vijfdaagse stilte retraite. Het proces van verstilling wordt dagelijks verrijkt met concentratie op één of meer zintuigen, om de Stilte van deze plek ten volste te beleven. Naast de bekende vijf zintuigen zien, horen, ruiken, proeven en aanraking, wordt ook aandacht besteed aan de onderbuik als zintuig voor het aanvoelen van gevaar en veiligheid en het Hart als het meest essentiele ‘aanvoelend’ zintuig van ons wezen.
