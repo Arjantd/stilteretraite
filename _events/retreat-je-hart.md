@@ -6,7 +6,7 @@ to_date: 2020-04-26T13:00:00.000+00:00
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
 layout: event
-price: 695.0
+price: 645.0
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
@@ -28,9 +28,9 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen in de natuur & individuele ontmoetingen met Robbert.
 
-**Aanvang retraite:** woensdag ….. 16.00 uur
+**Aanvang retraite:** woensdag 22 april 2020 om 16.00 uur
 
-**Einde retraite:** zondag …… 15.00 uur
+**Einde retraite:** zondag 26 april 2020 om 15.00 uur
 
 **Locatie:** Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’
 
@@ -42,8 +42,8 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ### Kosten en meer
 
-Deze vierdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 695 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
+Deze vierdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 645 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
-De administratiekosten bij annulering vóór maandag ………. bedragen € 35; na die datum en vóór maandag …………. wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag …………. is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
+De administratiekosten bij annulering vóór maandag 13 april 2020 bedragen € 35; na die datum en vóór maandag 20 april 2020 wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 20 april is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
