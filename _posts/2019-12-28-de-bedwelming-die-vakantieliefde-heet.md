@@ -3,7 +3,7 @@ author: _people/robbert-van-bruggen.md
 categories:
 - persoonlijke ontwikkeling
 layout: post
-title: De bedwelming die vakantieliefde heet
+title: 'Hier een ander artikel '
 date: 2019-12-27T23:00:00.000+00:00
 lead_text: 'Een boeiende visie op ''de zoete bedwelming van vakantieliefde'': een
   cadeautje van het bestaan? '
@@ -13,6 +13,11 @@ tags:
 - " inzicht"
 banner_image: https://static.stilteretraite.nl/uploads/Post 7 - vakantieliefde.jpg
 related_posts: []
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
 .
