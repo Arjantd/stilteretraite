@@ -12,5 +12,10 @@ lead_text: 'Nieuw in ons aanbod is een ''Weekend retraite'', waarvoor we onze in
   nemen in een sfeervol 100 jaar oud landhuis te midden van de Veluwse bossen.  '
 length_of_time: weekend
 category: weekend
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
