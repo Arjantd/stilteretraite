@@ -9,7 +9,7 @@ lead_text: 'Een hele dag in stilte doorbrengen, om kennis te maken met het conce
   ''stilte-retraite'' of gewoon om een dag aan de hand van een bezielend programma
   tot jezelf te komen te midden van de bossen nabij Doorn. Iets voor jou? '
 from_date: 
-to_date: 
+to_date: 2020-09-26 00:00:00 +0200
 length_of_time: 1 dag
 price: 95
 meta:
