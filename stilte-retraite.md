@@ -39,6 +39,13 @@ icon_boxes:
   text: Deelnemers koesteren warme herinneringen aan hun deelname(s) en daar zijn
     wij trots op!
 template: overview
+meta:
+  title: 'Alles wat je moet weten over stilte retraite '
+  keywords: Retraite, uitleg, voor wie, wat is het
+  description: Een stilte retraite biedt de omstandigheden om een transformatie te
+    ondergaan, in een veilige omgeving die het jou mogelijk maakt om te kunnen ontspannen
+    in wat je werkelijk bent.
+  author: Robbert van Bruggen
 menu:
   footer:
     weight: 2
