@@ -8,10 +8,11 @@ pager:
 show_pager: true
 meta:
   keywords: stilte retraite, betekenis, inhoud
-  description: Stilte-retraite is de geleidelijke overgave aan een proces waarin je
+  description: Stilte retraite is de geleidelijke overgave aan een proces waarin je
     je ware identiteit ontdekt. Retraite is het grootste geschenk dat je jezelf kunt
     geven.
   author: ''
+  title: Wat is retraite?
 menu:
   navigation:
     weight: 2
