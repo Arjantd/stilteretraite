@@ -14,8 +14,8 @@ icon_boxes:
   icon: "\tfa fa-user-plus"
 - title: Wat wij beogen
   link: wat-wij-beogen.md
-  text: Tekst voor wat wij beogen kan hier geschreven worden. Niet teveel tekst zodat
-    het goed op de overzichtspagina past.
+  text: Stilteretraite.nl wil een bijdrage leveren door verschillende vormen van stilte-retraite
+    aan te bieden aan iedereen die transformatie zoekt in het leven.
   icon: "\tfa fa-thumbs-up"
 - title: Locaties
   link: locaties.md
