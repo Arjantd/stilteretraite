@@ -10,6 +10,7 @@ meta:
   description: 'Voor iedereen die zichzelf beter wil leren kennen. Beginner of gevorderde:
     voor iedereen die verlangt naar leven vanuit het hart in plaats van het hoofd.'
   author: Robbert van bruggen
+  title: Voor wie is een stilte retraite geschikt?
 menu:
   navigation:
     weight: 4
