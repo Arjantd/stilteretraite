@@ -12,6 +12,7 @@ meta:
     soms luchtig! '
   author: Robbert van Bruggen
   keywords: posts, blogs, artikelen
+  title: Posts over aan stilte retraite gerelateerde onderwerpen
 menu:
   footer:
     identifier: _magazine
