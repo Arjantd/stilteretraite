@@ -10,7 +10,7 @@ meta:
     door de werking van de stilte, ontspant in het nu en als het ware ‘thuiskomt’
     in jezelf.
   author: Arjan ten Dam
-  title: Wat doet retraite?
+  title: Wat doet een stilte retraite?
 menu:
   navigation:
     weight: 3
