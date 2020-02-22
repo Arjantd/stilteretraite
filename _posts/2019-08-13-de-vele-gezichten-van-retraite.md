@@ -19,11 +19,16 @@ categories:
 - Natuur
 - Persoonlijke ontwikkeling
 - " Overig"
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
 > Stilte retraites zijn ineens trendy. Een kritisch en reflexief geluid is op zijn plaats! Want wie is klaar voor een echte stilte retraite? Robbert van Bruggen schreef er over in [Koorddanser Magazine (kd.nl)](https://kd.nl/2019/09/03/de-storm-de-stilte-retraite/ "Koorddanser Magazine").
 
-Het zal niet lang meer duren voordat Kruitvat, Hema of De Action komen met een fleurig ‘retraite-pakket’ om alle jachtige klanten (en wie zijn dat niet) de mogelijkheid te verschaffen goedkoop en thuis te herbronnen; een doos gevuld met vitamines & mineralen, reinigingsthee, verkoelende gezichtstonic, oordopjes om het omgevingsgeluid uit te zetten, een fleurig meditatiekussentje met zoet gevormde Boeddha-afbeelding en een ouderwets kookwekkertje om je meditaties te timen zonder op je smartphone te kijken. En natuurlijk een gebruiksaanwijzing: ‘Cursus Kluizenaar – herbronnen in 10 stappen’. Het zal stormlopen! Zo hopen zij commercieel aan te sluiten op de ‘goed bezig!’-hype die het inmiddels aan het worden is; je telt spiritueel niet mee als je geen stilte-retraite hebt gedaan.
+Het zal niet lang meer duren voordat Kruidvat, Hema of De Action komen met een fleurig ‘retraite-pakket’ om alle jachtige klanten (en wie zijn dat niet) de mogelijkheid te verschaffen goedkoop en thuis te herbronnen; een doos gevuld met vitamines & mineralen, reinigingsthee, verkoelende gezichtstonic, oordopjes om het omgevingsgeluid uit te zetten, een fleurig meditatiekussentje met zoet gevormde Boeddha-afbeelding en een ouderwets kookwekkertje om je meditaties te timen zonder op je smartphone te kijken. En natuurlijk een gebruiksaanwijzing: ‘Cursus Kluizenaar – herbronnen in 10 stappen’. Het zal stormlopen! Zo hopen zij commercieel aan te sluiten op de ‘goed bezig!’-hype die het inmiddels aan het worden is; je telt spiritueel niet mee als je geen stilte-retraite hebt gedaan.
 
 **Op retraite**
 
@@ -67,6 +72,6 @@ Of ben je bereid door je-zelf heen te zakken hoe mooi, interessant, krampachtig 
 
 Het doen van stilte-retraite zonder iets te willen bereiken is flirten met de dood van het ego (ook weer zo’n conceptueel begrip; versta het maar als ‘incompleet beeld van wat je bent’). Als de confrontatie met de identificatie met jouw innerlijke flipperkast lonkt, laat je dan als een bokkige ezel in een klein hok zetten, geef je over aan de eenvoudige retraite structuur om langzaam maar zeker te ontspannen in het getuigebewustzijn en zie en beleef hoe die storm voortdurend van buiten en van binnen door je heen trekt en hoe diep je geïdentificeerd bent met favoriete verhaaltjes die niet meer blijken dan gekoesterde ondertitels van ervaringen (van jouzelf of via anderen als ongevraagd cadeautje gekregen). Waarin al je vertrouwde gemoedstoestanden zullen komen en gaan. En waarin je stuit op een soort taaie pekkerigheid waar alles in je bij weg wil blijven, die niet met luchtigheid weg te poetsen valt.
 
-Langzaam maar zeker ontspan je in het bewustzijn waarin het niet uitmaakt wát er is. Je ontdekt je dat ‘jij’ helemaal niet als kern bestaat (of zoals iemand tijdens een stilte-retraite ineens uitriep: Ik gebeur gewoon! Dingen verschijnen, worden groots en levend en maken weer plaats… de storm in de stilte. Er is geen goed of beter of niet-goed-genoeg of fout.
+Langzaam maar zeker ontspan je in het bewustzijn waarin het niet uitmaakt wát er is. Je ontdekt dat ‘jij’ helemaal niet als kern bestaat (of zoals iemand tijdens een stilte-retraite ineens uitriep: Ik gebeur gewoon! Dingen verschijnen, worden groots en levend en maken weer plaats… de storm in de stilte. Er is geen goed of beter of niet-goed-genoeg of fout.
 
 Is dát de retraite die je zoekt? Stilte-retraite is niet voor pussy’s. En tegelijkertijd het mooiste wat er is. Toch zo’n pakketje halen? Ze zijn nu in de aanbieding.
