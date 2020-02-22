@@ -15,6 +15,8 @@ lead_text: In de huidige tijd waarin we leven laten we ons zo meesleuren door he
 meta:
   description: In de huidige tijd waarin we leven laten we ons zo meesleuren door
     het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’..
+  title: " Weten we nog wat stilte is?  "
+  keywords: verlangen, stilte, dagelijkse sleur
 
 ---
 > In de huidige tijd waarin we leven laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’ door onze agenda’s. We zijn voortdurend onderweg van het een naar het ander alsof we meedoen aan een estafetteloop. Elke dag opnieuw bewegen we ons met kunst-en-vliegwerk tussen thuis, school en werk; van werk naar overleg; van snelweg naar file, van supermarkt naar thuis...
