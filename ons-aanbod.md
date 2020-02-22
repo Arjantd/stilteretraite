@@ -3,6 +3,12 @@ layout: page-centered-content
 title: Ons aanbod
 description: ''
 show_pager: true
+meta:
+  title: Ons retraite aanbod
+  keywords: stilte retraite aanbod
+  description: 'Van een stilte retraite weekend tot vijfdaagse stilte retraites: verschillende
+    retraite vormen voor iedereen!  '
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 6
