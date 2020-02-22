@@ -9,6 +9,7 @@ meta:
     omgeving, gewoonten en to-do-lijstjes in te ruilen voor ware stilte en je ware
     ‘ik’. '
   author: Robbert van Bruggen
+  title: Wat vraagt het om in stilte retraite te gaan?
 menu:
   navigation:
     weight: 5
