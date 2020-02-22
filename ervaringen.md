@@ -453,6 +453,12 @@ testimonials:
 
     Het is een ervaring die je jezelf moet gunnen. Het doet wat met je als mens. De dag na de retraite ben ik naar Pisa gegaan voor de terugvlucht en heb hier een armbandje met klavertjes vier gekocht. Deze zit vast geknoopt en doet me elke keer weer herinneren aan deze fantastische reis naar binnen. Op zoek naar mijn geluk heeft deze retraite een verpletterende indruk achter gelaten.
   participant: Debbie, 27, baan in de Reisbranche
+meta:
+  title: Ervaringen van deelnemers
+  keywords: ervaring, reviews, ervaringen, persoonlijk
+  description: Deelnemers aan onze retraites koesteren bijzondere herinneringen aan
+    hun deelname en daar zijn wij trots op!
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 7
