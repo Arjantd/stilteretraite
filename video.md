@@ -16,7 +16,7 @@ meta:
   description: 'In vier korte filmpjes komt Robbert van bruggen aan het woord over
     stilte retraite: wat houdt het in? Wat doet het met je? Is een stilte retraite
     iets voor jou? '
-  author: ''
+  author: Robbert van Bruggen
   title: Uitleg over stilte retraite in 4 video's
 menu:
   navigation:
