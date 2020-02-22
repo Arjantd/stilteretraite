@@ -24,9 +24,10 @@ icon_boxes:
   icon: fa fa-university
 template: ''
 meta:
-  title: ''
-  keywords: ''
-  description: ''
+  title: Over ons
+  keywords: Robbert van Bruggen, ineenhutjeopdehei, visie, locaties
+  description: Wie zijn wij en waar staan we voor? Op welke locaties vinden onze stilte
+    retraites plaats?
   author: ''
 menu:
   navigation:
