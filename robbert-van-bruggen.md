@@ -2,6 +2,13 @@
 layout: page-centered-content
 title: Robbert van Bruggen
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
+meta:
+  title: 'Over Robbert van Bruggen '
+  keywords: 'Robbert van Bruggen, retraite begeleider, teacher '
+  description: 'Robbert van Bruggen begeleidt stilte retraites: voor iedereen die
+    transformatie zoekt of zich wil bevrijden van de ‘innerlijke opjutter’ en de kramp
+    een afgescheiden ‘ik’ te zijn.'
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 2
