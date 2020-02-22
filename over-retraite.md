@@ -11,6 +11,7 @@ meta:
     impulsen geven je de gelegenheid te ontspannen in het ‘nu’ en bieden ruimte voor
     bezinning en transformatie.
   author: Robbert van Bruggen
+  title: Over stilte retraite
 menu:
   navigation:
     weight: 1
