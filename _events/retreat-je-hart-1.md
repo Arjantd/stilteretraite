@@ -10,9 +10,9 @@ price: 695.0
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 category: 5-days
 length_of_time: 5 dagen
-lead_text: "'Re-treat je Hart' is een vijfdaagse stilte retraite waar max. 12 deelnemers
-  zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
-  onderdompelen in stilte. "
+lead_text: 'Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
+  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+  onderdompelen in stilte. '
 meta:
   title: Re-treat je hart, vijfdaagse stilte retraite vanaf 3 juni 2020
   keywords: Klooster, stilte retraite, rust, zelfontwikkeling
