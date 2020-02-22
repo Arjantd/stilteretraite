@@ -112,9 +112,11 @@ sections:
 meta:
   keywords: stilte retraite, retraite-aanbod, deelnemen, week, weekend
   description: Een stilte retraite is het grootste geschenk dat je jezelf kunt geven.
-    Voel jij een verlangen naar stilte? Robbert van Bruggen biedt verschillende retraitevormen
+    Voel jij een verlangen naar stilte? Stilteretraite.nl biedt verschillende retraitevormen
     aan.
   author: Arjan ten Dam
+  title: 'Stilte retraite: voor iedereen die het verlangen voelt om zijn ‘ware zelf’
+    te vinden.'
 menu:
   navigation:
     identifier: _index
