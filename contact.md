@@ -30,10 +30,10 @@ blocks:
   fields: []
   submitting_button_text: Verzenden...
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Contact
+  keywords: contact, formulier, mail, bericht
+  description: Voor vragen en aanmeldingen kunt u gebruikmaken van ons contactformulier
+  author: Robbert van Bruggen
 menu:
   footer:
     weight: 4
