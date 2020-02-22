@@ -3,6 +3,13 @@ layout: page-centered-content
 title: Privacy
 description: ''
 show_pager: false
+meta:
+  title: Privacy Statement stilteretraite.nl
+  keywords: persoonsgegevens, privacy
+  description: stilteretraite.nl neemt uw privacy serieus en zorgt er voor dat er
+    geen misbruik, verlies, onbevoegde toegang of ongewenste openbaarmaking van uw
+    gegevens plaatsvindt.
+  author: Robbert van Bruggen
 menu:
   footer-bottom:
     weight: 1
