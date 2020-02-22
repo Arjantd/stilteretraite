@@ -28,7 +28,7 @@ meta:
   keywords: Robbert van Bruggen, ineenhutjeopdehei, visie, locaties
   description: Wie zijn wij en waar staan we voor? Op welke locaties vinden onze stilte
     retraites plaats?
-  author: ''
+  author: Robbert van bruggen
 menu:
   navigation:
     identifier: _over_ons
