@@ -115,7 +115,7 @@ meta:
     Voel jij een verlangen naar stilte? Stilteretraite.nl biedt verschillende retraitevormen
     aan.
   author: Arjan ten Dam
-  title: 'Stilte retraite: voor iedereen die het verlangen voelt om zijn ‘ware zelf’
+  title: 'Stilte retraite: voor iedereen met het verlangen om zijn of haar ‘ware zelf’
     te vinden.'
 menu:
   navigation:
