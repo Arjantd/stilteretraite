@@ -18,13 +18,13 @@ menu:
 ---
 # Ons retraite aanbod
 
-In de afgelopen 10 jaar bood Ineenhutjeopdehei louter vijfdaagse retraites. Deze retraites vangen aan op woensdagmiddag en eindigen op zondagmiddag. Nog steeds zijn wij van mening dat de tijdspanne van vijf dagen zich perfect leent om _werkelijk_ een stilte proces door te maken. Toch zijn er tal van legitieme redenen dat mensen zich niet altijd vijf dagen of meer kunnen vrij maken: daarom bieden we in 2020 ook weekend retraites en stilte dagen aan! We kijken uit naar de nieuwe energie die deze events met zich mee gaan brengen. 
+In de afgelopen 10 jaar bood Ineenhutjeopdehei louter vijfdaagse retraites. Deze retraites vangen aan op woensdagmiddag en eindigen op zondagmiddag. Nog steeds zijn wij van mening dat de tijdspanne van vijf dagen zich perfect leent om _werkelijk_ een stilte proces door te maken. Toch zijn er tal van legitieme redenen dat mensen zich niet altijd vijf dagen of meer kunnen vrij maken: daarom bieden we in 2020 ook weekend retraites en stilte dagen aan! We kijken uit naar de nieuwe energie die fe
 
 ## Weekend retraites
 
 Weekend retraites in 2 vormen:
 
-##### 1. Re-member! 
+**_Re-member!_**
 
 Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeopdehei.nl of stilteretraite.nl hebben gedaan en er naar verlangen nog eens een weekend onder gedompeld te zijn in stilte in combinatie met de bijzondere oefeningen en meditaties uit soefisme, boeddhisme en advaita vedanta. Verblijf op eigen kamer.
 
@@ -32,7 +32,7 @@ Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeo
 
 **Einde** zondag 15.00 uur
 
-##### 2. First weekend 
+**_First weekend_**
 
 Speciaal bedoeld voor iedereen die voor het eerst een stilte-retraite wil doen, of voor iedereen die gebonden is aan reguliere vakanties maar wel een weekend kan vrijmaken. Twee dagen stilte-meditaties, afgewisseld met oefeningen en meditaties uit verschillende tradities.
 
