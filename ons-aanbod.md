@@ -24,7 +24,7 @@ In de afgelopen 10 jaar bood Ineenhutjeopdehei louter vijfdaagse retraites. Deze
 
 Weekend retraites in 2 vormen:
 
-**_Re-member!_**
+> **_Re-member!_**
 
 Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeopdehei.nl of stilteretraite.nl hebben gedaan en er naar verlangen nog eens een weekend onder gedompeld te zijn in stilte in combinatie met de bijzondere oefeningen en meditaties uit soefisme, boeddhisme en advaita vedanta. Verblijf op eigen kamer.
 
@@ -32,7 +32,7 @@ Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeo
 
 **Einde** zondag 15.00 uur
 
-**_First weekend_**
+> **_First weekend_**
 
 Speciaal bedoeld voor iedereen die voor het eerst een stilte-retraite wil doen, of voor iedereen die gebonden is aan reguliere vakanties maar wel een weekend kan vrijmaken. Twee dagen stilte-meditaties, afgewisseld met oefeningen en meditaties uit verschillende tradities.
 
