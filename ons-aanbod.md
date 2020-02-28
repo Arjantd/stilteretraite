@@ -5,7 +5,7 @@ description: ''
 show_pager: true
 meta:
   title: Ons retraite aanbod
-  keywords: stilte retraite aanbod
+  keywords: stilte retraite aanbod, weekend, dag, vijfdaagse
   description: 'Van een stilte retraite weekend tot vijfdaagse stilte retraites: verschillende
     retraite vormen voor iedereen!  '
   author: Robbert van Bruggen
