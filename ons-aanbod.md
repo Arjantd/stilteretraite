@@ -18,9 +18,11 @@ menu:
 ---
 # Ons retraite aanbod
 
+## Weekend retraites
+
 Weekend retraites in 2 vormen:
 
-## 1. Re-member! 
+##### 1. Re-member! 
 
 Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeopdehei.nl of stilteretraite.nl hebben gedaan en er naar verlangen nog eens een weekend onder gedompeld te zijn in stilte in combinatie met de bijzondere oefeningen en meditaties uit soefisme, boeddhisme en advaita vedanta. Verblijf op eigen kamer.
 
@@ -28,7 +30,7 @@ Speciaal bedoeld voor hen die al eens eerder een stilte-retraite bij ineenhutjeo
 
 **Einde** zondag 15.00 uur
 
-## 2. First weekend 
+##### 2. First weekend 
 
 Speciaal bedoeld voor iedereen die voor het eerst een stilte-retraite wil doen, of voor iedereen die gebonden is aan reguliere vakanties maar wel een weekend kan vrijmaken. Twee dagen stilte-meditaties, afgewisseld met oefeningen en meditaties uit verschillende tradities.
 
@@ -36,7 +38,7 @@ Speciaal bedoeld voor iedereen die voor het eerst een stilte-retraite wil doen, 
 
 **Einde** zondag 15.00 uur. Geen specifieke voorkennis of ervaring met meditatie, mindfullness of yoga nodig. Verblijf op eigen kamer.
 
-## Stilte dag
+## Stilte dagen
 
 Voor iedereen die wel eens wil ervaren wat een dag in stilte met je doet; bijv. voor hen die overwegen een meerdaagse stilte-retraite te doen maar dit een spannende stap lijkt.
 
