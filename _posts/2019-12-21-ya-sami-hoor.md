@@ -4,13 +4,18 @@ categories:
 - overig
 layout: post
 title: Gedicht van een deelnemer
-date: 2019-12-20T23:00:00.000+00:00
+date: 2020-02-19 00:00:00 +0100
 lead_text: Ya Sami - Hoor!
 tags:
 - gedicht
 - " hoor!"
 banner_image: https://static.stilteretraite.nl/uploads/Post 6 - Gedicht.jpg
 related_posts: []
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
 Zomer 2016
