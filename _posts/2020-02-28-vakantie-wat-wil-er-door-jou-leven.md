@@ -1,5 +1,5 @@
 ---
-author: []
+author: _people/robbert-van-bruggen.md
 categories: []
 layout: post
 meta:
@@ -8,7 +8,7 @@ meta:
   description: ''
   author: ''
 title: 'Vakantie: wat wil er door jou leven?'
-date: 2020-02-28 00:00:00 +0100
+date: 2020-02-26 00:00:00 +0100
 lead_text: 'Wat betekent vakantie voor jou? Het hele scala aan mogelijkheden komt
   jaarlijks voorbij: van zuipen tot vervulling. Tijd voor een kritische noot. Is vakantie
   niet eigenlijk een halfbakken retraite? '
