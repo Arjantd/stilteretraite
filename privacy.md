@@ -48,7 +48,7 @@ Stilteretraite.nl toont, verstrekt of verkoopt uw gegevens _niet_ aan derden.
 
 **Cookies, of vergelijkbare technieken, die wij gebruiken**
 
-Stilteretraite.nl gebruikt alleen technische en functionele cookies, die geen inbreuk maken op uw privacy. De cookies die wij gebruiken zijn noodzakelijk voor de technische werking van de website en uw gebruiksgemak. Ze zorgen ervoor dat de website naar behoren werkt en onthouden bijvoorbeeld uw voorkeursinstellingen. U kunt zich afmelden voor cookies door uw internetbrowser zo in te stellen dat deze geen cookies meer opslaat. Daarnaast kunt u ook alle informatie die eerder is opgeslagen via de instellingen van uw browser verwijderen.
+Stilteretraite.nl gebruikt alleen technische en functionele cookies, die geen inbreuk maken op uw privacy. Ook gebruiken wij cookies om Google Analytics te kunnen benutten. U kunt zich afmelden voor cookies door uw internetbrowser zo in te stellen dat deze geen cookies meer opslaat. Daarnaast kunt u ook alle informatie die eerder is opgeslagen via de instellingen van uw browser verwijderen.
 
 **Gegevens inzien, aanpassen of verwijderen**
 
