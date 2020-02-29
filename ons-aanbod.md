@@ -18,7 +18,7 @@ menu:
 ---
 # Ons retraite aanbod
 
-In de afgelopen 10 jaar hadden de retraites van Ineenhutjeopdehei altijd een duur van vijf dagen: aanvang woensdagmiddag en eindigen op zondagmiddag. Nog steeds geloven we dat de tijdspanne van vijf dagen zich erg goed leent om _werkelijk_ een stilte proces door te maken. Toch zijn er tal van redenen te bedenken waarom mensen zich niet zomaar vijf dagen kunnen vrij maken. Daarom bieden we in 2020 ook 'weekend retraites' en 'stilte dagen' aan! We kijken uit naar de nieuwe energie die deze events met zich mee zullen brengen.
+In de afgelopen 10 jaar hadden de retraites van Ineenhutjeopdehei altijd een duur van vijf dagen: aanvang woensdagmiddag en eindigen op zondagmiddag. Nog steeds geloven we dat de tijdspanne van vijf dagen zich erg goed leent om _werkelijk_ een stilte proces door te maken. De ervaring heeft ons echter geleerd dat geinteresseerden zich lang niet altijd vijf dagen vrij kunnen maken. Daarom bieden we in 2020 ook 'weekend retraites' en 'stilte dagen' aan! We kijken uit naar de nieuwe energie die deze events met zich mee zullen brengen.
 
 ## Weekend retraites
 
