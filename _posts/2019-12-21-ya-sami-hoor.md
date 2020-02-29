@@ -4,7 +4,7 @@ categories:
 - overig
 layout: post
 title: Gedicht van een deelnemer
-date: 2020-02-19 00:00:00 +0100
+date: 2020-02-22 00:00:00 +0100
 lead_text: Ya Sami - Hoor!
 tags:
 - gedicht
