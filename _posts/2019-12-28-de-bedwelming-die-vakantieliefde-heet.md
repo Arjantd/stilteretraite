@@ -14,7 +14,7 @@ tags:
 - " inzicht"
 - werk
 - " spiritualiteit"
-banner_image: https://static.stilteretraite.nl/uploads/Post 7 - vakantieliefde.jpg
+banner_image: https://static.stilteretraite.nl/uploads/Post 8 Werk.jpg
 related_posts: []
 meta:
   title: ''
