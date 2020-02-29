@@ -3,14 +3,17 @@ author: _people/robbert-van-bruggen.md
 categories:
 - persoonlijke ontwikkeling
 layout: post
-title: 'Hier een ander artikel '
-date: 2019-12-27T23:00:00.000+00:00
-lead_text: 'Een boeiende visie op ''de zoete bedwelming van vakantieliefde'': een
-  cadeautje van het bestaan? '
+title: Spiritualiteit op het werk
+date: 2020-02-21 00:00:00 +0100
+lead_text: 'Lekker bezig in je functie, maar niet het gevoel dat je helemaal tot je
+  recht komt? Kun je niks met je spiritualiteit op het werk? Dan maar fijn in de privétijd
+  wat doen.
+
+'
 tags:
-- stilte retraite
-- " liefde"
 - " inzicht"
+- werk
+- " spiritualiteit"
 banner_image: https://static.stilteretraite.nl/uploads/Post 7 - vakantieliefde.jpg
 related_posts: []
 meta:
