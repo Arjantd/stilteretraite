@@ -3,10 +3,11 @@ author: _people/robbert-van-bruggen.md
 categories: []
 layout: post
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: 'Vakantie: wat wil er door jou leven?'
+  keywords: leven, opladen, vakantie, verlangen
+  description: Wat betekent vakantie voor jou? Is vakantie niet eigenlijk een halfbakken
+    retraite?
+  author: Robbert van Bruggen
 title: 'Vakantie: wat wil er door jou leven?'
 date: 2020-02-26 00:00:00 +0100
 lead_text: 'Wat betekent vakantie voor jou? Het hele scala aan mogelijkheden komt
