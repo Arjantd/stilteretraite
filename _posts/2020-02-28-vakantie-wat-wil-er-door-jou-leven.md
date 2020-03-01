@@ -27,25 +27,17 @@ We willen ons wanen in het paradijs dat ons van nieuwe energie moet voorzien om 
 
 **Afkicken**
 
-Wordt dit een moreel praatje die de vakantiepret wil bederven? Welnee, want niets zal de hang naar
-
-genieten in de weg staan. Vraag een junkie voor zijn shotje of hij wil afkicken en hij zal met ’ja, straks’ antwoorden. Naderend genot laat zich lastig ontsluieren. We ontwaken nou eenmaal liever uit onze ellende dan uit onze vormen van kortstondige bedwelming. Face it!
+Wordt dit een moreel praatje die de vakantiepret wil bederven? Welnee, want niets zal de hang naar genieten in de weg staan. Vraag een junkie voor zijn shotje of hij wil afkicken en hij zal met ’ja, straks’ antwoorden. Naderend genot laat zich lastig ontsluieren. We ontwaken nou eenmaal liever uit onze ellende dan uit onze vormen van kortstondige bedwelming. Face it!
 
 Andere vraag is: voedt het je? Geeft het werkelijk de nieuwe energie waarop je hoopte en waarmee je de nabije geprojecteerde werk-toekomst weer een poosje aan kunt? Wat is de bron van dit verlangen? Wat is het verlangen dat zich in vakanties uitleeft?
 
 Is het jezelf overgeven aan vormen van zorgeloze ontgrenzing en mateloosheid niet de symbolische uiting van het verlangen ons ware Zelf te vinden? Voorbij onze identificatie met het van anderen ‘afgescheiden’ te zijn? Toont zich in de rituele bedwelming van groepen jongeren die zich overgeven aan overmatig alcoholgebruik een spirituele kiem? Comazuipen als verlangen naar Satori? Wellicht valt in het fenomeen van de vakantiebehoefte nog iets anders te ontdekken.
 
-Ogenschijnlijk is het een onschuldig middel om weer een beetje uit je ingeperkte zelf te ontgrenzen; als een soort halfbakken retraite WAARDOOR JE WEER EEN BEETJE DENKT OP TE LADEN. Of is het niet meer dan een symbolische vrijheid waarmee we vooral van iets wezenlijks wégblijven, waarmee we onze illusiebatterij opladen om het ‘ikje’ in stand te kunnen houden? Het is goedbeschouwd een bijzonder fenomeen; het nodig hebben van vakantie. Is het een expansievat
-
-waarmee we de wijze waarop we onze maatschappij hebben ingericht kunnen continueren? En welke
-
-honger stilt vakantie eigenlijk in onszelf? Daar zou ik graag wat onderzoekend in rond willen dwalen, als een soort vakantietochtje in de onvoorspelbare Villa Volta van ons menselijke zelf.
+Ogenschijnlijk is het een onschuldig middel om weer een beetje uit je ingeperkte zelf te ontgrenzen; als een soort halfbakken retraite WAARDOOR JE WEER EEN BEETJE DENKT OP TE LADEN. Of is het niet meer dan een symbolische vrijheid waarmee we vooral van iets wezenlijks wégblijven, waarmee we onze illusiebatterij opladen om het ‘ikje’ in stand te kunnen houden? Het is goedbeschouwd een bijzonder fenomeen; het nodig hebben van vakantie. Is het een expansievat waarmee we de wijze waarop we onze maatschappij hebben ingericht kunnen continueren? En welke honger stilt vakantie eigenlijk in onszelf? Daar zou ik graag wat onderzoekend in rond willen dwalen, als een soort vakantietochtje in de onvoorspelbare Villa Volta van ons menselijke zelf.
 
 **Snoepgoed**
 
-Plezier maken, er is helemaal niks mis mee. Het geeft kortstondige momenten van vervulling. Het is als suiker, het smaakt naar meer. Zoals het eten van een suikerspin; de kleur en het spannende ervan trekken aan. En voor je het weet heb je er alweer genoeg van of is die op. Maar wat heb je nou gegeten? En wat was dan die lekkere trek?
-
-Aan de bron van verlangen naar vervulling kunnen we onze honger naar genot herkennen als een
+Plezier maken, er is helemaal niks mis mee. Het geeft kortstondige momenten van vervulling. Het is als suiker, het smaakt naar meer. Zoals het eten van een suikerspin; de kleur en het spannende ervan trekken aan. En voor je het weet heb je er alweer genoeg van of is die op. Maar wat heb je nou gegeten? En wat was dan die lekkere trek? Aan de bron van verlangen naar vervulling kunnen we onze honger naar genot herkennen als een
 
 permanent gevoel van meer nodig hebben: een diepgevoeld tekort komen, niet genoeg hebben, nooit goed genoeg zijn, miskend, ontevreden. Steeds jezelf en anderen vergelijkend meten en dan je ideaal projecteren van hoe je eigenlijk zou moeten zijn.’ Plezier zoeken is behalve het zoeken naar vervulling aan de oppervlakte, tegelijkertijd het vermijden van het lijden in ons dat achter alles voelbaar is. Een bijna permanent aanwezige droefheid. Die moet natuurlijk gemaskeerd en verzacht worden door een continu infuus van snoepgoed in al zijn verschijningsvormen.
 
@@ -55,9 +47,7 @@ Kijk eens naar dat knagende gat in jezelf dat de bron vormt van het pijnlichaam.
 
 **Vastzitten**
 
-Lijden is geen mentaal thema dat je kunt oplossen door het te ontkennen of te bagatelliseren, bijvoorbeeld met aangeleerde rituele dankbaarheid voor wat het leven je geeft. Noch door er van weg te blijven en een oneindige stroom pleziertjes na te jagen. Het lijden is het ervaren, het herkennen en onderkennen van de inzuigende werking - zonder die te willen veranderen – als de poort naar bevrijding. Laat je meevoeren naar dat immer subtiel ‘draaikolkende modderpunt’ en in precies dát ‘ervaren’ de schoonheid ervan te ontdekken. Niet als ongewenst, maar in de erkenning dat het lijden onlosmakelijk verbonden is met het afgescheiden en ingezogen zijn. Is afgescheidenheid dan ‘fout leven’’? Nee, het is het Ene bewustzijn dat zichzelf inzuigt en een unieke vorm van persoonlijke beperking van leven, beleven, genieten, lijden en bevrijden doorleeft als jij. Als we niet begrijpen waarin we vastzitten dan zijn alle manieren waarmee we ons proberen te bevrijden van de ‘ingebeelde last’ vruchteloze pogingen die te overstijgen. Niet alleen persoonlijk, ook in het collectief. Vakantie dient hier natuurlijk slechts als voorbeeld. Het ontwijkend vermijden van de bron van je lijden,
-
-veroorzaakt miljoenen vormen van polsstokspringen naar geluk. Dat gaat niet over de oorsprong ervan in jouw persoonlijke geschiedenis, maar over het begrijpen wat pijn is en hoe pijn onlosmakelijk verbonden is met je persoonlijke identiteit.
+Lijden is geen mentaal thema dat je kunt oplossen door het te ontkennen of te bagatelliseren, bijvoorbeeld met aangeleerde rituele dankbaarheid voor wat het leven je geeft. Noch door er van weg te blijven en een oneindige stroom pleziertjes na te jagen. Het lijden is het ervaren, het herkennen en onderkennen van de inzuigende werking - zonder die te willen veranderen – als de poort naar bevrijding. Laat je meevoeren naar dat immer subtiel ‘draaikolkende modderpunt’ en in precies dát ‘ervaren’ de schoonheid ervan te ontdekken. Niet als ongewenst, maar in de erkenning dat het lijden onlosmakelijk verbonden is met het afgescheiden en ingezogen zijn. Is afgescheidenheid dan ‘fout leven’’? Nee, het is het Ene bewustzijn dat zichzelf inzuigt en een unieke vorm van persoonlijke beperking van leven, beleven, genieten, lijden en bevrijden doorleeft als jij. Als we niet begrijpen waarin we vastzitten dan zijn alle manieren waarmee we ons proberen te bevrijden van de ‘ingebeelde last’ vruchteloze pogingen die te overstijgen. Niet alleen persoonlijk, ook in het collectief. Vakantie dient hier natuurlijk slechts als voorbeeld. Het ontwijkend vermijden van de bron van je lijden, veroorzaakt miljoenen vormen van polsstokspringen naar geluk. Dat gaat niet over de oorsprong ervan in jouw persoonlijke geschiedenis, maar over het begrijpen wat pijn is en hoe pijn onlosmakelijk verbonden is met je persoonlijke identiteit.
 
 **Willen leven**
 
