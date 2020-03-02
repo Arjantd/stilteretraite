@@ -44,7 +44,7 @@ sections:
     text: |-
       Weten we nog wel wat stilte is? In de huidige tijd laten we ons zo meesleuren door het collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’. Diep van binnen vragen we ons af of wat we doen nog wel klopt met waar we naar verlangen. Maar onze innerlijke fluisterstem wordt stelselmatig overstemd door de opjutter in ons en langzaam ontwikkelt zich een chronische vermoeidheid.
 
-      Uiteindelijk dient zich de behoefte aan om ‘los’ te komen van de dagelijkse sleur: een verlangen naar stilte, ruimte en bezinning. Misschien ben je daarom ook wel op deze website aanbeland?
+      Uiteindelijk dient zich de behoefte aan om om ons te bevrijden van de ingezogenheid in die dagelijkse sleur: een verlangen naar stilte, ruimte en bezinning. Misschien ben je daarom ook wel op deze website aanbeland?
     video:
       link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
       thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
