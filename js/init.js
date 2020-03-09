@@ -656,7 +656,7 @@ $("form.ajax").submit((e) => {
 			type: 'post',
 			url: e.target.action,
 			data: JSON.stringify(data),
-			contentType: "application/json",
+			contentType: 'application/json',
 			dataType: 'json'
 		})
 		.done((data) => {
