@@ -14,7 +14,7 @@
         {{ page.script }}
         {% assign form = page.blocks | where:"template","form" | first %}
         {% if form != nil %}
-        <script src="https://www.google.com/recaptcha/api.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js?render={{ site.data.site.recaptcha_site_key }"></script>
         {% endif %}
         <script src="{{ "/js/init.js" | absolute_url }}"></script> <!-- All Scripts -->
         <!-- Global site tag (gtag.js) - Google Analytics -->
