@@ -2,6 +2,12 @@
 layout: page-centered-content
 title: Wat wij beogen
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
+show_pager: false
 menu:
   navigation:
     weight: 1
