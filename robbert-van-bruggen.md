@@ -9,6 +9,7 @@ meta:
     transformatie zoekt of zich wil bevrijden van de ‘innerlijke opjutter’ en de kramp
     een afgescheiden ‘ik’ te zijn.'
   author: Robbert van Bruggen
+show_pager: false
 menu:
   navigation:
     weight: 2
