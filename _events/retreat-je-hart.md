@@ -1,7 +1,7 @@
 ---
 title: Re-treat je hart! Emmausklooster
 sub_heading: Vijfdaagse stilte retraite
-from_date: 2020-04-22T14:00:00.000+00:00
+from_date: 2020-04-22 16:00:00 +0200
 to_date: 2020-04-26T13:00:00.000+00:00
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
