@@ -14,8 +14,9 @@ meta:
   author: Arjan ten Dam
 menu:
   navigation:
-    weight: 2
+    weight: 1
     parent: _over_ons
     identifier: item_EjdDzis
+    title: Robbert en team
 
 ---

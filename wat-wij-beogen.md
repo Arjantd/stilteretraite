@@ -10,7 +10,7 @@ meta:
 show_pager: false
 menu:
   navigation:
-    weight: 1
+    weight: 2
     parent: _over_ons
     identifier: item_Rs1AtHv
 
