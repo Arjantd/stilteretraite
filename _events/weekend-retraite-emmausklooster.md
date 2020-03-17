@@ -8,7 +8,7 @@ image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-
 lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
   aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
   maar wel verlangt naar een 'Refresh' weekend.
-from_date: 2020-05-14T22:00:00.000+00:00
+from_date: 2020-05-15 00:00:00 +0200
 to_date: 2020-05-16T22:00:00.000+00:00
 length_of_time: 3 dagen
 price: 395
@@ -36,7 +36,7 @@ Voorafgaand aan de retraite heb je telefonisch contact met Robbert.
 
 ‘Re-member!’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-**Aanvang retraite:** woensdag om 16.00 uur
+**Aanvang retraite:** vrijdag om 14.00 uur
 
 **Einde retraite:** zondag om 15.00 uur
 
