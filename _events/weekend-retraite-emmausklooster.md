@@ -11,7 +11,7 @@ lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerd
 from_date: 2020-05-14T22:00:00.000+00:00
 to_date: 2020-05-16T22:00:00.000+00:00
 length_of_time: 3 dagen
-price: 345
+price: 395
 meta:
   title: Weekend retraite Emmausklooster, 15-17 mei 2020
   keywords: weekend stilte retraite, klooster, Robbert van Bruggen, beginner
