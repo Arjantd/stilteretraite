@@ -46,4 +46,8 @@ Voor iedereen die wel eens wil ervaren wat een dag in stilte met je doet; bijv. 
 
 De stilte dag wordt aangevangen met inleiding op stilte retraite. Stilte meditatie wordt afgewisseld met enkele oefeningen gericht op het Hart en een wandeling. De dag wordt afgesloten met een deelronde.
 
-**Aankomst** 8.30, aanvang 9.00, **einde** stilte-dag om 17.00. Geen specifieke voorkennis of ervaring met meditatie, mindfullness of yoga nodig.
+**Aankomst** 8.30, aanvang 9.00  
+  
+**Einde** stilte-dag om 17.00.   
+  
+Geen specifieke voorkennis of ervaring met meditatie, mindfullness of yoga nodig.
