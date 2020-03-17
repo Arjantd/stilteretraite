@@ -32,6 +32,22 @@ Op zaterdag heb je de mogelijkheid voor een persoonlijke ontmoeting met Robbert,
 
 Voorafgaand aan de retraite heb je telefonisch contact met Robbert.
 
+## Praktische info
+
+‘Re-member!’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
+
+**Aanvang retraite:** woensdag om 16.00 uur
+
+**Einde retraite:** zondag om 15.00 uur
+
+**Locatie:** Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’
+
+**Informatie:** Robbert van Bruggen
+
+**Per email:** gebruik het contactformulier
+
+**Voor vragen:** 06-24678735 tussen 20.00-20.30 uur
+
 ### Kosten en meer
 
 Kosten: € 395. Je ontvangt twee facturen, één voor het retraite-deel van stilteretraite.nl en één voor de verblijfskosten van Avant Spirit.
