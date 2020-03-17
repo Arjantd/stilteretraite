@@ -8,8 +8,8 @@ image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-
 lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
   aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
   maar wel verlangt naar een 'Refresh' weekend.
-from_date: 2020-05-15 00:00:00 +0200
-to_date: 2020-05-16T22:00:00.000+00:00
+from_date: 2020-05-15 14:00:00 +0200
+to_date: 2020-05-17 15:00:00 +0200
 length_of_time: 3 dagen
 price: 395
 meta:
