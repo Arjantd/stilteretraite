@@ -10,11 +10,6 @@ meta:
     een afgescheiden ‘ik’ te zijn.'
   author: Robbert van Bruggen
 show_pager: false
-menu:
-  navigation:
-    weight: 2
-    parent: _over_ons
-    identifier: item_EjdDzis
 
 ---
 **Robbert van Bruggen**

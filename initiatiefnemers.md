@@ -10,5 +10,11 @@ meta:
   keywords: ''
   description: ''
   author: ''
+menu:
+  navigation:
+    weight: 2
+    parent: _over_ons
+    identifier: item_EjdDzis
+    title: Robbert van Bruggen
 
 ---
