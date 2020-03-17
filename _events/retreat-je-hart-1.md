@@ -4,9 +4,9 @@ attendees: 12
 layout: event
 title: Re-treat je hart! Emmausklooster
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2020-06-03 17:00:00 +0200
-to_date: 2020-06-07 15:00:00 +0200
-price: 695.0
+from_date: 2020-06-03T15:00:00.000+00:00
+to_date: 2020-06-07T13:00:00.000+00:00
+price: 675
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 category: 5-days
 length_of_time: 5 dagen
