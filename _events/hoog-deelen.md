@@ -8,7 +8,7 @@ image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-2.jpg
 lead_text: 'Het unieke Veluwse landgoed waar we 1 of 2 keer per jaar te gast zijn
   is een klein gesloten landgoed (30 Ha) waar stilte en natuur volledig hand in hand
   gaan. Maximaal aantal deelnemers: 8.'
-from_date: 2020-07-09 14:00:00 +0200
+from_date: 2020-07-08 14:00:00 +0200
 to_date: 2020-07-12 15:00:00 +0200
 length_of_time: 5 dagen
 price: 675
