@@ -12,11 +12,6 @@ icon_boxes:
   text: Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
     medestanders. Gezamenlijk spannen zij zich in voor een 'Ineenhutjeopdehei 2.0'
   icon: "\tfa fa-user-plus"
-- title: Robbert van Bruggen
-  link: robbert-van-bruggen.md
-  text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
-    medestanders. Gezamenlijk spannen zij zich in voor een ''Ineenhutjeopdehei 2.0''  '
-  icon: "\tfa fa-user-plus"
 - title: Wat wij beogen
   link: wat-wij-beogen.md
   text: Stilteretraite.nl wil een bijdrage leveren door verschillende vormen van stilte-retraite
