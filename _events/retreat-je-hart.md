@@ -6,7 +6,7 @@ to_date: 2020-04-26T13:00:00.000+00:00
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
 layout: event
-price: 645.0
+price: 675
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 category: 5-days
 length_of_time: 5 dagen
