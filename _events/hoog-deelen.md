@@ -11,7 +11,7 @@ lead_text: 'Het unieke Veluwse landgoed waar we 1 of 2 keer per jaar te gast zij
 from_date: 2020-07-07T22:00:00.000+00:00
 to_date: 2020-07-11T22:00:00.000+00:00
 length_of_time: 5 dagen
-price: 695
+price: 675
 meta:
   title: 'Vijfdaagse stilte retraite op de Veluwe: back to nature! '
   keywords: Stilte retraite, natuur, rust, zelfontwikkeling
@@ -44,7 +44,7 @@ Voorafgaand aan elke retraite heeft Robbert met alle deelnemers contact; voor ee
 
 **Per email:** wilnu@ineenhutjeopdehei.nl
 
-**Voor vragen:** 06-24678735 tussen 20.00-20.30
+**Voor vragen:** 06-24678735 tussen 20.00-20.30 uur
 
 ### Kosten en meer
 
