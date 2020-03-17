@@ -22,14 +22,14 @@ meta:
 
 ---
 **Voor wie?**  
-Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.   
-  
-De stilte-retraite vangt vrijdagmiddag om 14.00 aan, je bent welkom vanaf 12.00 uur. Vanaf 16.00 uur gaan we in stilte tot zondagmiddag 13.00 uur. Einde retraite 15.00 uur.  
-  
-De retraite vindt plaats in het oude Capucijnenklooster in Velp/Grave. Je verblijft in een eenpersoonskamer. De maaltijden zijn vegetarisch.  
-  
-Op zaterdag heb je de mogelijkheid voor een persoonlijke ontmoeting met Robbert, waarin je taal kunt geven aan het proces waar je doorheen gaat en waarin je een op jouw persoonlijke situatie gerichte oefening kunt krijgen.  
-  
+Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.
+
+De stilte-retraite vangt vrijdagmiddag om 14.00 aan, je bent welkom vanaf 12.00 uur. Vanaf 16.00 uur gaan we in stilte tot zondagmiddag 13.00 uur. Einde retraite 15.00 uur.
+
+De retraite vindt plaats in het oude Capucijnenklooster in Velp/Grave. Je verblijft in een eenpersoonskamer. De maaltijden zijn vegetarisch.
+
+Op zaterdag heb je de mogelijkheid voor een persoonlijke ontmoeting met Robbert, waarin je taal kunt geven aan het proces waar je doorheen gaat en waarin je een op jouw persoonlijke situatie gerichte oefening kunt krijgen.
+
 Voorafgaand aan de retraite heb je telefonisch contact met Robbert.
 
 ### Kosten en meer
