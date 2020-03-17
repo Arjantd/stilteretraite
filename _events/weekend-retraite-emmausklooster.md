@@ -5,8 +5,9 @@ category: weekend
 layout: event
 title: Weekend retraite Emmausklooster
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
-lead_text: Nieuw in ons aanbod is een weekend retraite, bedoeld voor iedereen die
-  al eens eerder aan een stilte retraite deelnam en verlangt naar een 'Refresh' weekend.
+lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
+  aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
+  maar wel verlangt naar een 'Refresh' weekend.
 from_date: 2020-05-14T22:00:00.000+00:00
 to_date: 2020-05-16T22:00:00.000+00:00
 length_of_time: 3 dagen
@@ -20,6 +21,7 @@ meta:
   author: ''
 
 ---
+**Voor wie?**  
 Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.   
   
 De stilte-retraite vangt vrijdagmiddag om 14.00 aan, je bent welkom vanaf 12.00 uur. Vanaf 16.00 uur gaan we in stilte tot zondagmiddag 13.00 uur. Einde retraite 15.00 uur.  
