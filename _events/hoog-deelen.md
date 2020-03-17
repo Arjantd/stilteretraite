@@ -3,7 +3,7 @@ location: _locations/besloten-veluws-landgoed.md
 attendees: 8
 category: 5-days
 layout: event
-title: 'Back to Nature! '
+title: Back to Nature! Veluwe
 image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-2.jpg
 lead_text: 'Het unieke Veluwse landgoed waar we 1 of 2 keer per jaar te gast zijn
   is een klein gesloten landgoed (30 Ha) waar stilte en natuur volledig hand in hand
