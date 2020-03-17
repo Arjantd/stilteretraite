@@ -1,10 +1,10 @@
 ---
 layout: member
 meta:
-  title: ''
-  keywords: ''
+  title: Team stilteretraite.nl
+  keywords: mede-initiatiefnemers, vrienden, assistenten
   description: ''
-  author: ''
+  author: arjan ten Dam
 title: TEAM STILTERETRAITE.NL
 sub_heading: Vrienden en mede-initiatiefnemers
 description: Als oud-deelnemers en assistenten bij retraites in de afgelopen jaren
