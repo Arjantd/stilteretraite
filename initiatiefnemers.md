@@ -15,6 +15,5 @@ menu:
     weight: 2
     parent: _over_ons
     identifier: item_EjdDzis
-    title: Robbert van Bruggen
 
 ---
