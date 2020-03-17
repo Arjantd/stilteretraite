@@ -62,7 +62,9 @@ Bedoeld iedereen die een echte sprong in de Stilte wil maken om zichzelf tegen t
 De dagelijkse structuur van het programma draagt je als het ware door het proces heen, waarin stilte meditaties worden afgewisseld met oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, Christendom en andere wereldtradities. Er binnen het programma veel ruimte om met jezelf te verwijlen. Mensen die voor een 2e of 3e keer deelnemen, doorlopen een eigen traject met individueel afgestemde oefeningen. Dagelijks wordt er 10 minuten individuele begeleiding aangeboden. Dit is een levenskantelende retraite, die in elk geval maanden maar vaak ook jaren doorwerkt. Je verblijft in een eigen kamer. Vegetarische maaltijden. 
 
   
-Aanvang: woensdagmiddag 16.00 uur, einde zondagmiddag 15.00 uur.
+**Aanvang**: woensdagmiddag 16.00 uur, 
+
+**Einde**: zondagmiddag 15.00 uur.
 
 Na aanmelding ontvang je een welkom/bevestigingsbrief met alle praktische informatie. Met alle deelnemers is er vooraf contact; telefonisch of via skype/facetime (intake).
 
@@ -70,7 +72,9 @@ Na aanmelding ontvang je een welkom/bevestigingsbrief met alle praktische inform
 
 Bedoeld voor iedereen die zichzelf wil overgeven aan de Stilte onder primitieve omstandigheden, temidden van de overweldigend mooie natuur. De retraite vindt plaats in het hart van een particulier landgoed met een landschap als de Hoge Veluwe. Rondom een boerderij uit 1845 verblijft iedereen in een zelf meegebracht tentje op een zelfgekozen plek in de natuur. ’s Nachts daalt de stilte als een deken over je neer en wellicht wordt er ’s nachts door dassen, damherten of wilde zwijnen aan je tent gesnuffeld. Het groepsprogramma vindt plaats in en om de boerderij of in de natuur. Groepsmeditaties worden afgewisseld met individuele afzondering en ruimte om te dwalen. Dagelijks wordt er 10 minuten individuele begeleiding aangeboden. Vegetarische maaltijden.  
   
-Aanvang: woensdagmiddag 14.00 uur, einde zondagmiddag 15.00 uur.
+**Aanvang**: woensdagmiddag 14.00 uur
+
+**Einde**: zondagmiddag 15.00 uur.
 
 Na aanmelding ontvang je een welkom/bevestigingsbrief met alle praktische informatie. Met alle deelnemers is er vooraf contact, telefonisch of via skype/facetime (intake).
 
@@ -82,7 +86,7 @@ Re-treat your Senses wordt jaarlijks in Ligurië in Noord Italie georganiseerd. 
 
 Deze retraite heeft een zelfde dagstructuur als Re-treat je Hart, met een bijzondere focus op het ontwaken van de zintuigen. Onderdeel van de retraite is een dagwandeling langs de Cinque Terre, die je alleen loopt. Je verblijft in een eigen of gedeelde tweepersoonskamer. Vegetarische maaltijden. Prijs is exclusief reiskosten.   
   
-Aankomst op zaterdagmiddag. De retraite vangt aan op zondagmiddag en eindigt op vrijdagavond. Vertrekdag is zaterdag, je kunt eventueel een paar dagen bijboeken.
+**Aankomst** op zaterdagmiddag. De retraite vangt aan op zondagmiddag en eindigt op vrijdagavond. Vertrekdag is zaterdag, je kunt eventueel een paar dagen bijboeken.
 
 Na aanmelding ontvang je een welkom;bevestigingsbrief met alle praktische informatie.
 
