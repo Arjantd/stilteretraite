@@ -38,9 +38,9 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 **Informatie:** Robbert van Bruggen
 
-**Per email:** wilnu@ineenhutjeopdehei.nl
+**Per email:** gebruik het contactformulier
 
-**Voor vragen:** 06-24678735 tussen 20.00-20.30
+**Voor vragen:** 06-24678735 tussen 20.00-20.30 uur
 
 ### Kosten en meer
 
