@@ -31,8 +31,22 @@ Op verscheidene plekken in dit gebied zijn bijzondere energieplekken te vinden, 
   
 Voorafgaand aan elke retraite heeft Robbert met alle deelnemers contact; voor een korte kennismaking, om toelichting te geven op deze stilte-retraite in de natuur, om je vragen te kunnen stellen en om even stil te staan bij jouw keuze om op dit moment een meerdaagse stilte-retraite te willen doen.
 
-Max. aantal deelnemers slechts 8!  
-Aanvang: woensdag 8 juli 14.00 uur, einde zondag 12 juli 15.00 uur  
+Max. aantal deelnemers slechts 8!
+
+## Praktische info
+
+**Aanvang**: woensdag 8 juli 14.00 uur 
+
+**Einde**: zondag 12 juli 15.00 uur
+
+**Informatie:** Robbert van Bruggen
+
+**Per email:** wilnu@ineenhutjeopdehei.nl
+
+**Voor vragen:** 06-24678735 tussen 20.00-20.30
+
+### Kosten en meer
+
 All in kosten bedragen € 675 inclusief 21% btw. - een aanbetaling van € 250 geldt als bevestiging van aanmelding. Het overige deel dient 10 dagen voorafgaand aan de retraite te zijn overgemaakt (datum vermeld op de factuur).  
   
 Vanwege de bijzondere omstandigheden van deze retraite ontvang je na aanmelding een brief met alle praktische informatie. We vragen je een dekkende reisverzekering af te sluiten voor de duur van de retraite.  
