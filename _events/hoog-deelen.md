@@ -42,7 +42,7 @@ Voorafgaand aan elke retraite heeft Robbert met alle deelnemers contact; voor ee
 
 **Informatie:** Robbert van Bruggen
 
-**Per email:** wilnu@ineenhutjeopdehei.nl
+**Per email:** gebruik het contactformulier
 
 **Voor vragen:** 06-24678735 tussen 20.00-20.30 uur
 
