@@ -13,6 +13,5 @@ description: 'Als oud-deelnemers en assistenten bij retraites van Robbert van Br
 thumbnail: https://static.stilteretraite.nl/uploads/People - Groepsfoto 1.jpg
 email: ''
 link_to_details: false
-published: false
 
 ---
