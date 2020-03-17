@@ -21,7 +21,7 @@ meta:
   author: ''
 
 ---
-**Voor wie?**  
+**Wie, wat en waar**  
 Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.
 
 De stilte-retraite vangt vrijdagmiddag om 14.00 aan, je bent welkom vanaf 12.00 uur. Vanaf 16.00 uur gaan we in stilte tot zondagmiddag 13.00 uur. Einde retraite 15.00 uur.
