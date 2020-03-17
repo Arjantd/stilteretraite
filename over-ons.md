@@ -7,6 +7,11 @@ layout: overview
 show_staff: true
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 icon_boxes:
+- title: Over ons!
+  link: initiatiefnemers.md
+  text: Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
+    medestanders. Gezamenlijk spannen zij zich in voor een 'Ineenhutjeopdehei 2.0'
+  icon: ''
 - title: Robbert van Bruggen
   link: robbert-van-bruggen.md
   text: 'Stilteretraite.nl is een initiatief van Robbert van Bruggen en een team van
