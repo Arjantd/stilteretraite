@@ -3,39 +3,6 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: En voor degene die dit leest en twijfelt om een retraite te doen...
-  subtitle: RE-TREAT JE HART NOV. 2012
-  text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
-    verbazing in me op. Ik was helemaal niet thuis in meditatie en zo. Nou ja, ik
-    deed weleens een poging en vond het al knap als ik 10 minuten kon blijven zitten.
-    Maar vooral het woordje ‘stilte’ kwam als een alarmerende scheepshoorn binnen.
-    Een lichte paniek borrelde bij die gedachte op. Wat te doen in stilte? Wat houd
-    je over als je niets te doen hebt en ook nauwelijks afleiding kan vinden? Deze
-    vraag raakte een kern, 'afleiding zoeken', dat is namelijk wat ik veel deed...maar
-    afleiding waarvan? Je begrijpt het al mijn verbazing dompelde zich in nieuwsgierigheid.
-    En tijdens de retraite is die nieuwsgierigheid variërend van blijdschap, angst,
-    liefde en verdriet langzaam maar zeker getransformeerd. Mijn emoties en gevoelens
-    veranderden continu van kleur in het proces en toch voelde ik me tegelijkertijd
-    veilig en geborgen. Robbert is voor mij een uniek en uitzonderlijk persoon. Hij
-    weet als geen ander een omgeving te creëren waarin je jezelf mag zijn, waarin
-    je je geborgen en veilig voelt en in de tussentijd laat hij een ieder in zijn
-    eigen proces door zowel donkere als zonovergoten plekjes in zijn of haar ziel
-    reizen. En ik maar denken tijdens de retraite, hoe krijgt hij het toch voor elkaar
-    om telkens precies te weten waar ik zit in mijn proces en wat ik nodig heb...tot
-    tijdens de afronding bleek dat de anderen hetzelfde gevoel hadden gehad. Toen
-    brak echt mijn klomp, m'n verstand kreeg het toen helemaal niet meer uitgelegd
-    en moest ik van binnen lachen om mijn eigen verwoede pogingen nog steeds stiekem
-    ergens te denken(!) dat ik het kan verklaren...wetende dat je ware wijsheid zich
-    heel ergens anders in schuilt. Robbert heeft met deze retraite een grootst cadeau
-    van het leven geschonken...sinds de retraite sta ik werkelijk anders in het leven,
-    voel ik me meer verbonden met anderen en mezelf en kan ik mezelf beter accepteren
-    en geniet ik meer, terwijl het leven om me heen weinig veranderd is...de verandering
-    is intern. Dank je wel Robbert en de anderen die aanwezig waren bij de retraite!
-    En voor degene die dit leest en twijfelt om een retraite te doen...gewoon blijven
-    twijfelen en in de tussentijd inschrijven...ik had dit nooit willen missen en
-    raad het echt aan!"
-  participant: Karin A. (werkzaam in de geestelijke gezondheidszorg rond ontwikkeling
-    & onderzoek)
 - title: Mijn spelend kind
   subtitle: RE-TREAT JE HART FEBRUARI 2018
   text: |-
@@ -86,6 +53,39 @@ testimonials:
     weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
     doen (en dan weer bij Robbert!)"
   participant: Ted, gepensioneerd NLP Trainer/coach
+- title: En voor degene die dit leest en twijfelt om een retraite te doen...
+  subtitle: RE-TREAT JE HART NOV. 2012
+  text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
+    verbazing in me op. Ik was helemaal niet thuis in meditatie en zo. Nou ja, ik
+    deed weleens een poging en vond het al knap als ik 10 minuten kon blijven zitten.
+    Maar vooral het woordje ‘stilte’ kwam als een alarmerende scheepshoorn binnen.
+    Een lichte paniek borrelde bij die gedachte op. Wat te doen in stilte? Wat houd
+    je over als je niets te doen hebt en ook nauwelijks afleiding kan vinden? Deze
+    vraag raakte een kern, 'afleiding zoeken', dat is namelijk wat ik veel deed...maar
+    afleiding waarvan? Je begrijpt het al mijn verbazing dompelde zich in nieuwsgierigheid.
+    En tijdens de retraite is die nieuwsgierigheid variërend van blijdschap, angst,
+    liefde en verdriet langzaam maar zeker getransformeerd. Mijn emoties en gevoelens
+    veranderden continu van kleur in het proces en toch voelde ik me tegelijkertijd
+    veilig en geborgen. Robbert is voor mij een uniek en uitzonderlijk persoon. Hij
+    weet als geen ander een omgeving te creëren waarin je jezelf mag zijn, waarin
+    je je geborgen en veilig voelt en in de tussentijd laat hij een ieder in zijn
+    eigen proces door zowel donkere als zonovergoten plekjes in zijn of haar ziel
+    reizen. En ik maar denken tijdens de retraite, hoe krijgt hij het toch voor elkaar
+    om telkens precies te weten waar ik zit in mijn proces en wat ik nodig heb...tot
+    tijdens de afronding bleek dat de anderen hetzelfde gevoel hadden gehad. Toen
+    brak echt mijn klomp, m'n verstand kreeg het toen helemaal niet meer uitgelegd
+    en moest ik van binnen lachen om mijn eigen verwoede pogingen nog steeds stiekem
+    ergens te denken(!) dat ik het kan verklaren...wetende dat je ware wijsheid zich
+    heel ergens anders in schuilt. Robbert heeft met deze retraite een grootst cadeau
+    van het leven geschonken...sinds de retraite sta ik werkelijk anders in het leven,
+    voel ik me meer verbonden met anderen en mezelf en kan ik mezelf beter accepteren
+    en geniet ik meer, terwijl het leven om me heen weinig veranderd is...de verandering
+    is intern. Dank je wel Robbert en de anderen die aanwezig waren bij de retraite!
+    En voor degene die dit leest en twijfelt om een retraite te doen...gewoon blijven
+    twijfelen en in de tussentijd inschrijven...ik had dit nooit willen missen en
+    raad het echt aan!"
+  participant: Karin A. (werkzaam in de geestelijke gezondheidszorg rond ontwikkeling
+    & onderzoek)
 - title: In beweging gekomen
   subtitle: RE-TREAT JE HART SEPT 2015
   text: De eerste weken na de retraite waren wonderbaarlijk. Ik heb nooit beseft wat
