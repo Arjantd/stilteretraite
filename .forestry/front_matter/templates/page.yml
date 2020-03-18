@@ -59,6 +59,7 @@ fields:
   default: page-centered-content
   hidden: true
 pages:
+- bedrijfsinformatie.md
 - ons-aanbod.md
 - over-retraite.md
 - privacy.md
