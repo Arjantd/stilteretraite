@@ -1,10 +1,10 @@
 ---
 title: Besloten Veluws landgoed
 layout: location
-description: Het unieke Veluwse landgoed waar we 1x per jaar te gast zijn is een klein
-  gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische boerderij
-  voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature' onderkomen,
-  waar niets het omliggende bosgebied en haar bewoners verstoort.
+description: Het unieke Veluwse landgoed waar we 1 a 2 keer per jaar te gast zijn
+  is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische
+  boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature'
+  onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort.
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
@@ -29,9 +29,14 @@ gallery:
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+meta:
+  title: ''
+  keywords: ''
+  description: ''
+  author: ''
 
 ---
-_Het unieke Veluwse landgoed waar we 1x per jaar met Stilteretraite.nl te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature' onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort. Wilde zwijnen woelen hier de grond om, herten steken het veld bij zonsondergang over en zelfs dassen laten zich hier soms zien bij hun nabijgelegen burcht._
+_Het unieke Veluwse landgoed waar we 1 a 2 keer per jaar met Stilteretraite.nl te gast zijn is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature' onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort. Wilde zwijnen woelen hier de grond om, herten steken het veld bij zonsondergang over en zelfs dassen laten zich hier soms zien bij hun nabijgelegen burcht._
 
 **Het verblijf**  
 De boerderij is even eenvoudig als bijzonder: het is een van de eerste, oudste boerderijen in deze regio. Het is gebouwd in 1846 ter ontginning van de oergronden en omgeven door oude lindebomen, weilandjes en bosschages. De buitenkant van het Huis en de deel verkeren nog in vrijwel de oorspronkelijke staat. Naast het huis staan een even oude schuur, en een aantal kleine opstallen.
