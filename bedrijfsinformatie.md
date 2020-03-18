@@ -15,7 +15,8 @@ published: false
 ---
 # Bedrijfsgegevens:
 
-Spiegelzaal BV 
+**  
+Spiegelzaal BV** 
 
 Oranjestraat 46, 3312 VJ Dordrecht
 
