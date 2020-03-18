@@ -10,12 +10,12 @@ show_pager: false
 published: false
 
 ---
-Spiegelzaal
+Spiegelzaal, Oranjestraat 46, 3312 VJ Dordrecht
 
-Oranjestraat 46, 3312 VJ Dordrecht
+Contactpersoon: Robbert van Bruggen
 
-Robbert van Bruggen robbert@stilteretraite.nl
+Email: robbert@stilteretraite.nl
 
-KvK-nummer KvK 52765148
+KvK-nummer: KvK 52765148
 
-BTW-nummer NL00149929IB27
+BTW-nummer: NL00149929IB27
