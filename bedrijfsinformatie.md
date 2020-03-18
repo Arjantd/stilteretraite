@@ -10,7 +10,6 @@ show_pager: false
 menu:
   footer-bottom:
     weight: 2
-published: false
 
 ---
 # Bedrijfsgegevens:
