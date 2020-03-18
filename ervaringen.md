@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
-  subtitle: RE-TREAT JE HART NOV. 2019
+  subtitle: RE-TREAT JE HART OKT. 2019
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
     verbazing in me op. Ik was helemaal niet thuis in meditatie en zo. Nou ja, ik
     deed weleens een poging en vond het al knap als ik 10 minuten kon blijven zitten.
