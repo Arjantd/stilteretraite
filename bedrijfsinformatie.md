@@ -12,7 +12,7 @@ published: false
 ---
 Spiegelzaal
 
-Oranjestraat 46, 3312VJ Dordrecht
+Oranjestraat 46, 3312 VJ Dordrecht
 
 Robbert van Bruggen robbert@stilteretraite.nl
 
