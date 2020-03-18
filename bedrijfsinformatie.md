@@ -5,16 +5,19 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Bedrijfsinformatie
+title: Bedrijfsgegevens
 show_pager: false
 menu:
   footer-bottom:
     weight: 2
-    title: Bedrijfsgegevens
 published: false
 
 ---
-Spiegelzaal, Oranjestraat 46, 3312 VJ Dordrecht
+# Bedrijfsgegevens:
+
+Spiegelzaal BV 
+
+Oranjestraat 46, 3312 VJ Dordrecht
 
 Contactpersoon: Robbert van Bruggen
 
