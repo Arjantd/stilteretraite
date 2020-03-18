@@ -14,6 +14,7 @@ menu:
   footer-bottom:
     weight: 1
     identifier: _privacy
+    title: Privacy statement
 
 ---
 **Privacy Statement stilteretraite.nl**

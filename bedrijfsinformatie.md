@@ -7,6 +7,10 @@ meta:
   author: ''
 title: Bedrijfsinformatie
 show_pager: false
+menu:
+  footer-bottom:
+    weight: 2
+    title: Bedrijfsgegevens
 published: false
 
 ---
