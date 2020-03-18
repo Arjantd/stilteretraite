@@ -36,6 +36,56 @@ testimonials:
     raad het echt aan!"
   participant: Karin A. (werkzaam in de geestelijke gezondheidszorg rond ontwikkeling
     & onderzoek)
+- title: Mijn spelend kind
+  subtitle: RE-TREAT JE HART FEBRUARI 2018
+  text: |-
+    Ruim drie jaar geleden maakte ik een einde aan een liefdesrelatie die totaal niet goed voor mij was. De relatie heeft gemaakt dat ik mezelf op veel vlakken totaal kwijt geraakt ben. In de afgelopen drie jaar zat ik enorm in mijn hoofd. Wat is er gebeurd, wat is er van mij overgebleven, wie ben ik nu? Ik heb therapie gehad en ben bij coaches geweest, maar bij al deze hulp had ik iedere keer het gevoel dat dit niet was wat ik nodig had. Mijn hoofd wist alles wel, die kon alles goed relativeren.
+
+    Ik moest tot rust komen, uit mijn hoofd en weer mijn lijf in zakken. En dat is precies wat de retraite heeft gedaan! De stilte gaf mij de ruimte om echt weer in contact te komen met mijn authentieke ik. Toen ik die verbinding weer voelde, ik alle verwachtingen en dat wat ik dacht dat ik wilde kon loslaten, kwam datgene wat wilde komen naar boven. En dat was mijn spelend kind! Mijn spelend kind die ik langzaamaan kwijt geraakt was in mijn relatie. Mijn spelend kind die ik jaren niet gehoord, gezien en gevoeld heb. Dit was het! Dit was het ontbrekende stukje.
+
+    Ik heb me in jaren niet zo heel, rustig en vooral blij en gelukkig gevoeld. De verbinding met mezelf en met al dat is is hersteld. Wat vier dagen stilte al niet kan doen :-) Een mooier cadeau had ik mezelf niet kunnen geven.
+
+    Robbert, ik ben je enorm dankbaar. Wat doe jij een prachtig werk!
+  participant: F.
+- title: Er borrelde al een tijdje iets
+  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
+  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
+    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
+    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
+    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
+    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
+    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
+    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
+    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
+    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
+    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
+    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
+    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
+    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
+    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
+    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
+    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
+    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
+    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
+    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
+    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
+    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
+    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
+    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
+    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
+    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
+    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
+    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
+    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
+    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
+    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
+    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
+    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
+    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
+    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
+    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
+    doen (en dan weer bij Robbert!)"
+  participant: Ted, gepensioneerd NLP Trainer/coach
 - title: In beweging gekomen
   subtitle: RE-TREAT JE HART SEPT 2015
   text: De eerste weken na de retraite waren wonderbaarlijk. Ik heb nooit beseft wat
@@ -100,45 +150,6 @@ testimonials:
     intens ervaren, ik was enorm sensitief en ervaarde een diep gevoel van rust en
     het gevoel dat het oké is. Ik ben heel blij dat ik deze retraite heb gedaan!"
   participant: Anoniem, Man, 31 jaar, Eindhoven, 29-11-2017
-- title: Er borrelde al een tijdje iets
-  subtitle: 'RE-TREAT JE HART   Oktober 2019  '
-  text: "Al meer dan een half jaar werd ik beheerst door de groeiende overtuiging
-    dat er geen hoop meer is voor de mensheid. Korte termijn denken en doen van financiële
-    markten, politici, bedrijven, gebrek aan visionaire leiders, klimaat- en vervuilingsproblemen.
-    Dit moet leiden tot extinctie van de mens en met de snelheid van alle ontwikkelingen
-    hoogstwaarschijnlijk binnen enkele decennia. Ik zag ook geen perspectief meer
-    om zelf nog zinvol bezig te kunnen zijn in de rest van mijn leven en werd steeds
-    depressiever en cynischer. Met het verlangen om hieruit te komen ging ik naar
-    de stilteretraite.   \n  \nIk kende dit niet, maar er borrelde al een tijdje iets
-    van mij even helemaal in mijzelf terugtrekken. Na wat googelen kwam ik snel op
-    Robbert uit en na een telefonisch gesprek besloot ik snel mij aan te melden.  \n
-    \ \nIk ging er onbevangen in, met verlangens, maar zonder verwachtingen. De opzet
-    is prachtig, door een vaste dagelijkse structuur met meditaties, inhoudelijke
-    sessies en kleine taakjes gedurende de dagen rol je er makkelijk in en gaat alles
-    haast vanzelf de dagen door. Ik had al ervaring met diverse vormen van meditatie
-    die ik soms een tijdje beoefende. De kracht voor mij zit hem in de inhoudelijke
-    sessies met mantra’s uit het soefisme. Naarmate we verder in de retraite kwamen
-    werd de impact daarvan onhoudbaar steeds groter en kreeg ik werkelijk inzichten
-    in mijzelf en mijn denken. Het werken aan het hart gaf een doorbraak en de chant-sessie
-    op het hart  raakte mij diep en maakte mij duidelijk dat ik al een tijd mijn hart
-    en gevoel achter een muur had geplaatst. Mijn denken kon los van extinctie komen
-    en weer ruimte maken voor focus op het hier en nu. Ik wist nog niet hoe ik nu
-    weer zingeving kon gaan invullen maar er groeide een vertrouwen dat ik dat wel
-    zou vinden. De chant-sessie over liefde was een overweldigend anker voor het ontwikkelde
-    diepe gevoel van dankbaarheid, tevredenheid en vertrouwen.  \n  \nDe 10 minuten
-    per dag met Robbert waren kort, nuttig en plezierig. Ook deze waren belangrijk
-    in de structuur en het persoonlijke proces.  \n  \nIk ging hypersensitief naar
-    huis, heb continu alleen maar op de rechterbaan gereden, wat een indrukken en
-    energie! Thuis was mijn vrouw zeer nieuwsgierig maar gaf mij de ruimte om te landen
-    en ik kon zo mondjesmaat mijn ervaringen vertellen. De volgende dagen bleef ik
-    lang hangen in de sfeer en het gevoel van tevredenheid.   \n  \nHet is nu ruim
-    2 weken erna en het gevoel is nog steeds sterk. Ik begin langzaam te werken aan
-    de followup: hoe ga ik dit vasthouden en integreren in mijn leven vol hoop en
-    zin. Van veel mensen heb ik feedback gekregen dat ik er anders uitzie (mijn ogen)
-    en anders klink (rustiger en zachter). Ik ben weer blij met mijzelf, en mijn vrouw
-    weer met mij!  \n  \nHet lijkt me niet onwaarschijnlijk dat ik dit weer eens ga
-    doen (en dan weer bij Robbert!)"
-  participant: Ted, gepensioneerd NLP Trainer/coach
 - title: Het mooie van alles was dat bijna niemand van de deelnemers wist wat hen
     te wachten stond
   subtitle: RE-TREAT JE HART 3-7 FEBR. 2016
@@ -149,17 +160,6 @@ testimonials:
 
     Tijdens de retraite zag ik de gedachten voorbij komen, waaronder: wat ga ik de mensen vertellen hoe de retraite eigenlijk was? Ga ik vertellen over de lichten die ik heb gezien. Hoe ik mijzelf tijdens een meditatie kon opladen? De liefde die ik van groep voelde zonder enige aanraking? De schaamte tijdens de dans, maar daarna vooral het vrije gevoel van lekker bewegen? Alles bezien was het voor mij simpelweg bijzonder. En voel ik het voorrecht dit te hebben mogen meemaken. En mijzelf heb mogen verrijken met de ervaringen, beelden, muziek, kennis en liefde die Robbert heeft weten te brengen. Kortom, een stilte retraite is zo stil nog niet."
   participant: O.S. / Projectmanager
-- title: Mijn spelend kind
-  subtitle: RE-TREAT JE HART FEBRUARI 2018
-  text: |-
-    Ruim drie jaar geleden maakte ik een einde aan een liefdesrelatie die totaal niet goed voor mij was. De relatie heeft gemaakt dat ik mezelf op veel vlakken totaal kwijt geraakt ben. In de afgelopen drie jaar zat ik enorm in mijn hoofd. Wat is er gebeurd, wat is er van mij overgebleven, wie ben ik nu? Ik heb therapie gehad en ben bij coaches geweest, maar bij al deze hulp had ik iedere keer het gevoel dat dit niet was wat ik nodig had. Mijn hoofd wist alles wel, die kon alles goed relativeren.
-
-    Ik moest tot rust komen, uit mijn hoofd en weer mijn lijf in zakken. En dat is precies wat de retraite heeft gedaan! De stilte gaf mij de ruimte om echt weer in contact te komen met mijn authentieke ik. Toen ik die verbinding weer voelde, ik alle verwachtingen en dat wat ik dacht dat ik wilde kon loslaten, kwam datgene wat wilde komen naar boven. En dat was mijn spelend kind! Mijn spelend kind die ik langzaamaan kwijt geraakt was in mijn relatie. Mijn spelend kind die ik jaren niet gehoord, gezien en gevoeld heb. Dit was het! Dit was het ontbrekende stukje.
-
-    Ik heb me in jaren niet zo heel, rustig en vooral blij en gelukkig gevoeld. De verbinding met mezelf en met al dat is is hersteld. Wat vier dagen stilte al niet kan doen :-) Een mooier cadeau had ik mezelf niet kunnen geven.
-
-    Robbert, ik ben je enorm dankbaar. Wat doe jij een prachtig werk!
-  participant: F.
 - title: Retraite, ik had er in een keer zo'n behoefte aan
   subtitle: RE-TREAT JE HART 3-7 FEBR 2016
   text: "Retraite, ik had er in een keer zo'n behoefte aan.  \nAlleen de stilte leek
