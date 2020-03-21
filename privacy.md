@@ -53,10 +53,10 @@ Stilteretraite.nl gebruikt alleen technische en functionele cookies, die geen in
 
 **Gegevens inzien, aanpassen of verwijderen**
 
-U heeft het recht om uw persoonsgegevens in te zien, te corrigeren of te verwijderen. U kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van uw persoonsgegevens of verzoek tot intrekking van uw toestemming of bezwaar op de verwerking van uw persoonsgegevens sturen naar [info@stilteretraite.nl](mailto:info@stilteretraite.nl)
+U heeft het recht om uw persoonsgegevens in te zien, te corrigeren of te verwijderen. U kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van uw persoonsgegevens of verzoek tot intrekking van uw toestemming of bezwaar op de verwerking van uw persoonsgegevens sturen naar info [@stilteretraite.nl](mailto:info@stilteretraite.nl)
 
 **Hoe wij persoonsgegevens beveiligen**
 
-stilteretraite.nl neemt uw privacy serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang of ongewenste openbaarmaking tegen te gaan. Als u de indruk heeft dat uw gegevens niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact met ons op via [info@stilteretraite.nl](mailto:info@stilteretraite.nl)
+stilteretraite.nl neemt uw privacy serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang of ongewenste openbaarmaking tegen te gaan. Als u de indruk heeft dat uw gegevens niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact met ons op via  info [@stilteretraite.nl](mailto:info@stilteretraite.nl)
 
 Deze privacyverklaring kan indien nodig door ons worden aangepast. Veranderingen in wetgeving en jurisprudentie zullen we respecteren. Heeft u vragen over ons privacy beleid, aarzel niet om contact met ons op te nemen.
