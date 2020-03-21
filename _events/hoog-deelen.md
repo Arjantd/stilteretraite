@@ -36,15 +36,11 @@ Voorafgaand aan elke retraite heeft Robbert met alle deelnemers contact; voor ee
 
 ## Praktische info
 
-**Aanvang**: woensdag 8 juli 14.00 uur
-
-**Einde**: zondag 12 juli 15.00 uur
-
-**Informatie:** Robbert van Bruggen
-
-**Per email:** gebruik het contactformulier
-
-**Voor vragen:** 06-24678735 tussen 20.00-20.30 uur
+Aanvang: woensdag 8 juli 14.00 uur  
+Einde: zondag 12 juli 15.00 uur  
+Informatie: Robbert van Bruggen  
+Per mail: gebruik het contactformulier op deze website  
+Telefonisch: 06-24678735 tussen 20.00-20.30
 
 ### Kosten en meer
 
