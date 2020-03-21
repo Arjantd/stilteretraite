@@ -20,7 +20,7 @@ Oranjestraat 46, 3312 VJ Dordrecht
 
 Contactpersoon: Robbert van Bruggen
 
-Email: robbert@stilteretraite.nl
+Email: info @stilteretraite.nl
 
 KvK-nummer: KvK 52765148
 
