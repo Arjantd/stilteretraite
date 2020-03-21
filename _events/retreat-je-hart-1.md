@@ -28,7 +28,7 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ## Praktische info
 
-‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen in de natuur & individuele ontmoetingen met Robbert.
+‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
 Aanvang retraite: woensdag 3 juni 2020 om 16.00 uur  
 Einde retraite: zondag 7 juni om 15.00 uur  
