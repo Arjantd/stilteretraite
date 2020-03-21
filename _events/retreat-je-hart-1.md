@@ -22,6 +22,8 @@ meta:
   author: ''
 
 ---
+> _De huidige maatregelen in de aanpak van het coronavirus gelden t/m 6 april 2020. Afhankelijk van wat het kabinet voor de periode hierna adviseert zal stilteretraite.nl mogelijk haar agenda aanpassen._
+
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
