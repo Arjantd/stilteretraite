@@ -9,7 +9,7 @@ meta:
   description: ''
   author: ''
 title: Gewoon thuis!
-image: ''
+image: https://static.stilteretraite.nl/uploads/Location - Home!.jpg
 location: Gewoon thuis!
 description: ''
 gallery: []
