@@ -21,7 +21,7 @@ meta:
   author: ''
 
 ---
-**_Maandag 23 maart heeft het kabinet aanvullende maatregelen genomen in de aanpak van het coronavirus. Zo zijn nu alle bijeenkomsten verboden tot 1 juni (in plaats van 6 april). Hierdoor is stilterretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Exacte datum volgt snel!_**
+**_Maandag 23 maart heeft het kabinet in aanvulling op haar eerdere maatregelen in de aanpak van het coronavirus besloten om alle bijeenkomsten te verbieden tot 1 juni (was 6 april). Hierdoor is stilteretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Een exacte datum volgt snel!_**
 
 **Wie, wat en waar**  
 Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.

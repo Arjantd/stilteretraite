@@ -1,5 +1,5 @@
 ---
-title: Re-treat je hart!    -WORDT VERPLAATST-
+title: Re-treat je hart!   -WORDT VERPLAATST-
 sub_heading: Vijfdaagse stilte retraite
 from_date: 2020-04-22 16:00:00 +0200
 to_date: 2020-04-26T13:00:00.000+00:00
@@ -23,7 +23,7 @@ meta:
   author: ''
 
 ---
-**Maandag 23 maart heeft het kabinet aanvullende maatregelen genomen in de aanpak van het coronavirus. Zo zijn nu alle bijeenkomsten verboden tot 1 juni (in plaats van 6 april). Hierdoor is stilterretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Exacte datum volgt snel!**
+**_Maandag 23 maart heeft het kabinet in aanvulling op haar eerdere maatregelen in de aanpak van het coronavirus besloten om alle bijeenkomsten te verbieden tot 1 juni (was 6 april). Hierdoor is stilteretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Een exacte datum volgt snel!_**
 
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
