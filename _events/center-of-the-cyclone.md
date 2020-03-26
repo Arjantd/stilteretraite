@@ -13,9 +13,9 @@ meta:
   author: ''
 title: Center of the cyclone
 image: https://static.stilteretraite.nl/uploads/Event - 10 days.jpg
-lead_text: Bedoeld voor iedereen die plots elke dag samen met het gezin thuis is.
-  Met alle levende dynamiek tussen gezinsleden van dien; waarbij de deelnemer het
-  verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
+lead_text: Bedoeld voor iedereen die plots elke dag met het gezin thuis is. Met alle
+  levende dynamiek tussen gezinsleden van dien; waarbij de deelnemer het verlangen
+  heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
 from_date: 2020-04-05 00:00:00 +0200
 to_date: 2020-03-12 00:00:00 +0100
 length_of_time: 7 dagen
@@ -25,8 +25,9 @@ published: false
 ---
 **Aanvang:**
 
-Zondagavond 5 april om 21.00 uur.   
- Dagelijks zijn er twee online-groepssessies, die bestaan uit instructies voor de dag plus een geleide meditatie. De eerste na het ontbijt en de gezinsrituelen van 08.30 uur tot 09.30 uur ’s ochtends en ’s avonds van 20.30 uur tot 21.30 uur.
+Zondagavond 5 april om 21.00 uur.  
+  
+Dagelijks zijn er twee online-groepssessies, die bestaan uit instructies voor de dag plus een geleide meditatie. De eerste na het ontbijt en de gezinsrituelen van 08.30 uur tot 09.30 uur ’s ochtends en ’s avonds van 20.30 uur tot 21.30 uur.
 
 **Optioneel:**
 
@@ -46,6 +47,6 @@ Minimaal 8, maximaal 14
 
 Zorg voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
 
-[stilteretraite.nl](http://stilteretraite.nl/) biedt deze retraite aan op basis van een passende donatie, die je na afloop van de retraite kunt bepalen; je ontvangt hiervoor in de week na de retraite een open factuur (met alle gegevens). Als je gebruik maakt van individuele begeleidingsmomenten zijn de kosten daarvoor 25 euro per kwartier. Deze kosten staan al vermeld op de toegestuurde factuur. Kosten zijn excl. 21% btw. 
+[stilteretraite.nl](http://stilteretraite.nl/) biedt deze retraite aan op basis van een passende donatie, die je na afloop van de retraite kunt bepalen; je ontvangt hiervoor in de week na de retraite een open factuur (met alle gegevens). Als je gebruik maakt van individuele begeleidingsmomenten zijn de kosten daarvoor 25 euro per kwartier. Deze kosten staan al vermeld op de toegestuurde factuur. Kosten zijn excl. 21% btw.
 
 Belangstelling? Vragen? Stuur een mail naar: [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl)
