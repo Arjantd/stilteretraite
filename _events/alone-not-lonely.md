@@ -14,11 +14,10 @@ image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: 'Speciaal voor de huidige omstandigheden: een 10 daagse stilte retraite
   voor thuis! Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
   en die het verlangen voelt ‘in de spanning te ontspannen’. '
-from_date: 2020-04-05 00:00:00 +0200
-to_date: 2020-04-15 00:00:00 +0200
+from_date: 2020-04-05 07:00:00 +0200
+to_date: 2020-04-15 20:00:00 +0200
 length_of_time: 10 dagen
 price: 
-published: false
 
 ---
 **Aanvang:**
