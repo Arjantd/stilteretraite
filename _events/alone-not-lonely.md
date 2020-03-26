@@ -20,13 +20,11 @@ price:
 published: false
 
 ---
-> Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt, en die het verlangen voelt ‘in de spanning te ontspannen’. Na een online kennismaking kun je deelnemen aan een groep van minimaal 8 en maximaal 14 deelnemers.
-
 **Aanvang:**
 
 Zondagavond 5 april om 19.00 uur.
 
-Elke dag zijn er twee online-groepssessies, die bestaan uit instructies voor de dag plus een geleide meditatie. De eerste online groepsbijeenkomst is van 07.00 uur tot 8.00 uur ’s ochtends en een tweede bijeenkomst ’s avonds van 19.00 uur tot 20.00 uur.
+Na een online kennismaking kun je deelnemen aan een groep van minimaal 8 en maximaal 14 deelnemers. Elke dag zijn er twee online-groepssessies, die bestaan uit instructies voor de dag plus een geleide meditatie. De eerste online groepsbijeenkomst is van 07.00 uur tot 8.00 uur ’s ochtends en een tweede bijeenkomst ’s avonds van 19.00 uur tot 20.00 uur.
 
 **Optioneel:**
 
