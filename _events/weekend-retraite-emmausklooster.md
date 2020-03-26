@@ -3,7 +3,7 @@ location: _locations/emmausklooster-in-velp.md
 attendees: 12
 category: weekend
 layout: event
-title: Re-member! --WORDT VERPLAATST--
+title: Re-member!       --WORDT VERPLAATST--
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
 lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
   aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
