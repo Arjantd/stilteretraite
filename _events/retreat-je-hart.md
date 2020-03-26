@@ -1,5 +1,5 @@
 ---
-title: Re-treat je hart!    --WORDT VERPLAATST--
+title: Re-treat je hart!    -WORDT VERPLAATST-
 sub_heading: Vijfdaagse stilte retraite
 from_date: 2020-04-22 16:00:00 +0200
 to_date: 2020-04-26T13:00:00.000+00:00
