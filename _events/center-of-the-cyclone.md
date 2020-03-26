@@ -11,11 +11,11 @@ meta:
     er voortdurend levende dynamiek tussen gezinsleden plaatsvindt; waarbij de deelnemer
     het verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
   author: ''
-title: Center of the cyclone
-image: https://static.stilteretraite.nl/uploads/Event - 10 days.jpg
-lead_text: Bedoeld voor iedereen die plots elke dag met het gezin thuis is. Met alle
-  levende dynamiek tussen gezinsleden van dien; waarbij de deelnemer het verlangen
-  heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
+title: Center of the cyclone (online retraite)
+image: https://static.stilteretraite.nl/uploads/Event - center of cyclone.jpg
+lead_text: 'Bedoeld voor iedereen die nu plotseling elke dag met het gezin thuis is,
+  met alle levende dynamiek tussen gezinsleden van dien: waarbij de deelnemer het
+  verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’'
 from_date: 2020-04-05 00:00:00 +0200
 to_date: 2020-03-12 00:00:00 +0100
 length_of_time: 7 dagen
