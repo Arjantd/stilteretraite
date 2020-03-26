@@ -11,7 +11,7 @@ meta:
     er voortdurend levende dynamiek tussen gezinsleden plaatsvindt; waarbij de deelnemer
     het verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
   author: ''
-title: Center of the cyclone (online retraite)
+title: Center of the cyclone (online)
 image: https://static.stilteretraite.nl/uploads/Event - center of cyclone.jpg
 lead_text: 'Bedoeld voor iedereen die nu plotseling elke dag met het gezin thuis is,
   met alle levende dynamiek tussen gezinsleden van dien: waarbij de deelnemer het

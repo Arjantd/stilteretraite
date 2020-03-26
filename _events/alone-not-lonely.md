@@ -9,7 +9,7 @@ meta:
   description: Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
     en die het verlangen voelt ‘in de spanning te ontspannen’
   author: ''
-title: Alone, not lonely
+title: Alone, not lonely (online)
 image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: 'Speciaal voor de huidige omstandigheden: een 10 daagse stilte retraite
   voor thuis! Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
