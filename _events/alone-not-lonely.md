@@ -4,9 +4,10 @@ attendees: 14
 category: ''
 layout: event
 meta:
-  title: ''
-  keywords: ''
-  description: ''
+  title: 10 daagse stilte retraite voor thuis
+  keywords: thuis, stilte-retraite, vanuit huis
+  description: Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
+    en die het verlangen voelt ‘in de spanning te ontspannen’
   author: ''
 title: Alone, not lonely
 image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
