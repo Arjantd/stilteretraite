@@ -1,7 +1,7 @@
 title: Stilte retraite
 short_title: Stilte retraite
 description: Website voor stilte retraite
-baseurl: "https://www.stilteretraite.nl"
+baseurl:
 url: "https://www.stiteretraite.nl"
 permalink: "/:path/"
 defaults:
