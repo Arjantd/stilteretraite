@@ -1,8 +1,8 @@
 ---
-title: Re-treat je hart!   -WORDT VERPLAATST-
+title: Re-treat je hart!   Emmausklooster
 sub_heading: Vijfdaagse stilte retraite
-from_date: 2020-04-22 16:00:00 +0200
-to_date: 2020-04-26T13:00:00.000+00:00
+from_date: 2020-09-23 16:00:00 +0200
+to_date: 2020-09-27 15:00:00 +0200
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
 layout: event
@@ -23,8 +23,6 @@ meta:
   author: ''
 
 ---
-**_Maandag 23 maart heeft het kabinet in aanvulling op haar eerdere maatregelen in de aanpak van het coronavirus besloten om alle bijeenkomsten te verbieden tot 1 juni (was 6 april). Hierdoor is stilteretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Een exacte datum volgt snel!_**
-
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
@@ -33,8 +31,8 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-Aanvang retraite: woensdag 22 april 2020 om 16.00 uur  
-Einde retraite: zondag 26 april 2020 om 15.00 uur  
+Aanvang retraite: woensdag 23 september 2020 om 16.00 uur  
+Einde retraite: zondag 27 september 2020 om 15.00 uur  
 Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
 Informatie: Robbert van Bruggen  
 Per email: gebruik het contactformulier op deze website  
@@ -46,4 +44,4 @@ Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderd
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
-De administratiekosten bij annulering vóór maandag 13 april 2020 bedragen € 35; na die datum en vóór maandag 20 april 2020 wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 20 april is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
+De administratiekosten bij annulering vóór maandag 14 september 2020 bedragen € 35; na die datum en vóór maandag 21 september 2020 wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 21 september is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
