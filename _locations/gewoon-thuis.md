@@ -8,7 +8,7 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Gewoon thuis!
+title: Gewoon thuis! Via laptop, tablet of telefoon
 image: https://static.stilteretraite.nl/uploads/Location - Home!.jpg
 location: Gewoon thuis!
 description: ''
