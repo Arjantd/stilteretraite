@@ -10,7 +10,7 @@ meta:
     elke dag samen met het gezin thuis is. Die zich in de omstandigheid bevindt waarin
     er voortdurend levende dynamiek tussen gezinsleden plaatsvindt; waarbij de deelnemer
     het verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’
-  author: ''
+  author: Robbert van Bruggen
 title: Center of the cyclone (online)
 image: https://static.stilteretraite.nl/uploads/Event - center of cyclone.jpg
 lead_text: 'Bedoeld voor iedereen die nu plotseling elke dag met het gezin thuis is,
