@@ -32,6 +32,8 @@ Voor deelnemers die individuele begeleiding willen, bestaat de mogelijkheid per 
 
 **Opzet:**
 
+De online-groepssessies worden gedaan via Zoom, een gratis online video App. Een uitnodiging hiervoor (+ instructie) ontvang je per email nadat je je hebt aangemeld. Tijdens de sessies ben je zelf niet in beeld, je ziet en hoort alleen Robbert van Bruggen. Alleen bij de kennismaking is een korte video uitwisseling wel zo prettig. Zorg verder voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
+
 Een online-begeleide retraite is natuurlijk iets anders dan een meerdaagse retraite waarin je in afzondering bent op een locatie waarin alles verzorgd is. Deze retraites zijn ervoor bedoeld, je te helpen ontspannen in de spanning van de huidige omstandigheden en getuige te zijn van wat zich allemaal in je en om je aandient.
 
 Dagelijks ontvang je na de online bijeenkomst per mail een retraite-schema voor die dag, waarin voldoende ruimte is voor werk en rust. Het is fijn als je voor de retraite een vast plekje in huis kunt maken waar je steeds kunt gaan zitten. Als je alleen bent maar wel werkt, zorg ervoor dat je tussentijds zoveel mogelijk in stilte kunt zijn.
