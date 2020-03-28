@@ -28,10 +28,6 @@ Zondagavond 5 april om 21.00 uur.
 
 Dagelijks zijn er twee online-groepssessies, die bestaan uit instructies voor de dag plus een geleide meditatie. De eerste na het ontbijt en de gezinsrituelen van 08.30 uur tot 09.30 uur ’s ochtends en ’s avonds van 20.30 uur tot 21.30 uur.
 
-**Optioneel:**
-
-Voor deelnemers die naast deze groepssessies individuele begeleiding willen, bestaat de mogelijkheid om de andere dag een kwartier begeleiding te krijgen. Doel daarvan is om taal te kunnen geven aan waar je je in het retraite proces bevindt, te onderzoeken waarin je ingezogen c.q. waarmee je geïdentificeerd bent. Als je wilt ontvang je specifieke meditaties of oefeningen die afgestemd zijn op jouw specifieke situatie; die je kunnen helpen je retraite te verdiepen. In de retraite werken we met meditaties en oefeningen uit het soefisme, boeddhisme en advaita vedanta.
-
 **Opzet:**
 
 De online-groepssessies worden gedaan via Zoom, een gratis online video App. Een uitnodiging hiervoor (+ instructie) ontvang je per email nadat je je hebt aangemeld. Tijdens de sessies ben je zelf niet in beeld, je ziet en hoort alleen Robbert van Bruggen. Alleen bij de kennismaking is een korte video uitwisseling wel zo prettig. Zorg verder voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
@@ -39,6 +35,10 @@ De online-groepssessies worden gedaan via Zoom, een gratis online video App. Een
 Een online-begeleide retraite is natuurlijk iets anders dan een meerdaagse retraite waarin je in afzondering bent op een locatie waarin alles verzorgd is. Deze retraites zijn er voor bedoeld, je te helpen ontspannen in de spanning van de huidige omstandigheden en getuige te zijn van wat zich allemaal in je en om je aandient.
 
 Dagelijks ontvang je een retraite-schema per mail met oefeningen die je op een tijdstip kunt doen die passen in de gezinsdynamiek overdag. Het is fijn als je voor de retraite een vast plekje in huis kunt maken waar je steeds kunt gaan zitten. Probeer overdag zoveel mogelijk momenten te vinden waarop je in stilte-kunt zijn.
+
+**Optioneel:**
+
+Voor deelnemers die naast deze groepssessies individuele begeleiding willen, bestaat de mogelijkheid om de andere dag een kwartier begeleiding te krijgen. Doel daarvan is om taal te kunnen geven aan waar je je in het retraite proces bevindt, te onderzoeken waarin je ingezogen c.q. waarmee je geïdentificeerd bent. Als je wilt ontvang je specifieke meditaties of oefeningen die afgestemd zijn op jouw specifieke situatie; die je kunnen helpen je retraite te verdiepen. In de retraite werken we met meditaties en oefeningen uit het soefisme, boeddhisme en advaita vedanta.
 
 **Aantal deelnemers:**
 
