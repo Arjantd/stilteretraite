@@ -1,7 +1,7 @@
 ---
 location: _locations/gewoon-thuis.md
 attendees: 14
-category: ''
+category: 10-days
 layout: event
 meta:
   title: 10 daagse stilte retraite voor thuis
@@ -14,8 +14,8 @@ image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: 'Speciaal voor de huidige omstandigheden: een 10 daagse stilte retraite
   voor thuis! Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
   en die het verlangen voelt ‘in de spanning te ontspannen’. '
-from_date: 2020-04-05 07:00:00 +0200
-to_date: 2020-04-15 20:00:00 +0200
+from_date: 2020-04-05T05:00:00.000+00:00
+to_date: 2020-04-15T18:00:00.000+00:00
 length_of_time: 10 dagen
 price: 
 
