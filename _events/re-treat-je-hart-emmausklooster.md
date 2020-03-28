@@ -7,7 +7,7 @@ sub_heading: 'vijf daagse stilte retraite '
 from_date: 2020-12-09 17:00:00 +0100
 to_date: 2020-12-13 15:00:00 +0100
 price: 675
-image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-14.jpg
+image: https://static.stilteretraite.nl/uploads/Event - december 2020.jpg
 category: 5-days
 length_of_time: 5 dagen
 lead_text: 'Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
