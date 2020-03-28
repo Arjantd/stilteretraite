@@ -44,8 +44,6 @@ Minimaal 8, maximaal 14
 
 **Kosten en meer:**
 
-Zorg voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
-
 [stilteretraite.nl](http://stilteretraite.nl/) biedt deze retraite aan op basis van een passende donatie, die je na afloop van de retraite kunt bepalen; je ontvangt hiervoor in de week na de retraite een open factuur (met alle gegevens). Als je gebruik maakt van individuele begeleidingsmomenten zijn de kosten daarvoor 25 euro per kwartier. Deze kosten staan al vermeld op de toegestuurde factuur. Kosten zijn excl. 21% btw.
 
 Belangstelling? Vragen? Stuur een mail naar: [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl)
