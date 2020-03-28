@@ -3,7 +3,7 @@ location: _locations/emmausklooster-in-velp.md
 attendees: 12
 category: weekend
 layout: event
-title: Re-member!        -WORDT VERPLAATST-
+title: 'Re-member! Weekend retraite '
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
 lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
   aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
@@ -21,8 +21,6 @@ meta:
   author: ''
 
 ---
-**_Maandag 23 maart heeft het kabinet in aanvulling op haar eerdere maatregelen in de aanpak van het coronavirus besloten om alle bijeenkomsten te verbieden tot 1 juni (was 6 april). Hierdoor is stilteretraite.nl helaas genoodzaakt om de retraite op deze pagina te verplaatsen naar het najaar van 2020. Een exacte datum volgt snel!_**
-
 **Wie, wat en waar**  
 Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.
 
