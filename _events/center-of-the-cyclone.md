@@ -1,7 +1,7 @@
 ---
 location: _locations/gewoon-thuis.md
 attendees: 14
-category: ''
+category: 7-days
 layout: event
 meta:
   title: Center of the cyclone
@@ -16,8 +16,8 @@ image: https://static.stilteretraite.nl/uploads/Event - center of cyclone.jpg
 lead_text: 'Bedoeld voor iedereen die nu plotseling elke dag met het gezin thuis is,
   met alle levende dynamiek tussen gezinsleden van dien: waarbij de deelnemer het
   verlangen heeft de vrede in zichzelf te vinden door ‘te ontspannen in de spanning’'
-from_date: 2020-04-05 21:00:00 +0200
-to_date: 2020-03-12 21:30:00 +0100
+from_date: 2020-04-05T19:00:00.000+00:00
+to_date: 2020-03-12T20:30:00.000+00:00
 length_of_time: 7 dagen
 price: 
 
