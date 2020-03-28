@@ -20,7 +20,6 @@ meta:
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
     in de natuur & individuele ontmoetingen met Robbert van Bruggen."
   author: ''
-published: false
 
 ---
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
