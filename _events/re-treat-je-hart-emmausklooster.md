@@ -4,8 +4,8 @@ attendees: 12
 layout: event
 title: Re-treat je hart! Emmausklooster
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2020-06-03T15:00:00.000+00:00
-to_date: 2020-06-07T13:00:00.000+00:00
+from_date: 2020-12-09 17:00:00 +0100
+to_date: 2020-12-13 15:00:00 +0100
 price: 675
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 category: 5-days
@@ -31,8 +31,8 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-Aanvang retraite: woensdag 3 juni 2020 om 16.00 uur  
-Einde retraite: zondag 7 juni om 15.00 uur  
+Aanvang retraite: woensdag 9 december 2020 om 16.00 uur  
+Einde retraite: zondag 13 december om 15.00 uur  
 Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
 Informatie: Robbert van Bruggen  
 Per mail: gebruik het contactformulier op deze website  
@@ -44,4 +44,4 @@ Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderd
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
-De administratiekosten bij annulering vóór maandag maandag 25 mei 2020 bedragen € 35; na die datum en vóór maandag 1 juni 2020 wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 1 juni 2020  is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
+De administratiekosten bij annulering vóór maandag 30 november 2020 bedragen € 35; na die datum en vóór maandag 7 december 2020 wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 7 december 2020 is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
