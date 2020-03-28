@@ -42,6 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-youtube
+  - jekyll-sitemap
 pagination:
   enabled: true
   per_page: 20
