@@ -115,7 +115,7 @@ meta:
     Voel jij een verlangen naar stilte? Stilteretraite.nl biedt verschillende retraitevormen
     aan.
   author: Arjan ten Dam
-  title: Stilte retraite voor iedereen
+  title: Stilte retraite voor iedereen  |  Robbert van Bruggen
 menu:
   navigation:
     identifier: _index
