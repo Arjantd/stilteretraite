@@ -1,1 +1,5 @@
---- {}
+---
+footer-bottom:
+- url: https://www.facebook.com/ineenhutjeopdehei
+  weight: 3
+  title: Facebook
