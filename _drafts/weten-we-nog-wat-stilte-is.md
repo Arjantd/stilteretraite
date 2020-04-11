@@ -20,7 +20,7 @@ meta:
   author: Robbert van Bruggen
 
 ---
-# Vandaag is de mooiste dag van het jaar: Stille Zaterdag.
+## Vandaag is de mooiste dag van het jaar: Stille Zaterdag.
 
 > In de Christelijke traditie de dag tussen de kruisiging en de opstanding. De dag voor Pasen. De periode waarin het Oude er ‘niet meer’ is en het Nieuwe er ‘nog niet’ is. De lastig te verdragen plek van het ‘niet weten’. Pasen is ook verbonden met het Heidense Lente-feest ‘Eastre’, waarin het ei vruchtbaarheid en nieuw leven symboliseert. Stille Zaterdag gaat over het sterven van het oude en het ontstaan van nieuw leven.
 
