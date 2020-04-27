@@ -2,7 +2,6 @@
 title: Agenda
 layout: events
 textline: Events
-image: https://static.stilteretraite.nl/uploads/Banner W.jpg
 meta:
   title: Agenda 2020
   keywords: agenda, events, data, retraites

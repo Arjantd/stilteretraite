@@ -34,7 +34,7 @@
         <meta property="og:title" content="{{ page.meta.title }}" />
         <meta property="og:description" content="{{ page.meta.description }}" />
         <meta property="og:url" content="{{ page.url | absolute_url }}" />
-        <meta property="og:image" content="{{ page.banner_image | resized_image_url: "750x500" }}" />
+        <meta property="og:image" content="{{ page | og_image: paginator | resized_image_url: "750x500" }}" />
         <!-- CSS
             ================================================== -->
         <link href="{{ "/css/bootstrap.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
