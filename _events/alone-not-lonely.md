@@ -44,7 +44,7 @@ Minimaal 8
 
 **Belangstelling? Vragen?**
 
-Stuur een mail naar: [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl) of meld je aan via ons contact- of aanmeldformulier. Vermeld s.v.p. het volgende:
+Stuur een mail naar: [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl) of gebruik het contact- of aanmeldformulier op deze website. Vermeld s.v.p. het volgende:
 
 * Je naam en leeftijd
 * Situatie thuis: alleen of gezin. In verband met het soort oefeningen
