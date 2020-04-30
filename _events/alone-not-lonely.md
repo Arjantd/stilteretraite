@@ -18,7 +18,6 @@ from_date: 2020-05-12 20:00:00 +0200
 to_date: 2020-05-15 17:00:00 +0200
 length_of_time: 4 dagen
 price: 
-published: false
 
 ---
 **Aanvang:**
