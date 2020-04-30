@@ -110,7 +110,7 @@ sections:
     text: 'Heb je nog vragen over (deelname aan) stilte retraite? Stel ze gerust!   '
   padding: ''
 meta:
-  keywords: stilte retraite, retraite-aanbod, deelnemen, week, weekend
+  keywords: stilte retraite, retraite-aanbod, deelnemen, week, weekend, beginners
   description: Een stilte retraite is het grootste geschenk dat je jezelf kunt geven.
     Voel jij een verlangen naar stilte? Stilteretraite.nl biedt verschillende retraitevormen
     aan.
