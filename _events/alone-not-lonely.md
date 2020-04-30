@@ -4,10 +4,10 @@ attendees: 14
 category: 5-days
 layout: event
 meta:
-  title: 10 daagse stilte retraite voor thuis
-  keywords: thuis, stilte-retraite, vanuit huis
-  description: Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
-    en die het verlangen voelt ‘in de spanning te ontspannen’
+  title: 4 daagse online stilte retraite voor thuis
+  keywords: online retraite, thuis, stilte-retraite, vanuit huis
+  description: Bedoeld voor iedereen die in deze crisistijden het verlangen voelt
+    ‘in de spanning te ontspannen’. Met of zonder eerdere ervaring, iedereen is welkom!
   author: ''
 title: Retraite IN het leven (online)
 image: https://static.stilteretraite.nl/uploads/IN het leven online retraite.jpg
