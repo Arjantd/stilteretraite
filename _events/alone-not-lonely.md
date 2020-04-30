@@ -9,7 +9,7 @@ meta:
   description: Bedoeld voor iedereen die alleen thuis werkt en weinig buiten komt,
     en die het verlangen voelt ‘in de spanning te ontspannen’
   author: ''
-title: Alone, not lonely (online)
+title: Retraite IN het leven (online)
 image: https://static.stilteretraite.nl/uploads/IN het leven online retraite.jpg
 lead_text: 'Speciaal voor de huidige omstandigheden: een online stilte retraite! Het
   betreft een kosteloze try-out dus grijp deze kans! We hopen jullie allemaal online
