@@ -31,7 +31,7 @@ De online sessies zijn dagelijks in de ochtend van 7:00-8:00 en in de avond van 
    
 **Opzet:**
 
-De online-groepssessies worden gedaan via Zoom, een gratis online video App. Een uitnodiging hiervoor (+ instructie) ontvang je per email nadat je je hebt aangemeld. Tijdens de sessies ben je zelf niet in beeld, je ziet en hoort alleen Robbert van Bruggen. Alleen bij de kennismaking is een korte video uitwisseling wel zo prettig. Zorg verder voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
+De online-groepssessies worden gedaan via Zoom, een gratis online video App. Een uitnodiging hiervoor (+ instructie) ontvang je per email nadat je je hebt aangemeld. Tijdens de sessies ben je zelf niet in beeld, je ziet en hoort alleen Robbert van Bruggen. Zorg verder voor een headset zodat je in rust present kunt zijn bij de dagelijkse online meetings.
 
 Een online-begeleide retraite is natuurlijk iets anders dan een meerdaagse retraite waarin je in afzondering bent op een locatie waarin alles verzorgd is. Deze retraites zijn ervoor bedoeld, je te helpen ontspannen in de spanning van de huidige omstandigheden en getuige te zijn van wat zich allemaal in je en om je aandient.
 
