@@ -5,7 +5,7 @@ category: 5-days
 layout: event
 meta:
   title: 4 daagse online stilte retraite voor thuis
-  keywords: online retraite, thuis, stilte-retraite, vanuit huis
+  keywords: online retraite, thuis, stilte retraite, vanuit huis
   description: Bedoeld voor iedereen die in deze crisistijden het verlangen voelt
     ‘in de spanning te ontspannen’. Met of zonder eerdere ervaring, iedereen is welkom!
   author: ''
