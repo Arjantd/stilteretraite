@@ -1,6 +1,8 @@
 ---
 author: _people/robbert-van-bruggen.md
-categories: []
+categories:
+- retraite
+- stilte retraite
 layout: post
 meta:
   title: Artikel bij de online retraite IN het leven
