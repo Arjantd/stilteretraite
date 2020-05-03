@@ -22,7 +22,7 @@ related_posts: []
 
 Er zijn vele vormen van retraite en stilte retraite; ik heb er een aantal in mijn leven mogen ondergaan waarin je je tijdelijk terugtrekt uit het leven, zowel in groepsverband als individueel. Er zijn beproefde meditatieve strikte snelkookpannen als Vipassana en Za-zen; er zijn groepsretraites vanuit Boeddhisme, Soefisme en Katholicisme. Ik heb in individuele retraite in een tuinhuisje in Voorburg gezeten. Maar er zijn ook minder vanzelfsprekende vormen. Zo heb ik eens drie dagen op een matras gelegen, geblinddoekt en met oordoppen in mijn oren. Aan een vingertop werd je meegenomen als je naar het toilet moest, en op onverwachte momenten kreeg je een kop miso-soep aangereikt of werd er ineens een prachtig stuk muziek gedraaid. En voor de rest was de matras mijn eilandje, waarop ik lag, zat, onrustig was, en droomde. Ik kan me niet herinneren wat die retraite, die ‘isolatiegroep’ werd genoemd, me destijds gegeven heeft, het was vooral het volbrengen van deze bizarre dat achteraf een moment van trots gaf: ‘I did it !’
 
-**De retraite die me het meest gebracht**
+#### **De retraite die me het meest gebracht**
 
 De retraite die me het meest heeft gebracht vond plaats in 2006. Ik was in die tijd voorzitter van bestuur en spirituele raad van de Soefi Orde in Nederland en gaf klassen op verschillend plekken in Nederland. Het Soefisme heeft van retraites een ware wetenschap gemaakt. Heel verfijnd, zoals het Tibetaans boeddhisme dat ook kent. Ik had meerdere groepsretraites gedaan en een enkele individuele. Ik had een drukke baan en een gezin met jonge kinderen, dus er was niet altijd ruimte om me lang terug te trekken.
 
