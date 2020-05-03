@@ -44,4 +44,4 @@ Alles was anders, al het vertrouwde was weg. Ik heb drie maanden als een soort k
 
 **Retraite IN het leven is potentieel de meest directe ervaring van Eenheid van zijn.**
 
-[https://www.stilteretraite.nl/posts/2020-05-03-de-koevoet-een-retraite-in-het-leven/](https://www.stilteretraite.nl/posts/2020-05-03-de-koevoet-een-retraite-in-het-leven/ "Online retraite IN het leven")
+[https://www.stilteretraite.nl/events/alone-not-lonely/](https://www.stilteretraite.nl/events/alone-not-lonely/ "Online retraite IN het leven")
