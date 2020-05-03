@@ -3,10 +3,11 @@ author: _people/robbert-van-bruggen.md
 categories: []
 layout: post
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Artikel bij de online retraite IN het leven
+  keywords: stilte retraite, persoonlijke ontwikkeling, filosofie, het leven
+  description: Er zijn vele vormen van retraite en stilte retraite. Robbert van Bruggen
+    schrijft over de retraites die hij in zijn leven heeft ondergaan
+  author: Robbert van Bruggen
 title: De koevoet - een retraite IN het leven
 date: 2020-05-03 00:00:00 +0200
 lead_text: Er zijn vele vormen van retraite en stilte retraite. Robbert van Bruggen
