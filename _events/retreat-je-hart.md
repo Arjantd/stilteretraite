@@ -1,8 +1,8 @@
 ---
 title: Re-treat je hart!   Emmausklooster
 sub_heading: Vijfdaagse stilte retraite
-from_date: 2020-09-23 16:00:00 +0200
-to_date: 2020-09-27 15:00:00 +0200
+from_date: 2020-09-23T14:00:00.000+00:00
+to_date: 2020-09-27T13:00:00.000+00:00
 attendees: 12
 location: _locations/emmausklooster-in-velp.md
 layout: event
@@ -16,9 +16,9 @@ lead_text: 'Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers 
 meta:
   title: '5-daagse stilte retraite vanaf woensdag 23 september  2020 '
   keywords: stilte retraite, klooster, najaar 2020, robbert van bruggen
-  description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
-    wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
-    in de natuur & individuele ontmoetingen met Robbert van Bruggen."
+  description: "‘Re-treat je Hart’ is een stilte retraite waarin groepsmeditatie wordt
+    afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
+    in de natuur & individuele ontmoetingen met Robbert van Bruggen. Ook voor beginners!"
   author: ''
 
 ---
