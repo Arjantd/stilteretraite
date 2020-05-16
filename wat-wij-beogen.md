@@ -3,10 +3,11 @@ layout: page-centered-content
 title: Wat wij beogen
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Wat stilteretraite.nl beoogt
+  keywords: missie, visie, authenticiteit, creatieve wisselwerking
+  description: Stilteretraite.nl wil op zeer bescheiden wijze een bijdrage leveren
+    aan het betekenis geven aan het menselijk bestaan
+  author: Robbert van Bruggen
 show_pager: false
 menu:
   navigation:
@@ -37,4 +38,4 @@ _Stilteretraite.nl_ wil op zeer bescheiden wijze een bijdrage leveren aan de bew
 
 _Stilteretraite.nl_ wil die bijdrage leveren door verschillende vormen van stilte-retraite aan te bieden aan iedereen die transformatie zoekt in het leven, evenals als leiders, kenniswerkers en managementteams c.q. teams van stakeholders uit organisaties. Iedereen die op zoek is naar vrede, stilte, creatieve ingevingen die verandering en ontvouwing inluiden; die vanuit het huidige perspectief niet ‘bedacht’ kunnen worden.
 
-_Stilteretraite.nl_ wil met het aanreiken van retraite, workshops, publicaties, lezingen en kwalitatief onderzoek (naast alle andere creatieve inzichten en ondersteunende vormen die overal ontstaan)de _stem van het hart_ _helpen bevrijden van de dominantie van de normerende rationaliteit van de wetenschap waardoor subjectiviteit nog als niet ‘waardevol genoeg’ terzijde wordt geschoven;_ zodat de rijkheid van het menszijn in al haar facetten, in creatieve wisselwerking met anderen het medium kan zijn waarmee een nieuw paradigma dat door velen gevoeld en gezocht wordt, als vanzelf door ons menselijk handelen kan ontstaan
+_Stilteretraite.nl_ wil met het aanreiken van retraite, workshops, publicaties, lezingen en kwalitatief onderzoek (naast alle andere creatieve inzichten en ondersteunende vormen die overal ontstaan) de _stem van het hart_ _helpen bevrijden van de dominantie van de normerende rationaliteit van de wetenschap waardoor subjectiviteit nog als niet ‘waardevol genoeg’ terzijde wordt geschoven;_ zodat de rijkheid van het menszijn in al haar facetten, in creatieve wisselwerking met anderen het medium kan zijn waarmee een nieuw paradigma dat door velen gevoeld en gezocht wordt, als vanzelf door ons menselijk handelen kan ontstaan
