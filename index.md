@@ -4,7 +4,7 @@ layout: landing-page
 hero_slider:
 - image: https://static.stilteretraite.nl/uploads/Home - Banner 4.jpg
   title: Stilteretraite.nl
-  sub_heading: ''
+  sub_heading: In stilte openbaart zich het ware verlangen
   buttons:
   - text: Contact ons!
     link: contact.md
