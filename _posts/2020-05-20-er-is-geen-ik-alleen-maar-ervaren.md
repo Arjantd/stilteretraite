@@ -10,7 +10,7 @@ meta:
     Ieder mens is altijd al menselijk en verbonden. Zelfs als je dat niet zo beleeft.
   author: Robbert van Bruggen
 title: 'Er is geen ik, alleen maar ervaren '
-date: 2020-05-20 21:00:00 +0200
+date: 2020-05-20 09:00:00 +0200
 lead_text: We zijn allemaal uitdrukking van dezelfde menselijke ervaring. Wat nou
   ‘participatiesamenleving’? Meer menselijkheid? Het bestaan is er vol van. Ieder
   mens is altijd al menselijk en verbonden. Zelfs als je dat niet zo beleeft.
