@@ -66,7 +66,7 @@ testimonials:
     Deze niet-persoon kent vele vormen en vele gezichten. Leuk om deze gezichten even
     te hebben gezien. En de meditatie om de stilte weer centraal te stellen, die gaat
     mee in mijn alledaagse leven."
-  participant: 'Tanja Verstappen '
+  participant: 'T. V. '
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART OKT. 2019
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
