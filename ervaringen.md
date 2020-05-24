@@ -4,8 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Online thuisretraite, de stilte ont-moeten
-  subtitle: Tanja deed mee aan de online retraite 'IN het leven' een try-out die smaakt
-    naar meer!
+  subtitle: Online retraite 'IN het leven', mei 2020
   text: "Het uitnodigende stukje over een “online retraite in het leven” liet me niet
     los. Mijn eerste impuls was “doen”. En toen kwamen alle opjutters in mijn hoofd
     weer eens in opstand. Geen tijd, hoe ga je dat dan doen, en je agenda dan… Het
