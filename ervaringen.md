@@ -16,9 +16,9 @@ testimonials:
     gaat daar in het alledaagse bijna ongemerkt weer een sausje van zogenaamde belangrijke
     rollen, doelen en bezigheden overheen en voor je het weet nemen je oude patronen
     het weer van het blanco bewustzijn over. En als er dan veel stress situaties zijn
-    dan vergeet je wel eens wie of wat je werkelijk bent.  \n  \nlees hele ervaringsartikel
-    hier:  [https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/](https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/
-    \"https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/\")"
+    dan vergeet je wel eens wie of wat je werkelijk bent.  \n  \nLees het hele ervaringsartikel
+    hier:    \n[Download File](https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/
+    \"Download File\")"
   participant: 'Tanja Verstappen '
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART OKT. 2019
