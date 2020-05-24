@@ -11,14 +11,61 @@ testimonials:
     berichtje bleef maar langskomen op Facebook en Instagram. Een blik in mijn agenda
     leerde me dat er nul afspraken stonden. Mijn dagelijkse yogasessies deed ik al
     op de logeerkamer en tijd is relatief gebleken, al vele keren in mijn leven. Dus
-    hoppa, inschrijven.  \n_._  \nDe vele retraites die ik al gedaan heb in het verleden,
+    hoppa, inschrijven.  \n  \nDe vele retraites die ik al gedaan heb in het verleden,
     hebben de stilte gegrond in mij, als basis van waaruit ik het leven leef. Toch
     gaat daar in het alledaagse bijna ongemerkt weer een sausje van zogenaamde belangrijke
     rollen, doelen en bezigheden overheen en voor je het weet nemen je oude patronen
     het weer van het blanco bewustzijn over. En als er dan veel stress situaties zijn
-    dan vergeet je wel eens wie of wat je werkelijk bent.  \n.  \nLees het hele ervaringsartikel
-    hier:    \n![https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/](https://static.stilteretraite.nl/uploads/Ervaringen
-    - Tanja.jpg \"https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/\")"
+    dan vergeet je wel eens wie of wat je werkelijk bent.  \n  \nMijn behoefte aan
+    terugtrekken, de stilte weer opnieuw centraal stellen in mijn leven was al een
+    tijdje latent aanwezig. Ik was mijn innerlijke kracht en macht wat kwijtgeraakt.
+    De dagelijkse oefensessies kundaliniyoga en de meditaties hebben dat helder laten
+    zien. Deze digitale retraite kwam dus als geroepen. Juist op het moment dat er
+    weer veel heldere inzichten op mijn netvlies geprojecteerd werden was het fijn
+    om de stilte op te zoeken.\n\nNieuwsgierig ook naar hoe zo’n programma in elkaar
+    zou zitten, wat opdrachten in zouden houden en wat dit alles met mij zou doen
+    installeerde ik mij in de vooravond van de start van het programma op de logeerkamer.
+    Mijn meditatiewolletje uitgespreid, een kaarsje op een tafeltje met wat stenen
+    en mijn gebedskralen binnen handbereik. En het door mijn vader gemaakte koperen
+    wijwaterbakje als aanwezigheid van een hogere energie, als contact met iets groters
+    mocht niet ontbreken. Zoom geïnstalleerd op de laptop dus ik was er klaar voor.
+    Overigens een volkomen overbodig sfeertje scheppend, maar ach ja dat doen wij
+    mensen nou eenmaal graag.\n\nNa het avondrondje wandelen met de hond begint op
+    dinsdagavond de retraite. Een hartelijk welkom via Zoom waar iedereen de camera-
+    en microfoon-functie heeft uitstaan. Behalve Robbert die de retraite leidt. Verder
+    alleen maar namen en begroetingen aan elkaar in de chatfunctie. Na een heldere
+    introductie een eerste digitale stiltemeditatie. Een half uurtje ondergedompeld
+    worden in Zijn. Mijn lichaam protesteert hier en daar maar ik laat het. Het geeft
+    ruimte om op te merken waar de spanningen en verkrampingen zitten. Zo vanzelfsprekend
+    en tegelijkertijd al weer te lang geleden. Wat rekken en strekken maakt het gemakkelijker
+    om in stilte te blijven.\n\nHet retraiteprogramma kent een mooi proces. Dag 1:
+    o_vergave, filteren, oplossen_; dag 2: _dood, stille zwart, de komst van het licht_
+    en dag 3 _resurrectie_. Een pittig proces om “in het leven” te doen. Ik voel in
+    mezelf dat ik alleen diepgang kan vinden als ik werkelijk de stilte inga en weinig
+    dagelijkse bewegingen opneem. Zeker de eerste dag is de overgang van het alledaagse
+    naar overgave een groot contrast. En dat is het alleen maar omdat mijn denker
+    dat bedenkt. De denker, zo gewend om resultaatgericht te zijn. Ik kom er al gauw
+    achter tijdens een slenterwandelingetje dat er alleen maar zijn in het Nu is,
+    en dat dit er altijd is.\n\nDe thema’s van het retraiteprogramma kende ik al uit
+    eerdere retraites. Zo’n vijftien jaar geleden waren dit heftige thema’s met heftige
+    ervaringen die veel impact hadden. Wat ben ik intens dankbaar dat ik deze processen
+    al jaren terug heb toegelaten in het leven. Het heeft me zoveel vrijheid gegeven.
+    In deze retraite is het een soort van reset en weer op een diepere laag herbeleven,
+    herinneren en herkennen van het licht en de liefde die ik in werkelijkheid ben,
+    stromend vanuit het hart.\n\nHoe bijzonder om op te merken dat twee keer per dag
+    samenkomen op een beeldscherm een zelfde beweging in mezelf teweeg brengt als
+    wanneer je met een groep op een locatie bent. Ik zorgde ook nu om op tijd te zijn,
+    altijd een tikkie eerder. Ik deed mee met alle fijne oefeningen die overwegend
+    nieuw voor me waren. En over tijd en ruimte heen was er verbinding.\n\nLangzaam
+    komt er op de laatste dag weer wat alledaagse beweging. Het is alsof alles lichter
+    is, en er meer kracht door mij stroomt, een soort vitale energie en zin in het
+    leven.\n\nNa de laatste meditatie zet iedereen zijn camera en geluid even aan
+    om elkaar toch even te kunnen horen en zien, te zwaaien naar elkaar. We zijn toch
+    samen door de retraite gegaan, samen Zijn in de stilte. Om op deze laatste dag
+    helder te zien dat het juist de niet-persoon is die de vrijheid en de liefde leeft.
+    Deze niet-persoon kent vele vormen en vele gezichten. Leuk om deze gezichten even
+    te hebben gezien. En de meditatie om de stilte weer centraal te stellen, die gaat
+    mee in mijn alledaagse leven."
   participant: 'Tanja Verstappen '
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART OKT. 2019
