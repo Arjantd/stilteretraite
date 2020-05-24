@@ -11,14 +11,14 @@ testimonials:
     berichtje bleef maar langskomen op Facebook en Instagram. Een blik in mijn agenda
     leerde me dat er nul afspraken stonden. Mijn dagelijkse yogasessies deed ik al
     op de logeerkamer en tijd is relatief gebleken, al vele keren in mijn leven. Dus
-    hoppa, inschrijven.\n\nDe vele retraites die ik al gedaan heb in het verleden,
+    hoppa, inschrijven.  \n_._  \nDe vele retraites die ik al gedaan heb in het verleden,
     hebben de stilte gegrond in mij, als basis van waaruit ik het leven leef. Toch
     gaat daar in het alledaagse bijna ongemerkt weer een sausje van zogenaamde belangrijke
     rollen, doelen en bezigheden overheen en voor je het weet nemen je oude patronen
     het weer van het blanco bewustzijn over. En als er dan veel stress situaties zijn
-    dan vergeet je wel eens wie of wat je werkelijk bent.  \n  \nLees het hele ervaringsartikel
-    hier:    \n[Download File](https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/
-    \"Download File\")"
+    dan vergeet je wel eens wie of wat je werkelijk bent.  \n.  \nLees het hele ervaringsartikel
+    hier:    \n![https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/](https://static.stilteretraite.nl/uploads/Ervaringen
+    - Tanja.jpg \"https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/\")"
   participant: 'Tanja Verstappen '
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART OKT. 2019
