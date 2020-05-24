@@ -3,6 +3,24 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Online thuisretraite, de stilte ont-moeten
+  subtitle: Tanja deed mee aan de online retraite 'IN het leven' een try-out die smaakt
+    naar meer!
+  text: "Het uitnodigende stukje over een “online retraite in het leven” liet me niet
+    los. Mijn eerste impuls was “doen”. En toen kwamen alle opjutters in mijn hoofd
+    weer eens in opstand. Geen tijd, hoe ga je dat dan doen, en je agenda dan… Het
+    berichtje bleef maar langskomen op Facebook en Instagram. Een blik in mijn agenda
+    leerde me dat er nul afspraken stonden. Mijn dagelijkse yogasessies deed ik al
+    op de logeerkamer en tijd is relatief gebleken, al vele keren in mijn leven. Dus
+    hoppa, inschrijven.\n\nDe vele retraites die ik al gedaan heb in het verleden,
+    hebben de stilte gegrond in mij, als basis van waaruit ik het leven leef. Toch
+    gaat daar in het alledaagse bijna ongemerkt weer een sausje van zogenaamde belangrijke
+    rollen, doelen en bezigheden overheen en voor je het weet nemen je oude patronen
+    het weer van het blanco bewustzijn over. En als er dan veel stress situaties zijn
+    dan vergeet je wel eens wie of wat je werkelijk bent.  \n  \nlees hele ervaringsartikel
+    hier:  [https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/](https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/
+    \"https://www.tanjaverstappen.nl/2020/05/24/thuisretraite-de-stilte-ont-moeten/\")"
+  participant: 'Tanja Verstappen '
 - title: En voor degene die dit leest en twijfelt om een retraite te doen...
   subtitle: RE-TREAT JE HART OKT. 2019
   text: "'Zou een stilte-retraite iets voor jou zijn?' Deze vraag riep in eerste instantie
