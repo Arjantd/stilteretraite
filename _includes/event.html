@@ -2,13 +2,15 @@
     <img data-src="{{ include.image | resized_image_url: "750x500" }}" width="750" height="500" alt="" class="lazy">
 </div>
 <div class="row">
+    {% assign from_month = include.from_date | date: "%-m" | minus: 1 %}
+    {% assign to_month = include.to_date | date: "%-m" | minus: 1 %}
     <div class="col-md-6 col-sm-6">
         <span class="event-date">
             <span class="date">{{ include.from_date | date: '%d' }}</span>
-            <span class="month">{% assign m = include.from_date | date: "%-m" | minus: 1 %}{{ site.data.nl.short_months[m] }}</span>
+            <span class="month">{{ site.data.nl.short_months[from_month] }}</span>
             <span class="year">{{ include.from_date | date: '%Y' }}</span>
         </span>
-        <span class="meta-data">{{ include.from_date | date_to_string }} - {{ include.to_date | date_to_string }}</span>
+        <span class="meta-data">{{ include.from_date | date: '%d' }} {{ site.data.nl.short_months[from_month] }} {{ include.from_date | date: '%Y' }} - {{ include.to_date | date: '%d' }} {{ site.data.nl.short_months[to_month] }} {{ include.to_date | date: '%Y' }}</span>
         <a href="{{ "/aanmelden-voor-retraite/" | absolute_url | append: "?event=" | append: page.url }}" class="btn btn-primary btn-event-single-book">Aanmelden</a>
         <a href="{{ location.url }}" class="basic-link" style="margin-top: 16px">Bekijk locatie</a>
       </div>
