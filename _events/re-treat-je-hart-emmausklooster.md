@@ -14,7 +14,7 @@ lead_text: 'Deze Re-treat je Hart is een vierdaagse retraite waar max. 12 deelne
   zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte. '
 meta:
-  title: Re-treat je hart, vijfdaagse stilte retraite vanaf 9 december 2020
+  title: Re-treat je hart, vierdaagse stilte retraite vanaf 10 december 2020
   keywords: Klooster, stilte retraite, rust, zelfontwikkeling
   description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
