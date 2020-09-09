@@ -4,14 +4,14 @@ attendees: 12
 layout: event
 title: Re-treat je hart! Emmausklooster
 sub_heading: 'vijf daagse stilte retraite '
-from_date: 2020-12-09 17:00:00 +0100
-to_date: 2020-12-13 15:00:00 +0100
-price: 675
+from_date: 2020-12-10 17:00:00 +0100
+to_date: 2020-12-13T14:00:00.000+00:00
+price: 535
 image: https://static.stilteretraite.nl/uploads/Event - december 2020.jpg
 category: 5-days
-length_of_time: 5 dagen
-lead_text: 'Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
-  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+length_of_time: 4 dagen
+lead_text: 'Deze Re-treat je Hart is een vierdaagse retraite waar max. 12 deelnemers
+  zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte. '
 meta:
   title: Re-treat je hart, vijfdaagse stilte retraite vanaf 9 december 2020
@@ -22,7 +22,7 @@ meta:
   author: ''
 
 ---
-Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
+Deze vierdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
 
@@ -30,7 +30,7 @@ Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een st
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-Aanvang retraite: woensdag 9 december 2020 om 16.00 uur  
+Aanvang retraite: donderdag 10 december 2020 om 16.00 uur  
 Einde retraite: zondag 13 december om 15.00 uur  
 Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
 Informatie: Robbert van Bruggen  
@@ -39,7 +39,7 @@ Telefonisch: 06-24678735 tussen 20.00-20.30
 
 ### Kosten en meer
 
-Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 695 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
+Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 535 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
