@@ -39,7 +39,7 @@ Telefonisch: 06-24678735 tussen 20.00-20.30
 
 ### Kosten en meer
 
-Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 535 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
+Deze vierdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 3 overnachtingen en bedraagt € 535 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
