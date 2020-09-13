@@ -3,6 +3,22 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Op het randje van je comfort zone laten nieuwe waarheden zich onverwachts
+    zien
+  subtitle: BACK TO NATURE RETRAITE   |   JULI 2020
+  text: |-
+    Voorafgaand aan de retraite was er al een redelijk besef. Iets met kracht, sprankeling, levenslust, vrouw-zijn, zelfliefde, vrij-zijn, loslaten, overgave, vertrouwen... De waardevolle oogst van een intense periode van scheiding, verhuizing naar een klushuis in nieuwe woonplaats en een nieuwe baan. Corona bracht alle hectiek tot een abrupte stilstand en er ontstond ineens meer ruimte om te voelen waar ik stond. Ergens voelde ik dat oude overtuigingen niet meer paste maar veel stevigheid voelde ik niet in het nieuwe wat zich van binnenuit wilde laten zien.
+
+    Verlangen naar verstilling om dieper tot deze essentie te komen en ruimte te bieden aan dit dieper “bijna-weten” was voor mij de aanleiding voor de derde keer een retraite bij Robbert te volgen.
+
+    Ik merkte al gauw dat ik de retraite niet kon “doen”. De confrontatie met mijn eindeloze stroom aan gedachten frustreerde mij maar kon ik niet “uitzetten”. Dag 3 brak aan en nog steeds alleen maar verhaaltjes in mijn hoofd. Eindeloze gesprekjes, herinneringen... Een uur mediteren was een uur vol “druk zijn” in mijn hoofd. Robbert legde de mooiste oefeningen uit en ik voelde werkelijk wat hij zei. Kénde het. Maar kennelijk was mijn systeem daar nu niet aan toe.
+
+    In een 1 op 1 gesprekje met Robbert legde hij de vinger op de zere plek. Zeg maar JA tegen je nee! En hij gaf een oefening die mij in 1 middag bracht naar de belichaming van wat ik al die tijd al onder de oppervlakte voelde. Zonder opschrijfboekje, zonder camera en zonder schoenen, vertrok ik meteen na ons gesprek de natuur in. Wat volgde waren uren waarin verdriet, boosheid, onbedaarlijke lachbuien, angst, twijfel, bravour, gek doen, arrogantie, egoïsme en plezier zich continu afwisselde. Overal zei ik JA op! Even kwam ik terug naar de groep voor de middagmeditatie maar binnen een paar minuten stilzitten voelde ik weer zoveel “nee” dat ik opnieuw vertrok. Hop, over het hek, op blote voeten, weer het prachtige landgoed over. Na een middag zwerven, klauteren, grenzen verleggen en veel plezier met mijn “donkere kant” en met mijn eigen gezelschap, keerde ik terug voor het avondeten. Levenslustig, lichtvoetig, met vurig open hart en een rustig hoofd.
+
+    En zo ging ik naar huis. Hoofd ik de wolken, voeten stevig op de grond en een open hart sidderend vol levenslust, verlangen, vertrouwen, nieuw-verworven wijsheid en nieuwsgierigheid. Nu 2 weken later herinnert mijn lichaam zich nog die intense kracht en eenvoud van JA zeggen tegen het leven in al zijn schakeringen.
+
+    Iedere retraite heeft mij wat gebracht, iedere keer iets anders. Ik kan het iedereen die het verlangen voelt, van harte aanbevelen! Het is soms best spannend, maar op het randje van je comfort zone kunnen nieuwe waarheden zich onverwachts laten zien!
+  participant: M, 42 jaar
 - title: Een heel stuk gegroeid
   subtitle: BACK TO NATURE RETRAITE   |   JULI 2020
   text: "‘Ik wil heel graag nogmaals mijn dankbaarheid uitspreken dat ik deel uit
