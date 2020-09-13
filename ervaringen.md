@@ -3,6 +3,38 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een heel stuk gegroeid
+  subtitle: BACK TO NATURE RETRAITE   |   JULI 2020
+  text: "‘Ik wil heel graag nogmaals mijn dankbaarheid uitspreken dat ik deel uit
+    mocht maken van deze ontzettend fijne retraite op zo’n adembenemende plek. De
+    dankbaarheid die ik tijdens de retraite voelde is gelukkig nog steeds aanwezig!\n\nWe
+    kenden elkaar nog niet voor de retraite (afgezien van ons telefoongesprek vooraf
+    wat ik ook al als zeer prettig heb ervaren) dus ik vond het best een beetje spannend
+    omdat ik nog niet echt een idee had hoe je de retraite zou invullen /leiden en
+    hoe de groep zou zijn.\n\nIk vond de mix van stilzittende en actieve meditaties
+    ontzettend fijn! Daarnaast vond ik het prachtig en inspirerend hoe je gedurende
+    de retraite jou kwetsbare kant liet zien door je hart te volgen en dingen soms
+    net een beetje anders te doen, zoals die Zikrs, die soms wat uit mijn comfort
+    zone maar stiekem wel heel fijn waren. Tot slot heb ik genoten van jouw humor
+    en ben ik je ontzettend dankbaar voor de veiligheid en het gevoel van gezien zijn/
+    de erkenning dat alles goed is zoals het is zoals je tijdens de retraite hebt
+    gecreëerd.\n\nDe retraite heeft mij zo ontzettend veel gebracht hoe paradoxaal
+    dat misschien ook klinkt gelet op het feit dat mijn normale leven inmiddels weer
+    gewoon door is gegaan en er voor de buitenwereld denk ik niet zo gek veel verandering
+    is. Toch kan ik niet anders dan concluderen dat het leven nu moeitelozer verloopt.\n\nHet
+    voelt alsof ik eindelijk niet meer tegen een stroom in aan het zwemmen ben maar
+    mij met meer vertrouwen over kan geven aan dat wat het leven brengt. De retraite
+    heeft een soort innerlijke rust en vertrouwen gebracht dat dit mogelijk heeft
+    gemaakt. Hoewel er nog steeds momenten zijn dat ik van dingen (mijn werk bijv.)
+    baal of mee ga in negatieve emoties voel ik ook een soort innerlijke rust / positiviteit
+    die steviger/krachtiger is en minder beïnvloed lijkt te worden door externe omstandigheden.
+    Ik heb echt het idee dat ik wederom in korte tijd een heel stuk gegroeid ben (emotioneel
+    bedoel ik dan, gelukkig niet letterlijk). \n\nIk hoop dat dit gevoel zo blijft,
+    al herinner ik me nog dat je de laatste dag zei dat het beter zou zijn om dat
+    verlangen los te laten. \n\nHoe dan ook hoop ik in de toekomst nog eens een retraite
+    bij je te kunnen doen! Het was zeker voor herhaling vatbaar!\n\nLiefdevolle groet,
+    P’"
+  participant: p
 - title: Online thuisretraite, de stilte ont-moeten
   subtitle: Online retraite 'IN het leven', mei 2020
   text: "Het uitnodigende stukje over een “online retraite in het leven” liet me niet
