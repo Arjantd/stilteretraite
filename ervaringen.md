@@ -3,6 +3,15 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een stilte retraite
+  subtitle: ''
+  text: |-
+    De voorstelling die ik me ervan maakte, onbekend met iedere vorm van retraite, was een groep in zichzelf gekeerde mensen die samen op een plek stil waren. Maar het tegendeel is waar. Ook al wordt er onderling geen enkele vorm van contact gemaakt, je beweegt je als groep op een hele prettige manier door de vijf dagen heen. Je leert elkaars gewoontes kennen, ziet elkaars worsteling en er ontstaat een onbeschrijflijke cohesie. Iedereen gunt en geeft elkaar de ruimte voor zijn/haar eigen proces.
+
+    De begeleiding, onder leiding van Robbert, is prachtig. Ik heb ontspanningsoefeningen gedaan en gezongen uit verschillende culturen. Ik voelde me daarbij zeer op mijn gemak door het realisme en de nodige zelfspot waarmee Robbert ze bracht. De ene keer leidde dat van binnen tot heftige emoties dan andere keer kon ik me er gelukzalig in verliezen.
+
+    De hele retraite deed me denken aan het boek ‘Eat Pray Love’ waarbij Love wordt vervangen door wandelen en slapen. Een ritme waarin ik me kon ontspannen en bovendrijvende emoties kon verwerken. Zeer waardevol.
+  participant: S. , Begeleidingskundige
 - title: Op het randje van je comfort zone laten nieuwe waarheden zich onverwachts
     zien
   subtitle: BACK TO NATURE RETRAITE   |   JULI 2020
