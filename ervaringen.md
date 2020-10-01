@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Een stilte retraite
-  subtitle: ''
+  subtitle: RE TREAT JE HART   |   SEPT 2020
   text: |-
     De voorstelling die ik me ervan maakte, onbekend met iedere vorm van retraite, was een groep in zichzelf gekeerde mensen die samen op een plek stil waren. Maar het tegendeel is waar. Ook al wordt er onderling geen enkele vorm van contact gemaakt, je beweegt je als groep op een hele prettige manier door de vijf dagen heen. Je leert elkaars gewoontes kennen, ziet elkaars worsteling en er ontstaat een onbeschrijflijke cohesie. Iedereen gunt en geeft elkaar de ruimte voor zijn/haar eigen proces.
 
