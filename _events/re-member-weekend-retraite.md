@@ -18,7 +18,7 @@ lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerd
   maar wel verlangt naar een 'Refresh' weekend.
 from_date: 2020-10-30 14:00:00 +0100
 to_date: 2020-11-01 15:00:00 +0100
-length_of_time: "3"
+length_of_time: 3 dagen
 
 ---
 **Wie, wat en waar**  
