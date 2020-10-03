@@ -18,7 +18,7 @@ meta:
   description: "‘Weekend retraite Emmausklooster’ is een 3-daagse stilte retraite
     waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen
     en inzichten, wandelingen & individuele ontmoetingen met Robbert van Bruggen."
-  author: ''
+  author: Arjan ten Dam
 
 ---
 **Wie, wat en waar**  
