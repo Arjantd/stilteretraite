@@ -13,7 +13,7 @@ to_date: 2020-11-01 15:00:00 +0100
 length_of_time: 3 dagen
 price: 395
 meta:
-  title: Weekend retraite Emmausklooster, 30 okt -1 nov 2020
+  title: Weekend retraite Emmausklooster, 30 okt - 1 nov 2020
   keywords: weekend stilte retraite, klooster, Robbert van Bruggen, beginner
   description: "‘Weekend retraite Emmausklooster’ is een 3-daagse stilte retraite
     waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen
