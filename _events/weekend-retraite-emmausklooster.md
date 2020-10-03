@@ -8,8 +8,8 @@ image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-
 lead_text: Nieuw in ons aanbod is een weekend retraite! Voor als je al eens eerder
   aan een stilte retraite deelnam, niet de tijd voor een vijfdaagse retraite hebt,
   maar wel verlangt naar een 'Refresh' weekend.
-from_date: 2020-10-30T13:00:00.000+00:00
-to_date: 2020-11-01T14:00:00.000+00:00
+from_date: 2020-10-30 14:00:00 +0100
+to_date: 2020-11-01 15:00:00 +0100
 length_of_time: 3 dagen
 price: 395
 meta:
@@ -17,7 +17,7 @@ meta:
   keywords: weekend stilte retraite, klooster, Robbert van Bruggen, beginner
   description: "‘Weekend retraite Emmausklooster’ is een 3-daagse stilte retraite
     waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen
-    en meditaties, wandelingen & individuele ontmoetingen met Robbert van Bruggen."
+    en inzichten, wandelingen & individuele ontmoetingen met Robbert van Bruggen."
   author: ''
 
 ---
