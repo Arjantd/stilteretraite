@@ -22,7 +22,7 @@ length_of_time: "3"
 
 ---
 **Wie, wat en waar**  
- Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.
+Deze retraite is bedoeld voor iedereen die ooit een retraite bij ineenhutjeopdehei heeft gedaan en die zich graag nog eens in de stilte wil onderdompelen met daarin verweven zowel vertrouwde- als nieuwe oefeningen en meditaties uit het soefisme, boeddhisme, advaita vedanta of andere tradities.
 
 De stilte-retraite vangt vrijdagmiddag 30 oktober om 14.00 aan, je bent welkom vanaf 12.00 uur. Vanaf 16.00 uur gaan we in stilte tot zondagmiddag 1 november 13.00 uur. Einde retraite 15.00 uur.
 
@@ -30,21 +30,20 @@ De retraite vindt plaats in het oude Capucijnenklooster in Velp/Grave. Je verbli
 
 Op zaterdag heb je de mogelijkheid voor een persoonlijke ontmoeting met Robbert, waarin je taal kunt geven aan het proces waar je doorheen gaat en waarin je een op jouw persoonlijke situatie gerichte oefening kunt krijgen.
 
-Voorafgaand aan de retraite heb je telefonisch contact met Robbert.  
-  
-  
-**Praktische info**
+Voorafgaand aan de retraite heb je telefonisch contact met Robbert.
+
+## **Praktische info**
 
 ‘Re-member!’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
 Aanvang retraite: vrijdag 30 oktober om 14.00 uur  
- Einde retraite: zondag 1 november om 15.00 uur  
- Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
- Informatie: Robbert van Bruggen  
- Per mail: gebruik het contactformulier op deze website  
- Telefonisch: 06-24678735 tussen 20.00-20.30
+Einde retraite: zondag 1 november om 15.00 uur  
+Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
+Informatie: Robbert van Bruggen  
+Per mail: gebruik het contactformulier op deze website  
+Telefonisch: 06-24678735 tussen 20.00-20.30
 
-**Kosten en meer**
+### **Kosten en meer**
 
 Kosten: € 395. Je ontvangt twee facturen, één voor het retraite-deel van stilteretraite.nl en één voor de verblijfskosten van Avant Spirit.
 
