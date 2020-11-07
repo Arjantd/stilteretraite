@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Op dag drie wil ik wegrennen
-  subtitle: c
+  subtitle: RE TREAT JE HART   |   SEPT 2020
   text: Vijf dagen stil zijn, geen boeken en muziek, oogcontact. Elke keer dat ik
     in stilte ga vraag ik me vlak van tevoren weer af waar ik in godsnaam mee bezig
     ben, waarom ik mezelf dit aan doe. Op dag drie wil ik wegrennen en nooit meer
@@ -601,7 +601,6 @@ menu:
     weight: 7
     parent: _stilte_retraite
     identifier: _ervaringen
-published: false
 
 ---
 > **  
