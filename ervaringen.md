@@ -3,6 +3,22 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Op dag drie wil ik wegrennen
+  subtitle: c
+  text: Vijf dagen stil zijn, geen boeken en muziek, oogcontact. Elke keer dat ik
+    in stilte ga vraag ik me vlak van tevoren weer af waar ik in godsnaam mee bezig
+    ben, waarom ik mezelf dit aan doe. Op dag drie wil ik wegrennen en nooit meer
+    terug komen, wil ik niet langer naar mijn eigen gedachte kijken en mijn innerlijke
+    stem horen. Op dit punt helpt Robbert me er door heen, met humor en inzicht. Ik
+    blijf, zoals ik altijd blijf. Na dit gevecht met mijzelf ontstaat er een rust,
+    een vrede die door blijft werken tijdens de rest van de dagen. De rust wordt versterkt
+    door de fijne oefeningen en meditaties door de dagen heen. Wanneer ik wegrijd
+    na vijf dagen stilte op een vreselijk mooie plek weet ik het weer, waarom ik dit
+    doe. Ik voel me rustig, open en kan weer een paar stukjes van mijzelf plaatsen.
+    Ik kan weer verder leren en groeien in mijn leven, ik voel weer een duidelijke
+    richting. En ik heb ook weer nieuwe vragen, maar die bewaar ik wel voor een volgende
+    retraite.
+  participant: C.V.
 - title: Een stilte retraite
   subtitle: RE TREAT JE HART   |   SEPT 2020
   text: |-
@@ -585,6 +601,7 @@ menu:
     weight: 7
     parent: _stilte_retraite
     identifier: _ervaringen
+published: false
 
 ---
 > **  
