@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Er is een laagje bescherming weggevallen
+  subtitle: RE TREAT JE HART   |   SEPT 2020
+  text: "Er is echt zo veel verandert na de retraite. Tijdens de retraite had ik besloten
+    om mijn eigen manier van leven niet in te ruilen voor een 'passend' plekje in
+    hoe de maatschappij vindt dat het hoort. De eenzaamheid die daarbij komt kijken,
+    die was ik bereid om er bij te nemen. Ik had me die eenzaamheid niet gerealiseerd,
+    tot dat jij woorden gaf aan het gevoel dat ik had. Maar goed, mijn besluit stond
+    vast, Soeverein zijn en de eenzaamheid die daar bij kwam kijken accepteren, ik
+    zou mijn plekje en mijn mensen wel vinden als het zo ver was.   \n  \nIk had het
+    niet zien aankomen, bijna direct na de retraite vind ik de man die ik beschreven
+    heb tijdens nachten gevuld met wijn en gesprekken. Die man die zo goed bij mij
+    past, en ineens ben ik niet meer alleen. Ik heb iemand gevonden die klopt, past
+    bij mij zoals ik ben en mijn hele wereld staat nu op zijn kop. Ik loop rond als
+    een verliefde tiener en kan nergens anders meer aan denken.  \n  \nWat ik ook
+    merk als gevolg van de retraite is dat er een laagje bescherming weg is gevallen
+    en mijn emoties en gevoel nu nog meer aan de oppervlakte liggen. Ik voel me een
+    open zenuw, ik lach hard en ik huil ook hard. Ik moet er aan wennen, omdat ik
+    het lastig vind om alles zo intens te voelen. Wel zorgt het er voor dat ik veel
+    sneller weet wat iets met me doet, waardoor dingen makkelijker worden. En ik kan
+    nog beter communiceren met die leuke man.  \n  \nIk heb zo veel gehad aan deze
+    retraite. Het heeft me zo veel nieuwe stukjes gegeven in mijn puzzel dat ik nu
+    eindelijk het plaatje begin te zien.  "
+  participant: M. Deelneemster RJH sept 2020
 - title: Op dag drie wil ik wegrennen
   subtitle: RE TREAT JE HART   |   SEPT 2020
   text: Vijf dagen stil zijn, geen boeken en muziek, oogcontact. Elke keer dat ik
