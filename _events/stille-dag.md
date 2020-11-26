@@ -10,7 +10,7 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
   onderdompelen in stilte.
 from_date: 2020-12-31T08:00:00.000+00:00
 to_date: 2020-12-31T16:00:00.000+00:00
-length_of_time: 5 dag
+length_of_time: 5 dagen
 price: 
 meta:
   title: ''
