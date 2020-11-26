@@ -17,7 +17,6 @@ meta:
   keywords: ''
   description: ''
   author: ''
-published: false
 
 ---
 Exacte datum en informatie volgen  
