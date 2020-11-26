@@ -4,7 +4,7 @@ attendees: 12
 category: 5-days
 layout: event
 title: Re-treat je hart! Emmausklooster (nieuwe data volgen zsm)
-image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-14.jpg
+image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
