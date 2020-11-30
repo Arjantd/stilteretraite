@@ -1,8 +1,8 @@
 ---
-location: []
-price: 0
-attendees: 1
-category: ''
+location: _locations/emmausklooster-in-velp.md
+price: 675.0
+attendees: 12
+category: 5-days
 layout: event
 meta:
   title: ''
@@ -11,10 +11,12 @@ meta:
   author: ''
 title: Re-treat je hart! Emmausklooster
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
-lead_text: ''
-from_date: 
-to_date: 
-length_of_time: ''
+lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
+  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+  onderdompelen in stilte.
+from_date: 2021-06-09 00:00:00 +0200
+to_date: 2021-06-13 00:00:00 +0200
+length_of_time: 5 dagen
 published: false
 
 ---
