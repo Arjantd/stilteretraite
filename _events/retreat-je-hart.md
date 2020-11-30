@@ -9,8 +9,8 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Retreat je hart
-image: ''
+title: Re-treat je hart! Emmausklooster
+image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-7.jpg
 lead_text: ''
 from_date: 
 to_date: 
