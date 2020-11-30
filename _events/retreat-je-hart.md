@@ -5,8 +5,8 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Re-treat je hart! Stilte retraite voor iedereen
+  keywords: stilte, stilte-retraite, klooster, Velp
   description: ''
   author: ''
 title: Re-treat je hart! Emmausklooster
