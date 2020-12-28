@@ -35,18 +35,8 @@
         <meta property="og:description" content="{{ page.meta.description }}" />
         <meta property="og:url" content="{{ page.url | absolute_url }}" />
         <meta property="og:image" content="{{ page | og_image: paginator | resized_image_url: "750x500" }}" />
-        <!-- CSS
-            ================================================== -->
-        <link href="{{ "/css/bootstrap.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/css/bootstrap-theme.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/css/bootstrap-4-utilities.min.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/css/style.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/vendor/magnific/magnific-popup.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/vendor/owl-carousel/css/owl.carousel.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
-        <link href="{{ "/vendor/owl-carousel/css/owl.theme.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
+        <style type="text/css">{{ site.data.css[page.layout] }}</style>
         <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="{{ "/css/ie.css" | absolute_url }}" media="screen" async /><![endif]-->
-        <!-- Color Style -->
-        <link href="{{ "/colors/color1.css" | absolute_url }}" rel="stylesheet" type="text/css" async>
         {{ page.style }}
     </head>
     <body class="{{ page.layout }}">
