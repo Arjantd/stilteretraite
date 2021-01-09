@@ -24,7 +24,7 @@ hero_slider:
   buttons:
   - text: Contact ons!
     link: contact.md
-- image: https://static.stilteretraite.nl/uploads/winter home slide.jpg
+- image: https://static.stilteretraite.nl/uploads/Event - center of cyclone.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
