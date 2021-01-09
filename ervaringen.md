@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: 'Een zekerheid in mij '
+  subtitle: RE TREAT JE HART   |   DEC 2020
+  text: Ik ben weer thuis. De dagelijkse werkdruk, het gezin, zelfs een verdrietige
+    uitvaart kleuren de dagen. Het verschil met voor de retraite is een veilig gevoel
+    in mijn borst. Er is een zekerheid in mij ontvlamd, een vertrouwen, een koers.
+    En dat neem ik mee de dag in, in mijn contact met anderen. Iedere keer als ik
+    het even kwijt ben, kan ik het weer vinden, door heel bewust de verbinding te
+    maken met mijn hart. Zo klein, zo groot. Ik ben dankbaar dat ik de tijd heb genomen
+    om door de stilte, het mediteren en oefeningen, de gesprekken met Robbert, in
+    de relaxte bedding van anderen, dit bewustzijn aan te boren.
+  participant: Annemarije S.
 - title: Meer dan verwacht
   subtitle: RE TREAT JE HART   |   DEC 2020
   text: "Voor het eerst deed ik mee aan een stilte retraite (langer dan een dag).
