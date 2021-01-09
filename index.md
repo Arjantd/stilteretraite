@@ -2,11 +2,6 @@
 title: Home
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/winter home slide.jpg
-  title: In stilte openbaart zich het ware verlangen
-  sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
-    je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
-  buttons: []
 - image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
@@ -29,6 +24,11 @@ hero_slider:
   buttons:
   - text: Contact ons!
     link: contact.md
+- image: https://static.stilteretraite.nl/uploads/winter home slide.jpg
+  title: In stilte openbaart zich het ware verlangen
+  sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
+    je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
+  buttons: []
 featured_links:
 - link: stilte-retraite.md
   small_text: Alles wat je weten wil over
