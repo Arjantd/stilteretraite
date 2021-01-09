@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: 'De weg naar m’n ware zelf '
+  subtitle: RE TREAT JE HART   |   DEC 2020
+  text: "Na jaren van innerlijke onrust en ontevredenheid, ontstond het verlangen
+    naar … rust. Ik was moe van mezelf, het moeten, het beter willen. Vragen als,
+    wie ben ik eigenlijk en waarom ben ik er, kwamen steeds in mij op. Ik zat vast
+    in mezelf, relativeren lukte niet meer, alles was zwaar en negatief. Na het lezen
+    van de informatie op de site van Robbert wist ik het, dit wil ik! Na een eerste
+    kennismaking met Robbert werd mijn verlangen groter en plande ik mijn eerste retraite.
+    \ \n  \nDe aankomst in het Emmausklooster en de kennismaking met de groep was
+    gemoedelijk en prettig. Na een rondleiding en uitleg van het programma gingen
+    we in stilte. Al was het mijn eerste retraite en waren er zenuwen, snel voelde
+    ik de warmte van de groep.  \n  \nMediteren had ik niet eerder gedaan, het maakte
+    veel in me los, ik durfde mezelf toe te laten, mezelf ruimte te geven … m’n hart
+    er te laten Zijn. Deze nieuwe ervaring was mooi en soms heel intens, het zorgde
+    voor lucht, een innerlijke bevrijding. Ik durf mijn ware zelf te voelen, te zien
+    en te laten zien … daar ben ik mezelf heel dankbaar voor …  \n  \nDe dagen na
+    de retraite miste ik de meditaties en het heerlijke gevoel. Mijn bekende worstelingen
+    waren soms te sterk, m’n hart liet zich dan horen, dit maakte me een beetje van
+    slag. Na contact met Robbert kon ik weer verder, er is veel in beweging gekomen
+    … ik zit niet meer vast, ik voel rust en de opening naar m’n ware zelf. Vanaf
+    de retraite neem ik elke dag even tijd voor mezelf … gedachten komen en gedachten
+    gaan.   \n  \nDeze eerste retraite heeft mij zoveel moois gebracht!"
+  participant: Deelnemer
 - title: Er is een laagje bescherming weggevallen
   subtitle: RE TREAT JE HART   |   SEPT 2020
   text: "Er is echt zo veel verandert na de retraite. Tijdens de retraite had ik besloten
