@@ -3,6 +3,32 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Meer dan verwacht
+  subtitle: RE TREAT JE HART   |   DEC 2020
+  text: "Voor het eerst deed ik mee aan een stilte retraite (langer dan een dag).
+    Ik ging erheen met weinig verwachtingen. Ik was vooral nieuwsgierig wat vier dagen
+    stilte en meditatie met mij zouden doen. Ik vond het voorafgaand aan de retraite
+    een luxe dat ik de gelegenheid gecreëerd had om die dagen ‘alleen’ met mijzelf
+    bezig te hoeven zijn. Het dagelijks leven en alle ballen in de lucht even kon
+    laten voor wat ze zijn. Ik keek er naar uit!  \n  \nDe retraite bleek mij veel
+    meer te brengen dan ik van tevoren had kunnen inschatten. Er is een warmte, een
+    basisgevoel van gegrond zijn, een opgeruimd gevoel, lichtheid en rust. Dit is
+    misschien niet altijd goed vast te houden in de dagelijkse realiteit. Echter heb
+    ik nu wel een verankerd punt van rust waarbij ik de keus kan maken om dat punt
+    van rust op te zoeken en mij erin onder te dompelen. Tot nu toe lukt het om dit
+    rustpunt op dagelijkse basis aan te spreken op organische wijze. En die telefoon…die
+    ligt regelmatig in een doosje, op stil en uit het zicht. Heerlijk!"
+  participant: 'M.B. '
+- title: Meer vertrouwen
+  subtitle: RE TREAT JE HART   |   DEC 2020
+  text: "Ik ervaar meer vertrouwen. Er heeft echt een verschuiving plaatsgevonden
+    en ik verkeer nog enigszins in een soort van verwondering wat heel prettig is.
+    Ik mediteer bijna dagelijks. Al merk ik dat na een volle dag het meer tijd kost
+    om het toe te laten. Wat voor mij weer een mooi signaal is dat de dag te vol was.
+    \ \n  \nHier thuis is het merkbaar dat er een verschuiving is. Meer aandacht,
+    meer knuffels, meer present zijn. Het is een subtiele verschuiving maar merkbaar
+    in de ontspanning en warmte."
+  participant: M.
 - title: 'De weg naar m’n ware zelf '
   subtitle: RE TREAT JE HART   |   DEC 2020
   text: "Na jaren van innerlijke onrust en ontevredenheid, ontstond het verlangen
