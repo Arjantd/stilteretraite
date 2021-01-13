@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Tranen van ontroering
-  subtitle: ''
+  subtitle: RE TREAT JE HART   |   DEC 2020
   text: "De mooiste meditatie voor mij was op een middag dat we mochten gaan liggen
     en op zoek gingen naar het plekje achter je ribben in het midden van je borstkas.
     Robbert vertelde dat daar een blaasje zit, een gloeiend kooltje en vroeg ons daar
