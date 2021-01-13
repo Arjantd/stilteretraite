@@ -1,7 +1,7 @@
 ---
 title: Back to Nature! (data 2021 volgen zsm)
 sub_heading: ''
-from_date: 2020-12-31T10:00:00.000+00:00
+from_date: 2001-12-31 00:00:00 +0100
 to_date: 2020-12-31T14:00:00.000+00:00
 attendees: 8
 location: _locations/besloten-veluws-landgoed.md
