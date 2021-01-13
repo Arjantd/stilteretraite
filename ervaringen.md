@@ -3,6 +3,35 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Tranen van ontroering
+  subtitle: ''
+  text: "De mooiste meditatie voor mij was op een middag dat we mochten gaan liggen
+    en op zoek gingen naar het plekje achter je ribben in het midden van je borstkas.
+    Robbert vertelde dat daar een blaasje zit, een gloeiend kooltje en vroeg ons daar
+    naar te kijken. In het begin lukte het me helemaal niet om me daar naartoe te
+    verplaatsen, ik bleef maar in mijn hoofd zitten en kon niet naar beneden kijken.
+    Toen zei hij, kijk maar eens heel voorzichtig hoe de wanden van het blaasje eruit
+    zien. Ik zag toen al wat wit, kristallen doorschijnend licht. Robbert zei, ga
+    er maar in en toen ging ik ineens naar binnen, ineens kwam ik in een hele grote,
+    open ruimte, waar het heel warm voelde en heel fijn en veilig. Ik zag enorme mooie
+    witte, kristal kleurige wanden om me heen, vol van licht dat op me straalde. Het
+    was net een soort inner aarde. Ik zag allerlei mooie planten, bomen, vlinders,
+    vogels, dieren met allerlei mooie kleuren. Een avatar wereld. Ik lag op het mos,
+    op een warme zachte ondergrond, en voelde me gedragen. \n\nOp dat moment zette
+    Robbert muziek op van een jongens- en mannenkoor. Hoge sopranen begonnen te zingen
+    en dat ontroerde me zo, dat de tranen over mijn wangen stroomden. De mannen stemmen
+    kwamen erbij en ik werd meegevoerd door de mooie klanken en besefte dat deze plek
+    zo groot is, deze plek in je hart is zo mooi en veilig, als je daar bent zijn
+    je problemen die je zo groot leken in een keer zo klein en je kunt je problemen
+    daar mee naartoe nemen en ze van je af laten glijden. Ik heb tranen van ontroering
+    gehuild, ik heb me laten wiegen op deze mooie grote plek en besefte dat iedereen
+    zo'n mooie grote plek heeft en dat het zo groot is dat het dan niet anders kan
+    zijn dat onze harten allen één zijn. \n\nNu een maand later, ga ik heel gemakkelijk
+    als ik mediteer, of gewoon zomaar als ik eraan denk, naar deze plek terug. Ik
+    ga gewoon binnen door het blaasje en ben op deze mooie plek, ik laat de problemen
+    van me afglijden en voel me elke keer weer zo vrij als een vlinder als ik dat
+    heb gedaan. Dankjewel Robbert voor deze mooie ervaring.\""
+  participant: W.V. ICT specialist en rockzangeres
 - title: Meer dan verwacht
   subtitle: RE TREAT JE HART   |   DEC 2020
   text: "Voor het eerst deed ik mee aan een stilte retraite (langer dan een dag).
