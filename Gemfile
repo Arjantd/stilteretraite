@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', '~> 2.0'
   gem "jekyll-youtube"
   gem "jekyll-sitemap"
+  gem "kramdown-parser-gfm"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
