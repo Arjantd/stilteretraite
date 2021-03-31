@@ -15,12 +15,12 @@ lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast
 length_of_time: 7 dagen
 meta:
   title: Back to nature 7-daagse stilteretraite
-  keywords: veluwe, stilte, natuur, afzondering, ontwaken
+  keywords: Veluwe, stilte, natuur, afzondering, ontwaken
   description: ''
   author: ''
 
 ---
-_Exacte informatie volgt_**
+_De informatie hieronder beschrijft de 5-daagse Back to Nature retraite van vorig jaar. Exacte informatie over de 7-daagse Back to Nature retraite van 14 tot 20 juli 2020 volgt zo spoedig mogelijk!_**
 
 Voor wie?**  
 Deze vijfdaagse stilte-retraite Back to Nature! is zowel geschikt voor iedereen die voor het eerst een meerdaagse stilte-retraite wil doen, als ook voor iedereen die al eens heeft deelgenomen aan een 'Re-treat je Hart' of aan de 'Re-treat your Senses' retraite in Ligurië, Italië. Max. aantal deelnemers slechts 8!
