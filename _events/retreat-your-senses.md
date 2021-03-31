@@ -20,8 +20,8 @@ meta:
   author: ''
 
 ---
-_Exacte data en informatie volgen_**  
-  
+_Exacte informatie volgt_**
+
 Voor wie?**  
 Deze vijfdaagse stilte-retraite Back to Nature! is zowel geschikt voor iedereen die voor het eerst een meerdaagse stilte-retraite wil doen, als ook voor iedereen die al eens heeft deelgenomen aan een 'Re-treat je Hart' of aan de 'Re-treat your Senses' retraite in Ligurië, Italië. Max. aantal deelnemers slechts 8!
 
