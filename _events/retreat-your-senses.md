@@ -14,8 +14,8 @@ lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast
   gaan. Maximaal aantal deelnemers: 8.'
 length_of_time: 7 dagen
 meta:
-  title: ''
-  keywords: ''
+  title: Back to nature 7-daagse stilteretraite
+  keywords: veluwe, stilte, natuur, afzondering, ontwaken
   description: ''
   author: ''
 
