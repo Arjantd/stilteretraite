@@ -3,8 +3,8 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: Retreat je hart
-  subtitle: ''
+- title: Overgave en ont-spanning
+  subtitle: RE TREAT JE HART   |   MAART 2021
   text: 'Je weet het pas als je het ervaren hebt. Natuurlijk heb ik mij er van te
     voren een voorstelling van gemaakt, dat is niet niet te doen, toch. Wat ik dacht
     dat ik moeilijk zou vinden, vond ik makkelijk. Wat ik werkelijk die dagen tegenkwam,
