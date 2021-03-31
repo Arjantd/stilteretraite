@@ -1,18 +1,18 @@
 ---
-title: Back to Nature! (data 2021 volgen zsm)
+title: Back to Nature! (meer info volgt)
 sub_heading: ''
-from_date: 2001-12-31 00:00:00 +0100
-to_date: 2020-12-31T14:00:00.000+00:00
+from_date: 2021-07-14 15:00:00 +0200
+to_date: 2021-07-20 15:00:00 +0200
 attendees: 8
 location: _locations/besloten-veluws-landgoed.md
 layout: event
 price: 
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
-category: 5-days
+category: 7-days
 lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast zijn
   is een klein gesloten landgoed (30 Ha) waar stilte en natuur volledig hand in hand
   gaan. Maximaal aantal deelnemers: 8.'
-length_of_time: 5 dagen
+length_of_time: 7 dagen
 meta:
   title: ''
   keywords: ''
