@@ -3,6 +3,19 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Retreat je hart
+  subtitle: ''
+  text: 'Je weet het pas als je het ervaren hebt. Natuurlijk heb ik mij er van te
+    voren een voorstelling van gemaakt, dat is niet niet te doen, toch. Wat ik dacht
+    dat ik moeilijk zou vinden, vond ik makkelijk. Wat ik werkelijk die dagen tegenkwam,
+    kon ik achteraf beter zien dan op de dagen zelf. Dacht ik daar momenten dat ik
+    dit nooit meer aan zou gaan, of niet meer op deze manier. Merk ik achteraf dat
+    ik verlang naar nog een keer. Ik zie achteraf dat mijn mind nog zoveel ruimte
+    heeft, dat ik nog veel meer kan leren over overgave en ont-spanning. En dat wil
+    ik graag. Ik vond het niet makkelijk, wel prachtig en een groots geschenk aan
+    mijzelf. Een tweede keer, neem ik de leerervaringen van de eerste keer mee. Geeft
+    vast weer ruimte voor nieuwe leerervaringen. Dankbaar. '
+  participant: H. Den Haag
 - title: Meer dan verwacht
   subtitle: RE TREAT JE HART   |   DEC 2020
   text: "Voor het eerst deed ik mee aan een stilte retraite (langer dan een dag).
