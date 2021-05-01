@@ -6,7 +6,7 @@ to_date: 2021-07-20 15:00:00 +0200
 attendees: 8
 location: _locations/besloten-veluws-landgoed.md
 layout: event
-price: 795.0
+price: 795
 image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 category: 7-days
 lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast zijn
