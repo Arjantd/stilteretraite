@@ -6,12 +6,12 @@ category: 5-days
 layout: event
 meta:
   title: Re-treat je hart! Stilte retraite voor iedereen
-  keywords: stilte, stilte-retraite, klooster, Velp
+  keywords: stilte, stilte-retraite, klooster, Velp, december 2021
   description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
     in de natuur & individuele ontmoetingen met Robbert van Bruggen."
   author: Robbert van Bruggen
-title: Re-treat je hart! Emmausklooster (dec)
+title: Re-treat je hart! Emmausklooster
 image: https://static.stilteretraite.nl/uploads/Event - december 2020.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
