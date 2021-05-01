@@ -129,6 +129,7 @@ fields:
   hidden: true
   default: event
 pages:
+- _events/re-treat-je-hart-emmausklooster-copy-1.md
 - _events/re-treat-je-hart-emmausklooster-copy.md
 - _events/retreat-je-hart.md
 - _events/retreat-your-senses.md
