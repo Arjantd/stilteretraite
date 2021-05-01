@@ -6,7 +6,7 @@ category: 5-days
 layout: event
 meta:
   title: Re-treat je hart! Stilte retraite voor iedereen
-  keywords: stilte, stilte-retraite, klooster, Velp
+  keywords: stilte, stilte-retraite, klooster, Velp, oktober 2021
   description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
     in de natuur & individuele ontmoetingen met Robbert van Bruggen."
