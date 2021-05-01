@@ -2,7 +2,7 @@
 title: Back to Nature! (update)
 sub_heading: ''
 from_date: 2021-07-14 15:00:00 +0200
-to_date: 2021-07-20 15:00:00 +0200
+to_date: 2021-07-20 14:00:00 +0200
 attendees: 8
 location: _locations/besloten-veluws-landgoed.md
 layout: event
