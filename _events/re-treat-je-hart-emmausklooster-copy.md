@@ -25,6 +25,8 @@ Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
 
+Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt het zien als ‘_heilige tijd met jezelf_’ waarbij zich zowel ongemakken, trage worstelingen, bevrijdingen als momenten van diepe vrede en momenten van geluk zullen voordoen. Wees je ervan bewust dat je de keuze hebt gemaakt een intieme reis met jezelf aan te gaan, waardoor er mogelijk in de dagen of weken voorafgaand aan de daadwerkelijke start van de retraite al van alles in beweging komt.
+
 **Praktische info**
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
