@@ -11,7 +11,7 @@ meta:
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties, wandelingen
     in de natuur & individuele ontmoetingen met Robbert van Bruggen."
   author: Robbert van Bruggen
-title: Re-treat je hart! Emmausklooster-(copy)
+title: Re-treat je hart! Emmausklooster
 image: https://static.stilteretraite.nl/uploads/Event - Grave.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
