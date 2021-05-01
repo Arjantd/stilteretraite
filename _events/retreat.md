@@ -16,14 +16,16 @@ image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
-from_date: 2021-06-09 00:00:00 +0200
-to_date: 2021-06-13 00:00:00 +0200
+from_date: 2021-06-09T00:00:00.000+02:00
+to_date: 2021-06-13T00:00:00.000+02:00
 length_of_time: 5 dagen
 
 ---
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
+
+Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt het zien als ‘_heilige tijd met jezelf_’ waarbij zich zowel ongemakken, trage worstelingen, bevrijdingen als momenten van diepe vrede en momenten van geluk zullen voordoen. Wees je ervan bewust dat je de keuze hebt gemaakt een intieme reis met jezelf aan te gaan, waardoor er mogelijk in de dagen of weken voorafgaand aan de daadwerkelijke start van de retraite al van alles in beweging komt.
 
 **Praktische info**
 
