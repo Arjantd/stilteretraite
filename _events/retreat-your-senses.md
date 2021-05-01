@@ -51,8 +51,8 @@ Telefonisch: 06-24678735 tussen 20.00-20.30
 
 **Kosten en meer**
 
-All in kosten bedragen € 795- inclusief 21% btw. Een aanbetaling van € 400 geldt als bevestiging van aanmelding. Het resterende deel dient voor 7 juli te zijn overgemaakt.
+All in kosten bedragen € 795- inclusief 21% btw. Een aanbetaling van € 400,- geldt als bevestiging van aanmelding. Het resterende deel dient voor 7 juli te zijn overgemaakt.
 
 Vanwege de bijzondere omstandigheden van deze retraite ontvang je na aanmelding een welkomstbrief met alle praktische informatie. We vragen je een dekkende reisverzekering af te sluiten voor de duur van de retraite.
 
-Annuleringsregeling: tot 10 dagen voor aanvang van de retraite € 35 administratiekosten; tot 4 dagen voor aanvang wordt 50% in rekening gebracht voor gemaakte kosten; daarna is het volledige bedrag verschuldigd tenzij anders afgesproken.
+Annuleringsregeling: tot 10 dagen voor aanvang van de retraite € 35,- administratiekosten; tot 4 dagen voor aanvang wordt 50% in rekening gebracht voor gemaakte kosten; daarna is het volledige bedrag verschuldigd tenzij anders afgesproken.
