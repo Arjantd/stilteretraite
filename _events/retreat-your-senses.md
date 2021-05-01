@@ -15,9 +15,10 @@ lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast
 length_of_time: 7 dagen
 meta:
   title: Back to nature 7-daagse stilteretraite
-  keywords: Veluwe, stilte, natuur, afzondering, ontwaken
-  description: ''
-  author: ''
+  keywords: Veluwe, stilte, natuur, afzondering, ontwaken, zomer 2021
+  description: 'De 7-daagse stilte-retraite Back to Nature gaat over het ontspannen
+    in je diepste Natuur, zowel van binnen als in het Leven om je heen. '
+  author: Robbert van Bruggen
 
 ---
 **Voor wie?**  
