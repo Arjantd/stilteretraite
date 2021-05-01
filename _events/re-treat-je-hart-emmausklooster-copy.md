@@ -19,7 +19,6 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
 from_date: 2021-10-27 00:00:00 +0200
 to_date: 2021-10-31 00:00:00 +0200
 length_of_time: 5 dagen
-published: false
 
 ---
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
