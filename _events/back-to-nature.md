@@ -10,14 +10,13 @@ meta:
   description: ''
   author: ''
 title: Back to Nature!
-image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-2.jpg
+image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast zijn
   is een klein gesloten landgoed (35 Ha) waar stilte en natuur volledig hand in hand
   gaan. Maximaal aantal deelnemers: 8.'
 from_date: 2021-07-14 15:00:00 +0200
 to_date: 2021-07-20 15:00:00 +0200
 length_of_time: 7 dagen
-published: false
 
 ---
 **Voor wie?**  
