@@ -5,8 +5,8 @@ attendees: 8
 category: 7-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Back to nature 7-daagse stilteretraite
+  keywords: Veluwe, stilte, natuur, afzondering, ontwaken
   description: ''
   author: ''
 title: 'Back to Nature! '
