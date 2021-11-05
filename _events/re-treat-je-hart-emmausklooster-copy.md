@@ -31,8 +31,8 @@ Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt he
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-* Aanvang retraite: woensdag 27 oktober 2021 om 16.00 uur
-* Einde retraite: zondag 31 oktober 2021 om 15.00 uur
+* Aanvang retraite: woensdag 8 december 2021 om 16.00 uur
+* Einde retraite: zondag 12 december om 15.00 uur
 * Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
@@ -44,4 +44,4 @@ Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderd
 
 Aanmelding is geldig na inschrijving per e-mail plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
-De administratiekosten bij annulering vóór woensdag 13 oktober bedragen € 35; na die datum en vóór woensdag 20 oktober wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 25 oktober is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
+De administratiekosten bij annulering vóór woensdag 24 november bedragen € 35; na die datum en vóór woensdag 1 december wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf maandag 6 december is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
