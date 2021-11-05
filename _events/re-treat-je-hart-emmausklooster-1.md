@@ -29,16 +29,11 @@ Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt he
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-· Aanvang retraite: woensdag 25 mei 2022 om 16.00 uur
-
-· Einde retraite: zondag 29 mei 2022 om 15.00 uur
-
-· Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’
-
-· Informatie: Robbert van Bruggen
-
-· Per email: gebruik het contactformulier op deze website
-
+· Aanvang retraite: woensdag 25 mei 2022 om 16.00 uur  
+· Einde retraite: zondag 29 mei 2022 om 15.00 uur  
+· Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
+· Informatie: Robbert van Bruggen  
+· Per email: gebruik het contactformulier op deze website  
 · Telefonisch: 06-24678735 tussen 20.00-20.30
 
 **Kosten en meer**
