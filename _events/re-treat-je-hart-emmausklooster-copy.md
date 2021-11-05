@@ -16,8 +16,8 @@ image: https://static.stilteretraite.nl/uploads/1a.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
-from_date: 2021-10-27T15:00:00.000+02:00
-to_date: 2021-10-31T15:00:00.000+01:00
+from_date: 2021-12-08 00:00:00 +0100
+to_date: 2021-12-12 00:00:00 +0100
 length_of_time: 5 dagen
 
 ---
