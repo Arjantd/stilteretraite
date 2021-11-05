@@ -1,5 +1,5 @@
 ---
-location: []
+location: _locations/kaapverdie.md
 price: 0
 attendees: 14
 category: 7-days
