@@ -15,7 +15,6 @@ lead_text: Nadere informatie volgt
 from_date: 2022-04-12 00:00:00 +0200
 to_date: 2022-04-20 00:00:00 +0200
 length_of_time: 7 dagen
-published: false
 
 ---
 Nadere informatie volgt!
