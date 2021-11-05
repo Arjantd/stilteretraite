@@ -1,5 +1,5 @@
 ---
-location: []
+location: _locations/emmausklooster-in-velp.md
 price: 725
 attendees: 12
 category: 5-days
