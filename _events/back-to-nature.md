@@ -5,8 +5,8 @@ attendees: 8
 category: 7-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Back to nature 7-daagse stilteretraite
+  keywords: Veluwe, stilte, natuur, afzondering, ontwaken
   description: ''
   author: ''
 title: Back to Nature!
@@ -14,8 +14,8 @@ image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
 lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast zijn
   is een klein gesloten landgoed (35 Ha) waar stilte en natuur volledig hand in hand
   gaan. Maximaal aantal deelnemers: 8.'
-from_date: 2021-07-14 15:00:00 +0200
-to_date: 2021-07-20 15:00:00 +0200
+from_date: 2021-07-14T15:00:00.000+02:00
+to_date: 2021-07-20T15:00:00.000+02:00
 length_of_time: 7 dagen
 
 ---
