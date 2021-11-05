@@ -12,12 +12,12 @@ meta:
     in de natuur & individuele ontmoetingen met Robbert van Bruggen."
   author: Robbert van Bruggen
 title: Re-treat je hart! Emmausklooster
-image: https://static.stilteretraite.nl/uploads/Event - december 2020.jpg
+image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
-from_date: 2021-12-08 15:00:00 +0100
-to_date: 2021-12-12 15:00:00 +0100
+from_date: 2021-12-08T15:00:00.000+01:00
+to_date: 2021-12-12T15:00:00.000+01:00
 length_of_time: 5 dagen
 
 ---
