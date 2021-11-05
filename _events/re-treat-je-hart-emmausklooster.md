@@ -5,7 +5,7 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
+  title: Stilte retraite februari 2022
   keywords: ''
   description: ''
   author: ''
