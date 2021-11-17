@@ -3,6 +3,24 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: '"Bewust voelen"'
+  subtitle: RE TREAT JE HART   |   OKTOBER 2021
+  text: "Schrijven is niet mijn ding, maar ik wil bij deze wel even laten weten dat
+    het voor mij zeer prettig en bijzonder was. Als hoogopgeleide techneut ben ik
+    gewend om nagenoeg helemaal op mijn ratio te varen. Tijdens de 'retreat je hart'
+    heb ik mezelf opengesteld aan een emotie/gevoel/zintuig dat nieuw voor mij is/was.
+    We - of in ieder geval ik zelf op dat moment - bleken namelijk een beeld van elkaar
+    te vormen zonder ook maar enige vorm van contact met elkaar te hebben. Geen gebaren.
+    Geen oogcontact. Niets. Door simpelweg in dezelfde ruimte te zijn ervaar je de
+    persoonlijkheid van de ander. Op het einde heb ik sommigen nog even bevraagd,
+    waarbij de gevoelens bevestigd werden. (Bizar!)  \n  \nOok voelde ik dat gedurende
+    de retraite een bepaalde spanning langzaam mijn lichaam verliet. Geen idee waar
+    deze spanning van was en inmiddels moet ik bekennen dat deze langzaam weer terugkomt,
+    echter, het feit dat ik daar bewust van ben is al een kleine overwinning; tot
+    heden merkte ik uberhaupt niet op dat ik dergelijke spanningen had. Het heeft
+    een bepaalde gevoeligheid geopend.  \n  \nHet was mijn eerste, maar zeker niet
+    mijn laatste retraite."
+  participant: J.S.
 - title: Overgave en ont-spanning
   subtitle: RE TREAT JE HART   |   MAART 2021
   text: 'Je weet het pas als je het ervaren hebt. Natuurlijk heb ik mij er van te
