@@ -20,7 +20,7 @@ length_of_time: 7 dagen
 
 ---
 **  
-Ook voor onze Back to Nature retraite geldt dat er helaas onzekerheid is ontstaan over de beschikbaarheid van de locatie. Zodra we meer duidelijkheid hebben zullen we hierover berichten.**  
+Ook voor onze Back to Nature retraite geldt helaas dat er onzekerheid is ontstaan over de beschikbaarheid van de locatie. Zodra we meer duidelijkheid hebben zullen we hierover berichten.**  
   
 .**  
   
