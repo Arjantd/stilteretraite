@@ -19,17 +19,14 @@ to_date: 2022-07-19 00:00:00 +0200
 length_of_time: 7 dagen
 
 ---
-**  
-Ook voor onze Back to Nature retraite geldt helaas dat er onzekerheid is ontstaan over de beschikbaarheid van de locatie. Zodra we meer duidelijkheid hebben zullen we hierover berichten.**  
-  
-.**  
-  
-\---**
+**Ook voor onze Back to Nature retraite geldt helaas dat er onzekerheid is ontstaan over de beschikbaarheid van de locatie. Zodra we meer duidelijkheid hebben zullen we hierover berichten.**
 
-**  
-  
-Voor wie?**  
-Deze 7-daagse stilte-retraite Back to Nature gaat over het ontspannen in je diepste Natuur, zowel van binnen als in het Leven om je heen. Je bent immers een uitdrukking van het Leven zelf!
+***
+
+.
+
+**Voor wie?  
+**Deze 7-daagse stilte-retraite Back to Nature gaat over het ontspannen in je diepste Natuur, zowel van binnen als in het Leven om je heen. Je bent immers een uitdrukking van het Leven zelf!
 
 In de retraite wordt de beweging gemaakt van ‘toeschouwer van de natuur buiten je’ naar ‘het ontwaken tot eenwording met de Natuur’ in de uitdrukking van al haar levensvormen. En dan blijkt dat alle levensvormen groot of klein, bewegend of standvastig, allemaal intelligentie bezitten, verlangen om te leven en tot bloei te komen, in onderlinge samenhang. We delen allemaal dezelfde adem…
 
