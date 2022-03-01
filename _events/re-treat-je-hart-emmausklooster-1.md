@@ -9,7 +9,7 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: 'Re-treat je hart! (onder voorbehoud) '
+title: 'Re-treat je hart! (locatie volgt) '
 image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-7.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
