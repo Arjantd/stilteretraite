@@ -9,7 +9,7 @@ meta:
   keywords: Veluwe, stilte, natuur, afzondering, ontwaken
   description: ''
   author: ''
-title: 'Back to Nature! '
+title: Back to Nature! (onder voorbehoud)
 image: https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-15.jpg
 lead_text: 'Het unieke Veluwse landgoed waar we een aantal keer per jaar te gast zijn
   is een klein gesloten landgoed (35 Ha) waar stilte en natuur volledig hand in hand
