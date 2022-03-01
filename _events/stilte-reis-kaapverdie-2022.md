@@ -9,7 +9,7 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Stilte Reis Kaapverdië 2022
+title: 'Stilte Reis Kaapverdië '
 image: https://static.stilteretraite.nl/uploads/2.jpg
 lead_text: Nadere informatie volgt
 from_date: 2022-01-01 00:00:00 +0100
