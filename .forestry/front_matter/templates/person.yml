@@ -62,5 +62,4 @@ fields:
   hidden: true
   default: member
 pages:
-- _people/jan-willem.md
 - _people/team-stilteretraite-nl.md
