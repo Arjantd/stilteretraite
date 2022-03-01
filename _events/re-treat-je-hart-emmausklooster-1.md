@@ -1,5 +1,5 @@
 ---
-location: _locations/emmausklooster-in-velp.md
+location: _locations/locatie-volgt.md
 price: 725
 attendees: 12
 category: 5-days
@@ -19,7 +19,7 @@ to_date: 2022-05-29 14:00:00 +0200
 length_of_time: 5 dagen
 
 ---
-**_Tot onze spijt is na een eigenarenwisseling het Emmausklooster niet meer beschikbaar voor onze retraite van 25 tot 29 mei 2022. We zoeken naar een alternatieve locatie, in de hoop dat de voorjaarseditie van ‘Re-trait je hart’ alsnog kan doorgaan. Nadere informatie volgt!_**
+**_De afgelopen jaren hebben wij dankbaar gebruik gemaakt van de gastvrijheid van het Emmausklooster in Velp - totdat recentelijk door nieuwe eigenaren werd besloten om het verhuuraanbod op een meer zakelijke markt te richten. Om die reden zoeken we nu voor onze retraite van 25 tot 29 mei 2022 een andere locatie. Nadere informatie volgt! Heb je in de tussentijd vragen? Neem dan gerust_** [**_contact_**](https://www.stilteretraite.nl/contact/ "Contact") **_met ons op._**
 
 ***
 
@@ -37,15 +37,15 @@ Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt he
 
 · Aanvang retraite: woensdag 25 mei 2022 om 16.00 uur  
 · Einde retraite: zondag 29 mei 2022 om 15.00 uur  
-· Locatie: Avant Spirit te Velp/Grave, trainingscentrum ‘Clara-huis’  
+· Locatie: volgt  
 · Informatie: Robbert van Bruggen  
 · Per email: gebruik het contactformulier op deze website  
 · Telefonisch: 06-24678735 tussen 20.00-20.30
 
 **Kosten en meer**
 
-Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 725,00 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van Avant Spirit voor de verblijfskosten.
+Deze vijfdaagse retraite is residentieel; de prijs is incl. alle programmaonderdelen, individuele begeleiding, vegetarische maaltijden, koffie, thee, fruit, 4 overnachtingen en bedraagt € 725,00 inclusief BTW (op basis van een eigen kamer met wastafel en schrijftafeltje). Je ontvangt twee facturen: eentje voor het retraite-deel van Spiegelzaal en eentje van de locatie voor de verblijfskosten.
 
 Aanmelding is geldig na inschrijving per email plus overmaking van de eerste factuur van Spiegelzaal. De tweede factuur (voor de verblijfkosten) in de week voor of na de retraite. Na aanmelding ontvang je een bevestigingsbrief met alle praktische informatie. Voorafgaand aan elke retraite is er met elke deelnemer een telefonische kennismaking (of via skype/facetime).
 
-De administratiekosten bij annulering vóór maandag 16 mei bedragen € 35; na die datum en vóór maandag 23 mei wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf 23 mei is het totaalbedrag verschuldigd (incl. de verblijfkosten van Avant Spirit tenzij anders afgesproken).
+De administratiekosten bij annulering vóór maandag 16 mei bedragen € 35; na die datum en vóór maandag 23 mei wordt 50% van de eerste factuur (van Spiegelzaal) ingehouden voor gemaakte kosten; bij annulering vanaf 23 mei is het totaalbedrag verschuldigd (incl. de verblijfkosten van de locatie tenzij anders afgesproken).
