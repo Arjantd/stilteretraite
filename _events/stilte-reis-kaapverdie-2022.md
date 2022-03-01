@@ -17,4 +17,4 @@ to_date: 2023-02-19 15:00:00 +0100
 length_of_time: 7 dagen
 
 ---
-Datum en nadere informatie volgen!
+Datum februari 2023 onder voorbehoud. Nadere informatie volgt!
