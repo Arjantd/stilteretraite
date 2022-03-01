@@ -17,4 +17,4 @@ to_date: 2022-12-31 15:00:00 +0100
 length_of_time: 7 dagen
 
 ---
-Nadere informatie volgt!
+Datum en nadere informatie volgen!
