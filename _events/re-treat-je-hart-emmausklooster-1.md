@@ -19,10 +19,10 @@ to_date: 2022-05-29 00:00:00 +0200
 length_of_time: 5 dagen
 
 ---
-**_Tot onze spijt is na een eigenarenwisseling het Emmausklooster niet meer beschikbaar voor onze retraite van 25 tot 29 mei 2022. We zoeken naar een alternatieve locatie, in de hoop dat de voorjaarseditie van ‘Re-trait je hart’ alsnog kan doorgaan._**  
-  
-___  
-  
+**_Tot onze spijt is na een eigenarenwisseling het Emmausklooster niet meer beschikbaar voor onze retraite van 25 tot 29 mei 2022. We zoeken naar een alternatieve locatie, in de hoop dat de voorjaarseditie van ‘Re-trait je hart’ alsnog kan doorgaan. Nadere informatie volgt!_**
+
+***
+
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de innerlijke roep om de transformatie die zich kennelijk op dit moment in jouw leven heeft aangediend. Het is een proces van overgave waarin het vertrouwde ‘ik’ waarmee je je tot nu toe identifi­ceerde ‘niet meer wil zoals het wilde’ en dat onhoudbaar barstjes begint te vertonen.
 
 Het verlangen naar _nieuwe Zin_ vraagt om specifieke omstandigheden zoals een stilte retraite, waarbij ook alle sociale impulsen tijdelijk achtergelaten worden. Hierdoor ontstaat er ruimte voor de overgave aan de transformatie die kennelijk wil gebeuren. In dit proces worden bewuste en onbewuste identificaties losgelaten en nieuwe inspiratie gevonden.
