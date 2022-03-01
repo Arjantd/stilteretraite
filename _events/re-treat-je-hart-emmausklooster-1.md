@@ -19,7 +19,7 @@ to_date: 2022-05-29 14:00:00 +0200
 length_of_time: 5 dagen
 
 ---
-**_De afgelopen jaren hebben wij dankbaar gebruik gemaakt van de gastvrijheid van het Emmausklooster in Velp - totdat recentelijk de nieuwe eigenaren besloten om het verhuuraanbod op een meer zakelijke markt te richten. We zoeken nu voor onze retraite van 25 tot 29 mei 2022 een andere locatie. Nadere informatie volgt! Heb je in de tussentijd vragen? Neem dan gerust_** [**_contact_**](https://www.stilteretraite.nl/contact/ "Contact") **_met ons op._**
+**_De afgelopen jaren hebben wij dankbaar gebruik gemaakt van de gastvrijheid van het Emmausklooster in Velp - totdat recentelijk de nieuwe eigenaren besloten om het verhuuraanbod op een meer zakelijke markt te richten. We zoeken nu voor onze retraite van 25 tot 29 mei 2022 een alternatieve locatie. Nadere informatie volgt! Heb je in de tussentijd vragen? Neem dan gerust_** [**_contact_**](https://www.stilteretraite.nl/contact/ "Contact") **_met ons op._**
 
 ***
 
