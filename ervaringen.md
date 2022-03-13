@@ -3,6 +3,19 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een mooie en tegelijkertijd confronterende retraite
+  subtitle: RE TREAT JE HART   |   2021
+  text: |-
+    Onderweg met mijn zware tas, wandelend van station Grave naar het klooster, wees de natuur me de weg. De herfstbladeren stroomden over de sloot aan mijn rechterzijde. Bijna aangekomen vloog er een groep van zes witte zwanen voor me uit, en landde vlakbij het klooster. Wat volgde was een mooie en tegelijkertijd confronterende retraite.
+
+    Ik werd getroffen door de schoonheid van de herfst en de vallende bladeren in alle mogelijke kleurschakeringen. Op een moment waarop ik naar buiten liep zag ik hoe de bladeren door de wind werden bewogen en van de bomen vielen en werd ik me bewust van de essentie van mijn eigen natuur. Het onveranderlijke, te midden in de stroom van al het veranderlijke.
+
+    Tijdens een meditatie in het pesthuisje maakte ik contact met mijn kwetsbaarheid door deze zachtjes uit te nodigen. Ik werd overvallen door een opwellend en steeds intenser wordend verdriet. Voor mijn ogen zag ik mijzelf als baby in alle puurheid en kwetsbaarheid. Vervolgens zag ik de herinneringen uit mijn leven voorbij schieten waarin ik gekwetst en gevormd ben door mijn ouders, vrienden, school, de maatschappij en zo verder. Alles wat maakte dat ik deze puurheid en eigenheid uit het zicht ben geraakt en patronen van aanpassing heb geleerd om geliefd te worden en erbij te horen.
+
+    Met momenten maakte ik verbinding met mijn hart tijdens de retraite en ervoer ik een energie van licht en liefde. Een groot gedeelte van de retraite zat ik echter in een worsteling om de controle los proberen te laten. Hoe ironisch dat ik dit loslaten van de controle probeerde te controleren! Deze neiging tot controleren is blijkbaar nog zo’n diepgewortelde conditionering die in mijn systeem geprogrammeerd is geraakt.
+
+    De vallende bladeren van de bomen en al het verkleurende blad bleven maar in het oog springen. Ze vertelden me dat het oude losgelaten mag worden, om ruimte te maken voor het nieuwe. Toen ik aan het eind van de retraite de balans opmaakte, bleek dit de samenvattende boodschap. Ik voelde dat er hierdoor meer ruimte zou komen voor mijn authentieke zelf.
+  participant: K. /  GZ-psycholoog
 - title: 'Een klooster, zolder '
   subtitle: ''
   text: |-
