@@ -3,6 +3,23 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Kwartjes
+  subtitle: RE-TREAT JE HART   |   2021
+  text: |-
+    Er vallen veel kwartjes, er is ruimt ontstaan, ik ben verliefd geworden op de stilte. Ik heb nog altijd 1 tot 2 stilte momenten in de dag, waarvan er 1 altijd voor het slapen gaan is. Het lukt mij regelmatig om een half uur in stilte te zitten voor het slapen gaan. De ochtend start ik altijd met een ademhalingsoefening. Die doe ik altijd met muziek, Ik kies er vaker voor om na afloop nog een minuut of 10 in stilte te blijven. Helend.
+
+    Het voorkomt niet dat ik in polariserende spanning kom binnen mijn relatie. Bij stress ploppen bij mij ook gewoon oude en onbewuste patronen op. Ik kan er sneller uit terugkomen. Ik heb helaas geen grip op wat het bij de ander doet. Dus van de stilte ben ik dan deze dagen in pijnlijk gedoe. Sinds corona vaker gedoe dan ooit. Ik snap dat dit deze tijd is. Niet makkelijk, maar ik vind mijn weg.
+
+    Achteraf zie ik de mindfuck. God wat zit de mens toch vernuftig in elkaar.
+
+    Terugkeren naar mijn stilte, buigen voor wat is, helpt.
+
+    Wat een prachtige zin: ‘Willen wat je krijgt’. Die neem ik de komende tijd mee.
+
+    Ik zeg vaak ‘ja’ tegen wat er is. Van pijn in mijn lijf, tot gedoe in de liefde. Willen wat je krijgt, gaat verder.
+
+    Mooi, ik oefen! En denk… dat je mij nog wel eens terugziet.
+  participant: H.L.
 - title: Een verkwikkende en verdiepende ervaring
   subtitle: Back to nature  |  2021
   text: "Deze retraite kan ik je echt van harte aanbevelen. Een unieke, stille locatie
