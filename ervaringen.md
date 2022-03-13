@@ -3,6 +3,21 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De weg naar het hart is waardevol
+  subtitle: RE-TREAT JE HART   |   2021
+  text: |-
+    Op een prachtige wijze voer je mensen op een waarachtige manier mee in hun eigen processen.
+
+    Ik ging vol de retraite in, had zin in stilte en rust. Ik vond de stilte met andere zo bijzonder zo krachtig en zo verbonden. Ik heb echt mijn hart opnieuw ontdekt, heb de grootsheid, weidsheid, schoonheid en de liefde op een prachtige manier mogen ervaren.
+
+    En het klopt wat je eens ervaren hebt kun je weer oproepen en daar gebruik ik je oefeningen voor.
+
+    Ik voel dat er nog een lange weg is te gaan, mijn druktemaker en verhaaltjesverteller zijn dominant.
+
+    Erkenning en herkenning is er zeker, nu luisteren naar mijn hart.
+
+    Het valt niet mee, die mind is sterk en wil graag een pilletje of een drankje of 1 dag stilte zodat het over is en ik volledig mijn hart volg. Dat is er niet, maar hoeft ook niet. De weg er naar toe is waardevol.
+  participant: S.T. Kinderarts
 - title: SCHOENEN...
   subtitle: RE-TREAT JE HART   |   2021
   text: "Ik stapte deze retraite in met instappers aan mijn voeten.\n\nVol overgave
