@@ -3,6 +3,15 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Onbeschrijfelijk
+  subtitle: RE-TREAT JE HART   |   2021
+  text: Heel veel dank voor de 5 dagen. Mijn ervaring is onbeschrijfelijk, bijzonder
+    en heel mooi geweest. Ik had het al gezegd; ik vind jou zo’n bijzonder mens. Jouw
+    zienswijze in en op het leven, wat je de medemens op een aardse manier wilt meegeven
+    is waarachtig (mooie woorden van Maayke) en unique. Gewoon door te zijn, zonder
+    pretenties maak je ongelooflijk verschil, iig bij mij. Voor mij heb je een bijzonder
+    plekje.
+  participant: Angelica A.
 - title: Kwartjes
   subtitle: RE-TREAT JE HART   |   2021
   text: |-
