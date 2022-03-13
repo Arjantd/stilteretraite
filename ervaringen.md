@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Zen
+  subtitle: ''
+  text: |-
+    Ik loop voor het eerst
+
+    na lange bange jaren op rulle sneeuw
+
+    in een betoverd bos
+
+    de beelden dansen met mij mee
+
+    los van hun sokkel, zoals ik ,
+
+    Ik zwijg, voor zoveel
+
+    schoonheid zijn geen woorden
+
+    wat tranen vloeien
+
+    in maagdelijk witte sneeuw.
+
+    Zij loopt! gesteund door Stok en Staf
+  participant: Marjo Zuleicha Zwaneveld
 - title: De wandeling
   subtitle: ''
   text: |-
