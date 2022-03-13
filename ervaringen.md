@@ -3,6 +3,19 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: SCHOENEN...
+  subtitle: RE-TREAT JE HART   |   2021
+  text: "Ik stapte deze retraite in met instappers aan mijn voeten.\n\nVol overgave
+    heb ik mijn schoenen uitgetrokken om op blote voeten rond te lopen (want zo hoort
+    dat hier).\n\nErvaren, voelen, heerlijk die blote voeten.\n\nTussendoor weer instappers
+    aan,\n\n... nee, weer uit!\n\nStevige schoenen aan,\n\n... nee, toch weer uit!\n\nIk
+    heb zelfs mijn opstandige 'als je dit leest, breng dan wijn'-sokken aangehad,\n\nuit
+    wanhoop met schoenen willen smijten.\n\nMaar aan het eind van deze retraite, mijn
+    stevige schoenen weer hoog dichtgeritst.\n\nKlaar om het leven opnieuw vol vertrouwen
+    in te stappen ....\n\ntotdat deze schoenen wellicht weer versleten zijn.\n\nP.S.:
+    Maar ik ben wel dol op nieuwe schoenen shoppen \U0001F609.\n\nDank voor deze ervaring
+    die ik heb mogen opdoen dankzij jullie,"
+  participant: Nadja
 - title: Inzichten
   subtitle: RE-TREAT JE HART   |   2021
   text: Ik wilde de retraite doen omdat ik meer uit mijn hoofd en meer in mijn hart
