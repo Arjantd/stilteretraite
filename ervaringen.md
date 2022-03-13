@@ -3,6 +3,57 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een verkwikkende en verdiepende ervaring
+  subtitle: Back to nature  |  2021
+  text: "Deze retraite kan ik je echt van harte aanbevelen. Een unieke, stille locatie
+    in de bossen van Hoog Deelen, een afwisselend programma met veel vrije ruimte
+    en uitstekende begeleiding.  \n  \nWat een luxe om een week lang vrij te zijn
+    van nieuws, mail, notificaties en to-do lijstjes en je te kunnen richten op dingen
+    die er echt toe doen – op hart & zielsniveau.\n\nDeze stilteretraite is een verkwikkende
+    en verdiepende ervaring die mij tal van inzichten heeft gegeven. Ik ben dagen
+    later nog steeds aan het verwerken en her-inneren wat er allemaal voorbij is gekomen.\n\nDe
+    vision quest die onderdeel uitmaakt van de retraite heeft me op een subtiele manier
+    antwoord gegeven op een belangrijke levensvraag waar ik al een tijd mee rond liep.
+    Ik moet nog 15 jaar werken tot mijn pensioen en vraag mezelf al langere tijd af
+    of het geen tijd is om iets anders te gaan doen. Maar ja, wat dan? Ik weet eigenlijk
+    niet wat ik wil en ik vind mijn werk nog steeds leuk. In de laatste minuten van
+    de vision quest viel opeens het kwartje: ik hoef helemaal niets anders te zoeken,
+    alles is er al. Ik ga binnenkort 3 dagen werken en heb meer dan genoeg vrije tijd
+    om naast mijn werk dingen te doen waar ik echt naar verlang: de natuur helpen
+    herstellen en bomen planten. Ik kan daar nú al mee beginnen, er is niet eerst
+    een rigoreuze verandering in mijn leven nodig. En misschien gaat er vanzelf nog
+    meer in mijn leven veranderen zodra ik daar eenmaal mee bezig ben.\n\nHet was
+    erg helend voor mij om opnieuw een diepe verbinding met de natuur en het leven
+    om me heen te ervaren. Bijvoorbeeld op een ochtend, zittend in een stoel voor
+    het open raam, toen ik ten diepste geroerd werd door de kracht van het leven en
+    de autonomie van de natuur om me heen. Ik zag het zonlicht dat door de lindebladeren
+    straalde, de kwikstaartjes die dansten boven het gras, de dauw die als een ragfijn
+    kleed over het land lag en voelde op dat moment een volmaakte harmonie en rust.\n\nDe
+    natuur hield me af en toe ook een spiegel voor en confronteerde me bijvoorbeeld
+    met mijn angsten en hoe het voelt om meer in vertrouwen te leven. Dat was echt
+    een transformerende ervaring. Ik besloot de avond voor de vision quest al onder
+    een tarp in de open lucht te gaan slapen en kon de slaap niet goed vatten. Een
+    helder maanlicht scheen over de landerijen en in een opwelling besloot ik eens
+    lekker te gaan huilen als een wolf naar de maan. Na drie keer kwam er opeens van
+    dichtbij een antwoord uit het veld, ik schrok me helemaal een ongeluk. Daar lag
+    ik op de grond, kwetsbaar, zonder verdedigingsmiddelen. Ik zocht een grote steen
+    en een tak om mezelf te kunnen verdedigen en mijn ratio zei me dat de kans heel
+    klein was dat ik zou worden aangevallen, maar de angst liet zich niet wegredeneren.
+    Ik kon de slaap niet meer vatten en besloot om half 3 ‘s nachts mijn boeltje te
+    pakken en terug te gaan naar mijn veilige tent. De volgende nacht, tijdens de
+    vision quest, hoorde ik ineens geritsel en het geluid van voetstappen vlak achter
+    mij, maar dit keer kon ik aanwezig blijven bij het waarnemen en was er vertrouwen
+    en overgave in plaats van angst. Niet veel later realiseerde ik me hoe bijzonder
+    het was om binnen 24 uur zo duidelijk de tegenstelling tussen angst en vertrouwen
+    te mogen ervaren. Na de vision quest ben ik terug gegaan naar de plek waar ik
+    met mijn tarp stond en heb ik met een klein ritueel afscheid genomen van alle
+    overbodige angsten.\n\nEr komen dus zeker momenten voorbij waarbij je met onverwachte
+    omstandigheden te maken krijgt of met jezelf geconfronteerd wordt. Daarom is het
+    fijn dat je elke dag even bij kunt praten met Robbert en samen kunt reflecteren
+    op het proces dat je doormaakt.\n\nTot slot nog wel een waarschuwing: Je loopt
+    het risico dat je de stilteretraite zo fijn vindt, dat je net als ik meteen verlangt
+    naar de volgende keer ☺"
+  participant: Rene
 - title: De weg naar het hart is waardevol
   subtitle: RE-TREAT JE HART   |   2021
   text: |-
