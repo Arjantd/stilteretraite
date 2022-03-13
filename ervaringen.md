@@ -3,6 +3,27 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: 'Een klooster, zolder '
+  subtitle: ''
+  text: |-
+    en de uiterwaarden
+
+    in stil verbond
+
+    wat mensen zittend op de grond
+
+    en een bevlogen ‘herder’
+
+    er wordt geleefd, geleden
+
+    en doorleefd, een stille
+
+    schreeuw van binnen,
+
+    dan huiswaarts keren,,wetend
+
+    het is goed!
+  participant: Marjo Zuleicha Zwaneveld
 - title: Zen
   subtitle: ''
   text: |-
