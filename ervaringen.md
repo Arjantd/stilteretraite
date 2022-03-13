@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Een mooie ervaring
-  subtitle: RE TREAT JE HART   |   2021
+  subtitle: RE-TREAT JE HART   |   2021
   text: 'De stilte-retraite was voor mij een geheel nieuwe ervaring: ik had nooit
     eerder iets dergelijks gedaan en geen enkele ervaring met meditatie. Ik had daarom
     van tevoren wel enige zorgen over hoe ik het zou ervaren om 5 dagen lang niet
