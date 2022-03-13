@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Een mooie ervaring
+  subtitle: RE TREAT JE HART   |   2021
+  text: 'De stilte-retraite was voor mij een geheel nieuwe ervaring: ik had nooit
+    eerder iets dergelijks gedaan en geen enkele ervaring met meditatie. Ik had daarom
+    van tevoren wel enige zorgen over hoe ik het zou ervaren om 5 dagen lang niet
+    spreken en of ik mij zou gaan vervelen of niet. Dit is mij echter alleszins meegevallen
+    doordat iedereen om je heen ook stil is en het programma en de oefeningen die
+    je doet toch de nodige afwisseling hebben. Na afloop had ik het gevoel alsof ik
+    een innerlijke douche had gehad: geschoond, gereinigd. Kortom, een mooie ervaring
+    die voor mij zeker de moeite waard was.'
+  participant: Dr. M.v.D.
 - title: Een mooie en tegelijkertijd confronterende retraite
   subtitle: RE TREAT JE HART   |   2021
   text: |-
