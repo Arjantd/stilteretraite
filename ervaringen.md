@@ -3,6 +3,18 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Inzichten
+  subtitle: RE-TREAT JE HART   |   2021
+  text: Ik wilde de retraite doen omdat ik meer uit mijn hoofd en meer in mijn hart
+    wilde komen. Daarnaast hoopte ik meer rust te kunnen vinden. De retraite heeft
+    me veel meer gebracht dan dat. Ik heb mezelf beter leren kennen en heb inzichten
+    gekregen in wat me gelukkig maakt en hoe ik de toekomst voor me zie. Vooraf was
+    ik benieuwd hoe ik het zou vinden zonder telefoon, laptop, praten en contact.
+    Dat alles heb ik niet als moeilijk ervaren. Door de veilige omgeving, de structuur
+    van de dag en de begeleiding van Robbert ben ik de dagen bijna moeiteloos doorgekomen.
+    De retraite is een waardevolle ervaring voor mij, waar ik de rest van mijn leven
+    dankbaar voor zal zijn.
+  participant: A., Headhunter
 - title: Een mooie ervaring
   subtitle: RE-TREAT JE HART   |   2021
   text: 'De stilte-retraite was voor mij een geheel nieuwe ervaring: ik had nooit
