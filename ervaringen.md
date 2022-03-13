@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: De wandeling
+  subtitle: ''
+  text: |-
+    Wij gaan in eender ritme
+
+    hand in warme hand
+
+    de stappen kalm en zeker,
+
+    door eeuwenoude
+
+    beeldentuin. De herfst
+
+    geeft kleur aan ons
+
+    en beelden ademen hun eigen
+
+    taal, gekend gehoord gevoeld
+
+    van binnen.. Een stille zegening,
+
+    de weg naar huis was Licht.
+  participant: Marjo Zuleicha Zwaneveld
 - title: '"Bewust voelen"'
   subtitle: RE TREAT JE HART   |   OKTOBER 2021
   text: "Schrijven is niet mijn ding, maar ik wil bij deze wel even laten weten dat
