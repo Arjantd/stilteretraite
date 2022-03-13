@@ -3,6 +3,21 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Stilteretraite “retreat je hart”
+  subtitle: RE-TREAT JE HART   |   2021
+  text: |-
+    Het was mijn verjaardagswens om samen een stilteretraite te volgen. Gezellig samen een ervaring rijgen aan de al rijke ketting van mooie gedeelde belevenissen. Uit de intake met Robbert bleek dat het wel zou betekenen dat we elkaar niet zouden kunnen spreken, zien of voelen. Het gaat om het eigen interne proces en om je eigen hart te gaan voelen, ervaren. En dus is het van belang dat je je niet op anderen richt, maar alle rust en ruimte neemt voor je interne reis. Kun je, zo vroeg Robbert, de ander bij zichzelf laten. Kun je het aan om te zien dat zij in een proces zit en haar niet te steunen of troosten, maar haar te laten zijn met wat er is.
+
+    En zo zaten we even later in stilte te eten, ieder aan de andere kant van een lange tafel met daartussenin nog een tiental zwijgzame in zichzelf gekeerde deelnemers. Ieder zijn best doend om de anderen niet aan te kijken en met slinkse gebaren toch het broodbeleg van keuze zien te bemachtigen.
+
+    En ’s avonds lag ik vervolgens in mijn eentje in een eigen, sober kloosterkamertje in een eenpersoonsbed naar het plafond te staren. Geen telefoon om op te kijken, geen boek om te lezen en geen geliefde om me aan te warmen. Vijf nachten lang alleen met mezelf. Vijf dagen niet communiceren met anderen, ook niet met mijn geliefde.
+
+    Alleen de mooie, rakende oefeningen doen. Oefeningen die het hart verwarmen en soms ook verwarren. Ervaringen enkel met mezelf delen, erkenning enkel van mezelf ontvangen. Het was heerlijk om zo in mezelf te keren en mijn hart te gaan ontdekken, mijn hoofd uit te schakelen, mijn gevoel te ervaren en steeds meer in mezelf te keren. Het was alleen, maar voelde nooit eenzaam. Ik voelde me gedragen door de liefdevolle omgeving en begeleiding van Robbert en Stieneke. Ik voelde bovendien, naarmate de dagen vorderde, steeds meer de aanwezigheid van een groter en dieper besef van universele liefde in m’n hart en om me heen.
+
+    En bovenal voelde ik de aanwezigheid van mijn geliefde. Ik wist dat ik niet alleen was en voelde haar aanwezigheid in de retraite en in mijn leven. Alleen zijn en toch samen. Het gevoel samen in het leven te staan, samen op weg te zijn. De ander zien zonder te kijken. Haar voelen zonder aan te raken. Haar liefhebben zonder het zachtjes in haar oor te fluisteren. De ander op afstand zien, haar stiekem bekijken, naar haar verlangen. In stilte samenzijn en de liefde ervaren, verliefdheid voelen, samen voelen.
+
+    Mooi om deze stilteretraite samen te ervaren!
+  participant: Ronald Dulmers
 - title: Onbeschrijfelijk
   subtitle: RE-TREAT JE HART   |   2021
   text: Heel veel dank voor de 5 dagen. Mijn ervaring is onbeschrijfelijk, bijzonder
