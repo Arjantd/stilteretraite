@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Ieder een eigen kamertje in het klooster
+  subtitle: RE-TREAT JE HART   |   2021
+  text: |-
+    Mijn lief vroeg voor zijn verjaardag een stilteretreate om samen te volgen, op advies van mijn zusje hebben we toen Robbert gebeld; Ja hoor jullie kunnen samen instappen, er is wel een voorwaarde: kan je elkaar laten… en kan je je richten op je eigen proces ipv je te gaan richten op de ander.
+
+    Ieder een eigen kamertje in het klooster, 5 dagen stilte, geen gebabbel, gelach, geen afstemmen op de ander, geen blikken en niet verdwijnen in afleiding, alleen zijn in de steeds dieper en liefdevol wordende stilte met de prachtige begeleiding van Robbert en Stieneke. De aanwezigheid van mijn lief, gaf een extra dimensie, samen delen van het alleen op pad zijn, zonder woorden kunnen ervaren en doormaken van wat de stilte teweeg brengt aan oorverdovend en rakend besef.
+
+    Dit samen te hebben ervaren, geeft ons nu een gezamenlijk ritueel van elke ochtend met een kaarsje te mediteren, geeft ons nu een gezamenlijke ervaring, woorden, beelden om ons fundament mee te voeden.
+
+    Een aanrader!
+  participant: Jacqueline van der Feen
 - title: Stilteretraite “retreat je hart”
   subtitle: RE-TREAT JE HART   |   2021
   text: |-
