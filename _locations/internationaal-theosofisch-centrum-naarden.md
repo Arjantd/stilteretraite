@@ -10,7 +10,7 @@ meta:
   author: ''
 title: Internationaal Theosofisch Centrum (Naarden)
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
-location: Naarden
+location: ICT Naarden
 description: Volgt
 gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden 2.jpg
