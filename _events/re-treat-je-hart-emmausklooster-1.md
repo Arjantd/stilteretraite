@@ -6,9 +6,10 @@ category: 5-days
 layout: event
 meta:
   title: Stilte retraite mei 2022
-  keywords: ''
-  description: ''
-  author: ''
+  keywords: 'stilte-retraite, mei 2022, burn-out, zelfontwikkeling. '
+  description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
+    wordt afgewisseld met individuele afzondering, oefeningen en meditatie."
+  author: Robbert van Bruggen
 title: 'Re-treat je hart! '
 image: https://static.stilteretraite.nl/uploads/itcnaarden-24_orig.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
