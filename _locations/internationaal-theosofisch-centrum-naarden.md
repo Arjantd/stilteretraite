@@ -13,13 +13,14 @@ image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.j
 location: ICT Naarden
 description: Volgt
 gallery:
-- https://static.stilteretraite.nl/uploads/ICT Naarden 4.jpg
+- https://static.stilteretraite.nl/uploads/ICT Naarden.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 2.jpg
 - https://static.stilteretraite.nl/uploads/ITC-Naarden 4.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 1.jpg
-- https://static.stilteretraite.nl/uploads/ICT Naarden.jpg
+- https://static.stilteretraite.nl/uploads/ICT a1a.jpg
 - https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 3.jpg
+- https://static.stilteretraite.nl/uploads/ICT Naarden 4.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 6.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
 
