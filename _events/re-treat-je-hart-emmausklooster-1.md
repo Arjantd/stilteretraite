@@ -1,5 +1,5 @@
 ---
-location: _locations/locatie-volgt.md
+location: _locations/internationaal-theosofisch-centrum-naarden.md
 price: 725
 attendees: 12
 category: 5-days
