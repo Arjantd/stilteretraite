@@ -19,7 +19,7 @@ to_date: 2022-05-29 14:00:00 +0200
 length_of_time: 5 dagen
 
 ---
-**De Re-treat je Hart van 25-29 mei gaat door op een prachtige locatie! Op het bijzondere terrein van het International Theosofic Center buiten Naarden zal de vijfdaagse stilte-retraite plaatsvinden in de Crystal Hall en overnachten we in het Crystal House_. Verdere informatie volgt dit weekend! Heb je in de tussentijd vragen? Neem dan gerust_** [**_contact_**](https://www.stilteretraite.nl/contact/ "Contact") **_met ons op._**
+**De Re-treat je Hart van 25-29 mei gaat door op een prachtige locatie! De vijfdaagse stilte-retraite vindt plaats op het bijzondere terrein van het International Theosofic Center in de buurt van Naarden, in de Crystal Hall. Verdere informatie volgt snel! Heb je in de tussentijd vragen? Neem dan gerust** [**_contact_**](https://www.stilteretraite.nl/contact/ "Contact") **_met ons op._**
 
 ***
 
