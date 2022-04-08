@@ -5,7 +5,7 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 meta:
   title: 'ICT Naarden stilteretraite.nl '
-  keywords: ''
+  keywords: 'Naarden, retraite, natuur, stilte '
   description: ''
   author: ''
 title: Internationaal Theosofisch Centrum (Naarden)
