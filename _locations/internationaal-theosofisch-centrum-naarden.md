@@ -23,6 +23,5 @@ gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden 4.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 6.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
-published: false
 
 ---
