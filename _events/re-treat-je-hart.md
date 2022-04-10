@@ -5,7 +5,7 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: Stilte retraite mei 2022
+  title: Stilte-retraite mei 2022
   keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
   author: Robbert van Bruggen
