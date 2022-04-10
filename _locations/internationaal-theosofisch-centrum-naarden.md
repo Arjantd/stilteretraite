@@ -4,8 +4,8 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 meta:
-  title: 'ICT Naarden stilteretraite.nl '
-  keywords: 'Naarden, retraite, natuur, stilte '
+  title: 'ICT Naarden, stilteretraite.nl '
+  keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
   author: ''
 title: International Theosophic Centre (Naarden)
