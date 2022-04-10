@@ -30,10 +30,10 @@ Een stilte-retraite is geen vermaak, je kunt het niet in het standje consumeren 
 
 Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt het oprecht zien als ‘heilige tijd met jezelf’. In het proces van de Stilte kom je ongemakken tegen; raak je in worstelingen verzeild waarbij je soms niet eens weet waarmee je worstelt; je ervaart plotselinge momenten van geluk en vrede. Ziet hoeveel stemmetjes er in je leven zoals je overtuigingen die alles proberen te analyseren. Laat het doorspoelen. De knoop van jouw _vertrouwde kramp_ zakt vanzelf uit elkaar
 
-Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaan, waardoor er mogelijk in de dagen of weken voorafgaand aan de daadwerkelijke start van de retraite al van alles in beweging komt.  
+Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaan, waardoor er mogelijk in de dagen of weken voorafgaand aan de daadwerkelijke start van de retraite al van alles in beweging komt.
+
+Praktische info:  
   
-**Praktische info:  
-**  
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
 * Aanvang retraite: woensdag 25 mei 2022 om 16.00 uur
