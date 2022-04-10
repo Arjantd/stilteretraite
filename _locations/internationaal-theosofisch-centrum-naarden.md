@@ -7,7 +7,7 @@ meta:
   title: 'ICT Naarden, stilteretraite.nl '
   keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
-  author: ''
+  author: Robbert van Bruggen
 title: International Theosophic Centre (Naarden)
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
 location: ICT Naarden
