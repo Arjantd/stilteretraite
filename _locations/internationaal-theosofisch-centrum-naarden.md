@@ -8,7 +8,7 @@ meta:
   keywords: 'Naarden, retraite, natuur, stilte '
   description: ''
   author: ''
-title: Internationaal Theosofisch Centrum (Naarden)
+title: International Theosophic Centre (Naarden)
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
 location: ICT Naarden
 description: Volgt
