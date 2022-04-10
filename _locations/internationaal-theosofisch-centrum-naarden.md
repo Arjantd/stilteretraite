@@ -25,4 +25,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
 
 ---
-Volgt
+In de prachtige, bosrijke omgeving van Naarden vind je het Internationaal Theosofisch Centrum. We zijn verheugd dat onze stilte retraites in deze prachtige omgeving mogen plaatvinden.   
+  
+Meer informatie vind je hier: [https://www.itcnaarden.org/history/](https://www.itcnaarden.org/history/ "ICT Naarden")
