@@ -32,7 +32,7 @@ Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt he
 
 Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaan, waardoor er mogelijk in de dagen of weken voorafgaand aan de daadwerkelijke start van de retraite al van alles in beweging komt.
 
-\**  
+**  
 Praktische info**
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
