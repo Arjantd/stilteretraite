@@ -17,7 +17,6 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
 from_date: 2022-05-25 17:00:00 +0200
 to_date: 2022-05-29 14:00:00 +0200
 length_of_time: 5 dagen
-published: false
 
 ---
 **De Re-treat je Hart van 25-29 mei vindt voor de eerste keer plaats op een prachtige nieuwe locatie! De vijfdaagse stilte-retraite wordt gehouden op het bijzondere 15 ha. grote bosrijke landgoed van het International Theosophic Centre net buiten het vestingstadje Naarden. Ben je benieuwd naar de welkomstbrief met alle praktische informatie? Neem dan gerust**[ **contact** ](https://www.stilteretraite.nl/contact/ "contact")**met ons op.**
