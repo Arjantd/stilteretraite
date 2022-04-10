@@ -5,10 +5,10 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Stilte retraite mei 2022
+  keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
-  author: ''
+  author: Robbert van Bruggen
 title: 'Re-treat je hart! '
 image: https://static.stilteretraite.nl/uploads/ICT a1a.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
