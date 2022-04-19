@@ -10,7 +10,7 @@ meta:
   description: ''
   author: ''
 title: Re-treat je hart! Erve Veldink
-image: https://static.stilteretraite.nl/uploads/7.jpg
+image: https://static.stilteretraite.nl/uploads/2.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
