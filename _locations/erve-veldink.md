@@ -13,8 +13,9 @@ image: https://static.stilteretraite.nl/uploads/1.jpg
 location: Haarlo
 description: Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de
   Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte
-  hoor je een koekoek en in de wei grazen paarden. Prachtige open plekken in het bos
-  nodigen uit tot meditatie.
+  hoor je een koekoek en in de wei grazen paarden.  Vanaf de boerderij loop je via
+  boerenpaden langs akkers en bospercelen. Prachtige open plekken in het bos nodigen
+  uit tot meditatie.
 gallery:
 - https://static.stilteretraite.nl/uploads/20220318_112725.jpg
 - https://static.stilteretraite.nl/uploads/12.jpg
@@ -30,7 +31,7 @@ gallery:
 - https://static.stilteretraite.nl/uploads/0.jpg
 
 ---
-Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte hoor je een koekoek en in de wei grazen paarden. Prachtige open plekken in het bos nodigen uit tot meditatie.
+Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte hoor je een koekoek en in de wei grazen paarden.  Vanaf de boerderij loop je via boerenpaden langs akkers en bospercelen. Prachtige open plekken in het bos nodigen uit tot meditatie.
 
 **Achterhoeks coulisselandschap**  
 Erve Veldink is een boerderij met een geschiedenis die teruggaat tot de 14e eeuw. De huidige gebouwen zijn 120 jaar oud en vallen onder monumentenzorg. Ze staan aan de rand van het dorp Haarlo (bij Borculo) midden in het typische Achterhoekse coulisselandschap, met haar besloten karakter en schitterende doorkijkjes, waar stukken bos, weiland, akkers en beken elkaar afwisselen. Prachtig voor wandelingen, fietstochten en sterrenkijken. Of zwemmen in een mooi meertje vlakbij.
