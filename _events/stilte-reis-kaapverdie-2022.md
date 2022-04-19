@@ -9,7 +9,7 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Stilte Reis Kaapverdië (data volgen)
+title: 'Stilte Reis Kaapverdië '
 image: https://static.stilteretraite.nl/uploads/victor-svistunov-R4fw0vlJd-A-unsplash.jpg
 lead_text: Al geruime tijd sluimert het idee om een speciale stiltereis naar Kaapverdië
   te organiseren. De pandemie bemoeilijkte lange tijd het plannen van deze 7-daagse
