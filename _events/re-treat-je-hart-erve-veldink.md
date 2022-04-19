@@ -5,8 +5,8 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Stilte-retraite december 2022
+  keywords: stilte, retraite, natuur, zelfontwikkeling, inzicht
   description: ''
   author: ''
 title: Re-treat je hart! Erve Veldink
