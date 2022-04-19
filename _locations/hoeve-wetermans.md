@@ -9,7 +9,7 @@ meta:
   description: ''
   author: Robbert van Bruggen
 title: Hoeve Wetermans
-image: https://static.stilteretraite.nl/uploads/Hoeve wetermans.jpeg
+image: https://static.stilteretraite.nl/uploads/Hoeve Wetermans 0.jpg
 location: Olst
 description: Daar waar de IJssel als natuurlijke grens tussen Gelderland en Overijssel
   stroomt vinden we Hoeve Wetermans, een schitterende accommodatie in het buitengebied
