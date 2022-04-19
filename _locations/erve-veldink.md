@@ -30,8 +30,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/0.jpg
 
 ---
-**Achterhoekse coulissenlandschap  
-**Erve Veldink is een boerderij met een geschiedenis die teruggaat tot de 14e eeuw. De huidige gebouwen zijn 120 jaar oud en vallen onder monumentenzorg. Ze staan aan de rand van het dorp Haarlo (bij Borculo) midden in het typische Achterhoekse coulissenlandschap, met haar besloten karakter en schitterende doorkijkjes, waar stukken bos, weiland, akkers en beken elkaar afwisselen. Prachtig voor wandelingen, fietstochten en sterrenkijken. Of zwemmen in een mooi meertje vlakbij.
+**Achterhoeks coulisselandschap**  
+Erve Veldink is een boerderij met een geschiedenis die teruggaat tot de 14e eeuw. De huidige gebouwen zijn 120 jaar oud en vallen onder monumentenzorg. Ze staan aan de rand van het dorp Haarlo (bij Borculo) midden in het typische Achterhoekse coulisselandschap, met haar besloten karakter en schitterende doorkijkjes, waar stukken bos, weiland, akkers en beken elkaar afwisselen. Prachtig voor wandelingen, fietstochten en sterrenkijken. Of zwemmen in een mooi meertje vlakbij.
 
-**Groepsaccommodatie  
-**De boerderij wordt bewoond door enkele vaste bewoners. Uitgangspunt is bewustzijn, werkelijk contact en leven vanuit je hart. Er is een groepsaccommodatie in een verbouwde stal naast de boerderij en op de deel zijn een paar sfeervolle appartementen gerealiseerd, elk voor 1-3 personen. Heel geschikt voor mensen die een plekje zoeken waar ze tot rust kunnen komen.
+**Groepsaccommodatie**  
+De boerderij wordt bewoond door enkele vaste bewoners. Uitgangspunt is bewustzijn, werkelijk contact en leven vanuit je hart. Er is een groepsaccommodatie in een verbouwde stal naast de boerderij en op de deel zijn een paar sfeervolle appartementen gerealiseerd, elk voor 1-3 personen. Heel geschikt voor mensen die een plekje zoeken waar ze tot rust kunnen komen.
