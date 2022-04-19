@@ -10,7 +10,7 @@ meta:
   author: Robbert van Bruggen
 title: International Theosophic Centre (Naarden)
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
-location: ICT Naarden
+location: Naarden
 description: In de bosrijke omgeving van Naarden vind je het International Theosophic
   Centre, waar vanaf 2022 een aantal van onze onze stilte-retraites zullen plaatvinden.
   De ITC bestaat sinds 1925, toen het landgoed werd geschonken voor het werk van de
