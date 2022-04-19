@@ -5,7 +5,7 @@ attendees: 12
 category: weekend
 layout: event
 meta:
-  title: Stilte retraite Pasen 2023
+  title: Vierdaagse stilte-retraite Pasen 2023
   keywords: Olst, retraite, accommodatie, boerderij
   description: ''
   author: Robbert van Bruggen
