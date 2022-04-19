@@ -9,7 +9,7 @@ locations:
 - _locations/besloten-veluws-landgoed.md
 - _locations/emmausklooster-in-velp.md
 meta:
-  title: 'stilte retraite locaties '
+  title: 'stilte-retraite locaties '
   keywords: waar, locaties, omschrijving, plaats
   description: De plek waar je aan een stilte retraite deelneemt kleurt je ervaring.
     Onze retraites vinden plaats op verschillende mooie locaties, ieder met een eigen
