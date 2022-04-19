@@ -11,7 +11,9 @@ meta:
   author: ''
 title: Re-treat je hart! Hoeve Wetermans
 image: https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
-lead_text: ''
+lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
+  (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
+  onderdompelen in stilte.
 from_date: 2023-10-25 15:00:00 +0200
 to_date: 2023-10-29 15:00:00 +0100
 length_of_time: 5 dagen
