@@ -1,6 +1,6 @@
 ---
 location: _locations/hoeve-wetermans.md
-price: 595
+price: 0
 attendees: 12
 category: weekend
 layout: event
