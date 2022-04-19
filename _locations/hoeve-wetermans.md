@@ -27,6 +27,8 @@ gallery:
 - https://static.stilteretraite.nl/uploads/Hoeve Wetermans 1.jpg
 
 ---
+Daar waar de IJssel als natuurlijke grens tussen Gelderland en Overijssel stroomt vinden we Hoeve Wetermans, een ruim opgezette retraite-accommodatie in het buitengebied tussen Olst en Diepenveen, niet ver van Hanzestad Deventer.
+
 De boerderij is gebouwd in 1929 en heeft een heel grote deel en een kleinveeschuur. De deel is nu verbouwd en bevat 7 kamers, elk met een eigen douche en toilet. In de kapschuur zijn twee appartementen met 3 slaapkamers met één persoonsbedden en gedeeld sanitair (per appartement). Naast slaapvertrekken vind je in de hoeve een prachtige centrale ruimte met o.a. een ruime zithoek, een bibliotheek, een televisiekamer, een meditatieruimte en meer.
 
 **Unieke meditatieruimte**  
