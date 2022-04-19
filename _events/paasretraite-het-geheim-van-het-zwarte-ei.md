@@ -17,7 +17,6 @@ lead_text: Deze paas-retraite is een vierdaagse retraite waar max. 12 deelnemers
 from_date: 2023-04-07 16:00:00 +0200
 to_date: 2023-04-10 17:00:00 +0200
 length_of_time: 4 dagen
-published: false
 
 ---
 Informatie over programma, kosten en meer volgt binnenkort.
