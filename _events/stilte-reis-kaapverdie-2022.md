@@ -10,7 +10,7 @@ meta:
   description: ''
   author: ''
 title: 'Stilte Reis Kaapverdië '
-image: https://static.stilteretraite.nl/uploads/victor-svistunov-R4fw0vlJd-A-unsplash.jpg
+image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: Al geruime tijd koesteren we het idee om een speciale stiltereis naar Kaapverdië
   te organiseren. De pandemie bemoeilijkte lange tijd het plannen van deze meerdaagse
   retraite, maar begin 2023 lijkt het dan toch echt te gaan gebeuren! Nadere informatie
