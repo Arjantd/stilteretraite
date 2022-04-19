@@ -10,7 +10,7 @@ meta:
   description: ''
   author: Robbert van Bruggen
 title: Paasretraite 'Het Geheim van het Zwarte Ei'
-image: https://static.stilteretraite.nl/uploads/Post - stille zaterdag 2020.jpg
+image: ''
 lead_text: Deze paas-retraite is een vierdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
