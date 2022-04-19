@@ -16,6 +16,7 @@ description: Welkom op Erve Veldink, onze retraite-locatie nabij Haarlo in de Ac
   koekoek en in de wei grazen paarden. Prachtige open plekken in het bos nodigen uit
   tot meditatie.
 gallery:
+- https://static.stilteretraite.nl/uploads/20220318_112725.jpg
 - https://static.stilteretraite.nl/uploads/12.jpg
 - https://static.stilteretraite.nl/uploads/11.jpg
 - https://static.stilteretraite.nl/uploads/10.jpg
