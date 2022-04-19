@@ -25,6 +25,6 @@ gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
 
 ---
-In de prachtige, bosrijke omgeving van Naarden vind je het International Theosophic Centre. We zijn verheugd dat vanaf 2022 een aantal van onze onze stilte-retraites in deze prachtige omgeving mogen plaatvinden.
+In de prachtige, bosrijke omgeving van Naarden vind je het International Theosophic Centre. We zijn verheugd dat vanaf 2022 een aantal van onze onze stilte-retraites op deze unieke locatie mogen plaatvinden.
 
 Meer informatie vind je hier: [https://www.itcnaarden.org/history/](https://www.itcnaarden.org/history/ "ICT Naarden")
