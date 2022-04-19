@@ -11,9 +11,9 @@ meta:
 title: Hoeve Wetermans
 image: https://static.stilteretraite.nl/uploads/Hoeve Wetermans 0.jpg
 location: Olst
-description: 'Daar waar de IJssel als natuurlijke grens tussen Gelderland en Overijssel
-  stroomt vinden we Hoeve Wetermans, een schitterende accommodatie in het buitengebied
-  tussen Olst en Diepenveen, niet ver van Hanzestad Deventer. '
+description: Daar waar de IJssel als natuurlijke grens tussen Gelderland en Overijssel
+  stroomt vinden we Hoeve Wetermans, een ruim opgezette retraite-accommodatie in het
+  buitengebied tussen Olst en Diepenveen, niet ver van Hanzestad Deventer.
 gallery:
 - https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
 - https://static.stilteretraite.nl/uploads/Hoeve Wetermans 8.jpg
