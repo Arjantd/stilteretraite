@@ -15,30 +15,7 @@ description: Daar waar de IJssel als natuurlijke grens tussen Gelderland en Over
   stroomt vinden we Hoeve Wetermans, een schitterende accommodatie in het buitengebied
   tussen Olst en Diepenveen.
 gallery:
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 12.jpg
 - https://static.stilteretraite.nl/uploads/Hoeve Wetermans 11.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 10.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 8.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 7.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 6.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 5.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 4.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 3.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 2.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 1.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 12.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 11.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 10.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 8.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 7.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 6.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 5.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 4.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 3.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 2.jpg
-- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 1.jpg
 published: false
 
 ---
