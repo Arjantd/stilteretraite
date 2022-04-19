@@ -6,7 +6,6 @@ locations:
 - _locations/hoeve-wetermans.md
 - _locations/internationaal-theosofisch-centrum-naarden.md
 - _locations/besloten-veluws-landgoed.md
-- _locations/agriturismo-ca-du-chittu-carro-liguria-italie.md
 - _locations/emmausklooster-in-velp.md
 meta:
   title: 'stilte retraite locaties '
