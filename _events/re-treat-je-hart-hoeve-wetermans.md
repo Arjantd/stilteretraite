@@ -5,10 +5,10 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Stilte retraite oktober 2023
+  keywords: stilte, retraite, natuur, zelfontwikkeling, inzicht
   description: ''
-  author: ''
+  author: Robbert van Bruggen
 title: Re-treat je hart! Hoeve Wetermans
 image: https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
@@ -17,7 +17,6 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
 from_date: 2023-10-25 15:00:00 +0200
 to_date: 2023-10-29 15:00:00 +0100
 length_of_time: 5 dagen
-published: false
 
 ---
 Deze vijfdaagse retraite die in oktober plaatsvindt in Hoeve Wetermans in het buitengebied van Olst is een uitnodiging om gehoor te geven aan de _inner call om_ een transformatie die zich kennelijk op dit moment in jouw leven aandient te laten gebeuren voorbij dat wat tot nu toe zo vertrouwd was. Dat vraagt om het scheppen van ruimte om onder ogen te zien hoe de vertrouwde manier van leven vanuit jouw ‘ik-besef’ dat wil tegenhouden omdat het bang is de controle en het overzicht te verliezen. Maar je voelt aan alle kanten dat er ‘iets wil gebeuren’. Je weet alleen nog niet wat het is… je merkt dat de zingeving zoals die er zo lang was, er niet meer vanzelfsprekend is. Er zijn barstjes ontstaan.
