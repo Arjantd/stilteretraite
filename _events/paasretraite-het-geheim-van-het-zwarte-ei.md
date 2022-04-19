@@ -5,10 +5,10 @@ attendees: 12
 category: weekend
 layout: event
 meta:
-  title: ''
-  keywords: ''
+  title: Stilte retraite Pasen 2023
+  keywords: Olst, retraite, accommodatie, boerderij
   description: ''
-  author: ''
+  author: Robbert van Bruggen
 title: Paasretraite 'Het Geheim van het Zwarte Ei'
 image: https://static.stilteretraite.nl/uploads/Post - stille zaterdag 2020.jpg
 lead_text: Deze paas-retraite is een vierdaagse retraite waar max. 12 deelnemers zich
