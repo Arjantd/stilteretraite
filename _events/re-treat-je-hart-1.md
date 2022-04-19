@@ -19,7 +19,7 @@ to_date: 2022-05-29 14:00:00 +0200
 length_of_time: 5 dagen
 
 ---
-**De Re-treat je Hart van 25-29 mei vindt voor de eerste keer plaats op een prachtige nieuwe locatie! De vijfdaagse stilte-retraite wordt gehouden op het bijzondere 15 ha. grote bosrijke landgoed van het International Theosophic Centre net buiten het vestingstadje Naarden. Ben je benieuwd naar de welkomstbrief met alle praktische informatie? Neem dan gerust**[ ](https://www.stilteretraite.nl/contact/ "contact")[**contact** ](https://www.stilteretraite.nl/contact/ "contact")**met ons op.**
+**De Re-treat je Hart van 25-29 mei wordt gehouden op het bijzondere 15 ha. grote bosrijke landgoed van het International Theosophic Centre net buiten het vestingstadje Naarden. Ben je benieuwd naar de welkomstbrief met alle praktische informatie? Neem dan gerust**[ **contact** ](https://www.stilteretraite.nl/contact/ "contact")**met ons op.**
 
 Deze vijfdaagse retraite is een uitnodiging om gehoor te geven aan de _inner call om_ een transformatie die zich kennelijk op dit moment in jouw leven aandient te laten gebeuren voorbij dat wat tot nu toe zo vertrouwd was. Dat vraagt om het scheppen van ruimte om onder ogen te zien hoe de vertrouwde manier van leven vanuit jouw ‘ik-besef’ dat wil tegenhouden omdat het bang is de controle en het overzicht te verliezen. Maar je voelt aan alle kanten dat er ‘iets wil gebeuren’. Je weet alleen nog niet wat het is… je merkt dat de zingeving zoals die er zo lang was, er niet meer vanzelfsprekend is. Er zijn barstjes ontstaan.
 
