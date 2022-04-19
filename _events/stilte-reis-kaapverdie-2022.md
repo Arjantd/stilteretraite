@@ -20,4 +20,3 @@ to_date: 2023-03-04 19:00:00 +0100
 length_of_time: 7 dagen
 
 ---
-Al geruime tijd sluimert het idee om een speciale stiltereis naar Kaapverdië te organiseren. De pandemie bemoeilijkte lange tijd het plannen van deze 7-daagse retraite, maar begin 2023 lijkt het dan toch echt te gaan gebeuren! Meer informatie volgt..
