@@ -20,4 +20,3 @@ to_date: 2023-03-04 19:00:00 +0100
 length_of_time: 7 dagen
 
 ---
-Nadere informatie volgt!
