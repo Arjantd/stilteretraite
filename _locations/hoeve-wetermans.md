@@ -4,17 +4,41 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 meta:
-  title: ''
-  keywords: ''
+  title: Hoeve Wetermans
+  keywords: Olst, retraite, accommodatie, boerderij
   description: ''
-  author: ''
+  author: Robbert van Bruggen
 title: Hoeve Wetermans
-image: ''
+image: https://static.stilteretraite.nl/uploads/Hoeve wetermans.jpeg
 location: Olst
 description: Daar waar de IJssel als natuurlijke grens tussen Gelderland en Overijssel
   stroomt vinden we Hoeve Wetermans, een schitterende accommodatie in het buitengebied
   tussen Olst en Diepenveen.
-gallery: []
+gallery:
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 12.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 11.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 10.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 8.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 7.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 6.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 5.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 4.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 3.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 2.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 1.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 12.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 11.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 10.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 9.jpeg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 8.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 7.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 6.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 5.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 4.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 3.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 2.jpg
+- https://static.stilteretraite.nl/uploads/Hoeve Wetermans 1.jpg
 published: false
 
 ---
