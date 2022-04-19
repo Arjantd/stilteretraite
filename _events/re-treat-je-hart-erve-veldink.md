@@ -7,8 +7,9 @@ layout: event
 meta:
   title: Stilte-retraite december 2022
   keywords: stilte, retraite, natuur, zelfontwikkeling, inzicht
-  description: ''
-  author: ''
+  description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
+    wordt afgewisseld met individuele afzondering, oefeningen en meditaties."
+  author: Robbert van Bruggen
 title: Re-treat je hart! Erve Veldink
 image: https://static.stilteretraite.nl/uploads/01.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
