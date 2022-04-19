@@ -8,7 +8,7 @@ meta:
   keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
   author: Robbert van Bruggen
-title: International Theosophic Centre (Naarden)
+title: 'Int. Theosophic Centre '
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
 location: Naarden
 description: In de bosrijke omgeving van Naarden vind je het International Theosophic
