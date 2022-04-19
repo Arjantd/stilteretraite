@@ -19,3 +19,4 @@ to_date: 2023-04-10 17:00:00 +0200
 length_of_time: 4 dagen
 
 ---
+Meer informatie volgt binnenkort.
