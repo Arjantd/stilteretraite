@@ -10,11 +10,11 @@ meta:
   description: ''
   author: ''
 title: Stilte Reis Kaapverdië (data volgen)
-image: https://static.stilteretraite.nl/uploads/2.jpg
+image: https://static.stilteretraite.nl/uploads/victor-svistunov-R4fw0vlJd-A-unsplash.jpg
 lead_text: Nadere informatie volgt
-from_date: 2022-12-30 00:00:00 +0100
-to_date: 2022-12-31 00:00:00 +0100
+from_date: 2023-02-25 00:00:00 +0100
+to_date: 2023-03-04 00:00:00 +0100
 length_of_time: 7 dagen
 
 ---
-Data en nadere informatie volgt!
+Nadere informatie volgt!
