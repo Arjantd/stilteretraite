@@ -11,10 +11,10 @@ meta:
 title: Erve Veldink
 image: https://static.stilteretraite.nl/uploads/1.jpg
 location: Haarlo
-description: Welkom op Erve Veldink, onze retraite-locatie nabij Haarlo in de Achterhoek!
-  Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte hoor je een
-  koekoek en in de wei grazen paarden. Prachtige open plekken in het bos nodigen uit
-  tot meditatie.
+description: Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de
+  Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte
+  hoor je een koekoek en in de wei grazen paarden. Prachtige open plekken in het bos
+  nodigen uit tot meditatie.
 gallery:
 - https://static.stilteretraite.nl/uploads/20220318_112725.jpg
 - https://static.stilteretraite.nl/uploads/12.jpg
