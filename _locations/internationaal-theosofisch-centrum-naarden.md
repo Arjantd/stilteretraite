@@ -11,7 +11,10 @@ meta:
 title: International Theosophic Centre (Naarden)
 image: https://static.stilteretraite.nl/uploads/Crystal-Hall-interior-1024x768.jpg
 location: ICT Naarden
-description: Volgt
+description: |-
+  In de prachtige, bosrijke omgeving van Naarden vind je het International Theosophic Centre. We zijn verheugd dat vanaf 2022 een aantal van onze onze stilte-retraites op deze unieke locatie mogen plaatvinden.
+
+  Meer informatie vind je hier: [https://www.itcnaarden.org/history/](https://www.itcnaarden.org/history/ "https://www.itcnaarden.org/history/")
 gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden.jpg
 - https://static.stilteretraite.nl/uploads/ICT Naarden 2.jpg
@@ -25,6 +28,3 @@ gallery:
 - https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
 
 ---
-In de prachtige, bosrijke omgeving van Naarden vind je het International Theosophic Centre. We zijn verheugd dat vanaf 2022 een aantal van onze onze stilte-retraites op deze unieke locatie mogen plaatvinden.
-
-Meer informatie vind je hier: [https://www.itcnaarden.org/history/](https://www.itcnaarden.org/history/ "ICT Naarden")
