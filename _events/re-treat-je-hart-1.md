@@ -9,7 +9,7 @@ meta:
   keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
   description: ''
   author: Robbert van Bruggen
-title: Re-treat je hart!
+title: Re-treat je hart! ICT Naarden
 image: https://static.stilteretraite.nl/uploads/ICT a1a.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
