@@ -9,7 +9,7 @@ meta:
   keywords: Olst, retraite, accommodatie, boerderij
   description: ''
   author: Robbert van Bruggen
-title: Paasretraite 'Het Geheim van het Zwarte Ei'
+title: Paas-retraite 'Het Geheim van het Zwarte Ei'
 image: https://static.stilteretraite.nl/uploads/123.jpg
 lead_text: Deze Paas-retraite is een vierdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
