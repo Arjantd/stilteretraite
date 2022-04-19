@@ -10,7 +10,7 @@ meta:
   description: ''
   author: Robbert van Bruggen
 title: Re-treat je hart! Hoeve Wetermans
-image: ''
+image: https://static.stilteretraite.nl/uploads/Hoeve Wetermans 01.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.
