@@ -10,7 +10,7 @@ meta:
   description: ''
   author: Robbert van Bruggen
 title: Re-treat je hart! ITC Naarden
-image: https://static.stilteretraite.nl/uploads/ICT a1a.jpg
+image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
 lead_text: Re-treat je Hart Weekend is een driedaagse retraite waar max. 14 deelnemers  op
   geleide van een gestructureerd dagprogramma ontdekken wat stilteretraite nu eigenlijk
   is.
@@ -19,4 +19,4 @@ to_date: 2022-09-25 15:00:00 +0200
 length_of_time: 3 dagen
 
 ---
-Nadere info volgt
+Details volgen spoedig
