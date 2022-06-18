@@ -25,7 +25,9 @@ Om verbinding met jezelf te kunnen ervaren, die in de nacht zal samensmelten tot
 
 Waarin het verlangen vrij mag komen dat al zo lang in je Hart sluimert. Het verlangen dat vrij komt in de vorm van wensen die je echt wil volgen, inclusief het bewandelen van de paden die jou daar willen brengen. Een Happening met 32 anderen… 48 uur lang!
 
-HAPPINESS HAPPENS, THAT’S WHY IT’S CALLED HAPPINESS, BECAUSE IT HAPPENS!
+HAPPINESS HAPPENS, THAT’S WHY IT’S CALLED HAPPINESS, BECAUSE IT HAPPENS!  
+  
+![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2022-06-18 at 12.26.11 AM.jpeg)
 
 Meer kunnen we nog niet verklappen. Neem contact met ons op via deze website of via het contactformulier van de website van [BINDU](https://bindu.nl/contact/ "contact bindu")[,](https://bindu.nl/contact/, "https://bindu.nl/contact/,") zodat je straks de eerste bent die over alle informatie beschikt. Er is namelijk plek voor slechts 33 lucky ones.
 
