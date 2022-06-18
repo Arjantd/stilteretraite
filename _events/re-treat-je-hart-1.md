@@ -17,7 +17,6 @@ lead_text: Re-treat je Hart Weekend is een driedaagse retraite waar max. 14 deel
 from_date: 2022-09-23 15:00:00 +0200
 to_date: 2022-09-25 15:00:00 +0200
 length_of_time: 3 dagen
-published: false
 
 ---
 Nadere info volgt
