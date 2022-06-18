@@ -129,6 +129,7 @@ fields:
   hidden: true
   default: event
 pages:
+- _events/de-happening.md
 - _events/paasretraite-het-geheim-van-het-zwarte-ei.md
 - _events/re-treat-je-hart-1.md
 - _events/re-treat-je-hart-erve-veldink.md
