@@ -1,6 +1,6 @@
 ---
 location: _locations/locatie-volgt.md
-price: 0
+price: 
 attendees: 33
 category: weekend
 layout: event
