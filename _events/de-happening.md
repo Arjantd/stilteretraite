@@ -36,8 +36,8 @@ Voor de duidelijkheid: de Happening is niet voor pussy’s. Dit is je kans om in
 
 Blijf je liever in veiligheid hangen en denk je ‘morgen kan het ook’? Dan is deze Happening niet voor jou. Wil je dronken van jezelf en high zonder drugs ervaren? Dit zit allemaal in jou, geef je dan wel op voor de Happening!
 
-\**  
-Praktische info:**
+  
+**Praktische info:**
 
 * Er is slechts plek voor 33 lucky bastards.
 * De Happening duurt van 9 september 16:00 tot 11 september 16:00.
