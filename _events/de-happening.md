@@ -15,8 +15,8 @@ lead_text: DE HAPPENING is een 48 uurs snelkookpan waarin het tegenhouden van jo
   geluk wordt opgeschud; waarin je in de spiegel van je vertrouwde patronen kijkt,
   tot je moe wordt van je eigen verhaaltjes, en je jezelf vervolgens onderdompelt
   in stilte…
-from_date: 2022-09-09 19:00:00 +0200
-to_date: 2022-09-11 19:00:00 +0200
+from_date: 2022-09-09 16:00:00 +0200
+to_date: 2022-09-11 16:00:00 +0200
 length_of_time: 3 dagen
 
 ---
