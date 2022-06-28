@@ -7,7 +7,9 @@ layout: event
 meta:
   title: Stilte weekend retraite juli 2022
   keywords: 'Naarden, weekend, retraite, stilte, september 2022 '
-  description: ''
+  description: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien
+    wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
+    Stilte is de essentie….
   author: Robbert van Bruggen
 title: Kiss of Silence weekend retraite, ITC Naarden
 image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
@@ -34,6 +36,6 @@ Elke stilte-meditatie of retraite is dus een gelegenheid om de Blessing van een 
 
 * Van vrijdagmiddag 23 september 13.00 uur tot zondagmiddag 25 september 16.00 uur,
 * Locatie: Crystal Hall van het International Theosophical Center in Naarden,
-* Max. 20 deelnemers. Kostprijs inclusief overnachtingen en ayurvedische maaltijden € 475 incl btw.
+* Max. 20 deelnemers. Kostprijs inclusief overnachtingen en ayurvedische maaltijden € 475 incl. btw.
 
 Voorafgaand aan elke retraite hebben we met elke deelnemer vooraf even contact. Deels om kort kennis te maken (‘wat vind jij dat we van jou moeten weten?’), maar ook om jouw de ruimte te bieden je vragen te stellen en om even stil te staan bij jouw verlangen om aan de Kiss of Silence mee te doen. Voor dit gesprek worden geen extra kosten berekend.
