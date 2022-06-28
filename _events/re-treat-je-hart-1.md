@@ -5,8 +5,8 @@ attendees: 20
 category: weekend
 layout: event
 meta:
-  title: Stilte retraite mei 2022
-  keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
+  title: Stilte weekend retraite juli 2022
+  keywords: 'Naarden, weekend, retraite, stilte, september 2022 '
   description: ''
   author: Robbert van Bruggen
 title: Kiss of Silence weekend retraite, ITC Naarden
