@@ -11,7 +11,7 @@ meta:
     wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
     Stilte is de essentie….
   author: Robbert van Bruggen
-title: Kiss of Silence weekend retraite, ITC Naarden
+title: Kiss of Silence (weekend), ITC Naarden
 image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
 lead_text: Kiss of Silence is een driedaagse retraite waar deelnemers  op geleide
   van een gestructureerd dagprogramma ontdekken wat stilteretraite nu eigenlijk is.
