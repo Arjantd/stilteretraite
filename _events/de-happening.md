@@ -9,7 +9,7 @@ meta:
   keywords: 48 uur, dans, samenzijn
   description: ''
   author: Robbert van Bruggen
-title: DE HAPPENING
+title: DE HAPPENING, Angeren
 image: https://static.stilteretraite.nl/uploads/happening 2.jpg
 lead_text: DE HAPPENING is een 48 uurs snelkookpan waarin het tegenhouden van jouw
   geluk wordt opgeschud; waarin je in de spiegel van je vertrouwde patronen kijkt,
