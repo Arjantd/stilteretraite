@@ -7,7 +7,8 @@ layout: event
 meta:
   title: DE HAPPENING, 9-11 september
   keywords: 48 uur, dans, samenzijn
-  description: ''
+  description: De Happening is een 48 uur durende snelkookpan, waarin het tegenhouden
+    van jouw geluk wordt opgeschud.
   author: Robbert van Bruggen
 title: DE HAPPENING, Angeren
 image: https://static.stilteretraite.nl/uploads/happening 2.jpg
