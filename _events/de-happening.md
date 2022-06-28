@@ -1,5 +1,5 @@
 ---
-location: _locations/locatie-volgt.md
+location: _locations/angeren.md
 price: 399
 attendees: 33
 category: weekend
