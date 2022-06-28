@@ -11,8 +11,7 @@ meta:
 title: Angeren
 image: https://static.stilteretraite.nl/uploads/yurt.jpg
 location: Angeren
-description: ''
+description: volgt
 gallery: []
-published: false
 
 ---
