@@ -13,15 +13,14 @@ meta:
   author: Robbert van Bruggen
 title: Kiss of Silence (weekend), ITC Naarden
 image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
-lead_text: Kiss of Silence is een driedaagse retraite waar deelnemers op geleide van
-  een gestructureerd dagprogramma ontdekken wat stilteretraite nu eigenlijk is.
+lead_text: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien wil
+  worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
+  Stilte is de essentie….
 from_date: 2022-09-23 13:00:00 +0200
 to_date: 2022-09-25 16:00:00 +0200
 length_of_time: 3 dagen
 
 ---
-Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles. Stilte is de essentie….
-
 We leven in een wereld waarin de dagelijkse dynamiek van het leven elk moment centraal lijkt te staan. De wereld van het doen, de wereld van de verantwoordelijkheden, de behoeftes die vervuld
 
 moeten worden, het eten dat in huis moet worden gehaald, het nieuws dat gevolgd moet worden, de dromen en hebberigheden die gerealiseerd moeten worden, de teleurstellingen die we hebben, de verliefdheden die zich voordoen….
