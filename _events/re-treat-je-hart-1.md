@@ -5,7 +5,7 @@ attendees: 20
 category: weekend
 layout: event
 meta:
-  title: Stilte weekend retraite juli 2022
+  title: 3-daagse stilte retraite september 2022
   keywords: 'Naarden, weekend, retraite, stilte, september 2022 '
   description: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien
     wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
