@@ -21,9 +21,7 @@ to_date: 2022-09-25 16:00:00 +0200
 length_of_time: 3 dagen
 
 ---
-We leven in een wereld waarin de dagelijkse dynamiek van het leven elk moment centraal lijkt te staan. De wereld van het doen, de wereld van de verantwoordelijkheden, de behoeftes die vervuld
-
-moeten worden, het eten dat in huis moet worden gehaald, het nieuws dat gevolgd moet worden, de dromen en hebberigheden die gerealiseerd moeten worden, de teleurstellingen die we hebben, de verliefdheden die zich voordoen….
+We leven in een wereld waarin de dagelijkse dynamiek van het leven elk moment centraal lijkt te staan. De wereld van het doen, de wereld van de verantwoordelijkheden, de behoeftes die vervuld moeten worden, het eten dat in huis moet worden gehaald, het nieuws dat gevolgd moet worden, de dromen en hebberigheden die gerealiseerd moeten worden, de teleurstellingen die we hebben, de verliefdheden die zich voordoen….
 
 Voor degenen die om welke reden dan ook (nog) niet mee kunnen of durven doen aan een vijfdaagse ‘Re-treat je Hart’ bieden we voor het eerst een 3-daagse durende ‘Kiss of Silence’ retraite aan. Een gelegenheid om in je ziel geraakt te worden door de Stilte, zonder dat je er eerst hard voor moet werken om waardig genoeg te zijn om de essentie te ontvangen.
 
