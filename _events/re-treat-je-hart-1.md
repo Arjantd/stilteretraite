@@ -13,8 +13,8 @@ meta:
   author: Robbert van Bruggen
 title: Kiss of Silence (weekend), ITC Naarden
 image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
-lead_text: Kiss of Silence is een driedaagse retraite waar deelnemers  op geleide
-  van een gestructureerd dagprogramma ontdekken wat stilteretraite nu eigenlijk is.
+lead_text: Kiss of Silence is een driedaagse retraite waar deelnemers op geleide van
+  een gestructureerd dagprogramma ontdekken wat stilteretraite nu eigenlijk is.
 from_date: 2022-09-23 13:00:00 +0200
 to_date: 2022-09-25 16:00:00 +0200
 length_of_time: 3 dagen
