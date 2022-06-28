@@ -5,7 +5,7 @@ attendees: 33
 category: weekend
 layout: event
 meta:
-  title: DE HAPPENING
+  title: DE HAPPENING, 9-11 september
   keywords: 48 uur, dans, samenzijn
   description: ''
   author: Robbert van Bruggen
