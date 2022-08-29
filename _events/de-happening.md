@@ -10,14 +10,14 @@ meta:
   description: De Happening is een 48 uur durende snelkookpan, waarin het tegenhouden
     van jouw geluk wordt opgeschud.
   author: Robbert van Bruggen
-title: DE HAPPENING, Angeren
-image: https://static.stilteretraite.nl/uploads/happening 2.jpg
+title: DE HAPPENING (nieuwe datum volgt)
+image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: DE HAPPENING is een 48 uurs snelkookpan waarin het tegenhouden van jouw
   geluk wordt opgeschud; waarin je in de spiegel van je vertrouwde patronen kijkt,
   tot je moe wordt van je eigen verhaaltjes, en je jezelf vervolgens onderdompelt
   in stilte…
-from_date: 2022-09-09 16:00:00 +0200
-to_date: 2022-09-11 16:00:00 +0200
+from_date: 
+to_date: 
 length_of_time: 3 dagen
 
 ---
@@ -37,18 +37,16 @@ Voor de duidelijkheid: de Happening is niet voor pussy’s. Dit is je kans om in
 
 Blijf je liever in veiligheid hangen en denk je ‘morgen kan het ook’? Dan is deze Happening niet voor jou. Wil je dronken van jezelf en high zonder drugs ervaren? Dit zit allemaal in jou, geef je dan wel op voor de Happening!
 
-  
 **Praktische info:**
 
-* Er is slechts plek voor 33 lucky bastards.
-* De Happening duurt van 9 september 16:00 tot 11 september 16:00.
+* De Happening is verplaatst naar voorjaar 2023
 * Je slaapt op een unieke locatie in Angeren in een prachtige Mongoolse Yurt met 3 anderen. Wil je liever alleen slapen? Er is voor 5 personen plek in je eigen meegenomen tentje. Laat je voorkeur weten.
 * De Happening vindt plaats in stilte, die zal worden ingeleid na de avondmaaltijd op vrijdag.
 * Elke deelnemer zullen we vooraf 15 minuten spreken. We willen van jou een antwoord op de vraag: ‘Wat moeten wij echt van jou weten?’
 * Telefoons zijn niet toegestaan. Voor noodgevallen zijn wij voor iedereen uiteraard gewoon bereikbaar.
 * De maaltijden zijn gezond en vegetarisch.
 * Er is voldoende te drinken, uiteraard ook gezond.
-* Ruim voor 9 september ontvang je 'De Happening Paklijst'
+* Ruim voor aanvang ontvang je 'De Happening Paklijst'
 * Alcohol, (soft)drugs/pillen of andere stimulerende middelen zijn niet toegestaan.
 * De prijs is € 333,- (excl. BTW). Aanbetaling: € 111,- (excl. BTW). Indien gewenst kun je betalen in 3 termijnen, die vermeld staan op de factuur.
 
