@@ -1,6 +1,6 @@
 ---
 location: _locations/angeren.md
-price: 399
+price: 
 attendees: 33
 category: weekend
 layout: event
@@ -16,8 +16,8 @@ lead_text: DE HAPPENING is een 48 uurs snelkookpan waarin het tegenhouden van jo
   geluk wordt opgeschud; waarin je in de spiegel van je vertrouwde patronen kijkt,
   tot je moe wordt van je eigen verhaaltjes, en je jezelf vervolgens onderdompelt
   in stilte…
-from_date: 
-to_date: 
+from_date: 2022-04-01 00:00:00 +0200
+to_date: 2023-04-01 00:00:00 +0200
 length_of_time: 3 dagen
 
 ---
@@ -48,6 +48,6 @@ Blijf je liever in veiligheid hangen en denk je ‘morgen kan het ook’? Dan is
 * Er is voldoende te drinken, uiteraard ook gezond.
 * Ruim voor aanvang ontvang je 'De Happening Paklijst'
 * Alcohol, (soft)drugs/pillen of andere stimulerende middelen zijn niet toegestaan.
-* De prijs is € 333,- (excl. BTW). Aanbetaling: € 111,- (excl. BTW). Indien gewenst kun je betalen in 3 termijnen, die vermeld staan op de factuur.
+* Prijs volgt
 
 ![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2022-06-18 at 12.26.11 AM.jpeg)
