@@ -24,3 +24,5 @@ fields:
   label: Template
   hidden: true
   default: video
+pages:
+- _videos/Kiss of Silence.md
