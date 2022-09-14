@@ -7,11 +7,11 @@ textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte fi
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
 image: https://static.stilteretraite.nl/uploads/shutterstock_1115950973.jpg
 videos:
+- _videos/Kiss-of-Silence.md
 - _videos/wat-is-een-retraite.md
 - _videos/wat-gebeurt-er-tijdens-een-retraite.md
 - _videos/voor-wie-is-een-stilte-retraite.md
 - _videos/hoe-ziet-een-stilte-retraite-er-uit.md
-- _videos/Kiss-of-Silence.md
 meta:
   keywords: 'uitleg, stilte retraite, Robbert van bruggen, '
   description: 'In vier korte filmpjes komt Robbert van bruggen aan het woord over
