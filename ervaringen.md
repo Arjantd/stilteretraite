@@ -3,6 +3,12 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Reis in je binnenwereld
+  subtitle: Kiss of Silence  |  Sept 2022
+  text: "> Ondanks de korte duur van 3 dagen heb ik meerdere kisses van silence mogen
+    ervaren. Dankzij de liefdevolle en deskundige begeleiding van Robbert kan je vol
+    overgave je volledig richten op de reis in je binnenwereld: ik ga dit zeker herhalen!"
+  participant: M.
 - title: Ieder een eigen kamertje in het klooster
   subtitle: RE-TREAT JE HART   |   2021
   text: |-
