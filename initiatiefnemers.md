@@ -4,7 +4,6 @@ title: Initiatiefnemers
 image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
 members:
 - _people/robbert-van-bruggen.md
-- _people/team-stilteretraite-nl.md
 meta:
   title: Initiatiefnemers van Stilteretraite.nl
   keywords: Robbert van Bruggen, ontwikkeling, initiatief, vrienden
