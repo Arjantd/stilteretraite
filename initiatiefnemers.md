@@ -11,7 +11,7 @@ meta:
   description: Als oud-deelnemers van de retraites van Robbert van Bruggen zijn Madeleine
     van Mourik, Jan-Willem Winter en Arjan ten Dam nauw betrokken bij de ontwikkeling
     van stilteretraite.nl!
-  author: Arjan ten Dam
+  author: Robbert van Bruggen
 menu:
   navigation:
     weight: 1
