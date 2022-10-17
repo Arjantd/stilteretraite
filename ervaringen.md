@@ -3,6 +3,17 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Bevrijding en rust
+  subtitle: KISS OF SILENCE  |   sept 2022
+  text: Elkaar 3 dagen niet aankijken of spreken. Ik dacht dat ik dat niet zou kunnen,
+    maar wat had ik het verkeerd. Het loslaten van sociale verplichtingen was het
+    makkelijkst wat ik ooit heb mogen doen. Het gaf mij de bevrijding en de rust waar
+    ik zo lang naar verlangde. Na de geboorte van mijn dochter wist ik mijzelf niet
+    meer tot rust te brengen, deze retraite heeft dat wel voor mij gerealiseerd. De
+    locatie was prachtig, de begeleiding top, het eten smaakte beter en slapen deed
+    ik als een baby. Dank Robbert en Nienke voor dit geweldig cadeautje die ik mijzelf
+    om de zoveel tijd zal schenken.
+  participant: Marwa
 - title: Reis in je binnenwereld
   subtitle: Kiss of Silence  |  Sept 2022
   text: "> Ondanks de korte duur van 3 dagen heb ik meerdere kisses van silence mogen
