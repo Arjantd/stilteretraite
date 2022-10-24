@@ -5,10 +5,11 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Stilte retraite februari 2023
+  keywords: 'Naarden, retraite, natuur, stilte, februari 2023 '
+  description: "‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie
+    wordt afgewisseld met individuele afzondering, oefeningen en meditaties."
+  author: Robbert van Bruggen
 title: Re-treat je hart! ITC Naarden
 image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
@@ -36,11 +37,10 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-Aanvang retraite: woensdag 8 februari 2023 om 16.00 uur  
-Einde retraite: zondag 12 februari 2023 om 15.00 uur  
-Locatie: De Crystal Hall & het Crystal House van het International Theosophical Center in Naarden  
-Informatie: Robbert van Bruggen  
-Per email: gebruik het contactformulier op deze website  
-Telefonisch: 06-24678735 tussen 20.00-20.30
-
-Kosten: € 695
+* Aanvang retraite: woensdag 8 februari 2023 om 16.00 uur
+* Einde retraite: zondag 12 februari 2023 om 15.00 uur
+* Locatie: De Crystal Hall & het Crystal House van het International Theosophical Center in Naarden
+* Informatie: Robbert van Bruggen
+* Per email: gebruik het contactformulier op deze website
+* Telefonisch: 06-24678735 tussen 20.00-20.30
+* Kosten: € 695
