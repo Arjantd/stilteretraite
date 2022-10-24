@@ -1,6 +1,6 @@
 ---
 location: _locations/internationaal-theosofisch-centrum-naarden.md
-price: 695
+price: 725
 attendees: 12
 category: 5-days
 layout: event
@@ -18,7 +18,6 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
 from_date: 2023-02-08 16:00:00 +0100
 to_date: 2022-10-12 15:00:00 +0200
 length_of_time: 5 dagen
-published: false
 
 ---
 De Re-treat je Hart van 8-12 februari 2023 wordt gehouden op het bijzondere 15 ha. grote bosrijke landgoed van het International Theosophic Centre net buiten het vestingstadje Naarden. Ben je benieuwd naar de welkomstbrief met alle praktische informatie? Neem dan gerust[ contact](https://www.stilteretraite.nl/contact/ "contact") met ons op.
@@ -43,4 +42,4 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
 * Telefonisch: 06-24678735 tussen 20.00-20.30
-* Kosten: € 695
+* Kosten: € 725
