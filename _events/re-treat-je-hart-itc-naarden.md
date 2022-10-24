@@ -11,7 +11,7 @@ meta:
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties."
   author: Robbert van Bruggen
 title: Re-treat je hart! ITC Naarden
-image: https://static.stilteretraite.nl/uploads/IMG-20220526-WA0004.jpg
+image: https://static.stilteretraite.nl/uploads/Devi-Tara-and-Buddha-768x512.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede of derde keer) op geleide van een gestructureerd
   dagprogramma overgeven aan de Stilte.
