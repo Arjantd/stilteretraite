@@ -3,6 +3,23 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Stroming
+  subtitle: K
+  text: |-
+    De retraite is alweer een paar weken geleden en ik wou nog even zeggen dat het me enorm veel gebracht heeft.
+
+    De eerste weken na terugkomst voelde alles nog een beetje onwennig voor een tijd, in de retraite zelf en daarna is er best veel bij me losgekomen.
+
+    Sinds de laatste weken ervaar ik pas echt die rust in mezelf, mede door de stilte die ik nog dagelijks opzoek.
+
+    In een van uw bestanden wordt beschreven dat het hart van een mens wel met water wordt vergeleken en dat het zich in een vaste of vloeibare toestand kan bevinden.
+
+    Sinds de laatste weken voel ik het weer stromen en dat voelt heel fijn.
+
+    Ik kan soms uren in de natuur zitten en genieten van die stroming, dat gevoel zelf is gewoon al erg vreugdevol.
+
+    Ik wil u en het team nogmaals bedanken.
+  participant: Jim
 - title: Reiziger wees niet bang
   subtitle: KISS OF SILENCE  |   sept 2022
   text: "Panta rhei ouden menei   \n(Alles stroomt niets is blijvend)   \neen veilige
