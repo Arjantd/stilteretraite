@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Stroming
-  subtitle: K
+  subtitle: KISS OF SILENCE  |   sept 2022
   text: |-
     De retraite is alweer een paar weken geleden en ik wou nog even zeggen dat het me enorm veel gebracht heeft.
 
