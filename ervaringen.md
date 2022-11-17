@@ -3,6 +3,14 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: "123"
+  subtitle: Reiziger wees niet bang
+  text: "Panta rhei ouden menei   \n(Alles stroomt niets is blijvend)   \neen veilige
+    haven waarin je vol overgave   \nkan laten komen wat er komt   \nkan zien wat
+    er is   \nerop vertrouwen   \nen te laten stromen   \n  \nReiziger   \nwees niet
+    bang   \nvolg je hart   \nkus de stilte   \n  \nMet waardering, respect en dankbaarheid
+    \ \nKees"
+  participant: Kees
 - title: Bevrijding en rust
   subtitle: KISS OF SILENCE  |   sept 2022
   text: Elkaar 3 dagen niet aankijken of spreken. Ik dacht dat ik dat niet zou kunnen,
