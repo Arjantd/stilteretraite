@@ -3,6 +3,23 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Als beginner stapte ik er blanco in
+  subtitle: RE-TREAT JE HART   |   2022
+  text: "Ik ben heel blij dat ik de stilte retraite meegemaakt heb, dat ik mezelf
+    dit heb gegund (5 dagen weg van mijn gezin) en dat ik het heb aangedurfd om er
+    helemaal in onder te gaan. Als beginner stapte ik er nieuwsgierig maar ook best
+    wel blanco in, het programma en de begeleiding was voor mij een fijne houvast.
+    Het werd een bijzondere ervaring en ook een proces door de dagen heen. Na een
+    dag of twee sudderen en voor mij ook doorvoelen van pijn en ellende, zakte ik
+    als het ware een laag dieper voor mijn gevoel, viel er iets van me los en ervaarde
+    ik nieuwe inzichten en een gevoel van meer vrij en gelukkig zijn. Alsof ik daar
+    (even) los van de tijd en de wereld veel duidelijker kon zien wat werkelijk belangrijk
+    is en wat niet. Het was een inkijkje in een diepere en prachtige werkelijkheid
+    of dimensie. \n\nIk ken nu beter de waarde en het nut van loslaten, ontspannen
+    en stilte. De kunst voor mij is nu om erbij te blijven of het te vinden naar behoefte
+    in het dagelijkse leven... Ik denk dat ik nog wel eens terugkom bij Robbert. Met
+    dankbaarheid en liefde."
+  participant: 'W. '
 - title: Stroming
   subtitle: KISS OF SILENCE  |   sept 2022
   text: |-
