@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Als beginner stapte ik er blanco in
-  subtitle: RE-TREAT JE HART   |   2022
+  subtitle: RE-TREAT JE HART   |   DEC 2022
   text: "Ik ben heel blij dat ik de stilte retraite meegemaakt heb, dat ik mezelf
     dit heb gegund (5 dagen weg van mijn gezin) en dat ik het heb aangedurfd om er
     helemaal in onder te gaan. Als beginner stapte ik er nieuwsgierig maar ook best
