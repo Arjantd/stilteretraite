@@ -1,6 +1,6 @@
 ---
 location: _locations/locatie-volgt.md
-price: 
+price: 400
 attendees: 33
 category: weekend
 layout: event
@@ -10,14 +10,14 @@ meta:
   description: De Happening is een 48 uur durende snelkookpan, waarin het tegenhouden
     van jouw geluk wordt opgeschud.
   author: Robbert van Bruggen
-title: DE HAPPENING (nieuwe datum volgt)
+title: DE HAPPENING 2023
 image: https://static.stilteretraite.nl/uploads/Event- 7 days.jpg
 lead_text: DE HAPPENING is een 48 uurs snelkookpan waarin het tegenhouden van jouw
   geluk wordt opgeschud; waarin je in de spiegel van je vertrouwde patronen kijkt,
   tot je moe wordt van je eigen verhaaltjes, en je jezelf vervolgens onderdompelt
   in stilte…
-from_date: 2023-04-01T00:00:00.000+02:00
-to_date: 2023-04-01T00:00:00.000+02:00
+from_date: 2023-06-09 14:00:00 +0200
+to_date: 2023-06-11 17:00:00 +0200
 length_of_time: 3 dagen
 
 ---
