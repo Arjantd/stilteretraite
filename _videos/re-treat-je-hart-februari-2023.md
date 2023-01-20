@@ -1,7 +1,7 @@
 ---
 template: video
 link: https://youtu.be/DexkwGLmv24
-thumbnail: https://static.stilteretraite.nl/uploads/Re-treat je Hart februari 2023.jpeg
+thumbnail: https://static.stilteretraite.nl/uploads/Re-treat je Hart februari 2023.jpg
 caption: Re-treat je Hart februari 2023
 
 ---
