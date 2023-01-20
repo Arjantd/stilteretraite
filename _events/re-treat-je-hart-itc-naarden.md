@@ -11,12 +11,12 @@ meta:
     wordt afgewisseld met individuele afzondering, oefeningen en meditaties."
   author: Robbert van Bruggen
 title: Re-treat je hart! ITC Naarden
-image: https://static.stilteretraite.nl/uploads/Devi-Tara-and-Buddha-768x512.jpg
+image: https://static.stilteretraite.nl/uploads/Re-treat je Hart februari 2023.jpeg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede of derde keer) op geleide van een gestructureerd
   dagprogramma overgeven aan de Stilte.
-from_date: 2023-02-08 16:00:00 +0100
-to_date: 2022-10-12 15:00:00 +0200
+from_date: 2023-02-08T16:00:00.000+01:00
+to_date: 2022-10-12T15:00:00.000+02:00
 length_of_time: 5 dagen
 
 ---
