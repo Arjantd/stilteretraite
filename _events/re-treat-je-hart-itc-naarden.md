@@ -41,5 +41,5 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 * Locatie: De Crystal Hall & het Crystal House van het International Theosophical Center in Naarden
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
-* Telefonisch: 06-24678735 tussen 20.00-20.30
+* Telefonisch: 06-24678735 tussen 20.00-20.30 uur
 * Kosten: € 725
