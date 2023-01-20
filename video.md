@@ -7,6 +7,7 @@ textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte fi
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
 image: https://static.stilteretraite.nl/uploads/shutterstock_1115950973.jpg
 videos:
+- _videos/re-treat-je-hart-februari-2023.md
 - _videos/RETREAT JE HART 7 DEC.md
 - _videos/Kiss-of-Silence.md
 - _videos/wat-is-een-retraite.md
