@@ -5,9 +5,11 @@ attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
-  description: ''
+  title: Stilte retraite december 2023
+  keywords: stilte, retraite, natuur, zelfontwikkeling, inzicht
+  description: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien
+    wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
+    Stilte is de essentie….
   author: ''
 title: Re-treat je hart! Erve Veldink
 image: https://static.stilteretraite.nl/uploads/01.jpg
