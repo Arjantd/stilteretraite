@@ -14,8 +14,7 @@ image: https://static.stilteretraite.nl/uploads/Naarden.jpg
 lead_text: ''
 from_date: 2023-11-24 15:00:00 +0100
 to_date: 2023-02-26 15:00:00 +0100
-length_of_time: ''
-published: false
+length_of_time: 3 dagen
 
 ---
 Kiss of Silence (weekend), ITC Naarden
@@ -30,7 +29,7 @@ Elke stilte-meditatie of retraite is dus een gelegenheid om de Blessing van een 
 
 **Durf je?**
 
-· Van vrijdagmiddag 24 november 2023 13.00 uur tot zondagmiddag 26 november 16.00 uur,
+· Van vrijdagmiddag 24 november 13.00 uur tot zondagmiddag 26 november 16.00 uur,
 
 · Locatie: Crystal Hall van het International Theosophical Center in Naarden,
 
