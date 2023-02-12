@@ -11,7 +11,8 @@ meta:
   author: ''
 title: Kiss of Silence (weekend), ITC Naarden
 image: https://static.stilteretraite.nl/uploads/Naarden.jpg
-lead_text: ''
+lead_text: 'Voor diegenen die pootje willen baden in het ultieme ''thuiskomen'' dat
+  stilte retraite is. '
 from_date: 2023-11-24 15:00:00 +0100
 to_date: 2023-02-26 15:00:00 +0100
 length_of_time: 3 dagen
