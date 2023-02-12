@@ -5,10 +5,12 @@ attendees: 12
 category: weekend
 layout: event
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: weekend retraite november 2023
+  keywords: 'Naarden, retraite, natuur, stilte, mei 2022 '
+  description: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien
+    wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
+    Stilte is de essentie….
+  author: Robbert van Bruggen
 title: Kiss of Silence (weekend), ITC Naarden
 image: https://static.stilteretraite.nl/uploads/Naarden.jpg
 lead_text: 'Voor diegenen die pootje willen baden in het ultieme ''thuiskomen'' dat
