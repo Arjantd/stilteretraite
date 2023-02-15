@@ -3,6 +3,26 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Terug naar de fabrieksinstellingen.
+  subtitle: RE-TREAT JE HART   |   2023
+  text: "Voor mij was dit mijn eerste retraite en ik wist niet goed wat ik moest verwachten.
+    Een paar maanden terug heb ik mijn prima baan opgezegd om op zoek te gaan naar
+    mijn passie en naar mezelf. Ik plaats van te genieten van de ruimte voelde ik
+    alleen maar onrust en een soort paniek. De wereld ligt aan mijn voeten, maar dan?
+    Waar wil ik naartoe? Wie ben ik eigenlijk en wat vind ik nou eigenlijk echt leuk?
+    Hoe lang sta ik mezelf toe deze soul search te laten duren? De hypotheek moet
+    tenslotte toch betaald worden…. Ik was vooral heel veel aan het denken, maar voelde
+    niks en kwam geen steek verder. Het moest rigoureuzer.   \nEen stilte retraite:
+    doodeng, want ik praat normaal vrij veel. Wat gaat dit met mij doen? Maar goed,
+    ik heb mij erin gestort. En ik moet zeggen, het was ook echt een achtbaan. De
+    stilte, en alle opdrachten, doen veel. Eerst vooral heel veel onrust (nog meer
+    dan er al was). Wat doe ik hier! Mijn gedachten schoten alle kanten op. Maar toch
+    gaandeweg kon ik beter ontspannen en begonnen er wat puzzelstukjes op zijn plek
+    te vallen. En na de retraite? Het voelt alsof ik gereset ben. Terug naar de fabrieksinstellingen.
+    Minder moeten, minder nadenken en het maar gewoon laten gebeuren. Ik zie het wel.
+    Het komt goed….of eigenlijk, het is al goed. En nogmaals, dankjewel voor de bijzondere
+    ervaring Robbert. Ik vond het echt cadeautje voor mijn hart\U0001F60A"
+  participant: AvdE
 - title: Als beginner stapte ik er blanco in
   subtitle: RE-TREAT JE HART   |   DEC 2022
   text: "Ik ben heel blij dat ik de stilte retraite meegemaakt heb, dat ik mezelf
