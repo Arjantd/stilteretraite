@@ -12,7 +12,7 @@ testimonials:
     Waar wil ik naartoe? Wie ben ik eigenlijk en wat vind ik nou eigenlijk echt leuk?
     Hoe lang sta ik mezelf toe deze soul search te laten duren? De hypotheek moet
     tenslotte toch betaald worden…. Ik was vooral heel veel aan het denken, maar voelde
-    niks en kwam geen steek verder. Het moest rigoureuzer.   \nEen stilte retraite:
+    niks en kwam geen steek verder. Het moest rigoureuzer.  \nEen stilte retraite:
     doodeng, want ik praat normaal vrij veel. Wat gaat dit met mij doen? Maar goed,
     ik heb mij erin gestort. En ik moet zeggen, het was ook echt een achtbaan. De
     stilte, en alle opdrachten, doen veel. Eerst vooral heel veel onrust (nog meer
@@ -20,8 +20,8 @@ testimonials:
     gaandeweg kon ik beter ontspannen en begonnen er wat puzzelstukjes op zijn plek
     te vallen. En na de retraite? Het voelt alsof ik gereset ben. Terug naar de fabrieksinstellingen.
     Minder moeten, minder nadenken en het maar gewoon laten gebeuren. Ik zie het wel.
-    Het komt goed….of eigenlijk, het is al goed. En nogmaals, dankjewel voor de bijzondere
-    ervaring Robbert. Ik vond het echt cadeautje voor mijn hart\U0001F60A"
+    Het komt goed….of eigenlijk, het is al goed.   \nEn nogmaals, dankjewel voor de
+    bijzondere ervaring Robbert. Ik vond het echt cadeautje voor mijn hart\U0001F60A"
   participant: AvdE
 - title: Als beginner stapte ik er blanco in
   subtitle: RE-TREAT JE HART   |   DEC 2022
