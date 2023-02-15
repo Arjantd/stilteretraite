@@ -4,7 +4,7 @@ title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
 - title: Terug naar de fabrieksinstellingen.
-  subtitle: RE-TREAT JE HART   |   2023
+  subtitle: RE-TREAT JE HART   |   FEB 2023
   text: "Voor mij was dit mijn eerste retraite en ik wist niet goed wat ik moest verwachten.
     Een paar maanden terug heb ik mijn prima baan opgezegd om op zoek te gaan naar
     mijn passie en naar mezelf. Ik plaats van te genieten van de ruimte voelde ik
