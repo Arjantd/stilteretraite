@@ -4,7 +4,6 @@ title: Locaties
 members: []
 locations:
 - _locations/erve-veldink.md
-- _locations/hoeve-wetermans.md
 - _locations/internationaal-theosofisch-centrum-naarden.md
 - _locations/besloten-veluws-landgoed.md
 - _locations/emmausklooster-in-velp.md
