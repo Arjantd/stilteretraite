@@ -20,7 +20,6 @@ lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers z
 from_date: 2023-08-30 16:00:00 +0200
 to_date: 2023-09-03 16:00:00 +0200
 length_of_time: 5 dagen
-published: false
 
 ---
 De Re-treat je Hart van 30 augustus tot 3 september 2023 wordt gehouden op het bijzondere 15 ha. grote bosrijke landgoed van het International Theosophic Centre net buiten het vestingstadje Naarden. Ben je benieuwd naar de welkomstbrief met alle praktische informatie? Neem dan gerust[ contact](https://www.stilteretraite.nl/contact/ "contact") met ons op.
