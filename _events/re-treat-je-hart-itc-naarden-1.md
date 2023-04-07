@@ -1,14 +1,17 @@
 ---
 location: _locations/internationaal-theosofisch-centrum-naarden.md
-price: 0
+price: 725
 attendees: 12
 category: 5-days
 layout: event
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Stilte-retraite augustus september 2023
+  keywords: 'Naarden, retraite, stilteretraite, ontwikkeling, natuur, stilte, augustus
+    september 2023 '
+  description: Stilte trekt. Stilte ontdoet. Stilte geeft ruimte aan dat wat gezien
+    wil worden. Stilte is de weg naar binnen. In Stilte leeft, beweegt en sterft alles.
+    Stilte is de essentie….
+  author: Robbert van Bruggen
 title: Re-treat je hart! ITC Naarden
 image: https://static.stilteretraite.nl/uploads/ICT Naarden 7.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
