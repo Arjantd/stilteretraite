@@ -40,7 +40,7 @@ Blijf je liever in veiligheid hangen en denk je ‘morgen kan het ook’? Dan is
 **Praktische info:**
 
 * De Happening is verplaatst naar voorjaar 2023
-* Je slaapt op een unieke locatie in Angeren in een prachtige Mongoolse Yurt met 3 anderen. Wil je liever alleen slapen? Er is voor 5 personen plek in je eigen meegenomen tentje. Laat je voorkeur weten.
+* Je slaapt op een unieke locatie in Braamt in een luxe safaritent. 
 * De Happening vindt plaats in stilte, die zal worden ingeleid na de avondmaaltijd op vrijdag.
 * Elke deelnemer zullen we vooraf 15 minuten spreken. We willen van jou een antwoord op de vraag: ‘Wat moeten wij echt van jou weten?’
 * Telefoons zijn niet toegestaan. Voor noodgevallen zijn wij voor iedereen uiteraard gewoon bereikbaar.
