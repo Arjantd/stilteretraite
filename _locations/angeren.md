@@ -8,7 +8,7 @@ meta:
   keywords: ''
   description: ''
   author: ''
-title: Angeren
+title: Braamt
 image: https://static.stilteretraite.nl/uploads/yurt.jpg
 location: Angeren
 description: volgt
