@@ -111,9 +111,3 @@ Voor belangrijke vragen aan de organisatie komt er een pot waar je een briefje i
 Alleen voor dringende vragen kun je mailen naar dehappening@hotmail.com 
 
 Vul de contactgegevens in als jij je wil aanmelden. Georganiseerd door Robbert van Bruggen van stilteretraite.nl en Madeleine van Mourik van bindu.nl
-
-![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.52.jpeg)
-
-![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.38.jpeg)
-
-![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.31.jpeg)
