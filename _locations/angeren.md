@@ -9,8 +9,8 @@ meta:
   description: ''
   author: ''
 title: Braamt
-image: https://static.stilteretraite.nl/uploads/yurt.jpg
-location: Angeren
+image: https://static.stilteretraite.nl/uploads/markant-1.jpg
+location: Braamt
 description: volgt
 gallery: []
 
