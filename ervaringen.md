@@ -3,6 +3,29 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Nu ik terugkijk, zie ik het retraite als een van de mooiste en meest bijzondere
+    ervaringen in mijn leven.
+  subtitle: RE-TREAT JE HART   |   2022
+  text: "Terug naar een half jaar geleden. Er wringt iets. Het gaat niet goed met
+    mij. Ik zit niet lekker in m'n vel. Wat moet ik doen om me beter te voelen? Ik
+    heb geen idee. Het zal de leeftijd wel zijn, ik voldoe aan alle criteria van de
+    midlife. En ik ontkom niet aan het cliché: ik zit in een crisis. \n\nTijdens mijn
+    zoektocht komt het adres van stilteretraite.nl voorbij, een tip die me jaren geleden
+    door een kennis is gegeven. Ik bekijk de video's van Robbert. Ja, hoe hij het
+    uitlegt, dat spreekt me wel aan. Maar het is ook wel eng en spannend. Wie weet
+    wat er allemaal naar boven komt? Er is geen afleiding die dagen. Geen telefoon,
+    geen boek om in te vluchten, er is geen ontsnappen aan. Hoe ga ik daarmee dealen?
+    Maar toch zet ik de stap. Ik meld me aan. \n\nDe 5 dagen in retraite zijn magisch.
+    Ik raak in een stilte bubbel en maak kennis met nieuwe ervaringen in mij. En ik
+    worstel en twijfel. In zijn sessies reikt Robbert puzzelstukjes aan. En dan op
+    een dag... valt alles op z'n plek. Ja, dit is het! Ik had geen idee. Maar hier
+    was ik naar op zoek. Ik heb het gevonden! Gevoelens van dankbaarheid en geluk
+    overspoelen me. Alles is volmaakt. \n\nNu ik terugkijk, zie ik het retraite als
+    een van de mooiste en meest bijzondere ervaringen in mijn leven. Dankjewel Robbert
+    voor je deskundige begeleiding en het delen van jouw wijsheid. En jij, lezer van
+    mijn verhaal: Doe het. Geef je over. Ga er vol voor. En dan komen de zo gewenste
+    ingevingen. Leef!"
+  participant: Angelique
 - title: Terug naar de fabrieksinstellingen.
   subtitle: RE-TREAT JE HART   |   FEB 2023
   text: "Voor mij was dit mijn eerste retraite en ik wist niet goed wat ik moest verwachten.
