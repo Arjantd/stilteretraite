@@ -3,8 +3,7 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
-- title: Nu ik terugkijk, zie ik het retraite als een van de mooiste en meest bijzondere
-    ervaringen in mijn leven.
+- title: En dan op een dag... valt alles op z'n plek.
   subtitle: RE-TREAT JE HART   |   2022
   text: "Terug naar een half jaar geleden. Er wringt iets. Het gaat niet goed met
     mij. Ik zit niet lekker in m'n vel. Wat moet ik doen om me beter te voelen? Ik
