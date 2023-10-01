@@ -112,6 +112,7 @@ fields:
     options:
     - 1-day
     - weekend
+    - 4-days
     - 5-days
     - 7-days
     - 10-days
@@ -131,3 +132,5 @@ fields:
 pages:
 - _events/kiss-of-silence-weekend-itc-naarden.md
 - _events/re-treat-je-hart-erve-veldink-1.md
+- _events/re-treat-je-hart-itc-naarden-2.md
+- _events/paasretraite.md
