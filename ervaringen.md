@@ -3,6 +3,72 @@ layout: testimonials
 title: Ervaringen
 image: https://static.stilteretraite.nl/uploads/banner A.jpg
 testimonials:
+- title: Niemand die iets van jou verwacht
+  subtitle: RE-TREAT JE HART | 2023
+  text: "Als je een stilteretraite wil boeken om te kijken of je vijf dagen stil kan zijn
+   en dat je grootste overwinning zal zijn, dan moet ik je teleurstellen. Waar niemand
+   had verwacht dat ik dat zou kunnen, het was een eitje en een hele fijne ervaring.
+   Niemand die iets van jou verwacht waardoor je daadwerkelijk met jezelf bezig bent.
+   Geen verwachtingen over dat je een gesprek moet voeren met je tafelgenoot of dat je
+   gaat nadenken over je verhaaltje zodat je het beste uit de verf komt. Het meest
+   bijzondere vond ik toch de verbinding die ik na vijf dagen voelde met de
+   mededeelnemers en dat ik mij veilig heb gevoeld. Mooi hoe het programma met de
+   oefeningen en de meditaties maar ook de taken hebben bijgedragen aan inzicht in mijn
+   dagelijkse ineffectieve patronen."
+  participant: M.
+- title: Getwijfeld om mij direct weer voor december aan te melden
+  subtitle: RE-TREAT JE HART | 2023
+  text: "Afijn, de stilte retraite. Ik vond het heerlijk, niet hoeven praten, ik had niet
+  gedacht dat ik het zo fijn zou vinden en dat het mij zo makkelijk af zou gaan. Ik wandel
+  graag, maar vaak luister ik dan wel naar muziek of een podcast en daar had ik in Naarden
+  helemaal geen behoefte aan (al babbel ik dan wel wat in mijzelf). Door de stilte zie je
+  meer, hoor je meer, kon ik intens genieten van het eten. Door de stilte kwam de muziek
+  ook veel meer ‘binnen’. Het was ook fijn om geen oogcontact te maken en ook niets te
+  hoeven doen met andermans emoties. En hoe nu verder, ik blijf elke avond mediteren en ik
+  blijf ook rondkijken naar stilte-retraites. Ik heb getwijfeld om mij direct weer voor
+  december aan te melden. Het was een fantastisch ervaring."
+  participant: Deelnemer
+- title: Als je meer vanuit het hart wilt leven
+  subtitle: RE-TREAT JE HART | 2023
+  text: "De week was een enorm cadeau. &quot;Life is a mystery to be lived and not a
+    problem to be solved.&quot; Prachtige quote die ik nog steeds voel en bij mij draag.
+    Het helpt mij om niet teveel vast te willen houden, dankbaar te zijn voor de ervaringen
+    die op mijn pad komen. Zo ook de stilte dagen… Een wonderbaarlijke ervaring om mijzelf
+    zo in liefde te kunnen omarmen. Zo dankbaar voor het innerlijke kind wat ik zo in
+    puurheid en verwondering heb kunnen ervaren.
+    
+    Het was soms hard werken, maar elke keer werd ik weer geleid naar datgene wat erachter
+    ligt, wat dan weer zo’n cadeau was. Het heeft mij een innerlijk besluit opgeleverd om
+    mijzelf elke keer weer welkom te heten, als ik mijzelf weer even vergeet mee te nemen.
+    Heel fijn om dat zo in zachtheid te ervaren. De stilte dagen zijn echt een retraite
+    voor het hart! De hartmeditatie doe ik heel regelmatig, wat mij elke keer weer helpt
+    liefdevol in mijzelf te zakken. Als je meer vanuit het hart wilt leven, meer
+    zelfcompassie wilt ontwikkelen, dan is deze retraite echt een cadeau! Je komt van
+    alles tegen, wat je tegenhoudt om je hart te openen EN je wordt geleid om erdoor
+    heen te gaan, waardoor het zich weer kan openen."
+  participant: Deelnemer
+- title: Heel bijzonder, heel vrij, heel helend
+  subtitle: RE-TREAT JE HART | 2023
+  text: "Het mooie is dat de stilte retraite nog lang heeft doorgewerkt voor mij. Ik heb
+    op een diepe laag ervaren hoe enorm groot ik ben en hoe verbonden die ruimte is met
+    alles. Alles vindt plaats in mij. Ik heb gezien hoe alles zijn plek heeft en kan
+    bestaan, hoe pijnlijk soms ook. Er is pijn en verdriet maar ook blijdschap zonder
+    verhaal. Zolang ik de enorme ruimte ervaar is er geen lijden omdat de identificatie
+    ermee achterwege blijft. Het zijn allemaal bewegingen in het grote geheel dat alles
+    kan dragen. Heel bijzonder, heel vrij, heel helend. Echt een cadeau."
+  participant: C. (vrouw)
+- title: Ontroerd en dankbaar
+  subtitle: RE-TREAT JE HART | 2023
+  text: "De stilte dagen werken door, elke dag start ik de dag met 20 min stil zitten en
+    regelmatig doe ik de hartmeditatie, waar ik super dankbaar voor ben. Ik vind het heel
+    fijn dat ik de ervaringen in mijn systeem heb, zodat ik ze weer terug kan vinden.
+    Daarnaast blij met de input die gegeven is, die ik zelfs nog kan naluisteren (wat een
+    luxe!), waardoor ik het gevoel heb dat ik genoeg ‘gereedschap’ heb om het te blijven
+    beoefenen. En beoefenen is voor mij dan elke keer weer mijn hart openen voor mijzelf
+    en van daaruit de wereld ingaan. Ik ben daar echt heel ontroerd en dankbaar voor, dat
+    ik dit zo heb mogen ervaren. Het was op mijn lijf geschreven de retraite, elke beweging
+    die in mij tot stand kwam werd ondersteund en gevoed door het programma."
+  participant: Deelnemer
 - title: En dan op een dag... valt alles op z'n plek.
   subtitle: RE-TREAT JE HART   |   2022
   text: "Terug naar een half jaar geleden. Er wringt iets. Het gaat niet goed met
