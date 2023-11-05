@@ -4,6 +4,17 @@ backend:
 media_folder: "uploads"
 public_folder: "uploads"
 collections:
+  - name: "persons"
+    label: "Persons"
+    folder: "_people"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Sub heading", name: "sub_heading", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Thumbnail (Square image, Max 500 pixels)", name: "thumbnail", widget: "image"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Link to details", name: "link_to_details", widget: "boolean"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "member"}
   - name: "posts"
     label: "Posts"
     folder: "_posts"
@@ -11,3 +22,21 @@ collections:
     slug: "/posts/{{slug}}/"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Lead text", name: "lead_text", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Banner image (Ideal dimensions 2500px by 1200px)", name: "banner_image", widget: "image"}
+      - label: Author
+        name: author
+        widget: relation
+        collection: authors
+        searchFields: [title]
+        valueField: title
+      - {label: "Categories", name: "categories", widget: "list"}
+      - label: Related posts
+        name: related_posts
+        widget: relation
+        collection: posts
+        searchFields: [title, date]
+        valueField: title
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
