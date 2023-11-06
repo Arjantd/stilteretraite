@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: netlify
 media_folder: "uploads"
 public_folder: "uploads"
 collections:
@@ -19,7 +19,7 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
-    slug: "/posts/{{slug}}/"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
@@ -30,13 +30,14 @@ collections:
         name: author
         widget: relation
         collection: authors
-        searchFields: [title]
-        valueField: title
+        search_fields: [title]
+        value_field: title
       - {label: "Categories", name: "categories", widget: "list"}
       - label: Related posts
         name: related_posts
         widget: relation
         collection: posts
-        searchFields: [title, date]
-        valueField: title
+        search_fields: [title, date]
+        value_field: title
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}

@@ -20,31 +20,31 @@ meta:
 ---
 Zomer 2016
 
-# Ya Sami - Hoor!
+  # Ya Sami - Hoor!
 
-Hoor je hoe de wind knuffelt met de bomen
+  Hoor je hoe de wind knuffelt met de bomen
 
-hoe de sterren zachtjes dromen
+  hoe de sterren zachtjes dromen
 
-hoe de bomen ademen en zuchten
+  hoe de bomen ademen en zuchten
 
-de hagedisjes ritselend vluchten
+  de hagedisjes ritselend vluchten
 
-hoe de vogels kletsen met de opkomende maan
+  hoe de vogels kletsen met de opkomende maan
 
-de kevers door de boomstam gaan
+  de kevers door de boomstam gaan
 
-De golven die ontstaan door vleugelslagen
+  De golven die ontstaan door vleugelslagen
 
-Houtwormen die het hout doorzagen
+  Houtwormen die het hout doorzagen
 
-Druppels die kletsen tijdens het vallen
+  Druppels die kletsen tijdens het vallen
 
-de explosie als ze op de rotsen knallen
+  de explosie als ze op de rotsen knallen
 
-en de boodschap dien het ritme van het pulseren
+  en de boodschap dien het ritme van het pulseren
 
-ons het geheim van het leven wil leren….  
-.
+  ons het geheim van het leven wil leren….  
+  .
 
-###### **Lenny Leppers, Hannover**
+  ###### **Lenny Leppers, Hannover**
