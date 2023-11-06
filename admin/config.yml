@@ -14,6 +14,7 @@ collections:
       - {label: "Thumbnail (Square image, Max 500 pixels)", name: "thumbnail", widget: "image"}
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Link to details", name: "link_to_details", widget: "boolean"}
+      - {label: "Hidden", name: "hidden", widget: "boolean"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "member"}
   - name: "posts"
     label: "Posts"
@@ -22,14 +23,15 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Lead text", name: "lead_text", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Banner image (Ideal dimensions 2500px by 1200px)", name: "banner_image", widget: "image"}
+      - {label: "Lead text", name: "lead_text", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - label: Author
         name: author
         widget: relation
-        collection: authors
+        collection: persons
         search_fields: [title]
         value_field: title
       - {label: "Categories", name: "categories", widget: "list"}
@@ -39,5 +41,5 @@ collections:
         collection: posts
         search_fields: [title, date]
         value_field: title
-      - {label: "Body", name: "body", widget: "markdown"}
+        multiple: true
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
