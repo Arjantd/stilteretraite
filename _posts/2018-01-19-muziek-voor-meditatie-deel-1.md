@@ -8,7 +8,7 @@ lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en
 date: 2019-08-14 01:00:00 +0200
 tags:
   - Muziek
-author: Arjan ten Dam
+author: _people/arjan-ten-dam.md
 related_posts: []
 layout: post
 ---
