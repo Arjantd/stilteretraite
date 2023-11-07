@@ -1,16 +1,16 @@
 ---
+sub_heading: ""
 title: Muziek voor meditatie | deel 1
-layout: post
-date: 2019-08-14 01:00:00 +0200
-sub_heading: ''
-tags:
-- Muziek
-related_posts: []
 banner_image: https://static.stilteretraite.nl/uploads/headphines.jpeg.jpg
-author: _people/arjan-ten-dam.md
-lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en is
-  daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ....
-
+lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en
+  is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en
+  ....
+date: 2019-08-14 01:00:00 +0200
+tags:
+  - Muziek
+author: Arjan ten Dam
+related_posts: []
+layout: post
 ---
 > Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of voorafgaand aan een meditatiesessie.
 
