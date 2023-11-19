@@ -22,19 +22,28 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
+      - label: Meta
+        name: meta
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Author", name: "author", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Banner image (Ideal dimensions 2500px by 1200px)", name: "banner_image", widget: "image"}
       - {label: "Lead text", name: "lead_text", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - label: Author
         name: author
         widget: relation
         collection: persons
         search_fields: [title]
-        value_field: title
-      - {label: "Categories", name: "categories", widget: "list"}
+        value_field: "_people/{{slug}}.md"
+        display_fields: ["title"]
+      - {label: "Categories", name: "categories", widget: "list", required: false}
       - label: Related posts
         name: related_posts
         widget: relation
@@ -42,4 +51,5 @@ collections:
         search_fields: [title, date]
         value_field: title
         multiple: true
+        required: false
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
