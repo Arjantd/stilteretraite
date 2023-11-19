@@ -8,6 +8,15 @@ collections:
     label: "Persons"
     folder: "_people"
     fields:
+      - label: Meta
+        name: meta
+        widget: object
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Author", name: "author", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Sub heading", name: "sub_heading", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
@@ -54,3 +63,53 @@ collections:
         multiple: true
         required: false
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+  - name: "locations"
+    label: "Locations"
+    folder: "_locations"
+    fields:
+      - label: Meta
+        name: meta
+        widget: object
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Author", name: "author", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Gallery", name: "gallery", widget: "image", media_library: {config: {multiple: true}}}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "location"}
+      - {label: "Style", name: "style", widget: "hidden", default: "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css\" />"}
+      - {label: "Script", name: "script", widget: "hidden", default: "<script src=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js\"></script>"}
+  - name: "events"
+    label: "Events"
+    folder: "_events"
+    fields:
+      - label: Meta
+        name: meta
+        widget: object
+        collapsed: true
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Keywords", name: "keywords", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Author", name: "author", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Lead text", name: "lead_text", widget: "markdown"}
+      - label: Location
+        name: location
+        widget: relation
+        collection: locations
+        search_fields: [title]
+        value_field: "_locations/{{slug}}.md"
+        display_fields: ["title"]
+      - {label: "From date", name: "from_date", widget: "date"}
+      - {label: "To date", name: "to_date", widget: "date"}
+      - {label: "Length of time", name: "length_of_time", widget: "number", value_type: "int", default: 0}
+      - {label: "Attendees", name: "attendees", widget: "number", value_type: "int", default: 1, min: 1, step: 1}
+      - {label: "Category", name: "category", widget: "select", options: [{label: "1 day", value: "1-day"}, {label: "Weekend", value: "weekend"}, {label: "4 days", value: "4-days"}, {label: "5 days", value: "5-days"}, {label: "7 day", value: "7-days"}, {label: "10 days", value: "10-days"}]}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
