@@ -24,6 +24,7 @@ collections:
     fields:
       - label: Meta
         name: meta
+        widget: object
         collapsed: true
         fields:
           - {label: "Title", name: "title", widget: "string"}
