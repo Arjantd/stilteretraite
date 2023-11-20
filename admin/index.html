@@ -10,14 +10,21 @@
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0/dist/netlify-cms.js"></script>
   <script type="module">
+    import { personRender } from './js/renders/person.js'
     import { postRender } from './js/renders/post.js'
 
+    CMS.registerPreviewStyle("/admin/css/person.css");
     CMS.registerPreviewStyle("/admin/css/post.css");
 
     var PostPreview = createClass({
       render: postRender
     });
     CMS.registerPreviewTemplate("posts", PostPreview);
-    </script>
+
+    var PersonPreview = createClass({
+      render: personRender
+    });
+    CMS.registerPreviewTemplate("persons", PersonPreview);
+  </script>
 </body>
 </html>
