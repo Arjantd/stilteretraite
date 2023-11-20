@@ -12,9 +12,11 @@
   <script type="module">
     import { personRender } from './js/renders/person.js'
     import { postRender } from './js/renders/post.js'
+    import { locationRender } from './js/renders/location.js'
 
     CMS.registerPreviewStyle("/admin/css/person.css");
     CMS.registerPreviewStyle("/admin/css/post.css");
+    CMS.registerPreviewStyle("/admin/css/location.css");
 
     var PostPreview = createClass({
       render: postRender
@@ -25,6 +27,11 @@
       render: personRender
     });
     CMS.registerPreviewTemplate("persons", PersonPreview);
-  </script>
+
+    var LocationPreview = createClass({
+      render: locationRender
+    });
+    CMS.registerPreviewTemplate("locations", LocationPreview);
+</script>
 </body>
 </html>
