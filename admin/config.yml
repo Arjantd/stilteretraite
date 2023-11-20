@@ -20,6 +20,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Sub heading", name: "sub_heading", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Thumbnail (Square image, Max 500 pixels)", name: "thumbnail", widget: "image"}
       - {label: "Email", name: "email", widget: "string"}
       - {label: "Link to details", name: "link_to_details", widget: "boolean"}

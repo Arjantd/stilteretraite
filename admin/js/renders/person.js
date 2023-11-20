@@ -6,6 +6,6 @@ export function personRender() {
     return h('div', {className: 'container'},
       h('h3', {}, entry.getIn(['data', 'title'])),
       h('img', {src: asset_thumbnail.toString(), width: 750, height: 500}),
-      h('div', {}, this.props.widgetFor('body'))
+      this.props.widgetFor('body')
     )
   }
