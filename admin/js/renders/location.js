@@ -11,10 +11,11 @@ export function locationRender() {
                 h('div', {className: 'spacer-20'}),
                 this.props.widgetFor('body'),
                 h('div', {className: 'spacer-20'}),
-                h('div', {className: 'row gallery-items-nocaption'}),
-                this.props.widgetsFor('gallery').map((gallery_item, index) => 
-                    h('div', {key: index, className: 'col-md-4 col-sm-6 col-xs-6 gallery-grid-item'},
-                        h('a', {href: gallery_item})
+                h('div', {className: 'row gallery-items-nocaption'},
+                    this.props.widgetsFor('gallery').map((gallery_item, index) => 
+                        h('div', {key: index, className: 'col-md-4 col-sm-6 col-xs-6 gallery-grid-item'},
+                            h('img', {src: gallery_item.get('data').toString(), width: 358, height: 239})
+                        )
                     )
                 )
             )

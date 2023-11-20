@@ -81,6 +81,7 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Location", name: "location", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Gallery", name: "gallery", widget: "image", media_library: {config: {multiple: true}}}
       - {label: "Layout", name: "layout", widget: "hidden", default: "location"}
       - {label: "Style", name: "style", widget: "hidden", default: "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css\" />"}
