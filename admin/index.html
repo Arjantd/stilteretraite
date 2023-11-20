@@ -9,8 +9,8 @@
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0/dist/netlify-cms.js"></script>
-  <script>
-    import postRender from './js/renders/post.js'
+  <script type="module">
+    import { postRender } from './js/renders/post.js'
 
     CMS.registerPreviewStyle("/admin/css/post.css");
 

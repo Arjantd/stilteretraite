@@ -1,4 +1,4 @@
-export default function() {
+export function postRender() {
     var entry = this.props.entry;
     var banner_image = entry.getIn(['data', 'banner_image']);
     var asset_banner_image = this.props.getAsset(banner_image);
