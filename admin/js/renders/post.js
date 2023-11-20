@@ -1,3 +1,5 @@
+import { resizedImageUrl } from '../image.js'
+
 export function postRender() {
     var entry = this.props.entry;
     var banner_image = entry.getIn(['data', 'banner_image']);
@@ -11,7 +13,7 @@ export function postRender() {
         h('div', {className: 'col-md-8 content-block'},
           h('h1', {}, entry.getIn(['data', 'title'])),
           h('div', {className: 'post-media'},
-            h('img', {src: asset_banner_image.toString(), width: 750, height: 500}),
+            h('img', {src: resizedImageUrl(asset_banner_image.toString(), '750x500'), width: 750, height: 500}),
             h('div', {className: 'post-content'},
               widgetBody
             ),
