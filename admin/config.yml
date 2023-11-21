@@ -7,6 +7,7 @@ collections:
   - name: "persons"
     label: "Persons"
     folder: "_people"
+    create: true
     fields:
       - label: Meta
         name: meta
@@ -67,6 +68,7 @@ collections:
   - name: "locations"
     label: "Locations"
     folder: "_locations"
+    create: true
     fields:
       - label: Meta
         name: meta
@@ -89,6 +91,7 @@ collections:
   - name: "events"
     label: "Events"
     folder: "_events"
+    create: true
     fields:
       - label: Meta
         name: meta
