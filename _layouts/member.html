@@ -7,7 +7,7 @@ layout: page
 
 <div class="container">
 	<h3>{{ page.title }}</h3>
-	<img data-src="{{ page.thumbnail | resized_image_url: "750x500" }}" width="750" height="500" alt="{{ post.title }}" class="lazy">
+	<img data-src="/.netlify/images?url=/{{ page.thumbnail }}&fit=cover&w=750&h=500'" width="750" height="500" alt="{{ post.title }}" class="lazy">
 	<div class="spacer-20"></div>
 	{{ page.content }}
 </div>
