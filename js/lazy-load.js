@@ -33,14 +33,14 @@
       }
     ;
 
-    let applyWebP = (src) => src;
-    Modernizr.on('webp', function(result) {
-      if (result) {
-        $('li.parallax').each((_, li) => {
-          li.style.backgroundImage = li.style.backgroundImage.replace('.jpg', '.webp');
-        });
-      }
-    });
+    // let applyWebP = (src) => src;
+    // Modernizr.on('webp', function(result) {
+    //   if (result) {
+    //     $('li.parallax').each((_, li) => {
+    //       li.style.backgroundImage = li.style.backgroundImage.replace('.jpg', '.webp');
+    //     });
+    //   }
+    // });
 
     function loadImage (el, fn) {
     var img = new Image()
