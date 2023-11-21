@@ -5,7 +5,7 @@
     <li class="col-md-4 col-sm-6 grid-item event-grid-item {{event.category}} format-standard">
         <div class="grid-item-inner">
             <a href="{{ event.url | absolute_url }}" class="media-box">
-                <img data-src="{{ event.image | resized_image_url: "358x239" }}" width="358" height="239" alt="" class="lazy">
+                <img data-src="{{ event.image | resized_image_url: 358, 239 }}" width="358" height="239" alt="" class="lazy">
             </a>
             <div class="grid-item-content">
                 {% assign from_month = event.from_date | date: "%-m" | minus: 1 %}

@@ -2,7 +2,7 @@
     {% for include_video in include.videos %}
     {% assign video = site.videos | where:"path", include_video | first %}
     <li class="col-md-6 col-sm-12 col-xs-12 grid-item gallery-grid-item videos format-video">
-        <a href="{{ video.link }}" class="media-box magnific-video"> <img data-src="{{ video.thumbnail | resized_image_url: "555x370" }}" width="555" height="370" alt="" class="lazy"></a>
+        <a href="{{ video.link }}" class="media-box magnific-video"> <img data-src="{{ video.thumbnail | resized_image_url: 555, 370 }}" width="555" height="370" alt="" class="lazy"></a>
         <div class="grid-item-content">
             <p>{{ video.caption }}</p>
         </div>

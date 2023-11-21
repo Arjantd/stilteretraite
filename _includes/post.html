@@ -1,5 +1,5 @@
 <div class="post-media">
-    <img data-src="{{ include.banner_image | resized_image_url: "750x500" }}" width="750" height="500" alt="{{ include.title }}" class="lazy">
+    <img data-src="{{ include.banner_image | resized_image_url: 750, 500 }}" width="750" height="500" alt="{{ include.title }}" class="lazy">
     <div class="post-content">
     {{ include.content | youtubify }}
     </div>

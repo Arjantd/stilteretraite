@@ -12,7 +12,7 @@ layout: default
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1>{{ page.title }}</h1>
-                    <img data-src="{{ page.image | resized_image_url: "750x500" }}" alt="{{ post.title }}" class="lazy">
+                    <img data-src="{{ page.image | resized_image_url: 750, 500 }}" alt="{{ post.title }}" class="lazy">
                     <div class="spacer-20"></div>
                     {{ page.content }}
                     <div class="spacer-20"></div>
