@@ -6,7 +6,7 @@ description: Arjan is communicatiewetenschapper, natuurliefhebber & ijverig
   geboeid door de werking die Stilte heeft. Naast het verwezenlijken van de
   website van stilteretraite.nl assisteert hij soms bij retraites en schrijft
   hij blogs.
-thumbnail: uploads/people-arjan.jpg
+thumbnail: uploads/People - Arjan.jpg
 email: "arjan@stilteretraite.nl "
 layout: member
 date: 2017-11-14T10:54:31.000+00:00
