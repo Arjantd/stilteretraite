@@ -1,20 +1,19 @@
 ---
 title: Robbert van Bruggen
-date: '2017-11-14T10:00:44.000+00:00'
-role:
-- partner
-- board
-thumbnail: https://static.stilteretraite.nl/uploads/robbert1.jpg
 sub_heading: Initiatiefnemer, retraite begeleider
-email: 'robbert@stilteretraite.nl '
-linkedin: ''
-layout: member
-description: 'Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master
-  begeleidingskunde en specialist in het in beweging brengen van identificatie met
-  taaie patronen in organisaties. Sinds 2010 organiseert en begeleidt hij stilte retraites
-  onder de naam ''Ineenhutjeopdehei''. '
+description: "Robbert van Bruggen (MA) is begeleidingskundige en docent aan de
+  master begeleidingskunde en specialist in het in beweging brengen van
+  identificatie met taaie patronen in organisaties. Sinds 2010 organiseert en
+  begeleidt hij stilte retraites onder de naam 'Ineenhutjeopdehei'. "
+thumbnail: uploads/robbert1.jpg
+email: "robbert@stilteretraite.nl "
 link_to_details: true
-
+layout: member
+date: 2017-11-14T10:00:44.000+00:00
+role:
+  - partner
+  - board
+linkedin: ""
 ---
 **Robbert van Bruggen (1959) nam vanaf begin jaren 80 deel aan- en begeleidde verschillende vormen van retraite; van Enlightenment Intensive, Isolation groups, Vipassana, Zen tot groeps- en individuele soeﬁretraites. Hij was ruim 20 jaar verbonden met het soeﬁsme van zijn leraar Pir Vilayat Inayat-Khan.**   
   
