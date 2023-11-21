@@ -14,18 +14,18 @@ collections:
         widget: object
         collapsed: true
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Keywords", name: "keywords", widget: "string"}
-          - {label: "Description", name: "description", widget: "string"}
-          - {label: "Author", name: "author", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Keywords", name: "keywords", widget: "string", required: false}
+          - {label: "Description", name: "description", widget: "string", required: false}
+          - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Sub heading", name: "sub_heading", widget: "string"}
+      - {label: "Sub heading", name: "sub_heading", widget: "string", required: false}
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Thumbnail (Square image, Max 500 pixels)", name: "thumbnail", widget: "image"}
-      - {label: "Email", name: "email", widget: "string"}
-      - {label: "Link to details", name: "link_to_details", widget: "boolean"}
-      - {label: "Hidden", name: "hidden", widget: "boolean"}
+      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Link to details", name: "link_to_details", widget: "boolean", required: false}
+      - {label: "Hidden", name: "hidden", widget: "boolean", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "member"}
   - name: "posts"
     label: "Posts"
