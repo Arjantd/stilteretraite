@@ -14,7 +14,7 @@ lead_text: 'Wat betekent vakantie voor jou? Het hele scala aan mogelijkheden kom
   jaarlijks voorbij: van zuipen tot vervulling. Tijd voor een kritische noot. Is vakantie
   niet eigenlijk een halfbakken retraite? '
 tags: []
-banner_image: https://static.stilteretraite.nl/uploads/Post 7 - vakantieliefde.jpg
+banner_image: uploads/Post 7 - vakantieliefde.jpg
 related_posts: []
 
 ---

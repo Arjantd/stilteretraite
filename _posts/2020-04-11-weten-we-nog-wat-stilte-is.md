@@ -8,7 +8,7 @@ tags:
 - " stille zaterdag"
 - " corona crisis"
 layout: post
-banner_image: https://static.stilteretraite.nl/uploads/Post - stille zaterdag 2020.jpg
+banner_image: uploads/Post - stille zaterdag 2020.jpg
 author: _people/robbert-van-bruggen.md
 lead_text: Deze Corona crisis dwingt ons tot een Stille Zaterdag. Een stok die door
   de Natuur tussen de spaken van het vertrouwde Wiel van Alledag gestoken wordt.

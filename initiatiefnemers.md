@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Initiatiefnemers
-image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
+image: uploads/Pagebanner OVER ONS.jpg
 members:
 - _people/robbert-van-bruggen.md
 - _people/team-stilteretraite-nl.md

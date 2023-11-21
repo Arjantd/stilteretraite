@@ -12,7 +12,7 @@ meta:
     Stilte is de essentie….
   author: ''
 title: Re-treat je Hart! ITC Naarden
-image: https://static.stilteretraite.nl/uploads/feb 2024.jpg
+image: uploads/feb 2024.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.

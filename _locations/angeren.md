@@ -9,12 +9,12 @@ meta:
   description: ''
   author: ''
 title: Braamt
-image: https://static.stilteretraite.nl/uploads/markant-1.jpg
+image: uploads/markant-1.jpg
 location: Braamt
 description: ''
 gallery: []
 
 ---
-![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.31.jpeg)![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.38.jpeg)
+![](uploads/WhatsApp Image 2023-04-17 at 09.59.31.jpeg)![](uploads/WhatsApp Image 2023-04-17 at 09.59.38.jpeg)
 
-![](https://static.stilteretraite.nl/uploads/WhatsApp Image 2023-04-17 at 09.59.52.jpeg)
+![](uploads/WhatsApp Image 2023-04-17 at 09.59.52.jpeg)

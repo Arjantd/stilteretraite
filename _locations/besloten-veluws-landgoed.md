@@ -5,27 +5,27 @@ description: Het unieke Veluwse landgoed waar we 1 a 2 keer per jaar te gast zij
   is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische
   boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature'
   onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort.
-image: https://static.stilteretraite.nl/uploads/20180708_091607.jpg
+image: uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-2.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-1.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-6.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-14.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-18.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-17.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-16.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-15.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-13.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-12.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-10.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-9.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-8.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-7.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-5.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-4.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-3.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Retraite-Veluwe-19.jpg
+- uploads/Locatie-Retraite-Veluwe-2.jpg
+- uploads/Locatie-Retraite-Veluwe-1.jpg
+- uploads/Locatie-Retraite-Veluwe-6.JPG
+- uploads/Locatie-Retraite-Veluwe-14.jpg
+- uploads/Locatie-Retraite-Veluwe-18.jpg
+- uploads/Locatie-Retraite-Veluwe-17.jpg
+- uploads/Locatie-Retraite-Veluwe-16.jpg
+- uploads/Locatie-Retraite-Veluwe-15.jpg
+- uploads/Locatie-Retraite-Veluwe-13.jpg
+- uploads/Locatie-Retraite-Veluwe-12.jpg
+- uploads/Locatie-Retraite-Veluwe-10.jpg
+- uploads/Locatie-Retraite-Veluwe-9.jpg
+- uploads/Locatie-Retraite-Veluwe-8.jpg
+- uploads/Locatie-Retraite-Veluwe-7.JPG
+- uploads/Locatie-Retraite-Veluwe-5.JPG
+- uploads/Locatie-Retraite-Veluwe-4.jpg
+- uploads/Locatie-Retraite-Veluwe-3.jpg
+- uploads/Locatie-Retraite-Veluwe-19.jpg
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>

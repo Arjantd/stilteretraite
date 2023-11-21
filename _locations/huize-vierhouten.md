@@ -1,23 +1,23 @@
 ---
 layout: location
 title: Huize Vierhouten
-image: https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-15.jpg
+image: uploads/Locatie-Huize-Vierhouten-15.jpg
 location: Vierhouten, Veluwe
 description: 'Een deel van onze weekendretraites vindt plaats in de bossen nabij het
   Veluwse dorp Vierhouten. Hier staat het landhuis Huize Vierhouten, op landgoed Huize
   Vierhouten: een ideale plek om je terug te trekken en te genieten van de uitgestrekte
   natuur die dit landhuis omgeeft.'
 gallery:
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-0.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-3.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-15.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-2.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-6.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-1.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-14.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-12.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-7.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Huize-Vierhouten-13.jpg
+- uploads/Locatie-Huize-Vierhouten-0.jpg
+- uploads/Locatie-Huize-Vierhouten-3.jpg
+- uploads/Locatie-Huize-Vierhouten-15.jpg
+- uploads/Locatie-Huize-Vierhouten-2.jpg
+- uploads/Locatie-Huize-Vierhouten-6.jpg
+- uploads/Locatie-Huize-Vierhouten-1.jpg
+- uploads/Locatie-Huize-Vierhouten-14.jpg
+- uploads/Locatie-Huize-Vierhouten-12.jpg
+- uploads/Locatie-Huize-Vierhouten-7.jpg
+- uploads/Locatie-Huize-Vierhouten-13.jpg
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>

@@ -1,29 +1,29 @@
 ---
 title: Emmausklooster in Velp
 layout: location
-image: https://static.stilteretraite.nl/uploads/Avan Spirit - Velp 2.jpg
+image: uploads/Avan Spirit - Velp 2.jpg
 location: Velp / Grave
 description: Een deel van ons retraiteaanbod vindt plaats in het Emmausklooster te
   Velp. Het Emmausklooster is het oudste Kapucijnenklooster in Nederland (1645) en
   is door de jaren heen zeer goed onderhouden en zeer authentiek te noemen. Als je
   binnenstapt, voel je de eeuwenoude geschiedenis en verhalen van bewoners en gasten.
 gallery:
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-4.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-12.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-2.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-3.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-1.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-8.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-15.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-16.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-5.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-6.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-14.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-13.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-10.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-9.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-7.jpg
+- uploads/Locatie-retraite-emmausklooster-4.jpg
+- uploads/Locatie-retraite-emmausklooster-12.jpg
+- uploads/Locatie-retraite-emmausklooster-2.jpg
+- uploads/Locatie-retraite-emmausklooster-3.jpg
+- uploads/Locatie-retraite-emmausklooster-1.jpg
+- uploads/Locatie-retraite-emmausklooster-8.jpg
+- uploads/Locatie-retraite-emmausklooster-15.jpg
+- uploads/Locatie-retraite-emmausklooster-16.jpg
+- uploads/Locatie-retraite-emmausklooster-5.jpg
+- uploads/Locatie-retraite-emmausklooster-6.jpg
+- uploads/Locatie-retraite-emmausklooster-14.jpg
+- uploads/Locatie-retraite-emmausklooster-13.jpg
+- uploads/Locatie-retraite-emmausklooster-11.jpg
+- uploads/Locatie-retraite-emmausklooster-10.jpg
+- uploads/Locatie-retraite-emmausklooster-9.jpg
+- uploads/Locatie-retraite-emmausklooster-7.jpg
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 

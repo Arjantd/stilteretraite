@@ -12,7 +12,7 @@ meta:
     Stilte is de essentie….
   author: ''
 title: Re-treat je hart! Erve Veldink
-image: https://static.stilteretraite.nl/uploads/Erve Veldink.jpg
+image: uploads/Erve Veldink.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich
   (voor een eerste of soms tweede keer) op geleide van een gestructureerd dagprogramma
   onderdompelen in stilte.

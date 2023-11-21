@@ -1,7 +1,7 @@
 ---
 layout: page-centered-content
 title: Wat is retraite?
-image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
+image: uploads/banner Stilte retraite.jpg
 description: ''
 pager:
   previous_page: over-retraite.md

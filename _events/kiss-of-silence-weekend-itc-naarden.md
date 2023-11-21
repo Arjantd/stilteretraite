@@ -12,7 +12,7 @@ meta:
     Stilte is de essentie….
   author: Robbert van Bruggen
 title: Kiss of Silence (weekend), ITC Naarden
-image: https://static.stilteretraite.nl/uploads/Naarden.jpg
+image: uploads/Naarden.jpg
 lead_text: 'Voor diegenen die pootje willen baden in het ultieme ''thuiskomen'' dat
   stilte retraite is. '
 from_date: 2023-11-24 15:00:00 +0100

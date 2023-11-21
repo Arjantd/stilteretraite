@@ -1,7 +1,7 @@
 ---
 layout: testimonials
 title: Ervaringen
-image: https://static.stilteretraite.nl/uploads/banner A.jpg
+image: uploads/banner A.jpg
 testimonials:
 - title: Niemand die iets van jou verwacht
   subtitle: RE-TREAT JE HART | 2023

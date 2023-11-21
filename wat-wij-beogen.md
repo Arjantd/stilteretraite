@@ -1,7 +1,7 @@
 ---
 layout: page-centered-content
 title: Wat wij beogen
-image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
+image: uploads/Pagebanner OVER ONS.jpg
 meta:
   title: Wat stilteretraite.nl beoogt
   keywords: missie, visie, authenticiteit, creatieve wisselwerking

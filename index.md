@@ -2,29 +2,29 @@
 title: Home
 layout: landing-page
 hero_slider:
-- image: https://static.stilteretraite.nl/uploads/Home - banner 3a.jpg
+- image: uploads/Home - banner 3a.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Locatie-retraite-emmausklooster-11.jpg
+- image: uploads/Locatie-retraite-emmausklooster-11.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home - Banner 3.jpg
+- image: uploads/Home - Banner 3.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons: []
-- image: https://static.stilteretraite.nl/uploads/Home - Banner 4.jpg
+- image: uploads/Home - Banner 4.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
   buttons:
   - text: Contact ons!
     link: contact.md
-- image: https://static.stilteretraite.nl/uploads/Home - Banner 1.jpg
+- image: uploads/Home - Banner 1.jpg
   title: In stilte openbaart zich het ware verlangen
   sub_heading: In een tijd waarin je vaak het gevoel hebt ‘geleefd te worden’ door
     je agenda is een stilte retraite het grootste geschenk dat je jezelf kunt geven.
@@ -40,7 +40,7 @@ featured_links:
   small_text: Een fijne retraite plek
   text: Locaties
 textline: ''
-image: https://static.stilteretraite.nl/uploads/Avant Spirit - Velp 1.jpg
+image: uploads/Avant Spirit - Velp 1.jpg
 sections:
 - name: Verlangen naar stilte
   background: lgray-bg
@@ -53,7 +53,7 @@ sections:
       Uiteindelijk dient zich de behoefte aan om om ons te bevrijden van de ingezogenheid in die dagelijkse sleur: een verlangen naar stilte, ruimte en bezinning. Misschien ben je daarom ook wel op deze website aanbeland?
     video:
       link: https://www.youtube.com/watch?v=GY-6woD6p8c&t=252s
-      thumbnail: https://static.stilteretraite.nl/uploads/Video 7.jpg
+      thumbnail: uploads/Video 7.jpg
       caption: Wat gebeurt er tijdens een retraite?
       buttons:
       - link: video.md
@@ -73,7 +73,7 @@ sections:
   blocks:
   - template: owl-carousel-image-left-story-right
     items:
-    - image: https://static.stilteretraite.nl/uploads/Home-deelnemers-ervaringen.jpg
+    - image: uploads/Home-deelnemers-ervaringen.jpg
       title: Ervaringen van deelnemers
       text: Onder de naam **'In een hutje op de hei'** organiseert Robbert van Bruggen
         al meer dan 10 jaar stilte-retraites. In de beginjaren vonden de retraites
@@ -101,7 +101,7 @@ sections:
     button:
       link: locaties.md
       text: Bekijk onze locaties
-    image: https://static.stilteretraite.nl/uploads/Home-widget-locaties.jpg
+    image: uploads/Home-widget-locaties.jpg
     title: Voor ons retraiteaanbod maken we gebruik van verschillende locaties
     text: De plek waar je aan een stilte retraite deelneemt kleurt je ervaring. Onze
       retraites vinden plaats op verschillende mooie locaties, ieder met een eigen

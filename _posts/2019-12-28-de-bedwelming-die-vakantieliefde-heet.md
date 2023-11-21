@@ -12,7 +12,7 @@ tags:
 - inzicht
 - werk
 - spiritualiteit
-banner_image: https://static.stilteretraite.nl/uploads/Post 8 Werk.jpg
+banner_image: uploads/Post 8 Werk.jpg
 related_posts: []
 meta:
   title: ''

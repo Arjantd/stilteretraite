@@ -8,7 +8,7 @@ tags:
 - " verlangen naar stilte"
 - " retraite"
 layout: post
-banner_image: https://static.stilteretraite.nl/uploads/blog 2a.jpg
+banner_image: uploads/blog 2a.jpg
 author: _people/arjan-ten-dam.md
 lead_text: In de huidige tijd waarin we leven laten we ons zo meesleuren door het
   collectieve ritme, dat we het gevoel hebben ‘geleefd te worden’..

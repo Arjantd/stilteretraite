@@ -1,7 +1,7 @@
 ---
 layout: page-centered-content
 title: Over retraite
-image: https://static.stilteretraite.nl/uploads/banner Stilte retraite.jpg
+image: uploads/banner Stilte retraite.jpg
 description: 'Wat is de betekenis van stilte retraite? Waar ontstond het? Waar associeren
   we retraite mee? '
 show_pager: true

@@ -1,7 +1,7 @@
 ---
 layout: sign-up
 title: Aanmelden voor retraite
-image: https://static.stilteretraite.nl/uploads/Page banner CONTACT.jpg
+image: uploads/Page banner CONTACT.jpg
 blocks:
 - template: form
   submit_button_text: Verstuur

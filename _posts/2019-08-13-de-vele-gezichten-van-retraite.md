@@ -10,7 +10,7 @@ tags:
 - " hype"
 - " consumptie"
 - " maatschappij"
-banner_image: https://static.stilteretraite.nl/uploads/blog 5.jpg
+banner_image: uploads/blog 5.jpg
 related_posts: []
 lead_text: 'Stilte retraites zijn plots trendy. Een kritisch en reflexief geluid is
   op zijn plaats! Want wie is klaar voor echte stilte retraite? '

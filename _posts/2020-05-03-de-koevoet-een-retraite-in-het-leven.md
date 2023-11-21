@@ -16,7 +16,7 @@ lead_text: Er zijn vele vormen van retraite en stilte retraite. Robbert van Brug
   heeft er een aantal in zijn leven ondergaan, zowel in groepsverband als individueel.
   Vipassana, Za-zen, groepsretraites vanuit Boeddhisme, Soefisme en Katholicisme.
 tags: []
-banner_image: https://static.stilteretraite.nl/uploads/shutterstock_212693140.jpg
+banner_image: uploads/shutterstock_212693140.jpg
 related_posts: []
 
 ---

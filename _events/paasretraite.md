@@ -12,7 +12,7 @@ meta:
     Stilte is de essentie….
   author: ''
 title: Paasretraite (het geheim van het zwarte ei)
-image: https://static.stilteretraite.nl/uploads/pasen 2024.jpg
+image: uploads/pasen 2024.jpg
 lead_text: De paasretraite is een vierdaagse retraite waar max. 12 deelnemers zich
   op geleide van een gestructureerd dagprogramma onderdompelen in stilte.
 from_date: 2024-03-28 15:00:00 +0100

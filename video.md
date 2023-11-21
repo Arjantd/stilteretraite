@@ -5,7 +5,7 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: videos
 textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte filmpjes
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
-image: https://static.stilteretraite.nl/uploads/shutterstock_1115950973.jpg
+image: uploads/shutterstock_1115950973.jpg
 videos:
 - _videos/re-treat-je-hart-februari-2023.md
 - _videos/RETREAT JE HART 7 DEC.md

@@ -64,7 +64,7 @@ sections:
   path: _data/site.yml
   label: Site
 upload_dir: uploads
-public_path: https://static.stilteretraite.nl/uploads
+public_path: uploads
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"

@@ -9,7 +9,7 @@ lead_text: Ya Sami - Hoor!
 tags:
 - gedicht
 - " hoor!"
-banner_image: https://static.stilteretraite.nl/uploads/Post 6 - Gedicht.jpg
+banner_image: uploads/Post 6 - Gedicht.jpg
 related_posts: []
 meta:
   title: ''

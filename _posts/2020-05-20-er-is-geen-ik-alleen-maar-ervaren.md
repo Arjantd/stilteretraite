@@ -18,7 +18,7 @@ tags:
 - maatschappij
 - " individu"
 - ervaren
-banner_image: https://static.stilteretraite.nl/uploads/Post - er is geen IK.jpg
+banner_image: uploads/Post - er is geen IK.jpg
 related_posts: []
 
 ---

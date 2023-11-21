@@ -5,7 +5,7 @@ description: A multidisciplinary centre of experts who are essential to patient-
 publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: overview
 show_staff: true
-image: https://static.stilteretraite.nl/uploads/Pagebanner OVER ONS.jpg
+image: uploads/Pagebanner OVER ONS.jpg
 icon_boxes:
 - title: Robbert en team
   link: initiatiefnemers.md

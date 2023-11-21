@@ -1,7 +1,7 @@
 ---
 title: Ca du Chittu, Italie
 layout: location
-image: https://static.stilteretraite.nl/uploads/IMG_0459.JPG
+image: uploads/IMG_0459.JPG
 location: Carro, Italie
 description: '1x per jaar reizen we af naar het Italiaanse Ligurië. Deze streek wordt
   ingesloten door de Ligurische Zee en de Apennijnen en heeft een fijn klimaat, met
@@ -12,13 +12,13 @@ style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancyb
   />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 gallery:
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 0.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 5.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 6.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 4.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 3.JPG
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 2.jpg
-- https://static.stilteretraite.nl/uploads/Locatie-Ca du Chittu- 1.jpg
+- uploads/Locatie-Ca du Chittu- 0.JPG
+- uploads/Locatie-Ca du Chittu- 5.JPG
+- uploads/Locatie-Ca du Chittu- 6.JPG
+- uploads/Locatie-Ca du Chittu- 4.JPG
+- uploads/Locatie-Ca du Chittu- 3.JPG
+- uploads/Locatie-Ca du Chittu- 2.jpg
+- uploads/Locatie-Ca du Chittu- 1.jpg
 
 ---
 In het noordwesten van Italie ligt de regio Ligurië, een van de kleinste regio's van het land. De regio wordt ingesloten door de Ligurische Zee en de Apennijnen en heeft daardoor een fijn klimaat, met zachte winters en tijdens de warme zomers een heerlijk briesje. In het binnenland, nabij het dorpje Carro, vind je de Agriturismo 'Ca du Chittu', een heerlijke plek waar wij sinds een aantal jaar te gast zijn voor een zeer bijzondere retraiteweek.

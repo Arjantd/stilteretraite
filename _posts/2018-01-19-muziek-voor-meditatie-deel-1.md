@@ -1,7 +1,7 @@
 ---
 sub_heading: ""
 title: Muziek voor meditatie | deel 1
-banner_image: https://static.stilteretraite.nl/uploads/headphines.jpeg.jpg
+banner_image: uploads/headphines.jpeg.jpg
 lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en
   is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en
   ....
