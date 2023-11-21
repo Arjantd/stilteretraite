@@ -8,12 +8,10 @@ require 'jekyll/tagging'
 module Jekyll
     module Filters
         module ImageURLFilters
-            def resized_image_url(input, dimensions, fit=nil)
+            def resized_image_url(input, width, height, fit='')
                 return if input.nil?
 
-                uri = URI.parse(URI.encode(input))
-                fit_string = fit ? "-#{fit}" : ""
-                "#{uri.scheme}://#{uri.host}/#{dimensions}#{fit_string}#{uri.path}"
+                "/.netlify/images?url=/#{url}&fit=#{fit}&w=#{width}&h=#{height}"
             end
         end
         module OpenGraphFilters
