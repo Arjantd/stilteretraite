@@ -14,7 +14,7 @@ export function postRender() {
           h('h1', {}, entry.getIn(['data', 'title'])),
           h('div', {className: 'post-media'},
             h('img', {src: resizedImageUrl(asset_banner_image.toString(), '750x500'), width: 750, height: 500}),
-            h('div', {className: 'post-content'},
+          h('div', {className: 'post-content'},
               widgetBody
             ),
             h('div', {className: 'tag-cloud'},
