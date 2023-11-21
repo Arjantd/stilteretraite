@@ -10,7 +10,7 @@
         </div>
         <div class="col-md-6 col-sm-6 col-md-offset-1 col-md-offset-1">
             <h2 class="block-title">{{ include.video.title }}</h2>
-            <a href="{{ include.video.link }}" class="media-box magnific-video"> <img data-src="{{ include.video.thumbnail | absolute_url}}" alt="{{ include.video.caption }}" class="lazy"></a>
+            <a href="{{ include.video.link }}" class="media-box magnific-video"> <img data-src="{{ include.video.thumbnail | resized_image_url: 750, 500, 'contain' }}" alt="{{ include.video.caption }}" class="lazy"></a>
             <div class="grid-item-content">
                 {% for button in include.video.buttons %}
                 {% assign document = site.pages | concat: site.documents | where:"path", button.link | first %}
