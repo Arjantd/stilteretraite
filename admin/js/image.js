@@ -1,5 +1,5 @@
-export function resizedImageUrl(url, dimensions, fit) {
+export function resizedImageUrl(url, width, height, fit) {
     let uri = new URL(encodeURI(url));
     let fitString = fit ? `-${fit}` : '';
-    return `${uri.protocol}//${uri.host}/${dimensions}${fitString}${uri.pathname}`;
+    return `/.netlify/images?url=/${url}&fit=${fit}&w=${width}&h=${height}`
 }
