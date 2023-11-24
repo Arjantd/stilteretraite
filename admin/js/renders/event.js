@@ -1,5 +1,3 @@
-import { resizedImageUrl } from '../image.js'
-
 export function eventRender() {
     var entry = this.props.entry;
     var image = entry.getIn(['data', 'image']);
@@ -14,7 +12,7 @@ export function eventRender() {
         h('div', {className: 'row'},
           h('div', {className: 'col-md-8 content-block'},
             h('div', {className: 'post-media'},
-              h('img', {src: resizedImageUrl(asset_image.toString(), '750x500'), width: 750, height: 500})
+              h('img', {src: asset_image.toString(), width: 750, height: 500})
             ),
             h('div', {className: 'row'},
               h('div', {className: 'col-md-6 col-sm-6'},
