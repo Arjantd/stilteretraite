@@ -14,11 +14,13 @@
     import { postRender } from './js/renders/post.js'
     import { locationRender } from './js/renders/location.js'
     import { eventRender } from './js/renders/event.js'
+    import { testimonialsRender } from './js/renders/testimonials.js'
 
     CMS.registerPreviewStyle("/admin/css/person.css");
     CMS.registerPreviewStyle("/admin/css/post.css");
     CMS.registerPreviewStyle("/admin/css/location.css");
     CMS.registerPreviewStyle("/admin/css/event.css");
+    CMS.registerPreviewStyle("/admin/css/testimonials.css");
 
     var PostPreview = createClass({
       render: postRender
@@ -39,6 +41,11 @@
       render: eventRender
     });
     CMS.registerPreviewTemplate("events", EventPreview);
+
+    var TestimonialsPreview = createClass({
+      render: testimonialsRender
+    });
+    CMS.registerPreviewTemplate("testimonials", TestimonialsPreview);
 </script>
 </body>
 </html>
