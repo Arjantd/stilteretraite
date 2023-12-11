@@ -120,3 +120,30 @@ collections:
       - {label: "Attendees", name: "attendees", widget: "number", value_type: "int", default: 1, min: 1, step: 1}
       - {label: "Category", name: "category", widget: "select", options: [{label: "1 day", value: "1-day"}, {label: "Weekend", value: "weekend"}, {label: "4 days", value: "4-days"}, {label: "5 days", value: "5-days"}, {label: "7 day", value: "7-days"}, {label: "10 days", value: "10-days"}]}
       - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+  - name: "testimonials"
+    label: "Testimonials"
+    files:
+      - name: "testimonials"
+        label: "Testimonials"
+        file: "ervaringen.md"
+        fields:
+        - label: Meta
+          name: meta
+          widget: object
+          collapsed: true
+          fields:
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Keywords", name: "keywords", widget: "string"}
+            - {label: "Description", name: "description", widget: "string"}
+            - {label: "Author", name: "author", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Layout", name: "layout", widget: "hidden", default: "testimonials"}
+        - label: Testimonials
+          name: testimonials
+          widget: list
+          fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Text", name: "text", widget: "markdown"}
+          - {label: "Participant", name: "participant", widget: "string"}
