@@ -31,7 +31,7 @@ testimonials:
    deels onterecht.\n
    \n
    Toen hoorde ik in september 2023 van mijn ex schoondochter van een stilte retraite
-   ‘hutje op de hei’ begeleid door Robbert van Bruggen. Toeval bestaat niet!
+   ‘hutje op de hei’ begeleid door Robbert van Bruggen. Toeval bestaat niet!\n
    Ik dacht gelijk dat ga ik doen; heel impulsief.\n
    \n
    6 december 2023: het is zover, best spannend! 5 dagen onderdompelen in stilte, stilte,
