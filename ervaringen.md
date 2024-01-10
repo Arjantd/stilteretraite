@@ -6,72 +6,72 @@ testimonials:
 - title: Roeren in de pot van mijn leven
   subtitle: Re-treat je Hart - december 2023
   text: "‘Roeren in de pot van mijn leven’, zo voelde en ervaarde ik de stilte retraite in
-   de eerste dagen.
+   de eerste dagen.\n
    Robbert vond het wel een mooie titel voor een boek zei hij tijdens ons dagelijks 10
-   minuten gesprekje… ik neem dit compliment graag in ontvangst lieve Robbert.
+   minuten gesprekje… ik neem dit compliment graag in ontvangst lieve Robbert.\n
    Ik wil wel alvast verklappen dat ik de stiltereis met geen pen kan beschrijven, dus een
-   boek….
-   
+   boek….\n
+   \n
    Wat bezielde mij in hemelsnaam om een ‘stilte’ retraite te willen en ook nog te gaan
-   doen…
+   doen…\n
    Dat zijn 3 woorden : ‘HET IS MIS’, diagnose BORSTKANKER. Deze 3 woorden van mijn
-   huisarts 27 februari 2023 veranderde mijn leven van het ene op het andere moment.
-   
+   huisarts 27 februari 2023 veranderde mijn leven van het ene op het andere moment.\n
+   \n
    Dood ellende, controle willen houden, internet afspeuren, keuzes maken, angst, angst en
    nog eens angst voor wat komen gaat.. Rollercoaster, geleefd worden door je agenda. Eén
    borst vond ik toen nog oké en dacht waarom ik niet als 1 op de 7 vrouwen deze diagnose
    krijgt? Maar dan…de MRI uitslag… 2 borsten met kanker; mijn wereld stortte letterlijk
-   in….
-   
+   in….\n
+   \n
    Gek genoeg gaat je leven gewoon door, het wordt weer licht in de ochtend en donker in de
-   avond.
+   avond.\n
    Ik leefde maar het leek meer op overleven, mijn levensvreugde verdween en van binnen
    kwijnde ik langzaam weg. Ik herkende mijzelf niet meer en onze relatie had er behoorlijk
    onder te lijden. Ik heb mijn echtgenoot heel veel dingen kwalijk genomen; deels terecht,
-   deels onterecht.
-   
+   deels onterecht.\n
+   \n
    Toen hoorde ik in september 2023 van mijn ex schoondochter van een stilte retraite
    ‘hutje op de hei’ begeleid door Robbert van Bruggen. Toeval bestaat niet!
-   Ik dacht gelijk dat ga ik doen; heel impulsief.
-   
+   Ik dacht gelijk dat ga ik doen; heel impulsief.\n
+   \n
    6 december 2023: het is zover, best spannend! 5 dagen onderdompelen in stilte, stilte,
    stilte veelzeggende stilte… Hoe bedoel je stilte? Het is één grote kakafonie aan geluid
    in mijn hoofd, kabaal, dus alles behalve stil. Het gaat alle kanten op, één grote chaos,
-   geen orde in te krijgen.
-   
+   geen orde in te krijgen.\n
+   \n
    Roeren in de pot van mijn leven. Je kunt het niet sturen, er gebeurt zoveel, onrust, het
    blijft tollen en dan…. Het wordt rustiger, je lijf ontspant, het wordt lichter, je
    krijgt ingevingen en er komen overweldigende inzichten naar boven. Geloof het of niet,
    ik val samen met mijzelf, ik voel het onbevangen kind in mij, ik kom open, mijn hart
    opent zich, ik kan er niet meer omheen; een wonderschoon proces een emotionele en
-   mentale opschoning. Ik heb het niet gestuurd het was er.
+   mentale opschoning. Ik heb het niet gestuurd het was er.\n
    Robbert die dit alles zo mooi, liefdevol en veilig begeleidde, afwisselend met stilte
    meditaties, oefeningen uit verschillende tradities, het één ‘ZIJN’ met de natuur,
    tekeningen maken, dansen met je hart..… heel even samensmelten en opgenomen worden door
    het universum alles is met elkaar verbonden. Dat bedoel ik met het is met geen pen te
-   beschrijven.
-   
+   beschrijven.\n
+   \n
    Oh, oh, wat wordt pijnlijk duidelijk hoe we altijd ‘aan’ staan en ons aanpassen aan wat
    we denken dat van ons wordt verwacht.  We willen ons leven controleren en sturen wat
    uiteraard niet lukt. Dan zomaar wordt onverwacht en onvoorspelbaar zichtbaar hoeveel
    wijsheid wij in de diepte hebben die we alleen horen als we stil zijn. De opjutter en de
-   verhaaltjesmaker maken steeds meer plaats voor het hart en het bewustzijn dat ‘ziet’.
-   
-   Een klein citaat uit de brief aan mijn hart:
+   verhaaltjesmaker maken steeds meer plaats voor het hart en het bewustzijn dat ‘ziet’.\n
+   \n
+   Een klein citaat uit de brief aan mijn hart:\n
    “Ik zou met je willen dansen, met je willen spelen, met je naar het bos willen gaan. De
    verbinding zoeken met andere harten. Ik hoop en zal zeker mijn best doen om je nog heel
    lang te laten kloppen en dat anderen daar ook nog heel lang van mogen genieten. Want
    daar zijn harten voor die geven niet alleen liefde die ‘ZIJN LIEFDE’.” Ik ben dankbaar
-   met je lief hart, je liefhebbende Joki.
-   
+   met je lief hart, je liefhebbende Joki.\n
+   \n
    Vandaag is het de laatste dag van het jaar. Ik gun iedereen deze stilte reis, ik voel me
    weer de spontane volksvrouw, ik kan weer lachen met mijzelf, ik voel me weer maatjes met
    mijzelf. Ik voel me weer verbonden met mijzelf; een groter cadeau kan ik niet krijgen.
    Een wonderschone reis waarbij je transformeert, het gebeurt….en weet je ik ben nog nooit
    zo gelukkig geweest met mijn ‘nieuwe’ borsten, ik koester ze want zij hebben geleden en
    doen heel erg hun best te herstellen. Dat herstelproces heeft mij in deze stiltereis nog
-   meer vertrouwen gegeven.
-   
+   meer vertrouwen gegeven.\n
+   \n
    Dank lieve Robbert, Petra en alle lieve deelnemers. Ik voelde me meer verbonden dan ik
    ooit had durven dromen."
   participant: Jullie liefhebbende Joki…
