@@ -8,7 +8,7 @@ blocks:
   submitting_button_text: Versturen...
   success_text: Het formulier is succesvol verstuurd.
   fail_text: Er is iets mis gegaan bij het versturen van het formulier.
-  form_name: sign-up
+  name: sign-up
   controls:
   - name: event
     label: ''
