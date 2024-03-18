@@ -25,7 +25,7 @@ blocks:
     type: Text area
     placeholder: Bericht
     required: true
-  name: contact
+  form_name: contact
   submit_button_text: Verzend
   fields: []
   submitting_button_text: Verzenden...
