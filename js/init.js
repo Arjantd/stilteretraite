@@ -649,15 +649,19 @@ const handleSubmit = (event) => {
 	const $formBody = $form.find('.form-body');
 	const $submitButton = form.find("input[type=submit]");
 
+	$submitButton.prop("disabled", true);
+
 	fetch("/", {
 	  method: "POST",
 	  headers: { "Content-Type": "application/x-www-form-urlencoded" },
 	  body: new URLSearchParams(formData).toString(),
 	})
-	  .then(() => {
-		$formBody.addClass('hidden');
-		$form.find('.alert.success').removeClass('hidden');
-		$submitButton.prop("disabled", false);
+	  .then((response) => {
+		if (response.ok) {
+			$formBody.addClass('hidden');
+			$form.find('.alert.success').removeClass('hidden');
+			$submitButton.prop("disabled", false);
+		}
 	  })
 	  .catch((error) => {
 		$formBody.addClass('hidden');
