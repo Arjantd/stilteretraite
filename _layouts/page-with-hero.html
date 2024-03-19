@@ -7,7 +7,7 @@ layout: default
 
 <!-- Hero Area -->
 <div class="hero-area">
-    <div class="page-banner parallax" style="background-image:url('{{ page.image }}');">
+    <div class="page-banner parallax" style="background-image: url('{{ page.image | resized_image_url: 1440, 815, "contain" }}');">
         <div class="container">
             <div class="page-banner-text">
                 <h1 class="block-title">{{ page.title }}</h1>
