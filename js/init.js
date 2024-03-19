@@ -662,17 +662,18 @@ const handleSubmit = (event) => {
 			$form.find('.alert.success').removeClass('hidden');
 			$submitButton.prop("disabled", false);
 		}
-	  })
-	  .catch((error) => {
+	})
+	.catch((error) => {
 		$formBody.addClass('hidden');
 		$form.find('.alert.fail').removeClass('hidden');
 		$submitButton.prop("disabled", false);
-	  });
-  };
+	});
+};
   
-  document
-	.querySelector("form")
-	.addEventListener("submit", handleSubmit);
+const form = document.querySelector("form")
+if (form) {
+	form.addEventListener("submit", handleSubmit)
+}
 
 // Get URL parameter function
 let getUrlParameter = (sParam) => {
