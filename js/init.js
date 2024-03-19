@@ -643,6 +643,7 @@ const handleSubmit = (event) => {
 	event.preventDefault();
   
 	const form = event.target;
+	const $form = $(form)
 	const formData = new FormData(form);
 	
 	fetch("/", {
@@ -651,13 +652,13 @@ const handleSubmit = (event) => {
 	  body: new URLSearchParams(formData).toString(),
 	})
 	  .then(() => {
-		form.find('.form-body').addClass('hidden');
-		form.find('.alert.success').removeClass('hidden');
+		$form.find('.form-body').addClass('hidden');
+		$form.find('.alert.success').removeClass('hidden');
 		submitButton.prop("disabled", false);
 	  })
 	  .catch((error) => {
-		form.find('.form-body').addClass('hidden');
-		form.find('.alert.fail').removeClass('hidden');
+		$form.find('.form-body').addClass('hidden');
+		$form.find('.alert.fail').removeClass('hidden');
 		submitButton.prop("disabled", false);
 	  });
   };
