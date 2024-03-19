@@ -2,7 +2,7 @@ title: Stilte retraite
 short_title: Stilte retraite
 description: Website voor stilte retraite
 baseurl:
-url: "https://www.stilteretraite.nl"
+url: "https://stilteretraite.netlify.app"
 permalink: "/:path/"
 defaults:
   - scope:
