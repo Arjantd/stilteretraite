@@ -638,39 +638,33 @@ $.fn.serializeObject = function()
    return o;
 };
 
-// Handle AJAX forms
-$("form.ajax").submit((e) => {
-	e.preventDefault();
+// Handle forms
+const handleSubmit = (event) => {
+	event.preventDefault();
+  
+	const form = event.target;
+	const formData = new FormData(form);
 	
-	let form = $(e.target);
-	let submitButton = form.find("input[type=submit]");
-
-	submitButton.button('loading');
-		
-	let data = form.serializeObject();
-
-	grecaptcha.execute('6LcQutAUAAAAADn8pSmg_pxsnWYJ8rEEc_gGxvU6', {action: 'homepage'}).then((token) => {
-		data.captcha_token = token;
-
-		$.ajax({
-			type: 'post',
-			url: e.target.action,
-			data: JSON.stringify(data),
-			contentType: 'application/json',
-			dataType: 'json'
-		})
-		.done((data) => {
-			form.find('.form-body').addClass('hidden');
-			form.find('.alert.success').removeClass('hidden');
-			submitButton.prop("disabled", false);
-		})
-		.fail((err) => {
-			form.find('.form-body').addClass('hidden');
-			form.find('.alert.fail').removeClass('hidden');
-			submitButton.prop("disabled", false);
-		});
-	});
-});
+	fetch("/", {
+	  method: "POST",
+	  headers: { "Content-Type": "application/x-www-form-urlencoded" },
+	  body: new URLSearchParams(formData).toString(),
+	})
+	  .then(() => {
+		form.find('.form-body').addClass('hidden');
+		form.find('.alert.success').removeClass('hidden');
+		submitButton.prop("disabled", false);
+	  })
+	  .catch((error) => {
+		form.find('.form-body').addClass('hidden');
+		form.find('.alert.fail').removeClass('hidden');
+		submitButton.prop("disabled", false);
+	  });
+  };
+  
+  document
+	.querySelector("form")
+	.addEventListener("submit", handleSubmit);
 
 // Get URL parameter function
 let getUrlParameter = (sParam) => {
