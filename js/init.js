@@ -643,23 +643,26 @@ const handleSubmit = (event) => {
 	event.preventDefault();
   
 	const form = event.target;
-	const $form = $(form)
 	const formData = new FormData(form);
-	
+
+	const $form = $(form)
+	const $formBody = $form.find('.form-body');
+	const $submitButton = form.find("input[type=submit]");
+
 	fetch("/", {
 	  method: "POST",
 	  headers: { "Content-Type": "application/x-www-form-urlencoded" },
 	  body: new URLSearchParams(formData).toString(),
 	})
 	  .then(() => {
-		$form.find('.form-body').addClass('hidden');
+		$formBody.addClass('hidden');
 		$form.find('.alert.success').removeClass('hidden');
-		submitButton.prop("disabled", false);
+		$submitButton.prop("disabled", false);
 	  })
 	  .catch((error) => {
-		$form.find('.form-body').addClass('hidden');
+		$formBody.addClass('hidden');
 		$form.find('.alert.fail').removeClass('hidden');
-		submitButton.prop("disabled", false);
+		$submitButton.prop("disabled", false);
 	  });
   };
   
