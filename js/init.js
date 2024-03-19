@@ -647,7 +647,7 @@ const handleSubmit = (event) => {
 
 	const $form = $(form)
 	const $formBody = $form.find('.form-body');
-	const $submitButton = form.find("input[type=submit]");
+	const $submitButton = $form.find("input[type=submit]");
 
 	$submitButton.prop("disabled", true);
 
