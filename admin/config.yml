@@ -141,8 +141,9 @@ collections:
         - label: Testimonials
           name: testimonials
           widget: list
+          add_to_top: true
           fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Text", name: "text", widget: "markdown"}
-          - {label: "Participant", name: "participant", widget: "string"}
+          - {label: "Title", name: "title", widget: "string", default: ""}
+          - {label: "Subtitle", name: "subtitle", widget: "string", default: ""}
+          - {label: "Text", name: "text", widget: "markdown", default: ""}
+          - {label: "Participant", name: "participant", widget: "string", default: ""}
