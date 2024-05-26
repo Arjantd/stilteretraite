@@ -1,7 +1,5 @@
 export function testimonialsRender() {
     var entry = this.props.entry;
-    var image = entry.getIn(['data', 'image']);
-    var asset_image = this.props.getAsset(image);
 
     return h('div', {className: 'container'},
       h('h1', {}, entry.getIn(['data', 'title'])),
