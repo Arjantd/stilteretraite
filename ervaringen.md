@@ -9,6 +9,10 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: test
+    subtitle: test
+    text: t﻿est
+    participant: test
   - title: Roeren in de pot van mijn leven
     subtitle: RE-TREAT JE HART - DECEMBER 2023
     text: >-
