@@ -9,6 +9,18 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Tijd en ruimte
+    subtitle: Re-treat je Heart FEB 2024
+    text: >-
+      Deze stilteretraite was de eerste keer dat ik mezelf de tijd en ruimte
+      gunde om echt goed naar binnen te kijken en vooral in het moment te zijn.
+
+
+      Dit voelde niet als een vakantie die afliep onderweg naar huis. Integendeel, want deze dagen bleken een startpunt in te luiden van een ervaring die ik juist mee naar huis nam.
+
+
+      Het verblijf en de meditaties hebben me een richtingsbordje opgeleverd dat me helpt de perspectieven op het leven te vinden die goed voelen
+    participant: Anoniem
   - title: "The center of your heart (Song & lyrics : @mira.liedjesopmaat)"
     subtitle: Re-treat je Heart FEB 2024
     text: >-
