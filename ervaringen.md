@@ -9,6 +9,29 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Van onrust en weerstand, naar rust en stille vreugde
+    subtitle: paasretraite 2024
+    text: >-
+      Van onrust en weerstand, naar rust en stille vreugde. Zo zou ik de
+      4-daagse stilteretraite voor mezelf omschrijven. De eerste 1,5 dag merkte
+      ik dat het druk was in mijn hoofd. De ene gedachten na de andere drong
+      zich aan me op. Inclusief gedachten als: 'Jeetje, zo vroeg op!'. 'Hoezo
+      kan ik niet gewoon lekker veel slapen deze dagen?' 'Ik kwam hier om eens
+      even helemaal niks te hoeven en lekker te ontspannen zonder input en in
+      het moment.' Ook had ik het gezelschap van een voortdurend kritische stem
+      over werk in mijn hoofd. De onrustige gedachten over zaken die me
+      bezighielden, vooral in werk en ook daarbuiten, bleven maar komen. 'Kan
+      deze kritische stem even uit?' heb ik regelmatig gedacht. 'Jeetje wat
+      vermoeiend die kritische stem in mijn hoofd'. Opvallend dat het geen
+      gedachten van trots en positiviteit waren en vooral van zaken die 'niet
+      goed' zouden zijn. 
+
+
+      En dit veranderde vanaf zaterdagochtend. Ik kon meer afstand nemen van mijn kritische gedachten die zaken in mijn leven als golven aan het wateroppervlak evalueerden. Ik kwam een laag dieper. De diepere rustige zee vol verlangens en ruimte. Ik ging het mediteren 's ochtends zelfs waarderen en hoorde de vogels en voelde het zonlicht op mijn rug. Ik ging zelfs de slenterwandeling waarderen en genoot intens van een mooie zonsondergang vanuit het bos. 'Wauw! Ik voel zoveel lichtheid en levensvreugde en ik 'doe' helemaal niks. Ik ben gewoon in de natuur.' Ik zag ook een hert en ik ging genieten van de kleine observaties van takken, bloemen en wolken. Ik genoot en voelde me lichter worden. Ook de oefeningen met dansen, tekenen en visualisatie raakten me meer en gaven me energie. Ik zag steeds helderder voor me hoe ik zaken wél wil. En ik voelde ruimte ontstaan om het op die manier te gaan beleven. Geen grote drastische veranderingen in mijn leven, wel een andere manier van beleven. Meer vanuit vertrouwen, rust en lichtheid. 
+
+
+      Dat is wat de stilteretraite me heeft opgeleverd. Samen met een paar minuten ochtendmetidatie en vaker wandelen zonder luisterboek. Want wat is de wereld om ons heen toch mooi. Als we er maar voor openstaan om haar ten volste ter ervaren.
+    participant: Arlette
   - title: Dit had ik veel eerder moeten doen
     subtitle: Paasretraite 2024
     text: >-
