@@ -9,6 +9,32 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Dit had ik veel eerder moeten doen
+    subtitle: Paasretraite 2024
+    text: >-
+      Zodra ik aankwam voelde ik al: oh dit had ik veel eerder moeten doen. Dat
+      heb ik ook, 2x eerder bij Robbert, maar de laatste was alweer 6 jaar
+      geleden. Wat een opluchting om even uit de alledaagse mallemolen te
+      stappen, te vertragen, te verstillen en terug te keren bij mezelf. Alleen
+      de vogeltjes te horen, in die bijzondere meditatieruimte. Ik kon meteen
+      weer herkennen hoe de mind van alles Ontzettend Belangrijk maakt, en hoe
+      heerlijk het is om te voelen dat in het moment, het enige wat echt
+      belangrijk is, het zwijgend zitten kijken naar een boom. In de stilte, in
+      de vertraging verscholen zit naast inzichten ook een levenskracht, en daar
+      kreeg ik volop contact mee. Nu, 2 weken later, voel ik het effect nog
+      steeds. Ik maak dingen minder Ontzettend Belangrijk. Heb meer energie. Kan
+      ook als ik weer in de identificatie met de opjutter of verhalenmaker in de
+      mind kom, er snel van uitzoomen en zien: oh ja, dit is niet wie ik ben. 
+
+
+      Robbert is een fijne retraite leider. Hij heeft veel kennis uit diverse tradities, is aardig en heeft humor. De retraite voelt niet overdreven 'streng' maar heeft wel de nodige structuren en rituelen om het als een retraite te laten voelen. Je neemt het als vanzelf wel serieus. Door de verschillende onderdelen raak je breed geïnspireerd en zit je ook niet de hele dag stil op een kussentje (iets wat mijn lijf echt niet zou trekken). Het ene moment een wandeling, dan weer loopmeditatie, dansmeditatie of een onderdeel met tekenen/schrijven. Voor mij perfect om te integreren wat er allemaal los komt door het 'pruttelen' in de zitmeditaties. 
+
+
+      En natuurlijk had ook ik, ondanks de opluchting en blijdschap, een moeilijk moment. Waarin ik weg wilde, afleiding zocht, me niet kon overgeven. Om dan door te zetten leverde een flinke verdieping op van het retraite proces. De dagelijkse gesprekjes met Robbert hielpen daar ook bij. 
+
+
+      Ik had geen grootse doorbraak in de retraite zelf. Maar dat ik nu 2 weken later nog steeds het effect voel geeft me het vermoeden dat er wel eens iets blijvend veranderd zou kunnen zijn. En zo niet, dan ga ik over een tijdje lekker nog een keer ;)
+    participant: Anja Sophie
   - title: Tijd en ruimte
     subtitle: Re-treat je Heart FEB 2024
     text: >-
