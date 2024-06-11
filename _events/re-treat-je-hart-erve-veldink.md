@@ -6,7 +6,7 @@ meta:
     dagprogramma onderdompelen in stilte.
   keywords: stilteretraite,retreat,hart
   author: Arjan ten Dam
-title: "Re-treat je hart! Erve Veldink (wegens persoonlijke omstandigheden afgelast) "
+title: "Re-treat je hart! (wegens persoonlijke omstandigheden afgelast) "
 image: uploads/Erve Veldink.jpg
 lead_text: >-
   Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers zich (voor
