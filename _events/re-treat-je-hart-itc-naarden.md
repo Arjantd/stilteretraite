@@ -5,7 +5,7 @@ meta:
   description: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers
     zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd
     dagprogramma onderdompelen in stilte.
-  author: Arjan ten Dam
+  author: Robbert van Bruggen
 title: Re-treat je Hart! ITC Naarden
 image: uploads/IMG-20220526-WA0004.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers
