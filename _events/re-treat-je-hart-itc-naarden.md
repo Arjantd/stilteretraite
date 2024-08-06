@@ -34,8 +34,8 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 
 ‘Re-treat je Hart’ is een stilte retraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
 
-* Aanvang retraite: woensdag 23 november 2024 om 16.00 uur
-* Einde retraite: zondag 27 november 2024 om 15.00 uur
+* Aanvang retraite: zaterdag 23 november 2024 om 16.00 uur  
+* Einde retraite: woensdag 27 november 2024 om 15.00 uur
 * Locatie: ITC Naarden
 * Kosten: 725 euro
 * Informatie: Robbert van Bruggen
