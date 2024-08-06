@@ -7,7 +7,7 @@ meta:
     dagprogramma onderdompelen in stilte.
   author: Arjan ten Dam
 title: Re-treat je Hart! ITC Naarden
-image: uploads/Devi-Tara-and-Buddha-768x512.jpg
+image: uploads/IMG-20220526-WA0004.jpg
 lead_text: Re-treat je Hart is een vijfdaagse retraite waar max. 12 deelnemers
   zich (voor een eerste of soms tweede keer) op geleide van een gestructureerd
   dagprogramma onderdompelen in stilte.
@@ -20,7 +20,7 @@ attendees: 12
 category: 5-days
 layout: event
 ---
-Deze vijfdaagse retraite in de heerlijke omgeving van Erve Veldink is een uitnodiging om gehoor te geven aan de *inner call om* een transformatie die zich kennelijk op dit moment in jouw leven aandient te laten gebeuren voorbij dat wat tot nu toe zo vertrouwd was. Dat vraagt om het scheppen van ruimte om onder ogen te zien hoe de vertrouwde manier van leven vanuit jouw ‘ik-besef’ dat wil tegenhouden omdat het bang is de controle en het overzicht te verliezen. Maar je voelt aan alle kanten dat er ‘iets wil gebeuren’. Je weet alleen nog niet wat het is… je merkt dat de zingeving zoals die er zo lang was, er niet meer vanzelfsprekend is. Er zijn barstjes ontstaan.
+Deze vijfdaagse retraite in de heerlijke omgeving van Naarden is een uitnodiging om gehoor te geven aan de *inner call om* een transformatie die zich kennelijk op dit moment in jouw leven aandient te laten gebeuren voorbij dat wat tot nu toe zo vertrouwd was. Dat vraagt om het scheppen van ruimte om onder ogen te zien hoe de vertrouwde manier van leven vanuit jouw ‘ik-besef’ dat wil tegenhouden omdat het bang is de controle en het overzicht te verliezen. Maar je voelt aan alle kanten dat er ‘iets wil gebeuren’. Je weet alleen nog niet wat het is… je merkt dat de zingeving zoals die er zo lang was, er niet meer vanzelfsprekend is. Er zijn barstjes ontstaan.
 
 De specifieke omstandigheden van een meerdaagse stilte-retraite bieden die ruimte die je ook op vakantie meestal niet vindt - een stilte-retraite is een ‘vindplaats’ van nieuwe richting. Je terugtrekken uit alle sociale impulsen en de rollen die je vervult schept in een voorwaarde. We zijn zo geneigd om ons steeds maar op ‘buiten’ te richten.
 
