@@ -5,7 +5,7 @@ meta:
   description: Rotselaar, België
   author: Robbert van Bruggen
 title: St. Pauluscentrum
-image: uploads/Post 7 - vakantieliefde.jpg
+image: uploads/Event - 10 days.jpg
 location: Rotselaar, België
 description: .
 gallery: uploads/1.jpg
