@@ -7,7 +7,7 @@ meta:
 title: St. Pauluscentrum
 image: uploads/Event - 10 days.jpg
 location: Rotselaar, België
-description: .
+description: V﻿olgt
 gallery: uploads/1.jpg
 layout: location
 style: <link rel="stylesheet"
