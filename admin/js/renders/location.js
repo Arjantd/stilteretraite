@@ -14,10 +14,12 @@ export function locationRender() {
                 this.props.widgetFor('body'),
                 h('div', {className: 'spacer-20'}),
                 h('div', {className: 'row gallery-items-nocaption'},
-                    this.props.widgetsFor('gallery').map((gallery_item, index) => 
-                        h('div', {key: index, className: 'col-md-4 col-sm-6 col-xs-6 gallery-grid-item'},
+                    this.props.widgetsFor('gallery').map((gallery_item, index) => {
+                        console.log(gallery_item)
+                        return h('div', {key: index, className: 'col-md-4 col-sm-6 col-xs-6 gallery-grid-item'},
                             h('img', {src: resizedImageUrl(gallery_item.get('data').toString(), 358, 239), width: 358, height: 239})
                         )
+                    }
                     )
                 )
             )
