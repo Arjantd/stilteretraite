@@ -4,7 +4,7 @@ meta:
   keywords: "retraite, stilte, bezinning, beginner "
   description: Maak kennis met de stilte in jezelf in het prachtige en mysterieuze Marokko
   author: Robbert van Bruggen
-title: HERBRONNEN IN DE RIF
+title: Herbronnen in de Rif, Marokko
 image: uploads/maroc-1.jfif
 lead_text: >-
   Van zaterdag 7 juni - zaterdag 14 juni 2025 organiseert Stilteretraite.nl een
