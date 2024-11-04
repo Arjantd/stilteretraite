@@ -27,7 +27,7 @@ De stilteretraite vindt plaats in het Hart van het Nationaal Park Al Hoceima, da
 \
 In deze stilte-retraite zal gebruik gemaakt worden van meditaties en oefeningen uit het Soefisme en andere mystieke tradities. Zeer uitzonderlijk is de toestemming om voor speciale meditaties (Zikr) gebruik te maken van een nabij gelegen Amrabet (Heilige plek). 
 
-Aankomst op zaterdag 7 juni waarop je kunt installeren, en waarin we bij het diner op een culturele wijze welkom worden geheten.\
+Aankomst op zaterdag 7 juni waarop je kunt installeren, en waarin we bij het diner op een culturele wijze welkom worden geheten.
 
 De stilte-retraite vangt op zondag 8 juni na de lunch aan en eindigt op vrijdagmiddag 13 juni. Zaterdag 14 juni is de vertrekdag. 
 
