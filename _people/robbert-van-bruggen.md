@@ -1,10 +1,18 @@
 ---
+meta:
+  title: Robbert van Bruggen is een van de meest ervaren retraite-begeleiders van
+    Nederland
+  keywords: ervaring, retraite, vertrouwen, hoge kwaliteit
+  description: Robbert is een retraite-begeleider die met humor de kramp van het
+    ‘ik’ spiegelt en voortdurend het het spirituele met het alledaagse aardse
+    leven verbindt.
+  author: Robbert van Bruggen
 title: Robbert van Bruggen
 sub_heading: Initiatiefnemer, retraite begeleider
-description: "Robbert van Bruggen (MA) is begeleidingskundige en docent aan de
-  master begeleidingskunde en specialist in het in beweging brengen van
-  identificatie met taaie patronen in organisaties. Sinds 2010 organiseert en
-  begeleidt hij stilte retraites onder de naam 'Ineenhutjeopdehei'. "
+description: >-
+  \
+
+  Robbert van Bruggen (MA) is begeleidingskundige en docent aan de master begeleidingskunde en specialist in het in beweging brengen van identificatie met taaie patronen in organisaties. Sinds 2010 organiseert en begeleidt hij stilte retraites onder de naam 'Ineenhutjeopdehei'.
 thumbnail: uploads/robbert1.jpg
 email: "robbert@stilteretraite.nl "
 link_to_details: true
