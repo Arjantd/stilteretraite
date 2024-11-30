@@ -1,10 +1,10 @@
 ---
-title: Ervaringen
+title: Ervaringen stilteretraite.nl
 layout: testimonials
 image: uploads/banner A.jpg
 meta:
-  title: Ervaringen van deelnemers
-  keywords: ervaring, reviews, ervaringen, persoonlijk
+  title: Ervaringen van deelnemers stilteretraite.nl
+  keywords: ervaring, reviews, ervaringen, retraite van Robbert van Bruggen
   description: Deelnemers aan onze retraites koesteren bijzondere herinneringen
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
