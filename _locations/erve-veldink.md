@@ -1,35 +1,36 @@
 ---
-layout: location
-style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
-  />
-script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 meta:
-  title: ''
-  keywords: ''
-  description: ''
-  author: ''
+  title: Locatie stilteretraite.nl Erve Veldink
+  keywords: Robbert van Bruggen, stilte-retraite, Achterhoek
+  description: Heerlijk landelijk en in stilte verblijven in de Achterhoek
+  author: Robbert van Bruggen
 title: Erve Veldink
-image: uploads/1.jpg
+image: uploads/7.jpg
 location: Haarlo
-description: Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de
-  Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte
-  hoor je een koekoek en in de wei grazen paarden.  Vanaf de boerderij loop je via
-  boerenpaden langs akkers en bospercelen. Prachtige open plekken in het bos nodigen
-  uit tot meditatie.
+description: Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in
+  de Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In
+  de verte hoor je een koekoek en in de wei grazen paarden.  Vanaf de boerderij
+  loop je via boerenpaden langs akkers en bospercelen. Prachtige open plekken in
+  het bos nodigen uit tot meditatie.
 gallery:
-- uploads/20220318_112725.jpg
-- uploads/12.jpg
-- uploads/11.jpg
-- uploads/10.jpg
-- uploads/9.jpg
-- uploads/8.jpg
-- uploads/7.jpg
-- uploads/6.jpg
-- uploads/5.jpg
-- uploads/4.jpg
-- uploads/2.jpg
-- uploads/0.jpg
-
+  - uploads/20220318_112725.jpg
+  - uploads/12.jpg
+  - uploads/11.jpg
+  - uploads/10.jpg
+  - uploads/9.jpg
+  - uploads/8.jpg
+  - uploads/7.jpg
+  - uploads/6.jpg
+  - uploads/5.jpg
+  - uploads/4.jpg
+  - uploads/2.jpg
+  - uploads/0.jpg
+layout: location
+style: <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+  />
+script: <script
+  src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ---
 Welkom op Erve Veldink, onze retraite-accommodatie nabij Haarlo in de Achterhoek! Op het erf scharrelen de kippen, eenden, pauwen en duiven. In de verte hoor je een koekoek en in de wei grazen paarden.  Vanaf de boerderij loop je via boerenpaden langs akkers en bospercelen. Prachtige open plekken in het bos nodigen uit tot meditatie.
 
