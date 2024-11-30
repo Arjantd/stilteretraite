@@ -1,15 +1,23 @@
 ---
 sub_heading: ""
+meta:
+  title: "Muziek tijdens stilte retraite "
+  keywords: klank, muziek, retraite
+  description: Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank
+  author: Robbert van Bruggen
 title: Muziek voor meditatie | deel 1
 banner_image: uploads/headphines.jpeg.jpg
 lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en
   is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en
   ....
-date: 2019-08-14 01:00:00 +0200
+date: 2024-09-13T23:00:00.000Z
 tags:
+  - Muziek retraite
+author: _people/robbert-van-bruggen.md
+categories:
   - Muziek
-author: _people/arjan-ten-dam.md
-related_posts: []
+related_posts:
+  - Stille zaterdag
 layout: post
 ---
 > Muziek doet iets. Het laat je afstemmen op een universele energie en is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en ontspanning. Vanuit een praktisch oogpunt biedt klank je ook een focuspunt, bijvoorbeeld als je tot rust wil komen voor het slapen gaan of voorafgaand aan een meditatiesessie.
