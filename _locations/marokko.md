@@ -7,7 +7,7 @@ meta:
 title: Marokko
 image: uploads/maroc-1.jfif
 location: Marokko
-description: Meer informatie volgt
+description: Meer informatie volgt begin 2025
 gallery: uploads/maroc-2.jfif
 layout: location
 style: <link rel="stylesheet"
@@ -16,4 +16,4 @@ style: <link rel="stylesheet"
 script: <script
   src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ---
-Meer informatie volgt
+Meer informatie volgt begin 2025
