@@ -1,7 +1,7 @@
 ---
 meta:
   title: retraite in marokko 2025
-  keywords: "retraite, stilte, bezinning, beginner "
+  keywords: retraite voor beginners, stilte, bezinning, genieten van natuur en cultuur
   description: Maak kennis met de stilte in jezelf in het prachtige en mysterieuze Marokko
   author: Robbert van Bruggen
 title: Herbronnen in de Rif, Marokko
