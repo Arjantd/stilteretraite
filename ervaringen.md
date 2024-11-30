@@ -1,5 +1,5 @@
 ---
-title: Ervaringen stilteretraite.nl
+title: Ervaringen van deelnemers aan stilteretraite.nl
 layout: testimonials
 image: uploads/banner A.jpg
 meta:
