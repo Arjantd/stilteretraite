@@ -8,7 +8,7 @@ title: Marokko
 image: uploads/maroc-1.jfif
 location: Marokko
 description: Meer informatie volgt begin 2025
-gallery: uploads/Event - center of cyclone.jpg
+gallery: uploads/maroc4.jpg
 layout: location
 style: <link rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
