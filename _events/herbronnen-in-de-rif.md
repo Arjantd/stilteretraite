@@ -32,9 +32,7 @@ Aankomst op zaterdag 7 juni waarop je kunt installeren, en waarin we bij het din
 De stilte-retraite vangt op zondag 8 juni na de lunch aan en eindigt op vrijdagmiddag 13 juni. Zaterdag 14 juni is de vertrekdag. 
 
 **B﻿egeleiding**\
-De stilte-retraite wordt begeleid door Robbert van Bruggen. Assistente is Bouchra Banhammou, geboren in het millitaire ziekenhuis in Al Hoceima. Werkzaam in Rotterdam als begeleidingskundige. Zij heeft een grote passie voor de ontwikkeling van de mens. 
-
-**Maximum aantal deelnemers is 8!**\
+De stilte-retraite wordt begeleid door Robbert van Bruggen. Assistente is Bouchra Banhammou, geboren in het millitaire ziekenhuis in Al Hoceima. Werkzaam in Rotterdam als begeleidingskundige. Zij heeft een grote passie voor de ontwikkeling van de mens. **Maximum aantal deelnemers is 8!**\
 Na aanmelding ontvang je een welkomstbrief met alle praktische informatie en volgt er een bel- of Zoom-afspraak, waarin je al je vragen kunt stellen.
 
 De kosten voor de retraite bedragen € 1.150,00 incl. 21% btw, en is inclusief eenvoudig verblijf en alle authenthieke biologische (vegetarische) maaltijden van de streek Ibeqoyen. 
