@@ -40,4 +40,4 @@ Na aanmelding ontvang je een welkomstbrief met alle praktische informatie en vol
 De kosten voor de retraite bedragen € 1.150,00 incl. 21% btw, en is inclusief eenvoudig verblijf en alle authenthieke biologische (vegetarische) maaltijden van de streek Ibeqoyen. 
 De kosten zijn exclusief de reis. Je vliegt op eigen gelegenheid naar Vliegveld Alhocima en neemt vanaf het vliegveld een taxi (een rit van ca. 30 minuten) naar de locatie van ons verblijf. Vanaf Rotterdam zijn er rechtstreekse vluchten naar Al Hoceima met Transavia, je kunt ook vliegen via Belgie of Duitsland.
 
-Laat die alsmaar groeiende Berg Werk in Nederland achter je, en kom Herbronnen in de Bergen van de Rif !
+Laat die alsmaar groeiende Berg Werk in Nederland achter je, en kom Herbronnen in de Bergen van de Rif!
