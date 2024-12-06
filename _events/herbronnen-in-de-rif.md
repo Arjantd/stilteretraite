@@ -24,9 +24,8 @@ De stilteretraite vindt plaats in het hart van het Nationaal Park Al Hoceima, da
 
 ![Retraite locatie ](uploads/maroc6.jpg "Retraite locatie Marokko ")
 
-![1](uploads/maroc6.jpg "2")
 
-\
+
 In deze stilte-retraite zal gebruik gemaakt worden van meditaties en oefeningen uit het Soefisme en andere mystieke tradities. Zeer uitzonderlijk is de toestemming om voor speciale meditaties (Zikr) gebruik te maken van een nabij gelegen Amrabet (Heilige plek). 
 
 Aankomst op zaterdag 7 juni waarop je kunt installeren, en waarin we bij het diner op een culturele wijze welkom worden geheten.
