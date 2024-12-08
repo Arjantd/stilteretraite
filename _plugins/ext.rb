@@ -46,3 +46,4 @@ end
 
 Liquid::Template.register_filter(Jekyll::Filters::ImageURLFilters)
 Liquid::Template.register_filter(Jekyll::Filters::OpenGraphFilters)
+Liquid::Template.register_filter(Jekyll::Filters::ContentFilters)
