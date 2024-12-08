@@ -14,14 +14,14 @@ testimonials:
     text: >-
       De taal van de stilte heeft me gegrepen en leeft nog voelbaar bij me. Het
       lijkt wel liefde op het eerste (of tweede 😉) gezicht. In vrijheid
-      verbonden, jaren gezocht in partners en daar is ie dan 😊 Dat had ik
-      vooraf niet verwacht trouwens.\
+      verbonden, jaren gezocht in partners en daar is ie dan 😊. Dat had ik
+      vooraf niet verwacht trouwens. \
 
 
       Mijn lijf geeft op haar tijd nog signaaltjes in de vorm van een plopje, flittertje, schichtje, fladdertje enz. De woorden dat mijn lijf haar tijd nog nodig heeft om te ontkrampen komen bij me op me en er ontstaat te pas en de onpas een brede glimlach van binnen en buiten.  Verder is mijn lijf erg moe en is er ook een vitaal deel in me, wat een energie leeft er in me zeg en tegelijk heb ik veel geslapen en gelanterfant.\
 
 
-      Alles is anders en tegelijk ook niet. Het blijft een gekke gewaarwording, maar vind haar weg en ik vind mijn weg daarin ook zo nu de tijd het dagelijkse leven ook weer wat vormgegeven heeft. Ik ben nu net in de praktijk gearriveerd en cliënten reageren deze week trouwens ook. Opmerkingen als “het was anders deze keer maar ik weet niet wat” zijn een aantal keer gepasseerd. Grappig is dat.\
+      Alles is anders en tegelijk ook niet. Het blijft een gekke gewaarwording, maar vindt haar weg en ik vind mijn weg daarin ook zo nu de tijd het dagelijkse leven ook weer wat vormgegeven heeft. Ik ben nu net in de praktijk gearriveerd en cliënten reageren deze week trouwens ook. Opmerkingen als “het was anders deze keer maar ik weet niet wat” zijn een aantal keer gepasseerd. Grappig is dat.\
 
 
       Lieve Robbert, met dank voor deze reis en vooral je aanwezigheid hierbij, dat is me zeer waardevol.
