@@ -24,4 +24,4 @@
 </div>
 <div class="spacer-20"></div>
 <p class="lead">{{ include.lead_text }}</p>
-{{ include.content }}
+{{ include.content | content_resized_image_urls: 750, 500  }}

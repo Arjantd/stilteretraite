@@ -32,6 +32,15 @@ module Jekyll
                 end
             end
         end
+        module ContentFilters
+            def content_resized_image_urls(content, width, height, fit='')
+              content.gsub(/<img\s+[^>]*src=["']([^"']+)["'][^>]*>/) do |match|
+                url = $1
+                new_src = "/.netlify/images?url=#{url}&fit=#{fit}&w=#{width}&h=#{height}"
+                match.sub(/src=["'][^"']*["']/, "src=\"#{new_src}\"")
+              end
+            end
+        end
     end
 end
 
