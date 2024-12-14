@@ -18,7 +18,7 @@ testimonials:
       vosje zag voor de deur, tijdens de meditatie daarna ervaarde ik een totale
       stilte (geen gedachten in mijn hoofd). Dit was voor mij een hele aparte
       ervaring.
-    participant: P. Accountant
+    participant: P. (Accountant)
   - title: De taal van de stilte
     subtitle: Re-treat je Heart nov 2024
     text: >-
