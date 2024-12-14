@@ -9,6 +9,16 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Vosje
+    subtitle: Re-treat je Heart nov 2024
+    text: Ik heb de stilte retraite (een cadeau aan mezelf) als een bijzondere reis
+      ervaren waarbij er alle ruimte is om de dingen te doen die je voor jezelf
+      nodig hebt. Het heeft mij goed gedaan, je moet het zelf ervaren. Tijdens
+      de retraite kwam voor mij de omslag bij het moment dat ik 's avonds een
+      vosje zag voor de deur, tijdens de meditatie daarna ervaarde ik een totale
+      stilte (geen gedachten in mijn hoofd). Dit was voor mij een hele aparte
+      ervaring.
+    participant: P. Accountant
   - title: De taal van de stilte
     subtitle: Re-treat je Heart nov 2024
     text: >-
