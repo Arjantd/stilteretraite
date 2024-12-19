@@ -9,6 +9,22 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Ruimte in mijn hart
+    subtitle: Re-treat je Heart nov 2024
+    text: >-
+      Ergens diep in mij voelde ik het verlangen naar stilte. De drukte van het
+      leven, de drukte van het werk, het slokte me op. Ik was op zoek naar rust,
+      naar iets wat ik niet kon omschrijven.  
+
+
+      Na de online kennismaking met Robert wist ik het zeker en meldde ik me aan. Het verlangen was er nog steeds, het verlangen naar …….. iets wat ik niet met woorden kon beschrijven, het was een gevoel.
+
+
+      De structuur in de retraite dagen, de verscheidenheid aan oefeningen en meditaties, de rust en de ruimte, de liefdevolle begeleiding brachten mij naar de stilte. Brachten mij terug naar mezelf, naar mijn hart.
+
+
+      Nu, inmiddels 3 weken na de retraite, voel ik nog steeds de ruimte in mijn hart. En ja, de wereld draait door, het werk gaat door, het leven gooit van alles op mijn bord. Alles is hetzelfde en toch is alles anders. Ik ben dankbaar voor deze retraite, voor deze reis, voor het thuiskomen in mijn hart.
+    participant: Yvonne
   - title: Vosje
     subtitle: Re-treat je Heart nov 2024
     text: Ik heb de stilte retraite (een cadeau aan mezelf) als een bijzondere reis
