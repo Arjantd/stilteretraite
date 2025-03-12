@@ -9,6 +9,176 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: BEN JE BEREID MET LEGE HANDEN TE STAAN?
+    subtitle: Re-treat je Heart maart 2025
+    text: >-
+      Een adelaar had ik meegenomen als symbool voor de retraite die mij te
+      wachten stond.
+
+      Met een mooi verhaal over het ontzag dat ik voelde bij het zien van roofvogels,
+
+      zittend langs de weg of zwevend door de lucht. De sereniteit, de stilte en de kracht die ze uitstralen, het kunnen aanschouwen en de innerlijk wijsheid..
+
+
+      De aangepastheid\
+
+      “Zie je ook die klauwen van die adelaar werd mij gevraagd?” in het persoonlijke korte gesprekje de volgende dag. “Hoe de adelaar zijn scherpe blik gebruikt om op zijn prooi te duiken, het vast te grijpen met zijn klauwen en aan flarden te scheuren tot er niets van over blijft?
+
+      Kun je dat ook toelaten in jezelf? De donkerte, de schaduw, de vernietiger? De heks in jou?
+
+      Durf jij die donkere holen in te gaan? Kun jij vrij de impulsen in jezelf volgen, waar het ook maar heen wil stromen? Mag je daar uiting aangeven?
+
+      Kun je de in gehoudenheid, de aangepastheid laten gaan?”
+
+
+      Het was een uitnodiging om te doen wat er zomaar in mij opkwam: te schreeuwen, te stampen, mij besmeuren met modder, takken breken, dansen, klanken maken, in de bladeren rollen…. Mag je jouw eigen toon zingen? Kun je op dat moment volgen wat er wil gebeuren? Doe je ding en speel er mee!
+
+
+      Illusies wegsnoeien\
+
+      Zo nam ik Lilith als wilde vrouw en Haqqiqah met de snoeischaar mee op mijn reis door de dagen van stilte. En liet mij inspireren.
+
+      Haqqiqah neemt je mee naar het donker, ben je bereid te sterven? Niet om in het donker rond te blijven dolen maar daar ook weer doorheen te bewegen en het licht te zien. Hij snoeit alle illusies weg, zodat echtheid overblijft.
+
+
+      Controle loslaten\
+
+      Het rad dat maar doordraait met rond spinnende gedachten en herhalende levenslussen terwijl je in de pas probeert te blijven. Laat je maar vallen door dat gat van het rad, niet wetend waar je uitkomt. Het rad loslatend terwijl je de vrije ruimte in valt.
+
+      Kun je je overgeven aan wat er is in elk moment? Alles door je heen laten stromen zonder te grijpen of er van af te willen? Controle laten gaan?
+
+
+      Ben je bereid met lege handen te staan? kwam er in mij op.
+
+
+      Terug in het kooitje\
+
+      We begonnen met de groep aan een rustige, slenterende wandeling door het bos met de instructie om alles zorgvuldig in je op te nemen. Net daarvoor was ik juist aangemoedigd om mijn vrijheid te nemen en om mijn eigen ingevingen te volgen. En zo klauterde ik hier en daar op stapels takkenbossen en liet mij leiden door wat er in mij opkwam. Na een paar honderd meter kwam ik er tot mijn schrik achter dat mijn telefoon uit mijn zak gevallen was onderweg. Geen idee waar ik die verloren had. Een flinke paniek kwam er in mij omhoog en ik holde terug en trachtte mij te herinneren hoe en waar ik gelopen had. Terwijl er allerlei gedachten door mij heen raasden: Het is gedaan met de retraite, ik moet eerst mijn telefoon vinden, dit vind ik niet leuk. Ik dook ongemerkt wat in elkaar en ik voelde de opgekomen stress in mijn lijf. Waarom moest ik nou zo roekeloos zijn, waarom kon ik niet gewoon “netjes” op het pad blijven net als de rest?
+
+
+      Tot ik mij opeens met een schok realiseerde dat ik bijna zo weer terug in ‘mijn kooitje’ was gestapt…
+
+
+      Overgave\
+
+      De assistente die de rij van de groep sloot, overtuigde mij om gewoon de wandeling voort te zetten. Beweeg hieraan voorbij, heb vertrouwen dat je je telefoon weer vindt, straks help ik je zoeken en laat los voor nu.
+
+
+      Het lukte mij om verder genietend mijn eigen weg te vervolgen. De groep te verlaten toen die behoefte omhoog kwam om vrij door de bossen te struinen, mijn eigen tempo en ritme te volgen. Neer te zitten op de grond terwijl ik mijn handen door de zwarte aarde liet gaan. De zon scheen vol door de bomen heen en ik voelde de warmte op mijn huid. En zo volgde ik waar ik de beweging heen voelde gaan en was stil als er geen impuls kwam.
+
+
+      Op blote voeten liep ik weer terug en voelde de natuur intens om mij heen.
+
+      Bij terugkomst kwamen er weer gedachten op over mijn telefoon. Wat voor consequenties dat zou hebben als ik hem kwijt was: Al die foto’s die erop stonden, de telefoonnummers die weg zouden zijn, ik zal niet meer te bereiken zijn door cliënten..
+
+
+      Bereidheid\
+
+      Ben je bereid te sterven kwam er weer in mij op, kun je loslaten? Kun je met lege handen staan?
+
+      En toen voelde ik: ja ik ben bereid mijn telefoon los te laten. Als dat is wat het is. Met de werkelijkheid valt niet te onderhandelen. (Maar ik riep wel de heilige Anthonis aan, die helpt om dingen weer terug te vinden).
+
+
+      Na de lunch gingen we in stilte op zoek naar mijn telefoon, de zelfde route weer proberen te volgen die we gegaan waren. Waar was ik heen gegaan, waar was ik van het pad afgegaan en ondertussen openstellend voor ingevingen. En daar in een stapel van takken zag ik hem plotseling liggen, naar beneden gevallen tussen de takken maar toch nog net zichtbaar.
+
+      Wauw, zo liet Haqqiqah zich weer zien, snoeide weg wat ik dacht nodig te hebben en gaf mij een les in overgave en vertrouwen!
+
+
+      Durf je met lege handen te staan? Ja, ik was bereid.
+    participant: Marion
+  - title: DURF JE VOOR GEK TE STAAN?
+    subtitle: Re-treat je Heart maart 2025
+    text: |-
+      Haqqiqah werd mij aangereikt\
+      ik nam de uitnodiging aan\
+      met enige spanning in mijn buik\
+      maar kon niet anders dan ‘ja’ zeggen
+
+      Haqqiqah is als een snoeimes\
+      hakt alles weg wat niet echt is\
+      kan plotseling alle verkleedkleren van je afrukken\
+      klaar met de poppenkast!
+
+      Niets om je achter te verschuilen\
+      verontschuldig je niet meer voor je bestaan\
+      ga staan en wees hier nu\
+      in het volle licht
+
+      Ben je bereid te sterven?\
+      Te sterven aan illusies,\
+      opgebouwde luchtkastelen\
+      die bij de eerste zucht vervliegen?
+
+      Als een specht\
+      die je net zo lang wakker klopt\
+      tot je luistert\
+      en gaten hakt in je schuilplaats
+
+      Zodat je door de gaten heen kunt zien\
+      en een nieuwe werkelijkheid\
+      zich kan open baren\
+      terwijl sluiers weg geschoven worden
+
+      Haqqiqah toonde zich meerdere malen\
+      uit onverwachte hoek en greep mij bij de keel\
+      kun je verdwalen in het bos, totaal gedesoriënteerd raken\
+      terwijl je op tijd denkt te moeten komen?
+
+      En wat als we deze periode van stilte afsluiten\
+      je woorden mag geven aan wat je bezielt\
+      en de angst je als een kolkende rivier bijna meesleurt\
+      bij de gedachte dat er geen woord uit je strot zal komen?
+
+      Kun je hiermee dansen\
+      alles door je heen laten gieren\
+      zonder de controle te willen houden\
+      totdat je alleen nog maar de echo hoort van je verhaal?
+
+      Het niet meer kleeft\
+      als lijm aan je ingewanden\
+      maar ter plekke op kan lossen\
+      net zo onverwachts als het gekomen is?
+
+      De wind die langs je huid fluistert\
+      en in een stormachtige bui tot klitten in je haar verwaait\
+      tot de storm weer bedaart en woeste golven uitrollen op het strand\
+      om weer op te gaan in de zee
+
+      Laat het kaartenhuis maar in elkaar storten\
+      als lucifer houtjes knakken of opeens de vlam erin\
+      als een plotselinge bliksemschicht die zich neerstort\
+      uit een gitzwarte hemel
+
+      Gedachten die rondjes blijven draaien\
+      als radertjes in je hoofd\
+      ze lopen vanzelf wel vast of vallen stil\
+      als de aandacht steeds meer verslapt
+
+      Geen platgetreden paden voor jou\
+      durf het spoor bijster te raken\
+      laat je ontsporen\
+      en weet dat dat je pad is
+
+      Maakt het uit als andere ogen\
+      priemen in je rug\
+      en je de vraagtekens denkt te voelen\
+      in hun ogen: Spoor je nog wel?
+
+      Kijk niet door die ogen naar jezelf\
+      ga jouw eigen pad\
+      door modder heen als het moet\
+      herrijs als een feniks uit de as
+
+      Vervolg je reis\
+      vanuit innerlijk kompas\
+      bestemming onbekend\
+      en neem het risico voor gek te staan
+
+      Maar achter en onder\
+      al die vormen en gezichten\
+      gaat een Liefde schuil die door alles heen schijnt\
+      en onveranderlijk blijft
+    participant: Marion
   - title: Ruimte in mijn hart
     subtitle: Re-treat je Heart nov 2024
     text: >-
