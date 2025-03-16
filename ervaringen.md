@@ -9,6 +9,20 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Mini 'verhaaltjes'
+    subtitle: Re-treat je Heart maart 2025
+    text: >-
+      Naar huis rijden heb ik ervaren als een reis van lang weg geweest. Van
+      heel langzaam van het terrein afrijden, iets harder in de wijk, nog iets
+      harder net daar buiten en uiteindelijk de snelheid van de snelweg. Ook
+      daar weer voor het eerst muziek aan. Alles voelde als nieuw en alsof ik
+      zomaar paste in het ritme van alles om me heen. 
+
+
+      In mijn eigen wijk werd ik overvallen door de mini ‘verhaaltjes’. Mensen wandelend, spelend, pratend. Allemaal in hun eigen bubbel. En ik was een voorbijgaande toeschouwer. Eenmaal thuis leek alles nieuw en toch vertrouwd. Heel bijzonder. 
+
+      Ik wil je danken voor deze mooie dagen.
+    participant: Jeanine
   - title: BEN JE BEREID MET LEGE HANDEN TE STAAN?
     subtitle: Re-treat je Heart maart 2025
     text: >-
