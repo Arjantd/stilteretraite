@@ -9,6 +9,15 @@ meta:
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
 testimonials:
+  - title: Verbondenheid met het geheel
+    subtitle: Re-treat je Heart maart 2025
+    text: "De ervaring bij de stilte-retraite laat zich moeilijk in woorden vangen.
+      Als ik toch een poging doe, zou ik het als volgt willen beschrijven: Door
+      de stilte-retraite heb ik de stilte in mezelf op een dieper niveau mogen
+      ervaren, daardoor ontstond er een intense verbondenheid met het geheel:
+      als het ware opgaan in het Universum. Vervolgens zijn er gevoelens van
+      bevrijding, dankbaarheid, diepe rust en helderheid ontstaan."
+    participant: X (arts)
   - title: Mini 'verhaaltjes'
     subtitle: Re-treat je Heart maart 2025
     text: >-
