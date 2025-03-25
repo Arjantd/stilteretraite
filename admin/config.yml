@@ -147,3 +147,12 @@ collections:
           - {label: "Subtitle", name: "subtitle", widget: "string", required: false, default: ""}
           - {label: "Text", name: "text", widget: "markdown", default: ""}
           - {label: "Participant", name: "participant", widget: "string", default: ""}
+  - name: "videos"
+    label: "Videos"
+    folder: "_videos"
+    create: true
+    fields:
+      - {label: "Caption", name: "caption", widget: "string"}
+      - {label: "YouTube Link", name: "link", widget: "string"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Template", name: "template", widget: "hidden", default: "video"}
