@@ -20,11 +20,10 @@ attendees: 8
 category: 7-days
 layout: event
 ---
+<https://youtu.be/tFcbKs0C0DA>\
 De stilteretraite vindt plaats in het hart van het Nationaal Park Al Hoceima, dat zich over een oppervlakte van 479km2 uitstrekt als een bergachtig landschap. De locatie(aduz)van de retraite bevindt zich dichtbij uitzichten op verborgen baaien langs de Marokkaanse kustlijn. In deze omgeving krijgt de stilte-retraite een extra dimensie doordat we het vertragende ritme van het leven in de bergen ervaren. De retraite kent een dagstructuur en leent zich voor wandelingen en het met jezelf verwijlen in afzondering en stilte. We verblijven in een kleurig karakteristiek gebouw waar we afwisselend op het overdekte dakterras of buiten in de natuur mediteren.
 
 ![Retraite locatie ](uploads/maroc6.jpg "Retraite locatie Marokko ")
-
-
 
 In deze stilte-retraite zal gebruik gemaakt worden van meditaties en oefeningen uit het Soefisme en andere mystieke tradities. Zeer uitzonderlijk is de toestemming om voor speciale meditaties (Zikr) gebruik te maken van een nabij gelegen Amrabet (Heilige plek). 
 
