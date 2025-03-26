@@ -1,7 +1,0 @@
----
-template: video
-link: https://www.youtube.com/watch?v=DexkwGLmv24
-thumbnail: uploads/Re-treat je Hart februari 2023.jpg
-caption: Re-treat je Hart februari 2023
-
----
