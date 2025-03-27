@@ -35,6 +35,10 @@
         <meta property="og:description" content="{{ page.meta.description }}" />
         <meta property="og:url" content="{{ page.url | absolute_url }}" />
         <meta property="og:image" content="{{ page | og_image: paginator | resized_image_url: 750, 500, 'cover' | absolute_url }}" />
+        <meta property="og:image:secure_url" content="{{ page | og_image: paginator | resized_image_url: 750, 500, 'cover' | absolute_url }}" />
+        <meta property="og:image:type" content="image/jpeg" /> 
+        <meta property="og:image:width" content="750" /> 
+        <meta property="og:image:height" content="500" />
         <style type="text/css">{{ site.data.css[page.layout] }}</style>
         <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="{{ "/css/ie.css" | absolute_url }}" media="screen" async /><![endif]-->
         {{ page.style }}
