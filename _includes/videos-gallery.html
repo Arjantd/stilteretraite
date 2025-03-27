@@ -1,7 +1,7 @@
 <ul class="sort-destination isotope gallery-items" data-sort-id="gallery">
     {% for video in include.videos %}
     <li class="col-md-6 col-sm-12 col-xs-12 grid-item gallery-grid-item videos format-video">
-        <a href="{{ video.link }}" class="media-box magnific-video"> <img data-src="{{ video.thumbnail | resized_image_url: 555, 370, 'contain' }}" width="555" height="370" alt="" class="lazy"></a>
+        <a href="{{ video.link }}" class="media-box magnific-video"> <img data-src="{{ video.thumbnail | resized_image_url: 555, 370, 'cover' }}" width="555" height="370" alt="" class="lazy"></a>
         <div class="grid-item-content">
             <p>{{ video.caption }}</p>
         </div>
