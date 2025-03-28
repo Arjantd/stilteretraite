@@ -1,1 +1,1 @@
-:filepath/:w/:h/:fit/:filename  /.netlify/images?url=:filepath/:filename&fit=:fit&w=:w&h=:h
+:filepath/:w/:h/:fit/:filename  /.netlify/images?url=:filepath/:filename&fit=:fit&w=:w&h=:h 200
