@@ -11,7 +11,10 @@ module Jekyll
             def resized_image_url(input, width, height, fit='')
                 return if input.nil?
 
-                "/.netlify/images?url=/#{input}&fit=#{fit}&w=#{width}&h=#{height}"
+                path = File.dirname(input)
+                filename = File.basename(input)
+
+                "/#{path}/#{width}/#{height}/#{fit}/#{filename}"
             end
         end
         module OpenGraphFilters
