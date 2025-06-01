@@ -6,11 +6,11 @@ meta:
   author: Robbert van Bruggen
 title: Herbronnen in de Rif, Marokko
 image: uploads/maroc-1.jfif
-lead_text: Van zaterdag 7 juni - zaterdag 14 juni 2025 organiseert
-  Stilteretraite.nl een 7-daags verblijf met een 6-daagse stilteretraite in de
-  Rif van Marokko. We verblijven in een Bergachtige omgeving, waar de lokale
-  bevolking eeuwenlang leefde van de visserij/handel en waar sinds kort op
-  bescheiden schaal het toerisme haar intrede heeft gedaan.
+lead_text: Van 18-25 oktober 2025 organiseert Stilteretraite.nl een 7-daags
+  verblijf met een 6-daagse stilteretraite in de Rif van Marokko. We verblijven
+  in een Bergachtige omgeving, waar de lokale bevolking eeuwenlang leefde van de
+  visserij/handel en waar sinds kort op bescheiden schaal het toerisme haar
+  intrede heeft gedaan.
 location: _locations/marokko.md
 from_date: 2025-06-07T10:42:11.008Z
 to_date: 2025-06-14T10:42:11.029Z
