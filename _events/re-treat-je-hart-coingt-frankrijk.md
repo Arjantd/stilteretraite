@@ -14,7 +14,7 @@ image: uploads/france.jpg
 lead_text: Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je,
   geleid door een gestructureerd dagprogramma, volledig onderdompelt in de
   stilte van het Franse platteland.
-location: _locations/locatie-volgt.md
+location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-02-18T12:10:44.218Z
 to_date: 2026-02-22T12:10:44.236Z
 length_of_time: "5"
