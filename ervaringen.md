@@ -1,14 +1,27 @@
 ---
-title: Ervaringen van deelnemers aan stilteretraite.nl
-layout: testimonials
-image: uploads/banner A.jpg
 meta:
   title: Ervaringen van deelnemers stilteretraite.nl
   keywords: ervaring, reviews, ervaringen, retraite van Robbert van Bruggen
   description: Deelnemers aan onze retraites koesteren bijzondere herinneringen
     aan hun deelname en daar zijn wij trots op!
   author: Robbert van Bruggen
+title: Ervaringen van deelnemers aan stilteretraite.nl
+layout: testimonials
+image: uploads/banner A.jpg
 testimonials:
+  - title: Een levensreis
+    subtitle: Herbronnen in de Rif, Marokko, oktober 2025
+    text: >-
+      De stilte retraite in Marokko is voor mij een levensreis geweest. Het is
+      zo’n bijzondere reis geweest, waarin ik mijzelf weer heb teruggevonden en
+      dan vooral mijn hart.
+
+
+      Ik heb het ervaren als een reis waarin ik elke dag weer ben verrast door wat ik tegenkwam in mijzelf. Elke dag heb ik het gevoel gehad ‘nu ben ik er’ én toch, de dag erna verdiepte weer iets. Ik heb ervaren hoe ik enerzijds euforie, blijdschap en liefde kan voelen en anderzijds (oud) verdriet en onrust omdat ik niet wist ‘hoe’. Deze dubbelheid heb ik kunnen dragen, erbij kunnen blijven zonder het op te lossen (wat normaal gesproken mijn manier is).
+
+
+      De begeleiding van Robbert en Bouchra hebben mij de basis gegeven om alles aan te gaan, hoe ‘gek’ een oefening ook lijkt. Ik ben hen enorm dankbaar dat zij het mogelijk hebben gemaakt dat ik mijzelf dit cadeau heb kunnen geven.
+    participant: Barbara
   - title: Verbondenheid met het geheel
     subtitle: Re-treat je Heart maart 2025
     text: "De ervaring bij de stilte-retraite laat zich moeilijk in woorden vangen.
