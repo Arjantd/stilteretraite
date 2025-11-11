@@ -17,7 +17,7 @@ lead_text: Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je,
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-02-18T12:10:44.218Z
 to_date: 2026-02-22T12:10:44.236Z
-length_of_time: "5"
+length_of_time: 5 dagen
 price: 725
 attendees: 8
 category: 5-days
