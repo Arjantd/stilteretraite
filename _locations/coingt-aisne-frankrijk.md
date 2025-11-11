@@ -7,7 +7,7 @@ meta:
 title: Coingt (Aisne, Frankrijk)
 image: uploads/france.jpg
 location: "Noord-Frankrijk "
-description: V﻿olgt
+description: Coingt ligt op 330 km van Utrecht, ongeveer 4 uur rijden.
 gallery: uploads/france-2.jpg
 layout: location
 style: <link rel="stylesheet"
