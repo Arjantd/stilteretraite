@@ -13,7 +13,7 @@ location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-04-02T20:51:10.122Z
 to_date: 2026-04-05T20:51:10.133Z
 length_of_time: "4"
-price: 544
+price: 545
 attendees: 8
 category: 4-days
 layout: event
@@ -28,8 +28,6 @@ Het retraite-proces ontvouwt zich voor iedereen op een unieke manier. Je kunt he
 
 Een stilteretraite is geen ‘product’ dat je koopt als een ‘pil’ voor je ongemakken. Het vraagt om overgave en je wéét het van binnen als je dit aan te gaan hebt. It’s not for pussy’s, maar voor Paashazen met Lef!
 
-
-
 ### Praktische info:
 
 De paasretraite (het geheim van het zwarte ei) is een stilteretraite waarin stille groepsmeditatie wordt afgewisseld met individuele afzondering, oefeningen en meditaties uit het Soefisme, Boeddhisme, Advaita Vedanta, wandelingen & individuele ontmoetingen met Robbert.
@@ -43,3 +41,5 @@ De paasretraite (het geheim van het zwarte ei) is een stilteretraite waarin stil
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
 * Telefonisch voor vrijblijvende info of intake: 06-24678735 tussen 20.00-21.00
+
+![Locatie Coingt](uploads/image4.jpeg "retraite Locatie Coingt")
