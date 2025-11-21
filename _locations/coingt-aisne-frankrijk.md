@@ -16,4 +16,4 @@ style: <link rel="stylesheet"
 script: <script
   src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ---
-Coingt ligt op 330 km van Utrecht, ongeveer 4 uur rijden. F﻿oto's:
+Coingt ligt op 330 km van Utrecht, ongeveer 4 uur rijden. Hieronder een kleine selectie foto's om een beeld van het huis, tuin en omgeving te krijgen!
