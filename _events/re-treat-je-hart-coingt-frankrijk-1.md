@@ -1,8 +1,6 @@
 ---
 meta:
-  title: Re-treat je Hart is een vijfdaagse stilte-retraite in Frankrijk. Ontdek
-    innerlijke rust, bewustzijn en richting onder begeleiding van Robbert.van
-    Bruggen
+  title: "Re-treat je Hart  vijfdaagse stilte-retraite in Frankrijk. "
   keywords: Frankrijk , innerlijke rust , Robbert stilte retraite
   description: Frankrijk , innerlijke rust , Robbert stilte retraite
   author: Robbert van Bruggen
