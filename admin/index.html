@@ -5,47 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex" />
   <title>Content Manager</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-  <script src="https://unpkg.com/netlify-cms@^2.0/dist/netlify-cms.js"></script>
-  <script type="module">
-    import { personRender } from './js/renders/person.js'
-    import { postRender } from './js/renders/post.js'
-    import { locationRender } from './js/renders/location.js'
-    import { eventRender } from './js/renders/event.js'
-    import { testimonialsRender } from './js/renders/testimonials.js'
-
-    CMS.registerPreviewStyle("/admin/css/person.css");
-    CMS.registerPreviewStyle("/admin/css/post.css");
-    CMS.registerPreviewStyle("/admin/css/location.css");
-    CMS.registerPreviewStyle("/admin/css/event.css");
-    CMS.registerPreviewStyle("/admin/css/testimonials.css");
-
-    var PostPreview = createClass({
-      render: postRender
-    });
-    CMS.registerPreviewTemplate("posts", PostPreview);
-
-    var PersonPreview = createClass({
-      render: personRender
-    });
-    CMS.registerPreviewTemplate("persons", PersonPreview);
-
-    var LocationPreview = createClass({
-      render: locationRender
-    });
-    CMS.registerPreviewTemplate("locations", LocationPreview);
-
-    var EventPreview = createClass({
-      render: eventRender
-    });
-    CMS.registerPreviewTemplate("events", EventPreview);
-
-    var TestimonialsPreview = createClass({
-      render: testimonialsRender
-    });
-    CMS.registerPreviewTemplate("testimonials", TestimonialsPreview);
-</script>
+  <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
 </body>
 </html>
