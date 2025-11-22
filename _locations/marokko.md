@@ -5,10 +5,10 @@ meta:
   author: Robbert van Bruggen
   description: Maak kennis met de stilte in jezelf in het prachtige en mysterieuze Marokko
 title: Marokko
-image: uploads/maroc-1.jfif
+image: uploads/herbronnen-in-het-rif.png
 location: Marokko
-description: Meer informatie volgt begin 2025
-gallery: uploads/maroc4.jpg
+description: Meer informatie volgt
+gallery: uploads/maroc6.jpg
 layout: location
 style: <link rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
@@ -16,4 +16,4 @@ style: <link rel="stylesheet"
 script: <script
   src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ---
-Meer informatie volgt begin 2025
+Meer informatie volgt
