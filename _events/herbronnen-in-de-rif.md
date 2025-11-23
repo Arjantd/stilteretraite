@@ -12,8 +12,8 @@ lead_text: Van zaterdag 18 oktober tot zaterdag 25 oktober 2025 organiseert
   bevolking eeuwenlang leefde van de visserij/handel en waar sinds kort op
   bescheiden schaal het toerisme haar intrede heeft gedaan.
 location: _locations/marokko.md
-from_date: 2025-10-18T10:42:11.008Z
-to_date: 2025-10-25T10:42:11.029Z
+from_date: 2025-10-18
+to_date: 2025-10-25
 length_of_time: 7 dagen
 price: 1150
 attendees: 8

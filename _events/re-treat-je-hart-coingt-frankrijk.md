@@ -19,8 +19,8 @@ lead_text: >-
 
   **Taverne des Petits Miroirs, Coingt, Noord Frankrijk (ca. 3 - 3 1/2 uur rijden)**
 location: _locations/coingt-aisne-frankrijk.md
-from_date: 2026-02-18T12:10:44.218Z
-to_date: 2026-02-22T12:10:44.236Z
+from_date: 2026-02-18
+to_date: 2026-02-22
 length_of_time: 5 dagen
 price: 645
 attendees: 5

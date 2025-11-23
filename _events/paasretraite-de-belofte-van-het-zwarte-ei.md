@@ -10,8 +10,8 @@ lead_text: De Paasretraite ‘De Belofte van het Zwarte Ei’ is een vierdaagse
   stilte-retraite waar max. 8deelnemers zich op geleide van een gestructureerd
   dagprogramma onderdompelen in stilte.
 location: _locations/coingt-aisne-frankrijk.md
-from_date: 2026-04-02T20:51:10.122Z
-to_date: 2026-04-05T20:51:10.133Z
+from_date: 2026-04-02
+to_date: 2026-04-05
 length_of_time: "4"
 price: 545
 attendees: 8
