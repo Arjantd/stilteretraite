@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "csv"
   gem "logger"
+  gem "base64"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
