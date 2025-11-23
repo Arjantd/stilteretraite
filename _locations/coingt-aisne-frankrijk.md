@@ -10,8 +10,8 @@ location: Noord-Frankrijk
 description: Welkom in Coingt!
 gallery:
   - uploads/bbbb.jpeg
-  - /uploads/bbbb.jpeg
   - /uploads/image0.jpeg
+  - /uploads/bbbb.jpeg
   - /uploads/image1.jpeg
   - /uploads/image10.jpeg
   - /uploads/image11.jpeg
