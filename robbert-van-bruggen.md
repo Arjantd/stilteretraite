@@ -1,7 +1,7 @@
 ---
 layout: page-centered-content
 title: Robbert van Bruggen
-image: uploads/Pagebanner OVER ONS.jpg
+image: /uploads/Pagebanner OVER ONS.jpg
 meta:
   title: 'Over Robbert van Bruggen '
   keywords: 'Robbert van Bruggen, retraite begeleider, teacher '

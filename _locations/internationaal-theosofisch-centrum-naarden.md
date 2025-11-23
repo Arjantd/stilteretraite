@@ -6,7 +6,7 @@ meta:
     rust en tot jezelf te komen
   author: Robbert van Bruggen
 title: ITC Naarden
-image: uploads/Crystal-Hall-interior-1024x768.jpg
+image: /uploads/Crystal-Hall-interior-1024x768.jpg
 location: Naarden
 description: In de bosrijke omgeving van Naarden vind je het International
   Theosophic Centre. De ITC bestaat sinds 1925, toen het landgoed werd

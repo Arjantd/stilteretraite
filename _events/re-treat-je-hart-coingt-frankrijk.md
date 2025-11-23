@@ -10,7 +10,7 @@ meta:
     waar je leert loslaten, verstillen en herontdekken wie je werkelijk bent.
   author: Robbert van Bruggen
 title: Re-treat je Hart! Coingt, Frankrijk
-image: uploads/france.jpg
+image: /uploads/france.jpg
 lead_text: >-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door
   een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en

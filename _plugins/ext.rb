@@ -14,7 +14,7 @@ module Jekyll
                 path = File.dirname(input)
                 filename = File.basename(input)
 
-                "/#{path}/#{width}/#{height}/#{fit}/#{filename}"
+                "#{path}/#{width}/#{height}/#{fit}/#{filename}"
             end
         end
         module OpenGraphFilters

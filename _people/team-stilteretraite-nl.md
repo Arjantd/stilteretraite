@@ -11,7 +11,7 @@ description: Een selecte groep oud-deelnemers en assistenten bij de retraites
   van Robbert van Bruggen zijn meer en meer geboeid geraakt door de werking die
   Stilte heeft. Ze zijn nauw betrokken bij de begeleiding en verdere
   ontwikkeling van stilteretraite.nl!
-thumbnail: uploads/Locatie-retraite-emmausklooster-10.jpg
+thumbnail: /uploads/Locatie-retraite-emmausklooster-10.jpg
 email: ""
 link_to_details: false
 layout: member

@@ -5,7 +5,7 @@ meta:
   description: Prachtige oude vakwerkboerderij omgeven door tijdloos Frans platteland
   author: Robbert van Bruggen
 title: Coingt (Aisne, Frankrijk)
-image: uploads/france.jpg
+image: /uploads/france.jpg
 location: Noord-Frankrijk
 description: Welkom in Coingt!
 gallery:

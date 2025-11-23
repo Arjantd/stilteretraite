@@ -5,7 +5,7 @@ meta:
   description: Maak kennis met de stilte in jezelf in het prachtige en mysterieuze Marokko
   author: Robbert van Bruggen
 title: Herbronnen in de Rif, Marokko
-image: uploads/herbronnen-in-het-rif.png
+image: /uploads/herbronnen-in-het-rif.png
 lead_text: Van zaterdag 18 oktober tot zaterdag 25 oktober 2025 organiseert
   Stilteretraite.nl een 7-daags verblijf met een 6-daagse stilteretraite in de
   Rif van Marokko. We verblijven in een Bergachtige omgeving, waar de lokale

@@ -5,7 +5,7 @@ description: Het unieke Veluwse landgoed waar we 1 a 2 keer per jaar te gast zij
   is een klein gesloten landgoed (30 Ha), gelegen midden op de Veluwe. De historische
   boerderij voorziet op beperkte schaal in stilte- en rustverblijf. Een 'back to nature'
   onderkomen, waar niets het omliggende bosgebied en haar bewoners verstoort.
-image: uploads/20180708_091607.jpg
+image: /uploads/20180708_091607.jpg
 location: Hoge Veluwe
 gallery:
 - uploads/Locatie-Retraite-Veluwe-2.jpg

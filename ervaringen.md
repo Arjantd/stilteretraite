@@ -7,7 +7,7 @@ meta:
   author: Robbert van Bruggen
 title: Ervaringen van deelnemers aan stilteretraite.nl
 layout: testimonials
-image: uploads/banner A.jpg
+image: /uploads/banner A.jpg
 testimonials:
   - title: Een levensreis
     subtitle: Herbronnen in de Rif, Marokko, oktober 2025

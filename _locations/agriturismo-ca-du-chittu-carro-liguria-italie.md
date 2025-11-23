@@ -1,7 +1,7 @@
 ---
 title: Ca du Chittu, Italie
 layout: location
-image: uploads/IMG_0459.JPG
+image: /uploads/IMG_0459.JPG
 location: Carro, Italie
 description: '1x per jaar reizen we af naar het Italiaanse Ligurië. Deze streek wordt
   ingesloten door de Ligurische Zee en de Apennijnen en heeft een fijn klimaat, met

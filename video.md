@@ -5,7 +5,7 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 layout: videos
 textline: 'Jan-Willem Achternaam maakte in de afgelopen jaren een serie korte filmpjes
   waarin Robbert van Bruggen ingaat op diverse aspecten van stilte retraites. '
-image: uploads/shutterstock_1115950973.jpg
+image: /uploads/shutterstock_1115950973.jpg
 meta:
   keywords: 'uitleg, stilte retraite, Robbert van bruggen, '
   description: 'In vier korte filmpjes komt Robbert van bruggen aan het woord over

@@ -5,7 +5,7 @@ meta:
   description: Paasretraite noord frankrijk stilte
   author: Robbert van Bruggen
 title: Paasretraite (De Belofte van het Zwarte Ei)
-image: uploads/1.jpg
+image: /uploads/1.jpg
 lead_text: De Paasretraite ‘De Belofte van het Zwarte Ei’ is een vierdaagse
   stilte-retraite waar max. 8deelnemers zich op geleide van een gestructureerd
   dagprogramma onderdompelen in stilte.

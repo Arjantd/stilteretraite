@@ -6,7 +6,7 @@ meta:
   description: Stilte is niet de afwezigheid van geluid. Stilte is de diepste klank
   author: Robbert van Bruggen
 title: Muziek voor meditatie | deel 1
-banner_image: uploads/headphines.jpeg.jpg
+banner_image: /uploads/headphines.jpeg.jpg
 lead_text: Muziek doet iets. Het laat je afstemmen op een universele energie en
   is daarmee een shortcut naar je hart. Muziek is emotie, schoonheid, passie en
   ....
