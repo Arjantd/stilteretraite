@@ -28,6 +28,6 @@ layout: location
 style: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 script: <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 ---
-Coingt ligt in Noord-Frankrijk, op 330 km van Utrecht, ongeveer 4 uur rijden. Hieronder een kleine selectie foto's om een beeld van het huis, tuin en omgeving te krijgen.
+Coingt ligt in Noord-Frankrijk (op de grens van Aisne en Champagne-Ardennes), op zo'n 330 km van Utrecht, ongeveer 4 uur rijden. Hieronder een kleine selectie foto's om een indruk van het huis, tuin en omgeving te krijgen.
 
 ![huis](uploads/image1.jpeg "huis")
