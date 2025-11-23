@@ -36,8 +36,6 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-menus (0.6.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-paginate-v2 (2.0.0)
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
@@ -91,7 +89,6 @@ DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-archives
   jekyll-feed
-  jekyll-menus
   jekyll-paginate-v2 (~> 2.0)
   jekyll-sitemap
   jekyll-tagging
@@ -99,6 +96,9 @@ DEPENDENCIES
   kramdown-parser-gfm
   logger
   tzinfo-data
+
+RUBY VERSION
+   ruby 3.1.4p223
 
 BUNDLED WITH
    2.4.22
