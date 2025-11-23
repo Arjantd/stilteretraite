@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/forestryio/jekyll-menus.git
+  revision: 288acfacfaa14a94fbfd6738b10f9311da3a436c
+  specs:
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -85,6 +92,7 @@ DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-archives
   jekyll-feed
+  jekyll-menus!
   jekyll-paginate-v2 (~> 2.0)
   jekyll-sitemap
   jekyll-tagging
