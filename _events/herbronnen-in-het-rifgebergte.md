@@ -18,8 +18,7 @@ layout: event
 ---
 We verblijven in een Bergachtige -rural- omgeving, waar de lokale bevolking eeuwenlang leefde van de visserij/handel/ landbouw en rietvlechtwerk.
 
-
-De stilteretraite vindt plaats in het hart van het Nationaal Park Al Hoceima, dat zich over een oppervlakte van 479 km2 uitstrekt als een bergachtig landschap. De locatie (Aduz) van de retraite bevindt zich dichtbij uitzichten op verborgen baaien langs de Mediterraanse kustlijn. In deze prachtige omgeving word je door de natuur en het ritme van het leven van de bevolking uitgenodigd om te vertragen, verwonderen en je innerlijke reis te maken. 
+De stilteretraite vindt plaats in het hart van het Nationaal Park Al Hoceima, dat zich over een oppervlakte van 479 km2 uitstrekt als een bergachtig landschap. De locatie (Aduz) van de retraite bevindt zich dichtbij uitzichten op verborgen baaien langs de Mediterraanse kustlijn. In deze prachtige omgeving word je door de natuur en het ritme van het leven van de bevolking uitgenodigd om te vertragen, verwonderen en je innerlijke reis te maken.
 
 De retraite kent een dagstructuur en leent zich voor wandelingen en het met jezelf verwijlen in afzondering en stilte. We verblijven in een kleurig karakteristiek gebouw waar we afwisselend op het half-overdekte dakterras of buiten in de natuur mediteren.
 
@@ -37,9 +36,9 @@ De stilte-retraite wordt georganiseerd begeleid door Robbert van Bruggen en Bouc
 _‘De natuur heeft mij als het ware uitgedaagd het met mezelf aan te gaan en ik heb hierdoor nog meer over mijzelf ontdekt, echt een cadeau!’  Peggy_
 
 **Webinars&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;**
-** **We kunnen ons voorstellen dat je voor je je aanmeldt eerst nadere informatie wil en je vragen wilt stellen. Hiervoor hebben we drie webinars gepland, waarvoor je je vooraf kunt opgeven:
+\*\* \*\*We kunnen ons voorstellen dat je voor je je aanmeldt eerst nadere informatie wil en je vragen wilt stellen. Hiervoor hebben we drie webinars gepland, waarvoor je je vooraf kunt opgeven:
 
-Donderdagavond _12 maart_, dinsdagavond _12 mei _en dinsdag _30 juni_ 2026 allen om 20:00 uur. Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept. 
+Donderdagavond _12 maart_, dinsdagavond _12 mei _en dinsdag _30 juni_ 2026 allen om 20:00 uur. Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept.
 
 **Na aanmelding**
 Er is plek voor maximaal 10 deelnemers, dus wacht niet te lang. Na aanmelding ontvang je een welkomstbrief met alle praktische informatie,
