@@ -46,3 +46,16 @@ Er is plek voor maximaal 10 deelnemers, dus wacht niet te lang. Na aanmelding on
 De kosten voor de retraite bedragen € 1.250,00 incl. 21% btw p.p. op basis van een eigen kamer en € 1.050,00 op basis van een gedeelde tweepersoonskamer. De prijs is inclusief eenvoudig verblijf met alle authentieke biologische (vegetarische) maaltijden van de streek, koffie en thee inbegrepen. De kosten zijn _exclusief_ de reis. Je vliegt op eigen gelegenheid naar Vliegveld Alhocima en neemt vanaf het vliegveld een taxi (een rit van ca. 30 minuten) naar de locatie van ons verblijf. Vanaf Rotterdam zijn er rechtstreekse vluchten naar Al Hoceima met Transavia, je kunt ook vliegen vanuit Eindhoven of via België of Duitsland.
 
 Als je minder vanuit je je hoofd maar meer vanuit je lijf en je Hart wil leven & werken, kom dan een week Herbronnen in de Bergen van de Rif!
+
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.07.17.jpeg)
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.07.36.jpeg)
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.09.06.jpeg)
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.09.23.jpeg)
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.10.06.jpeg)
+
+![](/uploads/WhatsApp%20Image%202026-01-12%20at%2016.12.02.jpeg)
