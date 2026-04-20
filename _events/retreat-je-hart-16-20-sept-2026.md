@@ -13,7 +13,7 @@ lead_text: |-
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-09-16
 to_date: 2026-09-20
-length_of_time: '5'
+length_of_time: 5 dagen
 price: 645
 attendees: 8
 category: 5-days
