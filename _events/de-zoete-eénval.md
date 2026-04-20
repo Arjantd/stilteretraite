@@ -36,7 +36,6 @@ Als je je even wil vrijmaken van het dagelijkse bombardement van slecht nieuws e
 
 **Kom gewoon! Je bent welkom!**
 
-
 Taverne des Petits Miroirs is een vakwerk-boerderij uit het jaar 1700, groot genoeg voor groepen tot 10 personen. Er is een supergrote keuken met twee grote tafels, een groepsruimte, een bibliotheek, een grote woonkamer met open haard, twee badkamers, drie toiletten en er zijn drie terrassen. Wat overnachtingen betreft: er is een kleine slaapzaal, er zijn een paar tweepersoonskamers, een eenpersoonskamer, een ruimte van afzondering aan de buitenkant, er is plek voor een paar tentjes en/of een paar kleine campertjes. Als je een kamer wil (tegen vriendelijke vergoeding), reserveer die dan op tijd!
 
 **Adres:** 
