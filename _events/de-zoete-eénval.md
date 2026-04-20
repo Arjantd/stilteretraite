@@ -13,7 +13,7 @@ lead_text: |-
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-07-16
 to_date: 2026-07-30
-length_of_time: '14'
+length_of_time: 14 dagen
 price: 1
 attendees: 10
 category: 10-days
@@ -21,7 +21,7 @@ layout: event
 ---
 
 Als je je even wil vrijmaken van het dagelijkse bombardement van slecht nieuws en de toenemende benauwenis door de almaar stijgende prijzen. Je anderen wilt ontmoeten zonder de dagelijkse wereld-narratieven of commercieel toeristengedrag. Kom dan simpelweg naar de Zoete Eénval, om je open te stellen voor het avontuur van het ‘niet weten’ en om te genieten van het onverwachte in de ontmoeting met anderen die je nog niet kent maar dezelfde impuls volgen als jij. Een tijdelijke ‘bubbel’ van troost-in-roerige-tijden, liefdevolle omgang, vrije spontaniteit en waarde!  Kleine Spiegels spiegelen elkaar en vergroten het licht van het gedeeld menselijk contact.
- 
+
 **De Zoete Eénval betreden betekent:**
 
 ⁃          Dat je automatisch deel bent van de crew van Taverne des Petits Miroirs; hetgeen inhoudt dat je zowel verantwoordelijk bent voor jezelf ALS voor het geheel. We ondersteunen elkaar zo dat iedereen zich op z’n gemak kan voelen.
@@ -43,16 +43,16 @@ Als je je even wil vrijmaken van het dagelijkse bombardement van slecht nieuws e
 ⁃          ‘s Avonds mijmeren of staren in het vuur of achterover liggend opgaan in de eindeloze sterrenhemel, of juist dansen in de groepsruimte!
 
 ⁃          Kom gewoon! Je bent welkom!
- 
+
 Taverne des Petits Miroirs is een vakwerk-boerderij uit het jaar 1700, groot genoeg voor groepen tot 10 personen. Er is een supergrote keuken met twee grote tafels, een groepsruimte, een bibliotheek, een grote woonkamer met open haard, twee badkamers, drie toiletten en er zijn drie terrassen. Wat overnachtingen betreft: er is een kleine slaapzaal, er zijn een paar tweepersoonskamers, een eenpersoonskamer, een ruimte van afzondering aan de buitenkant, er is plek voor een paar tentjes en/of een paar kleine campertjes. Als je een kamer wil (tegen vriendelijke vergoeding), reserveer die dan op tijd!
- 
+
 **Adres:** 
 23 Grande Rue, 02360 Coingt, Aisne, France. Als je met de trein komt, kunnen we je komen halen in Couvin. Laat weten als je je van plan bent te komen! Ook als dat op het laatste moment is.
- 
+
 **Zelf meebrengen:**
 Eigen handdoeken en dekbedhoes, onderlaken en kussensloop.
 
 Naast je eigen kleding, je eigen toiletspullen, zonnebrand, zonnebril, evt. regenkleding, etc. Eigen dieet artikelen als die specifiek zijn.
- 
+
 **Restricties:** 
 In en rondom de Taverne wordt niet gerookt, worden geen drugs gebruikt, uitgezonderd alcohol-met-mate. Telefoons bij voorkeur uit in de gemeenschappelijke ruimtes en op de terrassen. Geen foto’s van anderen maken zonder toestemming.
