@@ -9,7 +9,7 @@ image: /uploads/image0.jpeg
 lead_text: |-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en rondom:
 
-  \*\*Taverne des Petits Miroirs, Coingt, Noord Frankrijk \*\*
+  [Taverne des Petits Miroirs, Coingt, Noord Frankrijk](https://stilteretraite.nl/locations/coingt-aisne-frankrijk/)
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-04-29
 to_date: 2026-05-03
