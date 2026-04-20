@@ -1,10 +1,10 @@
 ---
 meta:
-  title: Re-treat je Hart  vijfdaagse stilte-retraite in Frankrijk.
+  title: Retreat je Hart  vijfdaagse stilte-retraite in Frankrijk.
   keywords: Frankrijk , innerlijke rust , Robbert stilte retraite
   description: Frankrijk , innerlijke rust , Robbert stilte retraite
   author: Robbert van Bruggen
-title: Re-treat je Hart! Coingt, Frankrijk
+title: Retreat je Hart! Coingt, Frankrijk
 image: /uploads/image0.jpeg
 lead_text: |-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en rondom:
