@@ -9,7 +9,7 @@ image: /uploads/image0.jpeg
 lead_text: |-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en rondom:
 
-  [Taverne des Petits Miroirs, Coingt, Noord Frankrijk](https://stilteretraite.nl/locations/coingt-aisne-frankrijk/)
+  **Taverne des Petits Miroirs, Coingt, Noord Frankrijk**
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-04-29
 to_date: 2026-05-03
@@ -20,7 +20,7 @@ category: 5-days
 layout: event
 ---
 
-Deze vijfdaagse retraite in Noord Frankrijk (op de grens van Aisne en Champagne-Ardennes) in een glooiend landschappen met stille bossen) is een uitnodiging om gehoor te geven aan de 'inner call' om een transformatie - die zich kennelijk op dit moment in jouw leven aandient - te laten gebeuren voorbij dat wat in jouw leven tot nu toe zo vertrouwd was. Een transformatie vraagt om het scheppen van ruimte om dat op een veilige manier te laten gebeuren of onomkeerbaar op gang te brengen. Je vertrouwde manier van leven en jouw ‘ik-besef’ dat elke diepe verandering die zich aankondigt het probeert tegen te houden uit angst voor controle-verlies, lijkt weliswaar eng maar tegelijkertijd voel je aan alle kanten dat er ‘iets wil gebeuren’ dat niet te stoppen is. Of je zit er al middenin… je bent ‘iets’ of ‘iemand’ verloren en je merkt dat de zingeving zoals die er altijd was, begint af te brokkelen en haar vanzelfsprekendheid verliest. Er ontstaan barstjes en nog meer barstjes. Iets ‘wil niet meer’.
+Deze vijfdaagse retraite in Noord Frankrijk (op de grens van Aisne en Champagne-Ardennes) in een glooiend landschappen met stille bossen) is een uitnodiging om gehoor te geven aan de _inner call om_ een transformatie - die zich kennelijk op dit moment in jouw leven aandient - te laten gebeuren voorbij dat wat in jouw leven tot nu toe zo vertrouwd was. Een transformatie vraagt om het scheppen van ruimte om dat op een veilige manier te laten gebeuren of onomkeerbaar op gang te brengen. Je vertrouwde manier van leven en jouw ‘ik-besef’ dat elke diepe verandering die zich aankondigt het probeert tegen te houden uit angst voor controle-verlies, lijkt weliswaar eng maar tegelijkertijd voel je aan alle kanten dat er ‘iets wil gebeuren’ dat niet te stoppen is. Of je zit er al middenin… je bent ‘iets’ of ‘iemand’ verloren en je merkt dat de zingeving zoals die er altijd was, begint af te brokkelen en haar vanzelfsprekendheid verliest. Er ontstaan barstjes en nog meer barstjes. Iets ‘wil iet meer’
 
 De specifieke omstandigheden van een meerdaagse stilteretraite bieden precies die ruimte die je zelfs op een vakantie meestal niet vindt, omdat je daarin eigenlijk nooit echt los komt van je ‘rollen’. Een stilteretraite is een ‘vindplaats’ van nieuwe richting. Niet bedacht vanuit je ‘mind’, maar van binnenuit, het is de stem van je hart die je roept. Je tijdelijk terugtrekken uit alle sociale impulsen en de rollen die je in je dagelijkse leven vervult schept, is een voorwaarde. Het ‘geautomatiseerde zelf’ blijft gevangen in zich constant herhalende patronen. Retraite is een weg van overgave voorbij je innerlijke ‘regiekamer’.
 
