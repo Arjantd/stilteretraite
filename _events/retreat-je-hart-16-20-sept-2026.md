@@ -44,4 +44,4 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 * Prijs is inclusief verblijf, alle vegetarische maaltijden en de retraite-begeleiding.
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
-* Telefonisch: 06-24678735 tussen 20.00-20.30
+* Telefonisch: 06-24678735 tussen 20.00-20.30 uur
