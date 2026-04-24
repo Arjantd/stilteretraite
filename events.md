@@ -3,7 +3,7 @@ title: Agenda
 layout: events
 textline: Events
 meta:
-  title: Agenda 2023
+  title: Agenda 2026
   keywords: agenda, events, data, retraites in 2023
   description: 'Ons retraite aanbod wordt door het hele jaar aangepast: check regelmatig
     of we nieuwe events hebben ingepland!'
