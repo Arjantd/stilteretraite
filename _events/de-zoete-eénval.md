@@ -24,7 +24,7 @@ Als je je even wil vrijmaken van het dagelijkse bombardement van slecht nieuws e
 
 **De Zoete Eénval betreden betekent:**
 
-- Dat je welkom bent om 1 dag langs te komen, een paar dagen of langer te verblijven.
+- Dat je welkom bent om 1 dag , een paar dagen, of zelfs langer langs te komen.
 - Dat je automatisch deel bent van de crew van Taverne des Petits Miroirs; hetgeen inhoudt dat je zowel verantwoordelijk bent voor jezelf ALS voor het geheel. We ondersteunen elkaar zo dat iedereen zich op z’n gemak kan voelen.
 - Je kunt zelf kiezen of je open staat voor onverwachte ontmoetingen met de aanwezige Anderen, of dat je je tijdelijk in een zone van stilte wilt hullen (om als Fly on the Wall aanwezig te zijn).
 - Kom niet om te ‘consumeren’, maar om simpelweg te kunnen ‘geven om te geven’ en ‘te ontvangen wat je gegeven wordt’
