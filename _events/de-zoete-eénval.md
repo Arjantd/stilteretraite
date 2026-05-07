@@ -7,7 +7,7 @@ meta:
 title: De Zoete Eénval
 image: /uploads/Coingt.jpg
 lead_text: |-
-  Kom aanwaaien ergens tussen woensdag 16 juli en woensdag 30 juli 2026 en beleef de Zoete Eénval: een open ruimte voor Free Sprits met een Hart. Een eerste try-out voor gedeelde en wonderlijke Kairos-tijd.
+  Kom een dag -of langer-  aanwaaien ergens tussen woensdag 16 juli en woensdag 30 juli 2026 en beleef de Zoete Eénval: een open ruimte voor Free Sprits met een Hart. Een eerste try-out voor gedeelde en wonderlijke Kairos-tijd.
 
    Locatie: Coingt, Noord-Frankrijk, het gebied waar niks anders is dan het trage ritme van het leven van alledag, stilte en eindeloos mooie, glooiende manifestatie-ruimte.
 location: _locations/coingt-aisne-frankrijk.md
@@ -24,6 +24,7 @@ Als je je even wil vrijmaken van het dagelijkse bombardement van slecht nieuws e
 
 **De Zoete Eénval betreden betekent:**
 
+- Dat je welkom bent om 1 dag langs te komen, een paar dagen of langer te verblijven.
 - Dat je automatisch deel bent van de crew van Taverne des Petits Miroirs; hetgeen inhoudt dat je zowel verantwoordelijk bent voor jezelf ALS voor het geheel. We ondersteunen elkaar zo dat iedereen zich op z’n gemak kan voelen.
 - Je kunt zelf kiezen of je open staat voor onverwachte ontmoetingen met de aanwezige Anderen, of dat je je tijdelijk in een zone van stilte wilt hullen (om als Fly on the Wall aanwezig te zijn).
 - Kom niet om te ‘consumeren’, maar om simpelweg te kunnen ‘geven om te geven’ en ‘te ontvangen wat je gegeven wordt’
