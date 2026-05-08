@@ -5,7 +5,7 @@ meta:
   description: 'De Zoete Eénval: Een open ruimte voor Free Sprits met een Hart. Een eerste try-out voor gedeelde en wonderlijke Kairos-tijd.'
   author: Robbert van Bruggen
 title: De Zoete Eénval
-image: /uploads/Coingt.jpg
+image: /uploads/20260502_081612.jpg
 lead_text: |-
   Kom een dag -of langer-  aanwaaien ergens tussen woensdag 16 juli en woensdag 30 juli 2026 en beleef de Zoete Eénval: een open ruimte voor Free Spirits met een Hart. Een eerste try-out voor gedeelde en wonderlijke Kairos-tijd.
 
