@@ -4,7 +4,7 @@ meta:
   keywords: retraite in frankrijk
   description: retraite in frankrijk
   author: robbert van bruggen
-title: Z I K R   V A N   L I E F D E
+title: ZIKR VAN LIEFDE
 image: /uploads/123.jpg
 lead_text: Zikr van liefde kun je zien als een alchemistisch samen Zijn met als doel je de sleutel te geven om je werkelijke Zelf als Liefde te ervaren. Wat eigenlijk de verwerkelijking is van je diepste verlangen.
 location: _locations/coingt-aisne-frankrijk.md
