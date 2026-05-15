@@ -5,7 +5,7 @@ meta:
   description: 'Stilteretraite Al Hoceima 2026: 6 dagen stilte in het Rifgebergte, Nationaal Park Al Hoceima. Meditatie, natuur, wandelingen en volledige verzorging.'
   author: Robbert van Bruggen
 title: Herbronnen in het Rifgebergte
-image: /uploads/a1b23def-8cd8-4d65-b681-c3d24cf3df63.JPG
+image: /uploads/12.JPG
 lead_text: Na een succesvolle eerste retraite in de rif afgelopen oktober 2025 organiseren we in 2026 opnieuw een 6-daagse stilteretraite in Al Hoceima (Marokko) - inclusief een aankomstdag- in een totaal 7-daags volledig verzorgd verblijf van zaterdag 17 oktober tot zaterdag 24 oktober 2026.
 location: _locations/marokko.md
 from_date: 2026-10-17
