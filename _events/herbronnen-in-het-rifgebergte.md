@@ -39,7 +39,7 @@ _‘De natuur heeft mij als het ware uitgedaagd het met mezelf aan te gaan en ik
 **Webinars**                                                                                         
 We kunnen ons voorstellen dat je voor je je aanmeldt eerst nadere informatie wil en je vragen wilt stellen. Hiervoor hebben we drie webinars gepland, waarvoor je je vooraf kunt opgeven:
 
-Donderdagavond _12 maart_, dinsdagavond _12 mei _en dinsdag _30 juni_ 2026 allen om 20:00 uur. Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept.
+Donderdagavond _12 maart_, dinsdagavond  12 mei en dinsdag _30 juni_ 2026 - allen om 20:00 uur. Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept.
 
 **Na aanmelding**
 Er is plek voor maximaal 10 deelnemers, dus wacht niet te lang. Na aanmelding ontvang je een welkomstbrief met alle praktische informatie,
@@ -47,6 +47,10 @@ Er is plek voor maximaal 10 deelnemers, dus wacht niet te lang. Na aanmelding on
 De kosten voor de retraite bedragen € 1.250,00 incl. 21% btw p.p. op basis van een eigen kamer en € 1.050,00 op basis van een gedeelde tweepersoonskamer. De prijs is inclusief eenvoudig verblijf met alle authentieke biologische (vegetarische) maaltijden van de streek, koffie en thee inbegrepen. De kosten zijn _exclusief_ de reis. Je vliegt op eigen gelegenheid naar Vliegveld Alhocima en neemt vanaf het vliegveld een taxi (een rit van ca. 30 minuten) naar de locatie van ons verblijf. Vanaf Rotterdam zijn er rechtstreekse vluchten naar Al Hoceima met Transavia, je kunt ook vliegen vanuit Eindhoven of via België of Duitsland.
 
 Als je minder vanuit je je hoofd maar meer vanuit je lijf en je Hart wil leven & werken, kom dan een week Herbronnen in de Bergen van de Rif!
+
+Wil je meer horen? In onderstaande Youtube video praten Robbert en Bouchra nog even door over de retraite in Marokko:
+
+https://youtu.be/DYXvpufdjUo?si=YRAWsoX4KtfeyGKL
 .
 
 ![](/uploads/IMG_0751.jpeg)
