@@ -1,6 +1,6 @@
 ---
 caption: Herbronnen in de Rif (oktober 2026)
-link: https://youtu.be/DYXvpufdjUo?si=YRAWsoX4KtfeyGKL
+link: https://www.youtube.com/watch?v=DYXvpufdjUo
 thumbnail: /uploads/Bouchra en Robbert.jpg
 template: video
 weight: 10
