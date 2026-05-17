@@ -3,10 +3,8 @@ layout: locations
 title: Locaties
 members: []
 locations:
-- _locations/internationaal-theosofisch-centrum-naarden.md
-- _locations/besloten-veluws-landgoed.md
-- _locations/emmausklooster-in-velp.md
 - _locations/coingt-aisne-frankrijk.md
+- _locations/marokko.md
 meta:
   title: 'stilte-retraite locaties '
   keywords: waar, locaties, omschrijving, plaats
