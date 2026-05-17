@@ -55,7 +55,7 @@ Als je minder vanuit je je hoofd maar meer vanuit je lijf en je Hart wil leven &
 
 Wil je meer horen? In onderstaande Youtube video praten Robbert en Bouchra nog even door over de retraite in Marokko:
 
-https://youtu.be/DYXvpufdjUo?si=YRAWsoX4KtfeyGKL
+[https://youtu.be/DYXvpufdjUo?si=YRAWsoX4KtfeyGKL](https://youtu.be/DYXvpufdjUo?si=YRAWsoX4KtfeyGKL)
 .
 
 ![](/uploads/IMG_0751.jpeg)
