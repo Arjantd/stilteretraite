@@ -1,7 +1,7 @@
 ---
 template: video
+weight: 20
 link: https://www.youtube.com/watch?v=gISAs9Rz9ig
 thumbnail: /uploads/5daagse.jpg
 caption: Re-treat je Hart  |  5-daagse retraite
-
 ---
