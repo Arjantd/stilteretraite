@@ -27,7 +27,7 @@ module Jekyll
                     paginator["posts"][0]["banner_image"]
                 when "locations"
                     location = site.collections["locations"].docs.detect { |d| d.path.end_with? page["locations"][0]}
-                    location["image"]
+                    location&.[]("image")
                 when "events"
                     site.collections["events"].docs[0]["image"]
                 else
