@@ -19,6 +19,9 @@ layout: event
 
 Nu eens geen zelfverbetering, maar verlichting Zelf ervaren. Heb je genoeg van de mentale inzichten aangaande verlichting, gewaarzijn en bewustzijn. Heb je ook gemerkt dat inzichten geen ervaringen opleveren van de essentie van jou? Proef en ervaar wat je bent: Liefde en bewust-Zijn. Onze transformatie technieken, die gebaseerd zijn op werkelijke kennis en weten, openen het Hart en geven hogere zelfinzichten. Het roept kennis op die altijd al aanwezig was in je spirituele DNA.
 
+_De inspiratie voor deze retraite is ontstaan in de dierbare vriendschap tussen Nagarjuna van_ [_stilteretraite.nl_](http://stilteretraite.nl/) _en Amano Subhauti van_ [_goudenhart.org_](http://goudenhart.org/)_._
+
+
 #### Wat kun je verwachten: 
 
 Dat we je via zowel stilte als ontmoeting helpen de weg te vinden naar jouw essentie, naar jouw hart. Om te ontspannen in wat je ten diepste bent. Oude transformatie technieken uit Atlantis, Egypte, het Midden Oosten en India vormen poorten om thuis te komen bij harmonie, vrede en een rustige mind. Een reis naar jouw Gouden Hart.
@@ -35,7 +38,7 @@ Zie ook [www.goudenhart.org](http://www.goudenhart.org/)
 
 ####  Aanmelding: 
 
-neem contact op met Nagarjuna via [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl) of met Amano Subhauti via [nenno@goudenhart.org](mailto:nenno@goudenhart.org) voor vragen en aanmelding.
+Neem contact op met Nagarjuna via [robbert@stilteretraite.nl](mailto:robbert@stilteretraite.nl) of met Amano Subhauti via [nenno@goudenhart.org](mailto:nenno@goudenhart.org) voor vragen en aanmelding.
 
 Je ontvangt daarna een welkomstbrief met alle praktische informatie.
 
