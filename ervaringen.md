@@ -7,6 +7,15 @@ meta:
 title: Ervaringen van deelnemers aan stilteretraite.nl
 layout: testimonials
 testimonials:
+  - title: Re-treat je Hart april 2026
+    subtitle: Een prachtig cadeau
+    text: |-
+      De 5-daagse stilte retraite van Robbert in Coingt was een prachtig cadeau aan mijzelf! Op dag 2 merkte ik dat ik begon te vertragen, meer begon waar te nemen en mijn zintuigen meer gingen ervaren. De prachtige locatie in de Franse natuur droeg enorm bij aan het transformatieproces om uit mijn hoofd te komen en meer in mijn lijf te zakken. Ik voelde mijn hart weer en kon haar fluistering steeds beter horen en voelen. 
+
+      Gaandeweg begon ik mijn bedding meer te creëren, ontstonden er inzichten en werd helderder welke richting mijn pad gaat. Ook al was dit concreet nog niet helder, het gevoel was aanwezig. Ik voelde me meer verbonden met de natuur, het hele universum, en de mensen. In mij ontdekte ik een veilige mooie plek waar veel licht en blijdschap huist. 
+
+      Deze plek had ik lang niet meer gevoeld en hier kan ik altijd naar terug. Door de stilte, de oefeningen die werden aangeboden, en de veilige setting ontvouwde dit proces zich helemaal vanzelf. Vredig ZIJN in het moment!"
+    participant: FvG
   - title: Ontdekken van hartsverlangen
     subtitle: Herbronnen in de Rif, Marokko, oktober 2025
     text: |-
@@ -26,11 +35,11 @@ testimonials:
       De begeleiding van Robbert en Bouchra hebben mij de basis gegeven om alles aan te gaan, hoe ‘gek’ een oefening ook lijkt. Ik ben hen enorm dankbaar dat zij het mogelijk hebben gemaakt dat ik mijzelf dit cadeau heb kunnen geven.
     participant: Barbara
   - title: Verbondenheid met het geheel
-    subtitle: Re-treat je Heart maart 2025
+    subtitle: Re-treat je Hart maart 2025
     text: 'De ervaring bij de stilte-retraite laat zich moeilijk in woorden vangen. Als ik toch een poging doe, zou ik het als volgt willen beschrijven: Door de stilte-retraite heb ik de stilte in mezelf op een dieper niveau mogen ervaren, daardoor ontstond er een intense verbondenheid met het geheel: als het ware opgaan in het Universum. Vervolgens zijn er gevoelens van bevrijding, dankbaarheid, diepe rust en helderheid ontstaan.'
     participant: X (arts)
   - title: Mini 'verhaaltjes'
-    subtitle: Re-treat je Heart maart 2025
+    subtitle: Re-treat je Hart maart 2025
     text: |-
       Naar huis rijden heb ik ervaren als een reis van lang weg geweest. Van heel langzaam van het terrein afrijden, iets harder in de wijk, nog iets harder net daar buiten en uiteindelijk de snelheid van de snelweg. Ook daar weer voor het eerst muziek aan. Alles voelde als nieuw en alsof ik zomaar paste in het ritme van alles om me heen. 
 
@@ -38,7 +47,7 @@ testimonials:
       Ik wil je danken voor deze mooie dagen.
     participant: Jeanine
   - title: BEN JE BEREID MET LEGE HANDEN TE STAAN?
-    subtitle: Re-treat je Heart maart 2025
+    subtitle: Re-treat je Hart maart 2025
     text: |-
       Een adelaar had ik meegenomen als symbool voor de retraite die mij te wachten stond.
       Met een mooi verhaal over het ontzag dat ik voelde bij het zien van roofvogels,
@@ -85,7 +94,7 @@ testimonials:
       Durf je met lege handen te staan? Ja, ik was bereid.
     participant: Marion
   - title: DURF JE VOOR GEK TE STAAN?
-    subtitle: Re-treat je Heart maart 2025
+    subtitle: Re-treat je Hart maart 2025
     text: |-
       Haqqiqah werd mij aangereikt\
       ik nam de uitnodiging aan\
@@ -178,7 +187,7 @@ testimonials:
       en onveranderlijk blijft
     participant: Marion
   - title: Ruimte in mijn hart
-    subtitle: Re-treat je Heart nov 2024
+    subtitle: Re-treat je Hart nov 2024
     text: |-
       Ergens diep in mij voelde ik het verlangen naar stilte. De drukte van het leven, de drukte van het werk, het slokte me op. Ik was op zoek naar rust, naar iets wat ik niet kon omschrijven.  
 
@@ -189,11 +198,11 @@ testimonials:
       Nu, inmiddels 3 weken na de retraite, voel ik nog steeds de ruimte in mijn hart. En ja, de wereld draait door, het werk gaat door, het leven gooit van alles op mijn bord. Alles is hetzelfde en toch is alles anders. Ik ben dankbaar voor deze retraite, voor deze reis, voor het thuiskomen in mijn hart.
     participant: Yvonne
   - title: Vosje
-    subtitle: Re-treat je Heart nov 2024
+    subtitle: Re-treat je Hart nov 2024
     text: Ik heb de stilte retraite (een cadeau aan mezelf) als een bijzondere reis ervaren waarbij er alle ruimte is om de dingen te doen die je voor jezelf nodig hebt. Het heeft mij goed gedaan, je moet het zelf ervaren. Tijdens de retraite kwam voor mij de omslag bij het moment dat ik 's avonds een vosje zag voor de deur, tijdens de meditatie daarna ervaarde ik een totale stilte (geen gedachten in mijn hoofd). Dit was voor mij een hele aparte ervaring.
     participant: P. (Accountant)
   - title: De taal van de stilte
-    subtitle: Re-treat je Heart nov 2024
+    subtitle: Re-treat je Hart nov 2024
     text: |-
       De taal van de stilte heeft me gegrepen en leeft nog voelbaar bij me. Het lijkt wel liefde op het eerste (of tweede 😉) gezicht. In vrijheid verbonden, jaren gezocht in partners en daar is ie dan 😊. Dat had ik vooraf niet verwacht trouwens. \
 
