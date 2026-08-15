@@ -6,7 +6,7 @@ meta:
   author: Robbert van Bruggen
 title: Vakantie als halfbakken retraite
 banner_image: /uploads/shutterstock_1390447976.jpg
-lead_text: Waarom is vakantie niet meer dan een heel oppervlakkige retraite? Ongeacht de vorm van vakantie die we kiezen? Omdat we in al die verschillende vormen in essentie precies hetzelfde blijven doen, in een voor ons begrip wat trager ritme waarbij we denken vrij te zijn van de agenda van het ‘moeten’.
+lead_text: .
 date: 2026-08-12
 tags:
   - '#stilteretraite, #stilte, #retraite, #bezinning'
@@ -15,6 +15,8 @@ categories: []
 related_posts: []
 layout: post
 ---
+
+Waarom is vakantie niet meer dan een heel oppervlakkige retraite? Ongeacht de vorm van vakantie die we kiezen? Omdat we in al die verschillende vormen in essentie precies hetzelfde blijven doen, in een voor ons begrip wat trager ritme waarbij we denken vrij te zijn van de agenda van het ‘moeten’.
 
 Dat is een illusie waar we geld voor over hebben; een vrij & blij speelkwartier! Echter: we blijven doen; plannen; uitzoeken; geluk nastreven in actie; door andere vermaakt worden; meemaken; de innerlijke werelden van boeken die we willen lezen; in alles dat we willen zien, willen horen of wat we willen voelen.
 
