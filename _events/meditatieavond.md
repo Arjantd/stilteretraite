@@ -19,4 +19,4 @@ layout: event
 
 Neem voor meer informatie op met Robbert van Bruggen:
 robbert@stilteretraite.nl 
-+31 6 24678735
++31624678735
