@@ -4,7 +4,7 @@ meta:
   keywords: Meditatieavond
   description: Meditatieavond
   author: Robbert van Bruggen
-title: Meditatieavond
+title: Maandelijkse meditatieavond
 image: /uploads/20260430_203456.jpg
 lead_text: Maandelijkse meditatieavond
 location: _locations/coingt-aisne-frankrijk.md
