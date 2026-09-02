@@ -4,8 +4,8 @@ meta:
   keywords: stilteretraite in Noord-Frankrijk september 2026
   description: stilteretraite in Noord-Frankrijk september 2026
   author: Robbert van Bruggen
-title: Retreat je Hart! Coingt, Frankrijk
-image: /uploads/20260430_203457.jpg
+title: Re-treat je Hart! Coingt, Frankrijk
+image: /uploads/20260502_081612.jpg
 lead_text: |-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en rondom:
 
