@@ -6,7 +6,7 @@ meta:
   author: Robber van Bruggen
 title: Zikr van Liefde
 image: /uploads/1.jpg
-lead_text: Een ‘Zikr van Liefde’ is een mystieke oefening uit het Soefisme. Deze vierdaagse (grotendeels) stilte-retraite zoomt via meditatie en mystieke oefening diep in op Liefde (wat is het?) en het ontwaken in het levend Hart, zonder zweverig of ‘airy fairy ‘te worden. Zelf-onderzoek naar onze beperkende overtuigingen en vastgezette ervaringen staan centraal om via die weg meer vertrouwen te vinden en de vele verschillende gezichten van Liefde te herkennen en te verwelkomen.
+lead_text: Een ‘Zikr van Liefde’ is een mystieke oefening uit het Soefisme. Deze vierdaagse (grotendeels) stilte-retraite zoomt via meditatie en mystieke oefening diep in op Liefde (wat is het?) en het ontwaken in het levend Hart, zonder zweverig of ‘airy fairy' te worden. Zelfonderzoek naar onze beperkende overtuigingen en vastgezette ervaringen staan centraal om via die weg meer vertrouwen te vinden en de vele verschillende gezichten van Liefde te herkennen en te verwelkomen.
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2027-01-07
 to_date: 2027-01-10
