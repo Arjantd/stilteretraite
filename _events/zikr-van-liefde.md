@@ -1,7 +1,7 @@
 ---
 meta:
   title: Zikr van Liefde
-  keywords: Zikr van Liefde retraite en meditatie sooefisme
+  keywords: Zikr van Liefde retraite en meditatie soefisme
   description: Deze vierdaagse (grotendeels) stilte-retraite zoomt via meditatie en mystieke oefening diep in op Liefde (wat is het?) en het ontwaken in het levend Hart, zonder zweverig of ‘airy fairy ‘te worden.
   author: Robber van Bruggen
 title: Zikr van Liefde
