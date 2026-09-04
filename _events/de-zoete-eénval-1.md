@@ -27,7 +27,7 @@ Kleine Spiegels spiegelen elkaar en vergroten het licht van het gedeeld menselij
 
 De Zoete Eénval betreden betekent:
 
-\* Dat je welkom bent om 1 dag , een paar dagen, of zelfs langer langs te komen. Wel of niet inclusief de jaarwisseling.
+\* Dat je welkom bent om 1 dag, een paar dagen, of zelfs langer langs te komen. Wel of niet inclusief de jaarwisseling.
 
 \* Dat je automatisch deel bent van de crew wat inhoudt dat je zowel verantwoordelijk bent voor jezelf ALS voor het geheel. We ondersteunen elkaar zo dat iedereen zich op z’n gemak kan voelen.
 
