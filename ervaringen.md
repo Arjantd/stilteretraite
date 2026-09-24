@@ -7,6 +7,33 @@ meta:
 title: Ervaringen van deelnemers aan stilteretraite.nl
 layout: testimonials
 testimonials:
+  - title: Re-treat je Hart september 2026
+    subtitle: Wat een prachtige reis
+    text: |-
+      Wow, wat een prachtige reis heb ik mogen maken in de stilte. Hoe mooi dat juist de structuur die Robbert je biedt in de stilte, het pad ( de weg ) is naar je inzichten. Een fijne bedding waarmee hij je begeleidt.
+
+      Wat een rust en wijsheid heeft deze man. Hij biedt je alle mogelijkheden om thuis te komen bij jezelf. En dat alles mag je ook nog doen op een prachtige plek, in een prachtige groene omgeving.\
+
+      Wat voor mij ook nog een extra dimensie aan deze retraite gaf… Scout, de lieve viervoeter, die geruisloos aanwezig is.
+
+      Vijf jaar geleden maakte ik mijn eerste reis in STILTE bij Robbert, toen nog in Nederland. Ik vond het toen al een openbaring wat een stilte retraite met je kan doen.
+
+      Het laatste jaar kreeg ik steeds meer het gevoel: ik wil weer eens een stilte retraite gaan doen. Oeps, Robbert zit nu in Frankrijk. In eerste instantie had mijn hoofd bedacht dat dit toch wel ver rijden was. Toch bleef mijn innerlijke stem aangeven dat ik naar Robbert wilde.
+
+      De zuiverheid, de rust en de transparantie waarmee Robbert begeleidt, zijn van een hoog niveau. Daarom wilde ik de retraite zeker weer bij hem doen.
+
+      De reis ernaartoe was al prachtig. De locatie is niet alleen heel mooi, maar voelt ook heel fijn. Het heerlijke eten en drinken, dat helemaal verzorgd wordt, was ook zo genieten.
+
+      De oefeningen die Robbert heeft verwerkt om in je stilte te komen, zijn ook zo wonderlijk.
+
+      Wat ik nu, na deze stilte retraite, weer kan zeggen, dankbaar voor de inzichten.
+
+      Wat was het een prachtige reis.
+
+      Schoonheid
+
+      Dankjewel Robbert 🤍
+    participant: Conny
   - title: Re-treat je Hart april 2026
     subtitle: Een prachtig cadeau
     text: |-
@@ -5120,7 +5147,7 @@ testimonials:
 image: /uploads/banner A.jpg
 menu:
   navigation:
-    weight: 7
-    parent: _stilte_retraite
     identifier: _ervaringen
+    parent: _stilte_retraite
+    weight: 7
 ---
