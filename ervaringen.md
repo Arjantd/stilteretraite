@@ -7,8 +7,8 @@ meta:
 title: Ervaringen van deelnemers aan stilteretraite.nl
 layout: testimonials
 testimonials:
-  - title: Re-treat je Hart september 2026
-    subtitle: Wat een prachtige reis
+  - title: Wat een prachtige reis
+    subtitle: Re-treat je Hart september 2026
     text: |-
       Wow, wat een prachtige reis heb ik mogen maken in de stilte. Hoe mooi dat juist de structuur die Robbert je biedt in de stilte, het pad ( de weg ) is naar je inzichten. Een fijne bedding waarmee hij je begeleidt.
 
