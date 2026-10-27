@@ -5,7 +5,7 @@ meta:
   description: Stilteretraite in Noord-Frankrijk
   author: Robbert van Bruggen
 title: Re-treat je Hart! Coingt, Frankrijk
-image: /uploads/5daagse.jpg
+image: /uploads/Vroege herfst bij het huis.png
 lead_text: |-
   Een vijfdaagse stilte-retraite (max. 8 deelnemers) waarin je je, geleid door een gestructureerd dagprogramma, volledig onderdompelt in de stilte in en rondom:
 
