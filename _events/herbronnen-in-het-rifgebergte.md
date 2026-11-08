@@ -4,14 +4,14 @@ meta:
   keywords: Stilteretraite Marokko Rifgebergte Robbert
   description: 'Stilteretraite Al Hoceima 2026: 6 dagen stilte in het Rifgebergte, Nationaal Park Al Hoceima. Meditatie, natuur, wandelingen en volledige verzorging.'
   author: Robbert van Bruggen
-title: Herbronnen in het Rifgebergte
+title: Herbronnen in het Rifgebergte 2027
 image: /uploads/12.JPG
-lead_text: Na een succesvolle eerste retraite in de rif afgelopen oktober 2025 organiseren we in 2026 opnieuw een 6-daagse stilteretraite in Al Hoceima (Marokko) - inclusief een aankomstdag- in een totaal 7-daags volledig verzorgd verblijf van zaterdag 17 oktober tot zaterdag 24 oktober 2026.
+lead_text: Na twee succesvolle retraites in de Rif organiseren we in maart 2027 opnieuw een stilteretraite in Al Hoceima (Marokko). Het is inclusief een aankomstdag een 7-daags volledig verzorgd verblijf van donderdag 25 maart tot donderdag 1 april 2027.
 location: _locations/marokko.md
-from_date: 2026-10-17
+from_date: 2027-04-01
 to_date: 2026-10-24
 length_of_time: 7 dagen
-price: 1050
+price: 1299
 attendees: 10
 category: 7-days
 layout: event
@@ -27,9 +27,9 @@ _‘De stilte retraite in Marokko is voor mij een levensreis geweest. Het is zo�
 
 In deze stilte-retraite zal gebruik gemaakt worden van meditaties en oefeningen uit het Soefisme en andere mystieke tradities. Zeer uitzonderlijk is de toestemming om voor speciale meditaties (Zikr) gebruik te maken van een nabijgelegen Amrabed El Hassouni (Heilige plek).
 
-Aankomst op zaterdag 17 oktober waarop je kunt installeren, en waarin we bij het diner op een culturele wijze welkom worden geheten.
+Aankomst op donderdag 25 maart waarop je kunt installeren, en waarin we bij het diner op een culturele wijze welkom worden geheten.
 
-De stilte-retraite vangt op zondag 18 oktober na de lunch aan en eindigt op vrijdagmiddag 23 oktober. Zaterdag 24 oktober is de vertrekdag.
+De stilte-retraite vangt op vrijdag 26 maart na de lunch aan en eindigt op donderdagmiddag 1 april. Vrijdag 2 april is de vertrekdag.
 
 #### **Begeleiding**
 
@@ -39,15 +39,15 @@ _‘De natuur heeft mij als het ware uitgedaagd het met mezelf aan te gaan en ik
 
 #### **Webinars**
 
-We kunnen ons voorstellen dat je voor je je aanmeldt eerst nadere informatie wil en je vragen wilt stellen. Hiervoor hebben we drie webinars gepland, waarvoor je je vooraf kunt opgeven:
+We kunnen ons voorstellen dat je voor je je aanmeldt eerst nadere informatie wil en je vragen wilt stellen. Hiervoor plannen we drie webinars waarvan de data nog bekend worden gemaakt.
 
-Donderdagavond _12 maart_, dinsdagavond  12 mei en dinsdag _30 juni_ 2026 - allen om 20:00 uur. Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept.
+Die zijn uiteraard geheel vrijblijvend, je kunt zelf daarna overwegen of deze retraite jou roept.
 
 #### **Na aanmelding**
 
 Er is plek voor maximaal 10 deelnemers, dus wacht niet te lang. Na aanmelding ontvang je een welkomstbrief met alle praktische informatie,
 
-De kosten voor de retraite bedragen € 1.250,00 incl. 21% btw p.p. op basis van een eigen kamer en € 1.050,00 op basis van een gedeelde tweepersoonskamer. De prijs is inclusief eenvoudig verblijf met alle authentieke biologische (vegetarische) maaltijden van de streek, koffie en thee inbegrepen. De kosten zijn _exclusief_ de reis. Je vliegt op eigen gelegenheid naar Vliegveld Alhocima en neemt vanaf het vliegveld een taxi (een rit van ca. 30 minuten) naar de locatie van ons verblijf. Vanaf Rotterdam zijn er rechtstreekse vluchten naar Al Hoceima met Transavia, je kunt ook vliegen vanuit Eindhoven of via België of Duitsland.
+De kosten voor de retraite bedragen € 1.299,00 incl. 21% btw p.p. op basis van een eigen kamer en € 1.099,00 op basis van een gedeelde tweepersoonskamer. De prijs is inclusief eenvoudig verblijf met alle authentieke biologische (vegetarische) maaltijden van de streek, koffie en thee inbegrepen. De kosten zijn _exclusief_ de reis. Je vliegt op eigen gelegenheid naar Vliegveld Alhocima en neemt vanaf het vliegveld een taxi (een rit van ca. 30 minuten) naar de locatie van ons verblijf. Vanaf Rotterdam zijn er rechtstreekse vluchten naar Al Hoceima met Transavia, je kunt ook vliegen vanuit Eindhoven of via België of Duitsland.
 
 Als je minder vanuit je je hoofd maar meer vanuit je lijf en je Hart wil leven & werken, kom dan een week Herbronnen in de Bergen van de Rif!
 
