@@ -8,8 +8,8 @@ title: Herbronnen in het Rifgebergte 2027
 image: /uploads/12.JPG
 lead_text: Na twee succesvolle retraites in de Rif organiseren we in maart 2027 opnieuw een stilteretraite in Al Hoceima (Marokko). Het is inclusief een aankomstdag een 7-daags volledig verzorgd verblijf van donderdag 25 maart tot donderdag 1 april 2027.
 location: _locations/marokko.md
-from_date: 2027-04-01
-to_date: 2026-10-24
+from_date: 2027-03-25
+to_date: 2026-04-01
 length_of_time: 7 dagen
 price: 1299
 attendees: 10
