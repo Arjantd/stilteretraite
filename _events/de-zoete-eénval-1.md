@@ -6,7 +6,7 @@ meta:
   author: Robbert van Bruggen
 title: De Zoete Eénval
 image: /uploads/winter coingt.jpg
-lead_text: Geen zin om direct na de Kerstdagen de dagen door te brengen op een woonboulevard of in winkels die al begonnen zijn met ‘de grote uitverkoop’ ? Geldt hetzelfde eigenlijk ook voor de jaarwisseling bij de buis met weer een ‘bijna leuke’ conference? Zoek je liever stilte en samenzijn zonder vlinderstrik of andere opsmuk met een handvol zielsverwanten?
+lead_text: Geen zin om direct na de kerstdagen de dagen door te brengen op een woonboulevard of in winkels die al begonnen zijn met ‘de grote uitverkoop’ ? Geldt hetzelfde eigenlijk ook voor de jaarwisseling bij de buis met weer een ‘bijna leuke’ conference? Zoek je liever stilte en samenzijn zonder vlinderstrik of andere opsmuk met een handvol zielsverwanten?
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-12-28
 to_date: 2027-01-02
