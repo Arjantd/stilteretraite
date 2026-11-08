@@ -5,7 +5,7 @@ meta:
   description: Maandelijkse meditatieavond in Coingt, Frankrijk
   author: Robbert van Bruggen
 title: Maandelijkse meditatieavond
-image: /uploads/20260430_203456.jpg
+image: /uploads/image9.jpeg
 lead_text: Maandelijkse meditatieavond
 location: _locations/coingt-aisne-frankrijk.md
 from_date: 2026-11-12
