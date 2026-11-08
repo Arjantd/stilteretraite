@@ -14,7 +14,7 @@ location: _locations/coingt-aisne-frankrijk.md
 from_date: 2027-03-10
 to_date: 2027-03-14
 length_of_time: 5 dagen
-price: 645
+price: 745
 attendees: 8
 category: 5-days
 layout: event
@@ -40,7 +40,7 @@ Wees je ervan bewust dat je de keus maakt een intieme reis met jezelf aan te gaa
 * Einde retraite: zondag 14 maart 2027 om 14.00 uur
 * Locatie: 23 Grande Rue, 02360 Coingt.
 * Kom je met het OV, reis dan met de trein naar het Belgische Couvin, waar we je ophalen.
-* Kosten: 745 euro voor een eigen kamer, 645 voor kleine slaapzaal (4 pers), eigen camper of tent.
+* Kosten: 845 euro voor een eigen kamer, 745 voor kleine slaapzaal (4 pers), eigen camper of tent.
 * Prijs is inclusief verblijf, alle vegetarische maaltijden en de retraite-begeleiding.
 * Informatie: Robbert van Bruggen
 * Per email: gebruik het contactformulier op deze website
