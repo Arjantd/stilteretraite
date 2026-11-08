@@ -1,0 +1,22 @@
+---
+meta:
+  title: Meditatieavond
+  keywords: Meditatieavond
+  description: Maandelijkse meditatieavond in Coingt, Frankrijk
+  author: Robbert van Bruggen
+title: Maandelijkse meditatieavond
+image: /uploads/20260430_203456.jpg
+lead_text: Maandelijkse meditatieavond
+location: _locations/coingt-aisne-frankrijk.md
+from_date: 2026-12-10
+to_date: 2026-12-10
+length_of_time: 1 avond
+price: 1
+attendees: 10
+category: 1-day
+layout: event
+---
+
+Een vrijwillige bijdrage wordt gewaardeerd. Neem voor meer informatie op met Robbert van Bruggen:
+robbert@stilteretraite.nl 
++31624678735
