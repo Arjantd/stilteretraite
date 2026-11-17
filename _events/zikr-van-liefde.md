@@ -11,7 +11,7 @@ location: _locations/coingt-aisne-frankrijk.md
 from_date: 2027-01-07
 to_date: 2027-01-10
 length_of_time: 4 dagen
-price: 575
+price: 645
 attendees: 8
 category: 4-days
 layout: event
